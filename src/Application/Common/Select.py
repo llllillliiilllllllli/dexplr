@@ -1,6 +1,5 @@
 from typing import Any, List, Tuple
 from Styles import Color 
-import re 
 
 def inquire_selection(options: List[Tuple[str, str]]) -> Tuple[Any, Any]:
 

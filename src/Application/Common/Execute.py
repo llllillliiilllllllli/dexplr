@@ -1,7 +1,4 @@
 from typing import Any, Tuple
-import sys
-import inspect
-from Styles import Color 
 from Utils import Log
 
 def execute(selection: Tuple[Any, Any]) -> None:
