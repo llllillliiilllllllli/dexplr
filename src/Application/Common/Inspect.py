@@ -12,5 +12,5 @@ def inspect_features(*args, **kwargs) -> List[Tuple[Any, Any]]:
             for _, cls in inspect.getmembers(mdl, inspect.isclass):
                 for _, funct in inspect.getmembers(cls, inspect.isfunction):
                     features.append((cls, funct))
-                
+    
     return features

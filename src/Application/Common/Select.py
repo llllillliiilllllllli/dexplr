@@ -1,8 +1,10 @@
 from typing import Any, List, Tuple
 from Styles import Color 
+from Utils import Log 
 
 def inquire_selection(options: List[Tuple[str, str]]) -> Tuple[Any, Any]:
-
+    """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
     commandline = input(f"{Color.Green}\u276f{Color.Reset} Commandline: ")
 
     if commandline != "":
@@ -15,7 +17,7 @@ def inquire_selection(options: List[Tuple[str, str]]) -> Tuple[Any, Any]:
                     if funct.__name__ == action:
                         return (cls, funct) 
         except:
-            print(f"ERROR: incorrect commandline {commandline}")
+            Log.error(f"Incorrect commandline {commandline}")
 
     else: 
         print(f"\nSelect from options:")
@@ -27,4 +29,4 @@ def inquire_selection(options: List[Tuple[str, str]]) -> Tuple[Any, Any]:
         try:
             return options[int(selection)-1]
         except:
-           print(f"ERROR: inccorect selection {selection}")
+           Log.error(f"Inccorect selection {selection}")

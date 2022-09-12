@@ -1,4 +1,5 @@
 from datetime import datetime  
+import traceback
 
 from Config import *
 from Styles import UI
@@ -10,11 +11,13 @@ def main():
 
     UI.print_console() 
 
-    features = Inspect.inspect_features()
+    try: 
+        features = Inspect.inspect_features()
+        selection = Select.inquire_selection(features)
+        execution = Execute.execute(selection) 
 
-    selection = Select.inquire_selection(features)
-
-    execution = Execute.execute(selection) 
+    except Exception:
+        traceback.print_exc()
 
     selection = input("\nContinue (Y/N): ")
     if selection == "Y":
