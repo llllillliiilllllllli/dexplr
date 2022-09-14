@@ -1,5 +1,6 @@
 from datetime import datetime
 from bs4 import BeautifulSoup
+import os 
 
 class CrunchBase: 
 
@@ -217,6 +218,35 @@ class CrunchBase:
         NUM_ALUMNI_CSS
     ] 
 
+    header = ""
+    header = header + "Organization Name,Founded Date,Industries,Headquarters Location,Description,"
+    header = header + "CB Rank (Company),Headerquarters Regions,Diversity Spotlight (US Only),"
+    header = header + "Estimated Revenue Range,Operating Status,Exit Date,Closed Date,Company Type,"
+    header = header + "Website,Twitter,Facebook,LinkedIn,Contact Email,Phone Number,Number of Articles,"
+    header = header + "Hub Tags,Full Description,Actively Hiring,Investor Type,Investment Stage,"
+    header = header + "School Type, School Program,Number of Enrollments,School Method,"
+    header = header + "Number of Founders (Alumni),Industry Groups,Number of Founders,Founders,"
+    header = header + "Number of Employees,Number of Funding Rounds,Funding Status,"
+    header = header + "Last Funding Date,Last Funding Amount,Last Funding Type,"
+    header = header + "Last Equity Funding Amount,Last Equity Funding Type,Total Equity Funding Amount,"
+    header = header + "Total Funding Amount,Top Five Investors,Number of Lead Investors,"
+    header = header + "Number of Investors,Number of Acquisitions,Acquisition Status,Transaction Name,"
+    header = header + "Acquired by,Announced Date,Price,Acquisition Type,Acquisition Terms,"
+    header = header + "IPO Status,IPO Date,Delisted Date,Money Raised at IPO,Valuation at IPO,"
+    header = header + "Stock Symbol,Stock Exchange,Last Leadership Hiring Date,Last Layoff Mention Date,"
+    header = header + "Number of Events,CB Rank (Organization),CB Rank (School),"
+    header = header + "Trend Score (7 Days),Trend Score (30 Days),Trend Score (90 Days),Similar Companies,"
+    header = header + "Contact Job Departments,Number of Contacts,"
+    header = header + "Monthly Visits,Average Visits (6 Months),Monthly Visits Growth,Visit Duration,Visit Duration Growth,"
+    header = header + "Page Views / Visit,Page Views / Visit Growth,Bounce Rate,Bounce Rate Growth,"
+    header = header + "Global Traffic Rank,Monthly Rank Change (#),Monthly Rank Growth,"
+    header = header + "Active Tech Count,Number of Apps,Download Last 30 Days,Total Product Active,"
+    header = header + "Patents Granted,Trademarks Registered,Most Popular Patent Class,Most Popular Trademark Class,"
+    header = header + "IT Spend,Most Recent Valuation Range,Date of Most Recent Valuation,"
+    header = header + "Number of Portfolio Organizations,Number of Investment,Number of Lead Investments,"
+    header = header + "Number of Diversity Investments,Number of Exits,Number of Exits (IPO),"
+    header = header + "Accelerator Program Type,Accelerator Application Deadline,Accelerator Duration (in Weeks),"
+    header = header + "Number of Alumni"
 
     def extract() -> None: 
         print("Enter input file: ", end="")
@@ -227,48 +257,15 @@ class CrunchBase:
 
         with open(i_fil, mode="r", encoding="utf-8-sig") as file:
             paths = file.readlines()
-            paths = [path.strip() for path in paths]
-
-        header = ""
-        header = header + "Organization Name,Founded Date,Industries,Headquarters Location,Description,"
-        header = header + "CB Rank (Company),Headerquarters Regions,Diversity Spotlight (US Only),"
-        header = header + "Estimated Revenue Range,Operating Status,Exit Date,Closed Date,Company Type,"
-        header = header + "Website,Twitter,Facebook,LinkedIn,Contact Email,Phone Number,Number of Articles,"
-        header = header + "Hub Tags,Full Description,Actively Hiring,Investor Type,Investment Stage,"
-        header = header + "School Type, School Program,Number of Enrollments,School Method,"
-        header = header + "Number of Founders (Alumni),Industry Groups,Number of Founders,Founders,"
-        header = header + "Number of Employees,Number of Funding Rounds,Funding Status,"
-        header = header + "Last Funding Date,Last Funding Amount,Last Funding Type,"
-        header = header + "Last Equity Funding Amount,Last Equity Funding Type,Total Equity Funding Amount,"
-        header = header + "Total Funding Amount,Top Five Investors,Number of Lead Investors,"
-        header = header + "Number of Investors,Number of Acquisitions,Acquisition Status,Transaction Name,"
-        header = header + "Acquired by,Announced Date,Price,Acquisition Type,Acquisition Terms,"
-        header = header + "IPO Status,IPO Date,Delisted Date,Money Raised at IPO,Valuation at IPO,"
-        header = header + "Stock Symbol,Stock Exchange,Last Leadership Hiring Date,Last Layoff Mention Date,"
-        header = header + "Number of Events,CB Rank (Organization),CB Rank (School),"
-        header = header + "Trend Score (7 Days),Trend Score (30 Days),Trend Score (90 Days),Similar Companies,"
-        header = header + "Contact Job Departments,Number of Contacts,"
-        header = header + "Monthly Visits,Average Visits (6 Months),Monthly Visits Growth,Visit Duration,Visit Duration Growth,"
-        header = header + "Page Views / Visit,Page Views / Visit Growth,Bounce Rate,Bounce Rate Growth,"
-        header = header + "Global Traffic Rank,Monthly Rank Change (#),Monthly Rank Growth,"
-        header = header + "Active Tech Count,Number of Apps,Download Last 30 Days,Total Product Active,"
-        header = header + "Patents Granted,Trademarks Registered,Most Popular Patent Class,Most Popular Trademark Class,"
-        header = header + "IT Spend,Most Recent Valuation Range,Date of Most Recent Valuation,"
-        header = header + "Number of Portfolio Organizations,Number of Investment,Number of Lead Investments,"
-        header = header + "Number of Diversity Investments,Number of Exits,Number of Exits (IPO),"
-        header = header + "Accelerator Program Type,Accelerator Application Deadline,Accelerator Duration (in Weeks),"
-        header = header + "Number of Alumni"
-
-        dataframe = []
-        dataframe.append(header)
+            paths = [path.replace("\"", "").strip() for path in paths]
 
         for path in paths: 
-            print(path)
+            dataframe = []
+            dataframe.append(CrunchBase.header)
 
             with open(path, mode="r", encoding="utf-8-sig") as file:
                 html = file.read()
                 soup = BeautifulSoup(html, "lxml")
-
             
             for i in range(50):      
                 dataline = []      
@@ -306,9 +303,33 @@ class CrunchBase:
 
                 print(f"{dataline}", end="\n\n")
                 dataframe.append(",".join(dataline))
+ 
+            filename = f"{o_fol}\\Dataset @CrunchBaseCompanies #-------------- .csv"
+            with open(filename, mode="w", encoding="utf-8-sig") as file:
+                lines = [dataline + "\n" for dataline in dataframe]
+                file.writelines(lines)
 
-        timestamp = datetime.now().strftime("%Y%m%d%H%M%S")             
-        filename = f"{o_fol}\\Dataset @CrunchBaseCompanies #{timestamp}.csv"
-        with open(filename, mode="w", encoding="utf-8-sig") as file:
-            lines = [dataline + "\n" for dataline in dataframe]
-            file.writelines(lines)
+            timestamp = datetime.fromtimestamp(os.path.getctime(filename)).strftime("%Y%m%d%H%M%S")      
+            os.rename(filename, filename.replace("#--------------", timestamp))
+
+    def join_dataset():
+        print("Enter input file: ", end="")
+        i_fil = input().replace("\"", "")
+
+        print("Enter output file: ", end="")
+        o_fil = input().replace("\"", "")
+
+        with open(i_fil, mode="r", encoding="utf-8-sig") as file:
+            paths = file.readlines()
+            paths = [path.replace("\"", "").strip() for path in paths]
+
+        dataframe = []
+        dataframe.append(CrunchBase.header)
+        for path in paths: 
+            with open(path, mode="r", encoding="utf-8-sig") as file:
+                datalines = file.readlines()
+                for dataline in datalines:
+                    dataframe.append(dataline)
+            
+        with open(o_fil, mode="w", encoding="utf-8-sig") as file:
+            file.writelines(dataframe)
