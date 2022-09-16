@@ -1,0 +1,1 @@
+EP_XE_RATE = "https://www.xe.com/currencyconverter/convert/?Amount=1&From={src}&To={des}"

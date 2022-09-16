@@ -1,13 +1,18 @@
 from typing import Any, List
 from datetime import datetime
 import os
-import math 
+import re
 import requests
 
 from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd  
 import dateparser
+import matplotlib.pyplot as plt 
+
+from Application.Config.Endpoints import EP_XE_RATE
+from Application.Config.Paths import PATH_CURRENCY_CODES
+from Application.Config.Paths import PATH_CURRENCY_RATES
 
 class CrunchBase: 
 
@@ -368,13 +373,13 @@ class CrunchBase:
             if np.isnan(value):
                 return np.NaN
 
-        if type(value) == str:
+        if type(value) == str and value != "—":
             return dateparser.parse(value).strftime("%Y-%m-%d")
 
     def convert_currencies(value: Any, src: str = None, des: str = "USD") -> float:
-    
-        API_KEY = "a8f2f0f2c88c2bf356971ae2"
-        
+        currency_codes_df = pd.read_json(PATH_CURRENCY_CODES)
+        currency_rates_df = pd.read_json(PATH_CURRENCY_RATES)
+
         if src == None:      
             if type(value) == float:                
                 if np.isnan(value):
@@ -422,16 +427,36 @@ class CrunchBase:
                     src = "ZAR"
                     value = value.replace("ZAR", "")
 
-        API_EP = f"https://v6.exchangerate-api.com/v6/{API_KEY}/pair/{src}/{des}"
+        for index, symbol in currency_rates_df["From"].iteritems():            
+            if src == symbol and des == currency_rates_df["To"].iloc[index]:
+                rate = currency_rates_df["Rate"].iloc[index]
+                print(f"Exchange rate from {src} to {des}: {rate:.3f}")
+                return float(value) * currency_rates_df["Rate"].iloc[index] 
 
-        data = requests.get(API_EP).json()
-        print(data, end="\n\n")
+        return np.NaN
 
-        if data["result"] == "error":
-            return np.NaN
+    def update_exchange_rates() -> None:
+        currency_codes_df = pd.read_json(PATH_CURRENCY_CODES, encoding="utf-8-sig")
+        currency_rates_df = pd.DataFrame(columns=["Amount", "From", "To", "Rate"])
+        for _, code in currency_codes_df["Code"].iteritems():
+            src = code
+            des = "USD"
 
-        if data["result"] == "success":
-            return float(value) * data["conversion_rate"]
+            endpoint = EP_XE_RATE.replace("{src}", src).replace("{des}", des)
+            response = requests.get(endpoint)
+            soup = BeautifulSoup(response.text, "lxml")
+            element = soup.select_one("#__next > div:nth-child(2) > div.fluid-container__BaseFluidContainer-qoidzu-0.gJBOzk > section > div:nth-child(2) > div > main > form > div:nth-child(2) > div:nth-child(1) > p.result__BigRate-sc-1bsijpp-1.iGrAod")
+            ex_rate = float(element.text
+                .replace(" US Dollars", "")
+                .replace(" US Dollar", "").strip())                
+
+            print(f"Exchange rate from {src} to {des}: {ex_rate:.3f}")
+
+            currency_rates_df.loc[len(currency_rates_df.index)] = [1, src, des, ex_rate]
+
+        currency_rates_df.to_json(PATH_CURRENCY_RATES)
+
+        return None 
 
     def clean() -> None: 
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -474,9 +499,9 @@ class CrunchBase:
         df["Accelerator Duration (in Weeks)"] = pd.to_numeric(df["Accelerator Duration (in Weeks)"])
 
         ### 3    
-        df["Founded Date"] = df["Founded Date"]\
+        df["Founded Year"] = df["Founded Year"]\
             .apply(CrunchBase.convert_datetimes)
-        df["Founded Date"] = df["Founded Date"]\
+        df["Founded Year"] = df["Founded Year"]\
             .apply(lambda x: f"{x}"[:4] if type(x) == str else np.NaN)
 
         df["CB Rank (Company)"] = df["CB Rank (Company)"]\
@@ -638,13 +663,22 @@ class CrunchBase:
             .apply(CrunchBase.convert_currencies)      
 
         ### 6
-        o_fil = f"{o_fol}\\Dataset @CrunchBaseCompanies #-------------- .csv"
-        df.to_csv(o_fil, index=False)
+        o_fil = f"{o_fol}\\Dataset @1000CrunchBaseCompanies #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
         timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
         os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
 
         return None
+
+    def is_text(series: pd.Series) -> bool:
+        return str(series.dtype) == "string"
+
+    def is_numeric(series: pd.Series) -> bool:
+        return str(series.dtype) == "Int64" or str(series.dtype) == "Float64"
+
+    def is_datetime(series: pd.Series) -> bool:
+        return str(series.dtype) == "DateTime64"
 
     ### Data Analysis
 
@@ -652,9 +686,12 @@ class CrunchBase:
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         Describe companies dataset collected from CrunchBase
         >>> param: None # no param required 
-        >>> funct: 0    # show general information about dataset
-        >>> funct: 1    # show detailed data records in dataset
-        >>> funct: 2    # describe key stats of numeric fields
+        >>> funct: 0    # read data from comma-delimited file
+        >>> funct: 1    # convert data into the right types
+        >>> funct: 2    # show general information about dataset
+        >>> funct: 3    # show detailed data records in dataset
+        >>> funct: 4    # describe key stats of numeric fields
+        >>> funct: 5    # visualize univariate data with histograms
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         ### 0
         print("Enter input file: ", end="")
@@ -662,11 +699,13 @@ class CrunchBase:
 
         try:
             df = pd.read_csv(i_fil)
-            df.dropna(how="all", axis=0)
         except:
             raise Exception("cannot read data from file")  
 
         ### 1
+        df = df.convert_dtypes()
+
+        ### 2
         print("\nGENERAL INFORMATION: Top 1000 Most Innovative Companies on CrunchBase")
         print("=" * os.get_terminal_size().columns)
         
@@ -679,19 +718,40 @@ class CrunchBase:
             print(f"{field:<35}:{dtype}")
         print(end="\n\n")
 
-        ### 4
+        ### 3
         print("\nDETAILED TABLE: Top 1000 Most Innovative Companies on CrunchBase")
         print("=" * os.get_terminal_size().columns)
         print(df, end="\n\n")
 
-        ### 5
+        ### 4
         print("\nDESCRIPTIVE STATS: Top 1000 Most Innovative Companies on CrunchBase")
         print("=" * os.get_terminal_size().columns)
+        pd.set_option("display.precision", 3)
 
         desriptions = df.describe()
-        for _, series in desriptions.items():
-            if series.loc["count"] != 0:          
-                pd.set_option("display.precision", 3)
-                print(f"{series.name}:\n{series}", end="\n\n")
-        
+        for label, stats in desriptions.items():
+            if stats.loc["count"] != 0:  
+                skew = stats.skew()
+                kurt = stats.kurtosis()
+                skew_kurt_stats = pd.Series(data={"skewness": skew, "kurtosis": kurt})
+                stats = pd.concat([stats, skew_kurt_stats])        
+                print(f"{label}:\n{stats}", end="\n\n")   
+
+                try:
+                    series = pd.Series(df[label])
+                    if CrunchBase.is_numeric(series) == True:
+                        IQR = stats["75%"] - stats["25%"]
+                        if IQR == 0: continue
+                        diff_range = stats["max"] - stats["min"]
+                        bin_width = 2 * IQR / pow(series.count(), 1/3) 
+                        num_bins = int(diff_range / bin_width)
+                        series.hist(bins=num_bins) 
+                        plt.title(label)
+                        plt.show()       
+                except:
+                    print(f"ERROR: Cannot plot {label}")
+
         return None 
+
+    def analyze_organization_names() -> None:
+        return 
