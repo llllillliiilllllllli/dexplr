@@ -1,18 +1,19 @@
 from typing import Any, List
 from datetime import datetime
 import os
-import re
-import requests
 
-from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd  
+import requests
 import dateparser
 import matplotlib.pyplot as plt 
+from bs4 import BeautifulSoup
 
 from Application.Config.Endpoints import EP_XE_RATE
 from Application.Config.Paths import PATH_CURRENCY_CODES
 from Application.Config.Paths import PATH_CURRENCY_RATES
+from Micros.DataValidation import *
+from Micros.DataValidation.Validation import is_numeric
 
 class CrunchBase: 
 
@@ -269,7 +270,7 @@ class CrunchBase:
 
         return header
 
-    def extract_companies() -> None: 
+    def extract_datapoints() -> None: 
         print("Enter input file: ", end="")
         i_fil = input().replace("\"", "")
 
@@ -337,28 +338,6 @@ class CrunchBase:
             os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
 
         return None
-
-    def join_datasets():
-        print("Enter input file: ", end="")
-        i_fil = input().replace("\"", "")
-
-        print("Enter output file: ", end="")
-        o_fil = input().replace("\"", "")
-
-        with open(i_fil, mode="r", encoding="utf-8-sig") as file:
-            paths = file.readlines()
-            paths = [path.replace("\"", "").strip() for path in paths]
-
-        dataframe = []
-        dataframe.append(CrunchBase.header)
-        for path in paths: 
-            with open(path, mode="r", encoding="utf-8-sig") as file:
-                datalines = file.readlines()
-                for dataline in datalines:
-                    dataframe.append(dataline)
-            
-        with open(o_fil, mode="w", encoding="utf-8-sig") as file:
-            file.writelines(dataframe)
 
     ### Data Preprocessing
 
@@ -458,7 +437,7 @@ class CrunchBase:
 
         return None 
 
-    def clean() -> None: 
+    def clean_dataset() -> None: 
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         Clean companies dataset collected from CrunchBase
         >>> param: None # no param required 
@@ -662,6 +641,13 @@ class CrunchBase:
         df["Valuation at IPO"] = df["Valuation at IPO"]\
             .apply(CrunchBase.convert_currencies)      
 
+        df["Estimated Revenue Range"] = df["Estimated Revenue Range"]\
+            .apply(lambda x: x.replace("$", "").replace("M", 6*"0").replace("B", 9*"0").strip() if type(x)==str else np.NaN)
+        df["Estimated Revenue Range"] = df["Estimated Revenue Range"]\
+            .apply(lambda x: x.replace("+", " to inf") if type(x)==str else np.NaN)
+        df["Estimated Revenue Range"] = df["Estimated Revenue Range"]\
+            .apply(lambda x: x.split(" to ") if type(x)==str else np.NaN)
+
         ### 6
         o_fil = f"{o_fol}\\Dataset @1000CrunchBaseCompanies #-------------- .csv"
         df.to_csv(o_fil, index=False, encoding="utf-8-sig")
@@ -671,18 +657,31 @@ class CrunchBase:
 
         return None
 
-    def is_text(series: pd.Series) -> bool:
-        return str(series.dtype) == "string"
+    def join_datasets():
+        print("Enter input file: ", end="")
+        i_fil = input().replace("\"", "")
 
-    def is_numeric(series: pd.Series) -> bool:
-        return str(series.dtype) == "Int64" or str(series.dtype) == "Float64"
+        print("Enter output file: ", end="")
+        o_fil = input().replace("\"", "")
 
-    def is_datetime(series: pd.Series) -> bool:
-        return str(series.dtype) == "DateTime64"
+        with open(i_fil, mode="r", encoding="utf-8-sig") as file:
+            paths = file.readlines()
+            paths = [path.replace("\"", "").strip() for path in paths]
 
-    ### Data Analysis
+        dataframe = []
+        dataframe.append(CrunchBase.header)
+        for path in paths: 
+            with open(path, mode="r", encoding="utf-8-sig") as file:
+                datalines = file.readlines()
+                for dataline in datalines:
+                    dataframe.append(dataline)
+            
+        with open(o_fil, mode="w", encoding="utf-8-sig") as file:
+            file.writelines(dataframe)
 
-    def describe() -> None:
+    ### Data Analytics
+
+    def describe_numeric_data() -> None:
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         Describe companies dataset collected from CrunchBase
         >>> param: None # no param required 
@@ -692,6 +691,8 @@ class CrunchBase:
         >>> funct: 3    # show detailed data records in dataset
         >>> funct: 4    # describe key stats of numeric fields
         >>> funct: 5    # visualize univariate data with histograms
+        >>> funct: 6    # visualize multivariate data with scatterplots
+        >>> funct: 7    # include correlation analysis for relevant pairs
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         ### 0
         print("Enter input file: ", end="")
@@ -709,13 +710,7 @@ class CrunchBase:
         print("\nGENERAL INFORMATION: Top 1000 Most Innovative Companies on CrunchBase")
         print("=" * os.get_terminal_size().columns)
         
-        print(df.index, end="\n\n")
-        print(df.columns, end="\n\n")
-        print(f"Size: {df.size}", end="\n\n")
-        print(f"Shape: {df.shape}", end="\n\n")
-        print(f"Data Types: ")
-        for field, dtype in df.dtypes.items():
-            print(f"{field:<35}:{dtype}")
+        df.info(verbose=True)
         print(end="\n\n")
 
         ### 3
@@ -724,34 +719,121 @@ class CrunchBase:
         print(df, end="\n\n")
 
         ### 4
+        selection = input("Show histograms [Y/N]: ")
+        print(end="\n\n")
+
         print("\nDESCRIPTIVE STATS: Top 1000 Most Innovative Companies on CrunchBase")
         print("=" * os.get_terminal_size().columns)
         pd.set_option("display.precision", 3)
 
-        desriptions = df.describe()
-        for label, stats in desriptions.items():
-            if stats.loc["count"] != 0:  
-                skew = stats.skew()
-                kurt = stats.kurtosis()
-                skew_kurt_stats = pd.Series(data={"skewness": skew, "kurtosis": kurt})
-                stats = pd.concat([stats, skew_kurt_stats])        
-                print(f"{label}:\n{stats}", end="\n\n")   
+        for label, series in df.iteritems():
+            if label in ["Monthly Visits", "Average Visits (6 Months)"]:
+                continue 
 
-                try:
-                    series = pd.Series(df[label])
-                    if CrunchBase.is_numeric(series) == True:
-                        IQR = stats["75%"] - stats["25%"]
-                        if IQR == 0: continue
-                        diff_range = stats["max"] - stats["min"]
-                        bin_width = 2 * IQR / pow(series.count(), 1/3) 
-                        num_bins = int(diff_range / bin_width)
-                        series.hist(bins=num_bins) 
-                        plt.title(label)
-                        plt.show()       
-                except:
-                    print(f"ERROR: Cannot plot {label}")
+            if series.count() != 0 and is_numeric(series) == True: 
+                stats = series.describe()
+                skew = series.skew()
+                kurt = series.kurtosis()
+                stats = pd.concat([stats, pd.Series(data={"skewness": skew, "kurtosis": kurt})])
+
+                print(f"{label}:\n{stats}", end="\n\n")  
+        ### 5
+                if selection == "Y":
+                    IQR = stats["75%"] - stats["25%"]
+                    if IQR == 0: continue
+                    diff_range = stats["max"] - stats["min"]
+                    bin_width = 2 * IQR / pow(series.count(), 1/3) 
+                    num_bins = int(diff_range / bin_width)
+                    series.hist(bins=num_bins) 
+                    plt.title(label)
+                    plt.show()
+        
+        ### 6
+        selection = input("Show scatter plots [Y/N]: ")
+        print(end="\n")
+
+        if selection == "Y":
+            labels = input("Enter data labels: ")
+            labels = [label.strip() for label in labels.split(",")]
+
+            collection = pd.DataFrame()
+            for label in labels:
+                collection = pd.concat([collection, df[label]], axis=1) 
+
+            try:    
+                pd.plotting.scatter_matrix(collection)
+                plt.show()     
+            except:
+                print(f"ERROR: Cannot plot scatter matrix for {', '.join(labels)}")     
 
         return None 
 
-    def analyze_organization_names() -> None:
-        return 
+    def describe_categorical_data() -> None:
+        # text analysis
+        # . Text Classification
+        # . Text Extraction
+        # . Word Frequency
+        # . Collocation
+        # . Concordance
+        # . Word Sense Disambiguation
+        # . Clustering
+        #
+        # natural language processing 
+        # . 
+        # . 
+        # . 
+        # . 
+        # . 
+        # . 
+        # . 
+        # E.g. best brand names are mesmerizing because 
+        # they are short, concise, easy to memorize and pronounce
+
+        pass 
+
+    def infer_field_1_based_on_features_1_2_3_using_technique_A() -> None:
+        
+        # Question 1: How did a startup succeed?  
+
+        # for analyzing numeric data fields
+        # for analyzing categorical data
+
+        # extract a subset containing crutial metrics:
+        # for marketing, finance, team, ...
+        # including ranks, revenues, fundings, founders, investors, investments
+        # price, valuation, money raised, 
+        # digital marketing stats: trend scores, visits, traffic, 
+        # tech stats: number of tech, products, patents, trademarks, IT spends
+        
+        # define key success factors: 
+        # attractiveness by the amount of investment
+        # profitability by the total return or 
+        # potential by return from investments
+        # ...  
+
+
+        # Question 2: Will a startup succeed?  
+
+        # find the model that best present the features
+        # use the model to predict the change of success
+        # ...
+
+
+        # Question 3: How did a startup fail?
+
+        # Reverse the conditions as mentioned above
+
+        pass 
+
+    def infer_field_2_based_on_features_a_b_c_using_technique_B() -> None:
+        pass 
+
+    def infer_field_3_based_on_features_x_y_z_using_technique_C() -> None:
+        pass 
+
+    # ...
+
+    # the project supports decisions on techs, startups, and invesments
+    # by providing insights about which factors contribute to fruitful companies
+    # to learn from the past about what make novel ideas become influential 
+    # to determine new ventures that are most probable to succeed 

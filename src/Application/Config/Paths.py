@@ -1,2 +1,2 @@
-PATH_CURRENCY_CODES = ".\\Assets\\Dataset @CurrencyCodes .json"
-PATH_CURRENCY_RATES = ".\\Assets\\Datason @CurrencyRates .json"
+PATH_CURRENCY_CODES = ".\\Settings\\Dataset @CurrencyCodes .json"
+PATH_CURRENCY_RATES = ".\\Settings\\Datason @CurrencyRates .json"
