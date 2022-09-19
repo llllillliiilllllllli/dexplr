@@ -1,23 +1,63 @@
 from typing import Any, List
 from datetime import datetime
-import os
+import os, re
+
+from bs4 import BeautifulSoup
+import requests
 
 import numpy as np
 import pandas as pd  
-import requests
-import dateparser
 import matplotlib.pyplot as plt 
-from bs4 import BeautifulSoup
 
-from Application.Config.Endpoints import EP_XE_RATE
-from Application.Config.Paths import PATH_CURRENCY_CODES
-from Application.Config.Paths import PATH_CURRENCY_RATES
-from Micros.DataValidation import *
-from Micros.DataValidation.Validation import is_numeric
+from Functions.DataAnalysis import Converter
+from Functions.DataAnalysis import TextAnalyser
+from Functions.DataAnalysis import NumberAnalyser
+from Functions.DataAnalysis import Validator
 
 class CrunchBase: 
 
+    companies: pd.DataFrame
+    contacts: pd.DataFrame
+    investors: pd.DataFrame
+    fundings: pd.DataFrame
+    acquisitions: pd.DataFrame
+    people: pd.DataFrame   
+    events: pd.DataFrame
+    schools: pd.DataFrame
+    hubs: pd.DataFrame 
+
     ### Data Collection
+
+    def config_header() -> str: 
+        header = ""
+        header = header + "Organization Name,Founded Date,Industries,Headquarters Location,Description,"
+        header = header + "CB Rank (Company),Headerquarters Regions,Diversity Spotlight (US Only),"
+        header = header + "Estimated Revenue Range,Operating Status,Exit Date,Closed Date,Company Type,"
+        header = header + "Website,Twitter,Facebook,LinkedIn,Contact Email,Phone Number,Number of Articles,"
+        header = header + "Hub Tags,Full Description,Actively Hiring,Investor Type,Investment Stage,"
+        header = header + "School Type, School Program,Number of Enrollments,School Method,"
+        header = header + "Number of Founders (Alumni),Industry Groups,Number of Founders,Founders,"
+        header = header + "Number of Employees,Number of Funding Rounds,Funding Status,"
+        header = header + "Last Funding Date,Last Funding Amount,Last Funding Type,"
+        header = header + "Last Equity Funding Amount,Last Equity Funding Type,Total Equity Funding Amount,"
+        header = header + "Total Funding Amount,Top Five Investors,Number of Lead Investors,"
+        header = header + "Number of Investors,Number of Acquisitions,Acquisition Status,Transaction Name,"
+        header = header + "Acquired by,Announced Date,Price,Acquisition Type,Acquisition Terms,"
+        header = header + "IPO Status,IPO Date,Delisted Date,Money Raised at IPO,Valuation at IPO,"
+        header = header + "Stock Symbol,Stock Exchange,Last Leadership Hiring Date,Last Layoff Mention Date,"
+        header = header + "Number of Events,CB Rank (Organization),CB Rank (School),"
+        header = header + "Trend Score (7 Days),Trend Score (30 Days),Trend Score (90 Days),Similar Companies,"
+        header = header + "Contact Job Departments,Number of Contacts,"
+        header = header + "Monthly Visits,Average Visits (6 Months),Monthly Visits Growth,Visit Duration,Visit Duration Growth,"
+        header = header + "Page Views / Visit,Page Views / Visit Growth,Bounce Rate,Bounce Rate Growth,"
+        header = header + "Global Traffic Rank,Monthly Rank Change (#),Monthly Rank Growth,"
+        header = header + "Active Tech Count,Number of Apps,Download Last 30 Days,Total Product Active,"
+        header = header + "Patents Granted,Trademarks Registered,Most Popular Patent Class,Most Popular Trademark Class,"
+        header = header + "IT Spend,Most Recent Valuation Range,Date of Most Recent Valuation,"
+        header = header + "Number of Portfolio Organizations,Number of Investment,Number of Lead Investments,"
+        header = header + "Number of Diversity Investments,Number of Exits,Number of Exits (IPO),"
+        header = header + "Accelerator Program Type,Accelerator Application Deadline,Accelerator Duration (in Weeks),"
+        header = header + "Number of Alumni, Number of Private Contacts, Number of Private Notes,Tags"
 
     def config_selectors() -> List[str]:
 
@@ -237,40 +277,11 @@ class CrunchBase:
 
         return css_selectors
 
-    def config_header() -> str: 
-        header = ""
-        header = header + "Organization Name,Founded Date,Industries,Headquarters Location,Description,"
-        header = header + "CB Rank (Company),Headerquarters Regions,Diversity Spotlight (US Only),"
-        header = header + "Estimated Revenue Range,Operating Status,Exit Date,Closed Date,Company Type,"
-        header = header + "Website,Twitter,Facebook,LinkedIn,Contact Email,Phone Number,Number of Articles,"
-        header = header + "Hub Tags,Full Description,Actively Hiring,Investor Type,Investment Stage,"
-        header = header + "School Type, School Program,Number of Enrollments,School Method,"
-        header = header + "Number of Founders (Alumni),Industry Groups,Number of Founders,Founders,"
-        header = header + "Number of Employees,Number of Funding Rounds,Funding Status,"
-        header = header + "Last Funding Date,Last Funding Amount,Last Funding Type,"
-        header = header + "Last Equity Funding Amount,Last Equity Funding Type,Total Equity Funding Amount,"
-        header = header + "Total Funding Amount,Top Five Investors,Number of Lead Investors,"
-        header = header + "Number of Investors,Number of Acquisitions,Acquisition Status,Transaction Name,"
-        header = header + "Acquired by,Announced Date,Price,Acquisition Type,Acquisition Terms,"
-        header = header + "IPO Status,IPO Date,Delisted Date,Money Raised at IPO,Valuation at IPO,"
-        header = header + "Stock Symbol,Stock Exchange,Last Leadership Hiring Date,Last Layoff Mention Date,"
-        header = header + "Number of Events,CB Rank (Organization),CB Rank (School),"
-        header = header + "Trend Score (7 Days),Trend Score (30 Days),Trend Score (90 Days),Similar Companies,"
-        header = header + "Contact Job Departments,Number of Contacts,"
-        header = header + "Monthly Visits,Average Visits (6 Months),Monthly Visits Growth,Visit Duration,Visit Duration Growth,"
-        header = header + "Page Views / Visit,Page Views / Visit Growth,Bounce Rate,Bounce Rate Growth,"
-        header = header + "Global Traffic Rank,Monthly Rank Change (#),Monthly Rank Growth,"
-        header = header + "Active Tech Count,Number of Apps,Download Last 30 Days,Total Product Active,"
-        header = header + "Patents Granted,Trademarks Registered,Most Popular Patent Class,Most Popular Trademark Class,"
-        header = header + "IT Spend,Most Recent Valuation Range,Date of Most Recent Valuation,"
-        header = header + "Number of Portfolio Organizations,Number of Investment,Number of Lead Investments,"
-        header = header + "Number of Diversity Investments,Number of Exits,Number of Exits (IPO),"
-        header = header + "Accelerator Program Type,Accelerator Application Deadline,Accelerator Duration (in Weeks),"
-        header = header + "Number of Alumni, Number of Private Contacts, Number of Private Notes,Tags"
+
 
         return header
 
-    def extract_datapoints() -> None: 
+    def collect_data() -> None: 
         print("Enter input file: ", end="")
         i_fil = input().replace("\"", "")
 
@@ -341,23 +352,7 @@ class CrunchBase:
 
     ### Data Preprocessing
 
-    def convert_strings() -> None:
-        return NotImplemented
-
-    def convert_numbers() -> None: 
-        return NotImplemented
-
-    def convert_datetimes(value: Any) -> None:  
-        if type(value) == float:
-            if np.isnan(value):
-                return np.NaN
-
-        if type(value) == str and value != "—":
-            return dateparser.parse(value).strftime("%Y-%m-%d")
-
     def convert_currencies(value: Any, src: str = None, des: str = "USD") -> float:
-        currency_codes_df = pd.read_json(PATH_CURRENCY_CODES)
-        currency_rates_df = pd.read_json(PATH_CURRENCY_RATES)
 
         if src == None:      
             if type(value) == float:                
@@ -365,7 +360,11 @@ class CrunchBase:
                     return np.NaN  
 
             if type(value) == str:   
-                if "$" in value and "A$" not in value and "CA$" not in value: 
+                if "$" in value \
+                    and "A$" not in value \
+                    and "CA$" not in value \
+                    and "NT$" not in value \
+                    and "R$" not in value:                   
                     src = "USD"
                     value = value.replace("$", "")
                     return float(value)
@@ -375,6 +374,12 @@ class CrunchBase:
                 if "CA$" in value: 
                     src = "CAD"
                     value = value.replace("CA$", "") 
+                if "NT$" in value: 
+                    src = "TWD"
+                    value = value.replace("NT$", "")                     
+                if "R$" in value: 
+                    src = "BRL"
+                    value = value.replace("R$", "") 
                 if "€" in value: 
                     src = "EUR"
                     value = value.replace("€", "")
@@ -406,38 +411,11 @@ class CrunchBase:
                     src = "ZAR"
                     value = value.replace("ZAR", "")
 
-        for index, symbol in currency_rates_df["From"].iteritems():            
-            if src == symbol and des == currency_rates_df["To"].iloc[index]:
-                rate = currency_rates_df["Rate"].iloc[index]
-                print(f"Exchange rate from {src} to {des}: {rate:.3f}")
-                return float(value) * currency_rates_df["Rate"].iloc[index] 
+        rate = Converter.convert_currencies(value, src, des)
+        print(f"Exchange rate from {src} to {des}: {rate:.3f}")
+        return float(value) * rate 
 
-        return np.NaN
-
-    def update_exchange_rates() -> None:
-        currency_codes_df = pd.read_json(PATH_CURRENCY_CODES, encoding="utf-8-sig")
-        currency_rates_df = pd.DataFrame(columns=["Amount", "From", "To", "Rate"])
-        for _, code in currency_codes_df["Code"].iteritems():
-            src = code
-            des = "USD"
-
-            endpoint = EP_XE_RATE.replace("{src}", src).replace("{des}", des)
-            response = requests.get(endpoint)
-            soup = BeautifulSoup(response.text, "lxml")
-            element = soup.select_one("#__next > div:nth-child(2) > div.fluid-container__BaseFluidContainer-qoidzu-0.gJBOzk > section > div:nth-child(2) > div > main > form > div:nth-child(2) > div:nth-child(1) > p.result__BigRate-sc-1bsijpp-1.iGrAod")
-            ex_rate = float(element.text
-                .replace(" US Dollars", "")
-                .replace(" US Dollar", "").strip())                
-
-            print(f"Exchange rate from {src} to {des}: {ex_rate:.3f}")
-
-            currency_rates_df.loc[len(currency_rates_df.index)] = [1, src, des, ex_rate]
-
-        currency_rates_df.to_json(PATH_CURRENCY_RATES)
-
-        return None 
-
-    def clean_dataset() -> None: 
+    def clean_data() -> None: 
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         Clean companies dataset collected from CrunchBase
         >>> param: None # no param required 
@@ -450,11 +428,14 @@ class CrunchBase:
         >>> funct: 6    # export cleaned data to file with timestamp
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         ### 0
-        print("Enter input file: ", end="")
+        print("Enter input file path: ", end="")
         i_fil = input().replace("\"", "")  
 
-        print("Enter output folder: ", end="")
+        print("Enter output folder path: ", end="")
         o_fol = input().replace("\"", "")  
+
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
 
         try:
             df = pd.read_csv(i_fil)
@@ -649,7 +630,7 @@ class CrunchBase:
             .apply(lambda x: x.split(" to ") if type(x)==str else np.NaN)
 
         ### 6
-        o_fil = f"{o_fol}\\Dataset @1000CrunchBaseCompanies #-------------- .csv"
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
         df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
         timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
@@ -657,139 +638,95 @@ class CrunchBase:
 
         return None
 
-    def join_datasets():
-        print("Enter input file: ", end="")
-        i_fil = input().replace("\"", "")
-
-        print("Enter output file: ", end="")
-        o_fil = input().replace("\"", "")
-
-        with open(i_fil, mode="r", encoding="utf-8-sig") as file:
-            paths = file.readlines()
-            paths = [path.replace("\"", "").strip() for path in paths]
-
-        dataframe = []
-        dataframe.append(CrunchBase.header)
-        for path in paths: 
-            with open(path, mode="r", encoding="utf-8-sig") as file:
-                datalines = file.readlines()
-                for dataline in datalines:
-                    dataframe.append(dataline)
-            
-        with open(o_fil, mode="w", encoding="utf-8-sig") as file:
-            file.writelines(dataframe)
-
     ### Data Analytics
 
-    def describe_numeric_data() -> None:
+    def describe_data() -> None:
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-        Describe companies dataset collected from CrunchBase
-        >>> param: None # no param required 
-        >>> funct: 0    # read data from comma-delimited file
-        >>> funct: 1    # convert data into the right types
-        >>> funct: 2    # show general information about dataset
-        >>> funct: 3    # show detailed data records in dataset
-        >>> funct: 4    # describe key stats of numeric fields
-        >>> funct: 5    # visualize univariate data with histograms
-        >>> funct: 6    # visualize multivariate data with scatterplots
-        >>> funct: 7    # include correlation analysis for relevant pairs
+        Describe numerical and categorical data for selected fields 
+        >>> param: str  # path to file
+        >>> funct: 1    # read data from file into data frame
+        >>> funct: 2    # inquire user input for data fields
+        >>> funct: 3    # convert data fields to correct types
+        >>> funct: 4    # show general information about data
+        >>> funct: 5    # describe data fields by their types
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-        ### 0
-        print("Enter input file: ", end="")
-        i_fil = input().replace("\"", "")  
-
-        try:
-            df = pd.read_csv(i_fil)
-        except:
-            raise Exception("cannot read data from file")  
-
         ### 1
-        df = df.convert_dtypes()
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True, date_parser=Converter.convert_datetimes)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
 
         ### 2
-        print("\nGENERAL INFORMATION: Top 1000 Most Innovative Companies on CrunchBase")
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+
+        df = df[fields]
+
+        ### 3
+        df = df.convert_dtypes()
+        for label, series in df.iteritems():
+
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"[\d]+[-][\d][\d][-][\d][\d]", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+            except:
+                continue
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
         print("=" * os.get_terminal_size().columns)
-        
+
         df.info(verbose=True)
         print(end="\n\n")
 
-        ### 3
-        print("\nDETAILED TABLE: Top 1000 Most Innovative Companies on CrunchBase")
+        ### 5
+        print("\nDETAILED DATA TABLE:")
         print("=" * os.get_terminal_size().columns)
         print(df, end="\n\n")
 
-        ### 4
-        selection = input("Show histograms [Y/N]: ")
-        print(end="\n\n")
-
-        print("\nDESCRIPTIVE STATS: Top 1000 Most Innovative Companies on CrunchBase")
-        print("=" * os.get_terminal_size().columns)
-        pd.set_option("display.precision", 3)
-
-        for label, series in df.iteritems():
-            if label in ["Monthly Visits", "Average Visits (6 Months)"]:
-                continue 
-
-            if series.count() != 0 and is_numeric(series) == True: 
-                stats = series.describe()
-                skew = series.skew()
-                kurt = series.kurtosis()
-                stats = pd.concat([stats, pd.Series(data={"skewness": skew, "kurtosis": kurt})])
-
-                print(f"{label}:\n{stats}", end="\n\n")  
-        ### 5
-                if selection == "Y":
-                    IQR = stats["75%"] - stats["25%"]
-                    if IQR == 0: continue
-                    diff_range = stats["max"] - stats["min"]
-                    bin_width = 2 * IQR / pow(series.count(), 1/3) 
-                    num_bins = int(diff_range / bin_width)
-                    series.hist(bins=num_bins) 
-                    plt.title(label)
-                    plt.show()
-        
         ### 6
-        selection = input("Show scatter plots [Y/N]: ")
-        print(end="\n")
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = NumberAnalyser.summarize(series)
+                print(f"{numerical_df}", end="\n\n")
 
-        if selection == "Y":
-            labels = input("Enter data labels: ")
-            labels = [label.strip() for label in labels.split(",")]
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Summary #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
-            collection = pd.DataFrame()
-            for label in labels:
-                collection = pd.concat([collection, df[label]], axis=1) 
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
 
-            try:    
-                pd.plotting.scatter_matrix(collection)
-                plt.show()     
-            except:
-                print(f"ERROR: Cannot plot scatter matrix for {', '.join(labels)}")     
+            if Validator.is_text(series) == True:
+                categorical_df = TextAnalyser.summarize(series)
+                print(f"{categorical_df}", end="\n\n")
 
-        return None 
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Summary #-------------- .csv"
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
-    def describe_categorical_data() -> None:
-        # text analysis
-        # . Text Classification
-        # . Text Extraction
-        # . Word Frequency
-        # . Collocation
-        # . Concordance
-        # . Word Sense Disambiguation
-        # . Clustering
-        #
-        # natural language processing 
-        # . 
-        # . 
-        # . 
-        # . 
-        # . 
-        # . 
-        # . 
-        # E.g. best brand names are mesmerizing because 
-        # they are short, concise, easy to memorize and pronounce
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
 
-        pass 
+        return None
 
     def infer_field_1_based_on_features_1_2_3_using_technique_A() -> None:
         
