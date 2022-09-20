@@ -264,39 +264,39 @@ class CrunchBaseCompanyData:
 
         ### 4
         df["Last Funding Amount"] = df["Last Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Last Funding Amount"] = df["Last Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
         
         df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
         
         df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
         
         df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Price"] = df["Price"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Price"] = df["Price"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Money Raised at IPO"] = df["Money Raised at IPO"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Money Raised at IPO"] = df["Money Raised at IPO"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Valuation at IPO"] = df["Valuation at IPO"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Valuation at IPO"] = df["Valuation at IPO"]\
-            .apply(convert_currency)      
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)     
 
         df["Funding Status"] = df["Funding Status"]\
             .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
@@ -577,64 +577,54 @@ class CrunchBaseHubData:
             .apply(Converter.convert_datetime)
 
         df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
-
-        df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(convert_currency)
-
-        df["Median Total Funding Amount"] = df["Median Total Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Median Total Funding Amount"] = df["Median Total Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
-
-        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(convert_currency)
-
-        df["Total Amount Raised in IPO"] = df["Total Amount Raised in IPO"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Total Amount Raised in IPO"] = df["Total Amount Raised in IPO"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Median Amount Raised in IPO"] = df["Median Amount Raised in IPO"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
-
-        df["Median Amount Raised in IPO"] = df["Median Amount Raised in IPO"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Total IPO Valuation"] = df["Total IPO Valuation"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
-            
-        df["Total IPO Valuation"] = df["Total IPO Valuation"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Median IPO Valuation"] = df["Median IPO Valuation"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
-
-        df["Median IPO Valuation"] = df["Median IPO Valuation"]\
-            .apply(convert_currency)
-
-        df["Total Acquired Price"] = df["Total Acquired Price"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Total Acquired Price"] = df["Total Acquired Price"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Median Acquired Price"] = df["Median Acquired Price"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
-            
-        df["Median Acquired Price"] = df["Median Acquired Price"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Total Fund Raised"] = df["Total Fund Raised"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
-
-        df["Total Fund Raised"] = df["Total Fund Raised"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
         df.to_csv(o_fil, index=False, encoding="utf-8-sig")
@@ -687,25 +677,25 @@ class CrunchBaseInvestorData:
             .apply(Converter.convert_date)
  
         df["IT Spend"] = df["IT Spend"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
-        df["IT Spend"] = df["IT Spend"]\
-            .apply(convert_currency)       
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)      
         df["Last Funding Amount"] = df["Last Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
-        df["Last Funding Amount"] = df["Last Funding Amount"]\
-            .apply(convert_currency)       
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)      
         df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
-        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
-            .apply(convert_currency)       
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)      
         df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
-        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(convert_currency)       
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)      
         df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
-        df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(convert_currency)       
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)       
 
         df["Funding Status"] = df["Funding Status"]\
             .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
@@ -848,39 +838,39 @@ class CrunchBaseSchoolData:
 
         ### 4
         df["Last Funding Amount"] = df["Last Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Last Funding Amount"] = df["Last Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
         
         df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
         
         df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
         
         df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Price"] = df["Price"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Price"] = df["Price"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Money Raised at IPO"] = df["Money Raised at IPO"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Money Raised at IPO"] = df["Money Raised at IPO"]\
-            .apply(convert_currency)
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Valuation at IPO"] = df["Valuation at IPO"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Valuation at IPO"] = df["Valuation at IPO"]\
-            .apply(convert_currency)      
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)     
 
         df["Funding Status"] = df["Funding Status"]\
             .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
