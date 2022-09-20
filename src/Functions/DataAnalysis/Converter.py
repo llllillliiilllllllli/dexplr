@@ -11,13 +11,13 @@ import dateparser
 import numpy as np
 import pandas as pd
 
-def convert_strings() -> None:
+def convert_string() -> None:
     return NotImplemented
 
-def convert_numbers() -> None: 
+def convert_number() -> None: 
     return NotImplemented
 
-def convert_datetimes(value: Any) -> None:  
+def convert_date(value: Any) -> None:  
     if type(value) == float:
         if np.isnan(value):
             return np.NaN
@@ -25,14 +25,21 @@ def convert_datetimes(value: Any) -> None:
     if type(value) == str and value != "—":
         return dateparser.parse(value).strftime("%Y-%m-%d")
 
-def convert_currencies(value: Any, src: str = None, des: str = "USD") -> float:
+def convert_datetime(value: Any) -> None:  
+    if type(value) == float:
+        if np.isnan(value):
+            return np.NaN
+
+    if type(value) == str and value != "—":
+        return dateparser.parse(value).strftime("%Y-%m-%d %H:%M:%S")
+
+def convert_currency(value: Any, src: str = None, des: str = "USD") -> float:
     currency_codes_df = pd.read_json(PATH_CURRENCY_CODES)
     currency_rates_df = pd.read_json(PATH_CURRENCY_RATES)
 
     for index, symbol in currency_rates_df["From"].iteritems():            
         if src == symbol and des == currency_rates_df["To"].iloc[index]:
-            rate = currency_rates_df["Rate"].iloc[index]
-            return float(value) * currency_rates_df["Rate"].iloc[index] 
+            return currency_rates_df["Rate"].iloc[index]
 
     return np.NaN
 

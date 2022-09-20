@@ -1,431 +1,192 @@
-from typing import Any, List
+from typing import Any
 from datetime import datetime
 import os, re
 
-from bs4 import BeautifulSoup
-import requests
-
 import numpy as np
-import pandas as pd  
-import matplotlib.pyplot as plt 
+import pandas as pd   
 
 from Functions.DataAnalysis import Converter
 from Functions.DataAnalysis import TextAnalyser
 from Functions.DataAnalysis import NumberAnalyser
 from Functions.DataAnalysis import Validator
 
-class CrunchBase: 
+def convert_currency(value: Any, src: str = None, des: str = "USD") -> float:
 
-    companies: pd.DataFrame
-    contacts: pd.DataFrame
-    investors: pd.DataFrame
-    fundings: pd.DataFrame
-    acquisitions: pd.DataFrame
-    people: pd.DataFrame   
-    events: pd.DataFrame
-    schools: pd.DataFrame
-    hubs: pd.DataFrame 
+    if src == None:      
+        if type(value) == float:                
+            if np.isnan(value):
+                return np.NaN  
 
-    ### Data Collection
+        if type(value) == str:   
+            if "$" in value \
+                and "A$" not in value \
+                and "CA$" not in value \
+                and "HK$" not in value \
+                and "MX$" not in value \
+                and "NT$" not in value \
+                and "NZ$" not in value \
+                and "R$" not in value:                   
+                src = "USD"
+                value = value.replace("$", "")
+                return float(value)
+            if "A$" in value and "CA$" not in value: 
+                src = "AUD"
+                value = value.replace("A$", "") 
+            if "CA$" in value: 
+                src = "CAD"
+                value = value.replace("CA$", "") 
+            if "HK$" in value: 
+                src = "HKD"
+                value = value.replace("HK$", "") 
+            if "MX$" in value: 
+                src = "MXN"
+                value = value.replace("MX$", "") 
+            if "NT$" in value: 
+                src = "TWD"
+                value = value.replace("NT$", "")                     
+            if "NZ$" in value: 
+                src = "NZD"
+                value = value.replace("NZ$", "")                     
+            if "R$" in value: 
+                src = "BRL"
+                value = value.replace("R$", "") 
+            if "€" in value: 
+                src = "EUR"
+                value = value.replace("€", "")
+            if "£" in value: 
+                src = "GBP"
+                value = value.replace("£", "")
+            if "₹" in value: 
+                src = "INR"
+                value = value.replace("₹", "")
+            if "₪" in value: 
+                src = "ILS"
+                value = value.replace("₪", "")
+            if "₩" in value: 
+                src = "KRW"
+                value = value.replace("₩", "")
+            if "¥" in value and "CN¥" not in value: 
+                src = "JPY"
+                value = value.replace("¥", "")
+            if "CN¥" in value: 
+                src = "CNY"
+                value = value.replace("CN¥", "")
+            if "SGD" in value: 
+                src = "SGD"
+                value = value.replace("SGD", "")
+            if "CHF" in value: 
+                src = "CHF"
+                value = value.replace("CHF", "")
+            if "SEK" in value: 
+                src = "SEK"
+                value = value.replace("SEK", "")
+            if "ZAR" in value: 
+                src = "ZAR"
+                value = value.replace("ZAR", "")
+            if "IDR" in value:
+                src = "IDR"
+                value = value.replace("IDR", "")
+            if "HUF" in value:
+                src = "HUF"
+                value = value.replace("HUF", "")
+            if "AED" in value:
+                src = "AED"
+                value = value.replace("AED", "")
+            if "PLN" in value:
+                src = "PLN"
+                value = value.replace("PLN", "")
+            if "MYR" in value:
+                src = "MYR"
+                value = value.replace("MYR", "")
+            if "RUB" in value:
+                src = "RUB"
+                value = value.replace("RUB", "")
+            if "NGN" in value:
+                src = "NGN"
+                value = value.replace("NGN", "")
+            if "LKR" in value:
+                src = "LKR"
+                value = value.replace("LKR", "")
+            if "BDT" in value:
+                src = "BDT"
+                value = value.replace("BDT", "")
 
-    def config_header() -> str: 
-        header = ""
-        header = header + "Organization Name,Founded Date,Industries,Headquarters Location,Description,"
-        header = header + "CB Rank (Company),Headerquarters Regions,Diversity Spotlight (US Only),"
-        header = header + "Estimated Revenue Range,Operating Status,Exit Date,Closed Date,Company Type,"
-        header = header + "Website,Twitter,Facebook,LinkedIn,Contact Email,Phone Number,Number of Articles,"
-        header = header + "Hub Tags,Full Description,Actively Hiring,Investor Type,Investment Stage,"
-        header = header + "School Type, School Program,Number of Enrollments,School Method,"
-        header = header + "Number of Founders (Alumni),Industry Groups,Number of Founders,Founders,"
-        header = header + "Number of Employees,Number of Funding Rounds,Funding Status,"
-        header = header + "Last Funding Date,Last Funding Amount,Last Funding Type,"
-        header = header + "Last Equity Funding Amount,Last Equity Funding Type,Total Equity Funding Amount,"
-        header = header + "Total Funding Amount,Top Five Investors,Number of Lead Investors,"
-        header = header + "Number of Investors,Number of Acquisitions,Acquisition Status,Transaction Name,"
-        header = header + "Acquired by,Announced Date,Price,Acquisition Type,Acquisition Terms,"
-        header = header + "IPO Status,IPO Date,Delisted Date,Money Raised at IPO,Valuation at IPO,"
-        header = header + "Stock Symbol,Stock Exchange,Last Leadership Hiring Date,Last Layoff Mention Date,"
-        header = header + "Number of Events,CB Rank (Organization),CB Rank (School),"
-        header = header + "Trend Score (7 Days),Trend Score (30 Days),Trend Score (90 Days),Similar Companies,"
-        header = header + "Contact Job Departments,Number of Contacts,"
-        header = header + "Monthly Visits,Average Visits (6 Months),Monthly Visits Growth,Visit Duration,Visit Duration Growth,"
-        header = header + "Page Views / Visit,Page Views / Visit Growth,Bounce Rate,Bounce Rate Growth,"
-        header = header + "Global Traffic Rank,Monthly Rank Change (#),Monthly Rank Growth,"
-        header = header + "Active Tech Count,Number of Apps,Download Last 30 Days,Total Product Active,"
-        header = header + "Patents Granted,Trademarks Registered,Most Popular Patent Class,Most Popular Trademark Class,"
-        header = header + "IT Spend,Most Recent Valuation Range,Date of Most Recent Valuation,"
-        header = header + "Number of Portfolio Organizations,Number of Investment,Number of Lead Investments,"
-        header = header + "Number of Diversity Investments,Number of Exits,Number of Exits (IPO),"
-        header = header + "Accelerator Program Type,Accelerator Application Deadline,Accelerator Duration (in Weeks),"
-        header = header + "Number of Alumni, Number of Private Contacts, Number of Private Notes,Tags"
+    rate = Converter.convert_currency(value, src, des)
+    if src == None: src = "USD"
+    print(f"Exchange rate from {src} to {des}: {rate:.3f}")
+    return float(value) * rate 
 
-    def config_selectors() -> List[str]:
+class CrunchBaseAcquisitionData:
 
-        ORG_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.sticky-column-2.column-id-identifier.ng-star-inserted > div > field-formatter"
-        FOUNDED_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-founded_on.ng-star-inserted > div > field-formatter"
-        INDUSTRIES_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-categories.ng-star-inserted > div > field-formatter"
-        HQ_LOCATION_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-location_identifiers.ng-star-inserted > div > field-formatter"
-        DESCRIPTION_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-short_description.ng-star-inserted > div > field-formatter"
-        CB_RANK_COM_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-rank_org_company.ng-star-inserted > div > field-formatter"
-        HQ_REGION_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-location_group_identifiers.ng-star-inserted > div > field-formatter"
-        DIVERSITY_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-diversity_spotlights.ng-star-inserted > div > field-formatter"
-        EST_REVENUE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-revenue_range.ng-star-inserted > div > field-formatter"
-        STATUS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-operating_status.ng-star-inserted > div > field-formatter"
-        EXIT_DATE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-exited_on.ng-star-inserted > div > field-formatter"
-        CLOSING_DATE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-closed_on.ng-star-inserted > div > field-formatter"
-        COM_TYPE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-company_type.ng-star-inserted > div > field-formatter"
-        WEBSITE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-website.ng-star-inserted > div > field-formatter > link-formatter"
-        TWITTER_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-twitter.ng-star-inserted > div > field-formatter > link-formatter"
-        FACEBOOK_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-facebook.ng-star-inserted > div > field-formatter > link-formatter"
-        LINKEDIN_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-linkedin.ng-star-inserted > div > field-formatter > link-formatter"
-        EMAIL_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-contact_email.ng-star-inserted > div > field-formatter"
-        PHONE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-phone_number.ng-star-inserted > div > field-formatter"
-        NUM_ARTICLE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_articles.ng-star-inserted > div > field-formatter"
-        HUB_TAGS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-hub_tags.ng-star-inserted > div > field-formatter > enum-multi-formatter"    
-        FULL_DESCRIPTION_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-description.ng-star-inserted > div > field-formatter"    
-        ACTIVE_HIRE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-job_posting_link_source.ng-star-inserted > div > field-formatter"
-        INVESTOR_TYPE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-investor_type.ng-star-inserted > div > field-formatter"
-        INVESTMENT_STAGE = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-investor_stage.ng-star-inserted > div > field-formatter"
-        SCHOOL_TYPE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-school_type.ng-star-inserted > div > field-formatter"
-        SCHOOL_PROGRAM_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-school_program.ng-star-inserted > div > field-formatter"
-        NUM_ENROLL_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_enrollments.ng-star-inserted > div > field-formatter"
-        SCHOOL_METHOD = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-school_method.ng-star-inserted > div > field-formatter"
-        NUM_FOUNDER_ALUM_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_founder_alumni.ng-star-inserted > div > field-formatter"
-        INDUSTRY_GROUP_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-category_groups.ng-star-inserted > div > field-formatter"
-        NUM_FOUNDER_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_founders.ng-star-inserted > div > field-formatter"
-        FOUNDERS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-founder_identifiers.ng-star-inserted > div > field-formatter"
-        NUM_EMPLOYEES_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_employees_enum.ng-star-inserted > div > field-formatter"
-        NUM_FUNDING_ROUNDS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_funding_rounds.ng-star-inserted > div > field-formatter"
-        FUNDING_STATUS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-funding_stage.ng-star-inserted > div > field-formatter"
-        LAST_FUNDING_DATE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-last_funding_at.ng-star-inserted > div > field-formatter"
-        LAST_FUNDING_AMOUNT_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-last_funding_total.ng-star-inserted > div > field-formatter"
-        LAST_FUNDING_TYPE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-last_funding_type.ng-star-inserted > div > field-formatter"
-        LAST_EQUITY_FUNDING_AMOUNT_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-last_equity_funding_total.ng-star-inserted > div > field-formatter"
-        LAST_EQUITY_FUNDING_TYPE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-last_equity_funding_type.ng-star-inserted > div > field-formatter"
-        TOTAL_EQUITY_FUNDING_AMOUNT_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-equity_funding_total.ng-star-inserted > div > field-formatter"
-        TOTAL_FUNDING_AMOUNT_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-funding_total.ng-star-inserted > div > field-formatter"
-        TOP_FIVE_INVESTORS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-investor_identifiers.ng-star-inserted > div > field-formatter"
-        NUM_LEAD_INVESTORS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_lead_investors.ng-star-inserted > div > field-formatter"
-        NUM_INVESTORS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_investors.ng-star-inserted > div > field-formatter"
-        NUM_ACQUISITIONS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_acquisitions.ng-star-inserted > div > field-formatter"
-        ACQUISITIONS_STATUS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-acquisition_status.ng-star-inserted > div > field-formatter"
-        TRANSACTION_NAME_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-acquisition_identifier.ng-star-inserted > div > field-formatter"
-        ACQUIRED_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-acquirer_identifier.ng-star-inserted > div > field-formatter"
-        ANNOUNCED_DATE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-acquisition_announced_on.ng-star-inserted > div > field-formatter"
-        PRICE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-acquisition_price.ng-star-inserted > div > field-formatter"
-        ACQUISITION_TYPE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-acquisition_type.ng-star-inserted > div > field-formatter"
-        ACQUISITION_TERMS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-acquisition_terms.ng-star-inserted > div > field-formatter"
-        IPO_STATUS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-ipo_status.ng-star-inserted > div > field-formatter"
-        IPO_DATE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-went_public_on.ng-star-inserted > div > field-formatter"
-        DELISTED_DATE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-delisted_on.ng-star-inserted > div > field-formatter"
-        MONEY_RAISED_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-ipo_amount_raised.ng-star-inserted > div > field-formatter"
-        VALUATION_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-ipo_valuation.ng-star-inserted > div > field-formatter"
-        STOCK_SYMBOL_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-stock_symbol.ng-star-inserted > div > field-formatter"
-        STOCK_EXCHANGE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-stock_exchange_symbol.ng-star-inserted > div > field-formatter"
-        LAST_LEADER_HIRE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-last_key_employee_change_date.ng-star-inserted > div > field-formatter"
-        LAST_LAYOFF_MENTION_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-last_layoff_date.ng-star-inserted > div > field-formatter"
-        NUM_EVENTS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_event_appearances.ng-star-inserted > div > field-formatter"
-        CB_RANK_ORG_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-rank_org.ng-star-inserted > div > field-formatter"
-        CB_RANK_SCHOOL_CSSSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-rank_org_school.ng-star-inserted > div > field-formatter"
-        TREND_SCORE_7D_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-rank_delta_d7.ng-star-inserted > div > field-formatter"
-        TREND_SCORE_30D_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-rank_delta_d30.ng-star-inserted > div > field-formatter"
-        TREND_SCORE_90D_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-rank_delta_d90.ng-star-inserted > div > field-formatter"
-        SIMILAR_COM_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_org_similarities.ng-star-inserted > div > field-formatter"
-        JOB_DEPT_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-contact_job_departments.ng-star-inserted > div > field-formatter"
-        NUM_CONTACTS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_contacts.ng-star-inserted > div > field-formatter"
-        MONTHLY_VISITS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_visits_latest_month.ng-star-inserted > div > field-formatter"
-        AVG_VISITS_6M_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_visits_latest_6_months_avg.ng-star-inserted > div > field-formatter"
-        MONTHLY_VISITS_GROWTH_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_visits_mom_pct.ng-star-inserted > div > field-formatter"
-        VISIT_DURATION_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_visit_duration.ng-star-inserted > div > field-formatter"
-        VISIT_DURATION_GROWTH_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_visit_duration_mom_pct.ng-star-inserted > div > field-formatter"
-        PAGE_VIEW_VISITS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_visit_pageviews.ng-star-inserted > div > field-formatter"
-        PAGE_VIEW_VISITS_GROWTH_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_visit_pageview_mom_pct.ng-star-inserted > div > field-formatter"
-        BOUNCE_RATE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_bounce_rate.ng-star-inserted > div > field-formatter"
-        BOUNCE_RATE_GROWTH_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_bounce_rate_mom_pct.ng-star-inserted > div > field-formatter"
-        GLOBAL_TRAFFIC_RANK_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_global_rank.ng-star-inserted > div > field-formatter"
-        MONTHLY_RANK_CHANGE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_global_rank_mom.ng-star-inserted > div > field-formatter"
-        MONTHLY_RANK_GROWTH_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-semrush_global_rank_mom_pct.ng-star-inserted > div > field-formatter"
-        ACTIVE_TECH_COUNT_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-builtwith_num_technologies_used.ng-star-inserted > div > field-formatter"
-        NUM_APPS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-apptopia_total_apps.ng-star-inserted > div > field-formatter"
-        DOWNLOADS_LAST_30D_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-apptopia_total_downloads.ng-star-inserted > div > field-formatter"
-        TOTAL_ACTIVE_PRODUCT_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-siftery_num_products.ng-star-inserted > div > field-formatter"
-        PATENTS_GRANTED_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-ipqwery_num_patent_granted.ng-star-inserted > div > field-formatter"
-        TRADEMARKS_REGISTERED_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-ipqwery_num_trademark_registered.ng-star-inserted > div > field-formatter"
-        POPULAR_PATENT_CLASS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-ipqwery_popular_patent_category.ng-star-inserted > div > field-formatter"
-        POPULAR_TRADEMARK_CLASS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-ipqwery_popular_trademark_class.ng-star-inserted > div > field-formatter"
-        IT_SPEND_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-aberdeen_site_it_spend.ng-star-inserted > div > field-formatter"
-        RECENT_VAL_RANGE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-privco_valuation_range.ng-star-inserted > div > field-formatter"
-        RECENT_VAL_DATE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-privco_valuation_timestamp.ng-star-inserted > div > field-formatter"
-        NUM_PORFOLIOS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_portfolio_organizations.ng-star-inserted > div > field-formatter"
-        NUM_INVESTMENTS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_investments_funding_rounds.ng-star-inserted > div > field-formatter"
-        NUM_LEAD_INVESTMENTS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_lead_investments.ng-star-inserted > div > field-formatter"
-        NUM_DIVERSITY_INVESTMENTS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_diversity_spotlight_investments.ng-star-inserted > div > field-formatter"
-        NUM_EXITS_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_exits.ng-star-inserted > div > field-formatter"
-        NUM_EXITS_IPO_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_exits_ipo.ng-star-inserted > div > field-formatter"
-        ACC_PROGRAM_TYPE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-program_type.ng-star-inserted > div > field-formatter"
-        ACC_APPLICATION_DEADLINE_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-program_application_deadline.ng-star-inserted > div > field-formatter"
-        ACC_DURATION_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-program_duration.ng-star-inserted > div > field-formatter"
-        NUM_ALUMNI_CSS = "#cdk-drop-list-0 > div > div > grid-body > div > grid-row:nth-child({index}) > grid-cell.column-id-num_alumni.ng-star-inserted > div > field-formatter"
+    def clean() -> None:
 
-        css_selectors = [
-            ORG_CSS, 
-            FOUNDED_CSS, 
-            INDUSTRIES_CSS, 
-            HQ_LOCATION_CSS, 
-            DESCRIPTION_CSS, 
-            CB_RANK_COM_CSS, 
-            HQ_REGION_CSS, 
-            DIVERSITY_CSS, 
-            EST_REVENUE_CSS, 
-            STATUS_CSS, 
-            EXIT_DATE_CSS, 
-            CLOSING_DATE_CSS, 
-            COM_TYPE_CSS, 
-            WEBSITE_CSS, 
-            TWITTER_CSS, 
-            FACEBOOK_CSS, 
-            LINKEDIN_CSS, 
-            EMAIL_CSS, 
-            PHONE_CSS, 
-            NUM_ARTICLE_CSS, 
-            HUB_TAGS_CSS, 
-            FULL_DESCRIPTION_CSS, 
-            ACTIVE_HIRE_CSS, 
-            INVESTOR_TYPE_CSS, 
-            INVESTMENT_STAGE, 
-            SCHOOL_TYPE_CSS, 
-            SCHOOL_PROGRAM_CSS, 
-            NUM_ENROLL_CSS, 
-            SCHOOL_METHOD, 
-            NUM_FOUNDER_ALUM_CSS, 
-            INDUSTRY_GROUP_CSS, 
-            NUM_FOUNDER_CSS, 
-            FOUNDERS_CSS, 
-            NUM_EMPLOYEES_CSS, 
-            NUM_FUNDING_ROUNDS_CSS, 
-            FUNDING_STATUS_CSS, 
-            LAST_FUNDING_DATE_CSS, 
-            LAST_FUNDING_AMOUNT_CSS, 
-            LAST_FUNDING_TYPE_CSS, 
-            LAST_EQUITY_FUNDING_AMOUNT_CSS, 
-            LAST_EQUITY_FUNDING_TYPE_CSS, 
-            TOTAL_EQUITY_FUNDING_AMOUNT_CSS, 
-            TOTAL_FUNDING_AMOUNT_CSS, 
-            TOP_FIVE_INVESTORS_CSS, 
-            NUM_LEAD_INVESTORS_CSS, 
-            NUM_INVESTORS_CSS, 
-            NUM_ACQUISITIONS_CSS, 
-            ACQUISITIONS_STATUS_CSS, 
-            TRANSACTION_NAME_CSS, 
-            ACQUIRED_CSS, 
-            ANNOUNCED_DATE_CSS, 
-            PRICE_CSS, 
-            ACQUISITION_TYPE_CSS, 
-            ACQUISITION_TERMS_CSS, 
-            IPO_STATUS_CSS, 
-            IPO_DATE_CSS, 
-            DELISTED_DATE_CSS, 
-            MONEY_RAISED_CSS, 
-            VALUATION_CSS, 
-            STOCK_SYMBOL_CSS, 
-            STOCK_EXCHANGE_CSS, 
-            LAST_LEADER_HIRE_CSS, 
-            LAST_LAYOFF_MENTION_CSS, 
-            NUM_EVENTS_CSS, 
-            CB_RANK_ORG_CSS, 
-            CB_RANK_SCHOOL_CSSSS, 
-            TREND_SCORE_7D_CSS, 
-            TREND_SCORE_30D_CSS, 
-            TREND_SCORE_90D_CSS, 
-            SIMILAR_COM_CSS, 
-            JOB_DEPT_CSS, 
-            NUM_CONTACTS_CSS, 
-            MONTHLY_VISITS_CSS, 
-            AVG_VISITS_6M_CSS, 
-            MONTHLY_VISITS_GROWTH_CSS, 
-            VISIT_DURATION_CSS, 
-            VISIT_DURATION_GROWTH_CSS, 
-            PAGE_VIEW_VISITS_CSS, 
-            PAGE_VIEW_VISITS_GROWTH_CSS, 
-            BOUNCE_RATE_CSS, 
-            BOUNCE_RATE_GROWTH_CSS, 
-            GLOBAL_TRAFFIC_RANK_CSS, 
-            MONTHLY_RANK_CHANGE_CSS, 
-            MONTHLY_RANK_GROWTH_CSS, 
-            ACTIVE_TECH_COUNT_CSS, 
-            NUM_APPS_CSS, 
-            DOWNLOADS_LAST_30D_CSS, 
-            TOTAL_ACTIVE_PRODUCT_CSS, 
-            PATENTS_GRANTED_CSS, 
-            TRADEMARKS_REGISTERED_CSS, 
-            POPULAR_PATENT_CLASS_CSS, 
-            POPULAR_TRADEMARK_CLASS_CSS, 
-            IT_SPEND_CSS, 
-            RECENT_VAL_RANGE_CSS, 
-            RECENT_VAL_DATE_CSS, 
-            NUM_PORFOLIOS_CSS, 
-            NUM_INVESTMENTS_CSS, 
-            NUM_LEAD_INVESTMENTS_CSS, 
-            NUM_DIVERSITY_INVESTMENTS_CSS, 
-            NUM_EXITS_CSS, 
-            NUM_EXITS_IPO_CSS, 
-            ACC_PROGRAM_TYPE_CSS, 
-            ACC_APPLICATION_DEADLINE_CSS, 
-            ACC_DURATION_CSS, 
-            NUM_ALUMNI_CSS
-        ] 
+        print("Enter input file path: ", end="")
+        i_fil = input().replace("\"", "")  
 
-        return css_selectors
+        print("Enter output folder path: ", end="")
+        o_fol = input().replace("\"", "")  
 
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
 
+        try:
+            df = pd.read_csv(i_fil)
+        except:
+            raise Exception("cannot read data from file")
 
-        return header
+        df = df.replace(r"—", np.NaN)     
+        df = df.convert_dtypes()  
+        
+        df["Price"] = df["Price"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
+        
+        df["Acquiree's Total Funding Amount"] = df["Acquiree's Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)             
+        
+        df["Acquirer's Total Funding Amount"] = df["Acquirer's Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
-    def collect_data() -> None: 
-        print("Enter input file: ", end="")
-        i_fil = input().replace("\"", "")
+        df["Announced Date"] = df["Announced Date"]\
+            .apply(Converter.convert_date)
 
-        print("Enter output folder: ", end="")
-        o_fol = input().replace("\"", "")
+        df["Acquiree Funding Status"] = df["Acquiree Funding Status"]\
+            .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
 
-        with open(i_fil, mode="r", encoding="utf-8-sig") as file:
-            paths = file.readlines()
-            paths = [path.replace("\"", "").strip() for path in paths]
+        df["Acquirer Funding Status"] = df["Acquirer Funding Status"]\
+            .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
 
-        header = CrunchBase.config_header()
-        selectors = CrunchBase.config_selectors()
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
-        for path in paths: 
-            dataframe = []
-            dataframe.append(header)
-
-            with open(path, mode="r", encoding="utf-8-sig") as file:
-                html = file.read()
-                soup = BeautifulSoup(html, "lxml")
-            
-            for i in range(50):      
-                dataline = []      
-                for selector in selectors:
-                    element = soup.select_one(selector.replace("{index}", str(i+2)))
-
-                    if selector.__contains__("id-twitter"):
-                        try:
-                            href = str(element.contents[0]).split("href=\"")[1].split("\"")[0]
-                            dataline.append(href)
-                            continue
-                        except:
-                            dataline.append("—")
-                            continue
-
-                    if selector.__contains__("id-facebook"):
-                        try:
-                            href = str(element.contents[0]).split("href=\"")[1].split("\"")[0]
-                            dataline.append(href)
-                            continue
-                        except:
-                            dataline.append("—")
-                            continue                  
-
-                    if selector.__contains__("id-linkedin"):
-                        try:
-                            href = str(element.contents[0]).split("href=\"")[1].split("\"")[0]
-                            dataline.append(href)
-                            continue
-                        except:
-                            dataline.append("—")
-                            continue
-                    
-                    dataline.append("\"" + element.text.replace("\"", "\"\"").strip() + "\"")
-
-                print(f"{dataline}", end="\n\n")
-                dataframe.append(",".join(dataline))
- 
-            o_fil = f"{o_fol}\\Dataset @CrunchBaseCompanies #-------------- .csv"
-            with open(o_fil, mode="w", encoding="utf-8-sig") as file:
-                lines = [dataline + "\n" for dataline in dataframe]
-                file.writelines(lines)
-
-            timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
-            os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
 
         return None
 
-    ### Data Preprocessing
+    def describe() -> None:
+        pass 
 
-    def convert_currencies(value: Any, src: str = None, des: str = "USD") -> float:
+    def visualize() -> None:
+        pass 
 
-        if src == None:      
-            if type(value) == float:                
-                if np.isnan(value):
-                    return np.NaN  
+class CrunchBaseCompanyData: 
 
-            if type(value) == str:   
-                if "$" in value \
-                    and "A$" not in value \
-                    and "CA$" not in value \
-                    and "NT$" not in value \
-                    and "R$" not in value:                   
-                    src = "USD"
-                    value = value.replace("$", "")
-                    return float(value)
-                if "A$" in value and "CA$" not in value: 
-                    src = "AUD"
-                    value = value.replace("A$", "") 
-                if "CA$" in value: 
-                    src = "CAD"
-                    value = value.replace("CA$", "") 
-                if "NT$" in value: 
-                    src = "TWD"
-                    value = value.replace("NT$", "")                     
-                if "R$" in value: 
-                    src = "BRL"
-                    value = value.replace("R$", "") 
-                if "€" in value: 
-                    src = "EUR"
-                    value = value.replace("€", "")
-                if "£" in value: 
-                    src = "GBP"
-                    value = value.replace("£", "")
-                if "₹" in value: 
-                    src = "INR"
-                    value = value.replace("₹", "")
-                if "₩" in value: 
-                    src = "KRW"
-                    value = value.replace("₩", "")
-                if "¥" in value and "CN¥" not in value: 
-                    src = "JPY"
-                    value = value.replace("¥", "")
-                if "CN¥" in value: 
-                    src = "CNY"
-                    value = value.replace("CN¥", "")
-                if "SGD" in value: 
-                    src = "SGD"
-                    value = value.replace("SGD", "")
-                if "CHF" in value: 
-                    src = "CHF"
-                    value = value.replace("CHF", "")
-                if "SEK" in value: 
-                    src = "SEK"
-                    value = value.replace("SEK", "")
-                if "ZAR" in value: 
-                    src = "ZAR"
-                    value = value.replace("ZAR", "")
-
-        rate = Converter.convert_currencies(value, src, des)
-        print(f"Exchange rate from {src} to {des}: {rate:.3f}")
-        return float(value) * rate 
-
-    def clean_data() -> None: 
+    def clean() -> None: 
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         Clean companies dataset collected from CrunchBase
         >>> param: None # no param required 
         >>> funct: 0    # read companies data from file
         >>> funct: 1    # clean data, fill and drop NaN values
-        >>> funct: 2    # use default pandas conversion functions  
-        >>> funct: 3    # apply elementwise function for type conversion
-        >>> funct: 4    # apply conversion functions for datetime
-        >>> funct: 5    # apply conversion functions for currencies
-        >>> funct: 6    # export cleaned data to file with timestamp
+        >>> funct: 2    # apply elementwise function for type conversion
+        >>> funct: 3    # apply conversion functions for datetime
+        >>> funct: 4    # apply conversion functions for currencies
+        >>> funct: 5    # export cleaned data to file with timestamp
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         ### 0
         print("Enter input file path: ", end="")
@@ -447,189 +208,100 @@ class CrunchBase:
         df = df.convert_dtypes()
 
         ### 2
-        df["Number of Lead Investors"] = pd.to_numeric(df["Number of Lead Investors"])
-        df["Number of Investors"] = pd.to_numeric(df["Number of Investors"])
-        df["Number of Acquisitions"] = pd.to_numeric(df["Number of Acquisitions"])
-        df["Number of Events"] = pd.to_numeric(df["Number of Events"])
-        df["Number of Apps"] = pd.to_numeric(df["Number of Apps"])
-        df["Number of Alumni"] = pd.to_numeric(df["Number of Alumni"])
-        df["Number of Private Contacts"] = pd.to_numeric(df["Number of Private Contacts"])
-        df["Number of Private Notes"] = pd.to_numeric(df["Number of Private Notes"])
-        df["Active Tech Count"] = pd.to_numeric(df["Active Tech Count"])
-        df["Accelerator Duration (in Weeks)"] = pd.to_numeric(df["Accelerator Duration (in Weeks)"])
-
-        ### 3    
         df["Founded Year"] = df["Founded Year"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
         df["Founded Year"] = df["Founded Year"]\
             .apply(lambda x: f"{x}"[:4] if type(x) == str else np.NaN)
 
-        df["CB Rank (Company)"] = df["CB Rank (Company)"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["CB Rank (Organization)"] = df["CB Rank (Organization)"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["CB Rank (School)"] = df["CB Rank (School)"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        
-        df["Similar Companies"] = df["Similar Companies"]\
-            .apply(lambda x: int(x) if type(x) == str else np.NaN)
-        df["Number of Articles"] = df["Number of Articles"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["Number of Funding Rounds"] =  df["Number of Funding Rounds"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["Number of Employees"] = df["Number of Employees"]\
-            .apply(lambda x: x.replace("+", "-inf").split("-") if type(x)==str else np.NaN)
-        df["Number of Contacts"] = df["Number of Contacts"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-
-        df["Trend Score (7 Days)"] = df["Trend Score (7 Days)"]\
-            .apply(lambda x: float(x) if type(x) == str else np.NaN)
-        df["Trend Score (30 Days)"] = df["Trend Score (30 Days)"]\
-            .apply(lambda x: float(x) if type(x) == str else np.NaN)
-        df["Trend Score (90 Days)"] = df["Trend Score (90 Days)"]\
-            .apply(lambda x: float(x) if type(x) == str else np.NaN)
-
-        df["Monthly Visits"] = df["Monthly Visits"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["Average Visits (6 Months)"] = df["Average Visits (6 Months)"]\
-            .apply(lambda x: float(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["Monthly Visits Growth"] = df["Monthly Visits Growth"]\
-            .apply(lambda x: float(x.replace(r",", r"").replace(r"%", r""))/100 if type(x) == str else np.NaN)
-        df["Visit Duration"] = df["Visit Duration"]\
-            .apply(lambda x: int(x.replace(r",", r""))/100 if type(x) == str else np.NaN)
-        df["Visit Duration Growth"] = df["Visit Duration Growth"]\
-            .apply(lambda x: float(x.replace(r",", r"").replace(r"%", r""))/100 if type(x) == str else np.NaN)
-        df["Page Views / Visit"] = df["Page Views / Visit"]\
-            .apply(lambda x: float(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["Page Views / Visit Growth"] = df["Page Views / Visit Growth"]\
-            .apply(lambda x: float(x.replace(r",", r"").replace(r"%", r""))/100 if type(x) == str else np.NaN)
-        df["Bounce Rate"] = df["Bounce Rate"]\
-            .apply(lambda x: float(x.replace(r",", r"").replace(r"%", r""))/100 if type(x) == str else np.NaN)
-        df["Bounce Rate Growth"] = df["Bounce Rate Growth"]\
-            .apply(lambda x: float(x.replace(r",", r"").replace(r"%", r""))/100 if type(x) == str else np.NaN)
-
-        df["Global Traffic Rank"] = df["Global Traffic Rank"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["Monthly Rank Change (#)"] = df["Monthly Rank Change (#)"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN)
-        df["Monthly Rank Growth"] = df["Monthly Rank Growth"]\
-            .apply(lambda x: float(x.replace(r",", r"").replace(r"%", r""))/100 if type(x) == str else np.NaN)
-
-        df["Download Last 30 Days"] = df["Download Last 30 Days"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-        df["Total Product Active"] = df["Total Product Active"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-        df["Patents Granted"] = df["Patents Granted"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-        df["Trademarks Registered"] = df["Trademarks Registered"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-
-        df["Number of Portfolio Organizations"] = df["Number of Portfolio Organizations"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-        df["Number of Investments"] = df["Number of Investments"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-        df["Number of Lead Investments"] = df["Number of Lead Investments"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-        df["Number of Diversity Investments"] = df["Number of Diversity Investments"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-        df["Number of Exits"] = df["Number of Exits (IPO)"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-        df["Number of Exits"] = df["Number of Exits (IPO)"]\
-            .apply(lambda x: int(x.replace(r",", r"")) if type(x) == str else np.NaN) 
-
-        ### 4
+        ### 3
         df["Exit Date"] = df["Exit Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Closed Date"] = df["Closed Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Last Funding Date"] = df["Last Funding Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Announced Date"] = df["Announced Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["IPO Date"] = df["IPO Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Delisted Date"] = df["Delisted Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Last Leadership Hiring Date"] = df["Last Leadership Hiring Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Last Layoff Mention Date"] = df["Last Layoff Mention Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Date of Most Recent Valuation"] = df["Date of Most Recent Valuation"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Announced Date"] = df["Announced Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["IPO Date"] = df["IPO Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Delisted Date"] = df["Delisted Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Last Leadership Hiring Date"] = df["Last Leadership Hiring Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Last Layoff Mention Date"] = df["Last Layoff Mention Date"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Date of Most Recent Valuation"] = df["Date of Most Recent Valuation"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
 
         df["Accelerator Application Deadline"] = df["Accelerator Application Deadline"]\
-            .apply(CrunchBase.convert_datetimes)
+            .apply(Converter.convert_date)
+
+        ### 4
+        df["Last Funding Amount"] = df["Last Funding Amount"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Last Funding Amount"] = df["Last Funding Amount"]\
+            .apply(convert_currency)
+        
+        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
+            .apply(convert_currency)
+        
+        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
+            .apply(convert_currency)
+        
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(convert_currency)
+
+        df["Price"] = df["Price"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Price"] = df["Price"]\
+            .apply(convert_currency)
+
+        df["Money Raised at IPO"] = df["Money Raised at IPO"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Money Raised at IPO"] = df["Money Raised at IPO"]\
+            .apply(convert_currency)
+
+        df["Valuation at IPO"] = df["Valuation at IPO"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Valuation at IPO"] = df["Valuation at IPO"]\
+            .apply(convert_currency)      
+
+        df["Funding Status"] = df["Funding Status"]\
+            .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
 
         ### 5
-        df["Last Funding Amount"] = df["Last Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Last Funding Amount"] = df["Last Funding Amount"]\
-            .apply(CrunchBase.convert_currencies)
-        
-        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
-            .apply(CrunchBase.convert_currencies)
-        
-        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
-            .apply(CrunchBase.convert_currencies)
-        
-        df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Total Funding Amount"] = df["Total Funding Amount"]\
-            .apply(CrunchBase.convert_currencies)
-
-        df["Price"] = df["Price"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Price"] = df["Price"]\
-            .apply(CrunchBase.convert_currencies)
-
-        df["Money Raised at IPO"] = df["Money Raised at IPO"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Money Raised at IPO"] = df["Money Raised at IPO"]\
-            .apply(CrunchBase.convert_currencies)
-
-        df["Valuation at IPO"] = df["Valuation at IPO"]\
-            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
-        df["Valuation at IPO"] = df["Valuation at IPO"]\
-            .apply(CrunchBase.convert_currencies)      
-
-        df["Estimated Revenue Range"] = df["Estimated Revenue Range"]\
-            .apply(lambda x: x.replace("$", "").replace("M", 6*"0").replace("B", 9*"0").strip() if type(x)==str else np.NaN)
-        df["Estimated Revenue Range"] = df["Estimated Revenue Range"]\
-            .apply(lambda x: x.replace("+", " to inf") if type(x)==str else np.NaN)
-        df["Estimated Revenue Range"] = df["Estimated Revenue Range"]\
-            .apply(lambda x: x.split(" to ") if type(x)==str else np.NaN)
-
-        ### 6
         o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
         df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
@@ -638,9 +310,7 @@ class CrunchBase:
 
         return None
 
-    ### Data Analytics
-
-    def describe_data() -> None:
+    def describe() -> None:
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         Describe numerical and categorical data for selected fields 
         >>> param: str  # path to file
@@ -657,7 +327,7 @@ class CrunchBase:
         df = pd.DataFrame()
         try: 
             if ".csv" in os.path.basename(i_fil):
-                df = pd.read_csv(i_fil, parse_dates=True, date_parser=Converter.convert_datetimes)
+                df = pd.read_csv(i_fil, parse_dates=True, date_parser=Converter.convert_date)
 
             if ".json" in os.path.basename(i_fil):
                 df = pd.read_json(i_fil, parse_dates=True)
@@ -728,49 +398,504 @@ class CrunchBase:
 
         return None
 
-    def infer_field_1_based_on_features_1_2_3_using_technique_A() -> None:
+    def visualize() -> None:
+        pass 
+
+class CrunchBaseContactData:
+
+    def clean() -> None:
+        print("Enter input file path: ", end="")
+        i_fil = input().replace("\"", "")  
+
+        print("Enter output folder path: ", end="")
+        o_fol = input().replace("\"", "")  
+
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
+
+        try:
+            df = pd.read_csv(i_fil)
+        except:
+            raise Exception("cannot read data from file")
+
+        df = df.replace(r"—", np.NaN)     
+        df = df.convert_dtypes()
+
+        df["Number of Contact's Emails"] = pd.to_numeric(df["Number of Contact's Emails"])        
+        df["Number of Contact's Phones"] = pd.to_numeric(df["Number of Contact's Phones"])
+
+        df["Organization Last Funding Date"] = df["Organization Last Funding Date"]\
+            .apply(Converter.convert_date)
+
+        df["Organization Last Funding Amount"] = df["Organization Last Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Organization Total Funding Amount"] = df["Organization Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+            
+        df["Organization Last Funding Amount"] = df["Organization Last Funding Amount"]\
+            .apply(convert_currency)            
+
+        df["Organization Total Funding Amount"] = df["Organization Total Funding Amount"]\
+            .apply(convert_currency)
+
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
+
+        return None  
+
+    def desribe() -> None:
+        return None  
+
+    def visualize() -> None:
+        return None  
+
+class CrunchBaseEventData:
+
+    def clean() -> None:
+
+        print("Enter input file path: ", end="")
+        i_fil = input().replace("\"", "")  
+
+        print("Enter output folder path: ", end="")
+        o_fol = input().replace("\"", "")  
+
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
+
+        try:
+            df = pd.read_csv(i_fil)
+        except:
+            raise Exception("cannot read data from file")
+
+        df["Start Date"] = df["Start Date"]\
+            .apply(Converter.convert_date)
+        df["End Date"] = df["End Date"]\
+            .apply(Converter.convert_date)
+
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
+
+        return None  
+
+    def describe() -> None:
+        return None
+
+    def visualize() -> None:
+        return None
+
+class CrunchBaseFundingData:
+
+    def clean() -> None:
+
+        print("Enter input file path: ", end="")
+        i_fil = input().replace("\"", "")  
+
+        print("Enter output folder path: ", end="")
+        o_fol = input().replace("\"", "")  
+
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
+
+        try:
+            df = pd.read_csv(i_fil)
+        except:
+            raise Exception("cannot read data from file")
+
+        df = df.replace(r"—", np.NaN)     
+        df = df.convert_dtypes()
+
+        df["CB Rank (Funding Rounds)"] = df["CB Rank (Funding Rounds)"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Money Raised"] = df["Money Raised"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN) 
+
+        df["Pre-Money Valuation"] = df["Pre-Money Valuation"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN) 
+
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN) 
+
+        df["Money Raised"] = df["Money Raised"].apply(convert_currency)
+        df["Pre-Money Valuation"] = df["Pre-Money Valuation"].apply(convert_currency)
+        df["Total Funding Amount"] = df["Total Funding Amount"].apply(convert_currency)
+
+        df["Announced Date"] = df["Announced Date"].apply(Converter.convert_date)
+
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
+
+        return None 
+
+    def describe() -> None:
+        pass
+
+    def visualize() -> None:
+        pass
+
+class CrunchBaseHubData:
+
+    def clean() -> None:
+
+        print("Enter input file path: ", end="")
+        i_fil = input().replace("\"", "")  
+
+        print("Enter output folder path: ", end="")
+        o_fol = input().replace("\"", "")  
+
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
+
+        try:
+            df = pd.read_csv(i_fil)
+        except:
+            raise Exception("cannot read data from file")
+
+        df = df.replace(r"—", np.NaN)     
+        df = df.convert_dtypes()
+ 
+        df["Average Founded Date"] = df["Average Founded Date"]\
+            .apply(Converter.convert_date)
+
+        df["Average IPO Date"] = df["Average IPO Date"]\
+            .apply(Converter.convert_date)
+
+        df["Average Last Funding Date"] = df["Average Last Funding Date"]\
+            .apply(Converter.convert_date)
+
+        df["Last Updated"] = df["Last Updated"]\
+            .apply(Converter.convert_datetime)
+
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(convert_currency)
+
+        df["Median Total Funding Amount"] = df["Median Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Median Total Funding Amount"] = df["Median Total Funding Amount"]\
+            .apply(convert_currency)
+
+        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
+            .apply(convert_currency)
+
+        df["Total Amount Raised in IPO"] = df["Total Amount Raised in IPO"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Total Amount Raised in IPO"] = df["Total Amount Raised in IPO"]\
+            .apply(convert_currency)
+
+        df["Median Amount Raised in IPO"] = df["Median Amount Raised in IPO"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Median Amount Raised in IPO"] = df["Median Amount Raised in IPO"]\
+            .apply(convert_currency)
+
+        df["Total IPO Valuation"] = df["Total IPO Valuation"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+            
+        df["Total IPO Valuation"] = df["Total IPO Valuation"]\
+            .apply(convert_currency)
+
+        df["Median IPO Valuation"] = df["Median IPO Valuation"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Median IPO Valuation"] = df["Median IPO Valuation"]\
+            .apply(convert_currency)
+
+        df["Total Acquired Price"] = df["Total Acquired Price"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Total Acquired Price"] = df["Total Acquired Price"]\
+            .apply(convert_currency)
+
+        df["Median Acquired Price"] = df["Median Acquired Price"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+            
+        df["Median Acquired Price"] = df["Median Acquired Price"]\
+            .apply(convert_currency)
+
+        df["Total Fund Raised"] = df["Total Fund Raised"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+
+        df["Total Fund Raised"] = df["Total Fund Raised"]\
+            .apply(convert_currency)
+
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
+
+        return None 
+    
+    def describe() -> None:
+        pass 
+
+    def visualize() -> None:
+        pass 
+
+class CrunchBaseInvestorData:
+    
+    def clean() -> None:
+
+        print("Enter input file path: ", end="")
+        i_fil = input().replace("\"", "")  
+
+        print("Enter output folder path: ", end="")
+        o_fol = input().replace("\"", "")  
+
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
+
+        try:
+            df = pd.read_csv(i_fil)
+        except:
+            raise Exception("cannot read data from file")
+
+        df = df.replace(r"—", np.NaN)     
+        df = df.convert_dtypes()  
+
+        df["Founded Date"] = df["Founded Date"]\
+            .apply(Converter.convert_date)
+        df["Exit Date"] = df["Exit Date"]\
+            .apply(Converter.convert_date)
+        df["Closed Date"] = df["Closed Date"]\
+            .apply(Converter.convert_date)
+        df["Date of Most Recent Valuation"] = df["Date of Most Recent Valuation"]\
+            .apply(Converter.convert_date)
+        df["IPO Date"] = df["IPO Date"]\
+            .apply(Converter.convert_date)
+        df["Delisted Date"] = df["Delisted Date"]\
+            .apply(Converter.convert_date)
+        df["Last Funding Date"] = df["Last Funding Date"]\
+            .apply(Converter.convert_date)
+ 
+        df["IT Spend"] = df["IT Spend"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
+        df["IT Spend"] = df["IT Spend"]\
+            .apply(convert_currency)       
+        df["Last Funding Amount"] = df["Last Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
+        df["Last Funding Amount"] = df["Last Funding Amount"]\
+            .apply(convert_currency)       
+        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
+        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
+            .apply(convert_currency)       
+        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
+        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
+            .apply(convert_currency)       
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)       
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(convert_currency)       
+
+        df["Funding Status"] = df["Funding Status"]\
+            .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
+
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
+
+        return None 
+
+    def describe() -> None:
+        pass 
+
+    def visualize() -> None:
+        pass 
+
+class CrunchBasePeopleData:
+    
+    def clean() -> None:
+
+        print("Enter input file path: ", end="")
+        i_fil = input().replace("\"", "")  
+
+        print("Enter output folder path: ", end="")
+        o_fol = input().replace("\"", "")  
+
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
+
+        try:
+            df = pd.read_csv(i_fil)
+        except:
+            raise Exception("cannot read data from file")
+
+        df = df.replace(r"—", np.NaN)     
+        df = df.convert_dtypes()  
+
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
+
+        return None 
+
+    def describe() -> None:
+        pass 
+
+    def visualize() -> None:
+        pass
+
+class CrunchBaseSchoolData:
+
+    def clean() -> None: 
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        Clean companies dataset collected from CrunchBase
+        >>> param: None # no param required 
+        >>> funct: 0    # read companies data from file
+        >>> funct: 1    # clean data, fill and drop NaN values
+        >>> funct: 2    # apply elementwise function for type conversion
+        >>> funct: 3    # apply conversion functions for datetime
+        >>> funct: 4    # apply conversion functions for currencies
+        >>> funct: 5    # export cleaned data to file with timestamp
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 0
+        print("Enter input file path: ", end="")
+        i_fil = input().replace("\"", "")  
+
+        print("Enter output folder path: ", end="")
+        o_fol = input().replace("\"", "")  
+
+        print("Enter output file name: ", end="")
+        o_fil = input().replace(" ", "")  
+
+        try:
+            df = pd.read_csv(i_fil)
+        except:
+            raise Exception("cannot read data from file")
+
+        ### 1        
+        df = df.replace(r"—", np.NaN)     
+        df = df.convert_dtypes()
+
+        ### 2
+        df["Founded Year"] = df["Founded Year"]\
+            .apply(Converter.convert_date)
+        df["Founded Year"] = df["Founded Year"]\
+            .apply(lambda x: f"{x}"[:4] if type(x) == str else np.NaN)
+
+        ### 3
+        df["Exit Date"] = df["Exit Date"]\
+            .apply(Converter.convert_date)
+
+        df["Closed Date"] = df["Closed Date"]\
+            .apply(Converter.convert_date)
+
+        df["Last Funding Date"] = df["Last Funding Date"]\
+            .apply(Converter.convert_date)
+
+        df["Announced Date"] = df["Announced Date"]\
+            .apply(Converter.convert_date)
+
+        df["IPO Date"] = df["IPO Date"]\
+            .apply(Converter.convert_date)
+
+        df["Delisted Date"] = df["Delisted Date"]\
+            .apply(Converter.convert_date)
+
+        df["Last Leadership Hiring Date"] = df["Last Leadership Hiring Date"]\
+            .apply(Converter.convert_date)
+
+        df["Last Layoff Mention Date"] = df["Last Layoff Mention Date"]\
+            .apply(Converter.convert_date)
+
+        df["Date of Most Recent Valuation"] = df["Date of Most Recent Valuation"]\
+            .apply(Converter.convert_date)
+
+        df["Announced Date"] = df["Announced Date"]\
+            .apply(Converter.convert_date)
+
+        df["IPO Date"] = df["IPO Date"]\
+            .apply(Converter.convert_date)
+
+        df["Delisted Date"] = df["Delisted Date"]\
+            .apply(Converter.convert_date)
+
+        df["Last Leadership Hiring Date"] = df["Last Leadership Hiring Date"]\
+            .apply(Converter.convert_date)
+
+        df["Last Layoff Mention Date"] = df["Last Layoff Mention Date"]\
+            .apply(Converter.convert_date)
+
+        df["Date of Most Recent Valuation"] = df["Date of Most Recent Valuation"]\
+            .apply(Converter.convert_date)
+
+        df["Accelerator Application Deadline"] = df["Accelerator Application Deadline"]\
+            .apply(Converter.convert_date)
+
+        ### 4
+        df["Last Funding Amount"] = df["Last Funding Amount"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Last Funding Amount"] = df["Last Funding Amount"]\
+            .apply(convert_currency)
         
-        # Question 1: How did a startup succeed?  
-
-        # for analyzing numeric data fields
-        # for analyzing categorical data
-
-        # extract a subset containing crutial metrics:
-        # for marketing, finance, team, ...
-        # including ranks, revenues, fundings, founders, investors, investments
-        # price, valuation, money raised, 
-        # digital marketing stats: trend scores, visits, traffic, 
-        # tech stats: number of tech, products, patents, trademarks, IT spends
+        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Last Equity Funding Amount"] = df["Last Equity Funding Amount"]\
+            .apply(convert_currency)
         
-        # define key success factors: 
-        # attractiveness by the amount of investment
-        # profitability by the total return or 
-        # potential by return from investments
-        # ...  
+        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Total Equity Funding Amount"] = df["Total Equity Funding Amount"]\
+            .apply(convert_currency)
+        
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(convert_currency)
 
+        df["Price"] = df["Price"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Price"] = df["Price"]\
+            .apply(convert_currency)
 
-        # Question 2: Will a startup succeed?  
+        df["Money Raised at IPO"] = df["Money Raised at IPO"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Money Raised at IPO"] = df["Money Raised at IPO"]\
+            .apply(convert_currency)
 
-        # find the model that best present the features
-        # use the model to predict the change of success
-        # ...
+        df["Valuation at IPO"] = df["Valuation at IPO"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)
+        df["Valuation at IPO"] = df["Valuation at IPO"]\
+            .apply(convert_currency)      
 
+        df["Funding Status"] = df["Funding Status"]\
+            .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
+            
+        ### 5
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
-        # Question 3: How did a startup fail?
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
 
-        # Reverse the conditions as mentioned above
+        return None
 
+    def describe() -> None:
+        pass
+
+    def visualize() -> None:
         pass 
-
-    def infer_field_2_based_on_features_a_b_c_using_technique_B() -> None:
-        pass 
-
-    def infer_field_3_based_on_features_x_y_z_using_technique_C() -> None:
-        pass 
-
-    # ...
-
-    # the project supports decisions on techs, startups, and invesments
-    # by providing insights about which factors contribute to fruitful companies
-    # to learn from the past about what make novel ideas become influential 
-    # to determine new ventures that are most probable to succeed 
