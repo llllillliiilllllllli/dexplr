@@ -1,0 +1,977 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"Health Care, Medical, Pharmaceutical, Retail, Sales",[Sales],1,[],0,[],0
+"E-Commerce, Hardware, Mobile, Robotics, Software",[],0,[],0,[],0
+"Consumer Goods, Music, Video Games","[Consumer, Goods]",2,[],0,[],0
+"Beauty, Cosmetics, Manufacturing, Personal Health",[Cosmetics],1,[],0,[],0
+"Advertising, Gaming, Mobile, Mobile Apps, Music, PC Games, Venture Capital, Wireless",[Advertising],1,[],0,[],0
+"Consulting, Health Care, Information Technology",[],0,[],0,[],0
+"Emergency Medicine, Enterprise Software, Health Care, Medical, Pharmaceutical",[],0,[],0,[],0
+"Cloud Computing, Search Engine, Semantic Search, Vertical Search",[],0,[],0,[],0
+"Credit, Finance, Financial Services, Insurance, Real Estate",[Credit],1,[],0,[],0
+"Biotechnology, Pharmaceutical",[],0,[],0,[],0
+"Financial Services, Information Technology, Venture Capital",[],0,[],0,[],0
+"Infrastructure, Network Security, Unified Communications",[],0,[],0,[],0
+"Chemical, Energy, Oil and Gas, Retail, Textiles",[],0,[],0,[],0
+"Biometrics, Health Care, Physical Security, Public Safety, Security","[Biometrics, Security]",2,[],0,[],0
+Customer Service,[],0,[],0,[],0
+"Energy, Facilities Support Services",[Energy],1,[],0,[],0
+"Audio, Consumer, Consumer Electronics, DSP, Electronics, Manufacturing",[Manufacturing],1,[],0,[],0
+"Advertising, Digital Media, Marketing","[Advertising, Marketing]",2,[],0,[],0
+Market Research,[],0,[],0,[],0
+"Health Care, Health Insurance, Home Health Care",[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Auctions, E-Commerce, Internet, Marketplace, Retail, Search Engine",[Auctions],1,[],0,[],0
+"Biopharma, Biotechnology, Health Diagnostics, Pharmaceutical, Therapeutics",[Therapeutics],1,[],0,[],0
+"Business Information Systems, Information Services",[],0,[],0,[],0
+"Analytics, Asset Management, Banking, Business Intelligence, Consulting, Finance, Financial Services, Hedge Funds, Market Research, Venture Capital",[Analytics],1,[],0,[],0
+"Mobile, SaaS, Software, Telecommunications, VoIP",[],0,[],0,[],0
+"Biotechnology, Health Care, Medical, Pharmaceutical",[],0,[],0,[],0
+"Artificial Intelligence, Construction, Consulting, Information Technology, Outsourcing",[Outsourcing],1,[],0,[],0
+"Gaming, Mobile, PC Games",[Gaming],1,[],0,[],0
+"Digital Entertainment, Digital Media",[Media],1,[],0,[],0
+"Digital Entertainment, Digital Media",[Media],1,[],0,[],0
+"Digital Entertainment, Digital Media",[Media],1,[],0,[],0
+"Gaming, Mobile, Mobile Apps, Software, Video Games",[Gaming],1,[],0,[],0
+"Logistics, Supply Chain Management",[Logistics],1,[],0,[],0
+"Financial Services, Payments",[Payments],1,[],0,[],0
+"Finance, Financial Services, FinTech, Payments","[Finance, Payments]",2,[],0,[],0
+"Food and Beverage, Wine And Spirits","[Food, Spirits]",2,[],0,[],0
+FinTech,[FinTech],1,[],0,[],0
+"Business Development, Construction, Consulting, Environmental Consulting, Project Management",[],0,[],0,[],0
+"Industrial Manufacturing, Manufacturing, Public Relations",[],0,[],0,[],0
+"Email, Internet, Online Portals, Search Engine, Social Media","[Email, Media]",2,[],0,[],0
+"Biopharma, Biotechnology, Life Science",[],0,[],0,[],0
+"Computer, Software, Software Engineering",[],0,[],0,[],0
+"Education, Health Care",[Education],1,[],0,[],0
+"Mineral, Oil and Gas",[Mineral],1,[],0,[],0
+"Financial Services, FinTech, Payments, Small and Medium Businesses",[],0,[],0,[Small],1
+"Construction, Real Estate, Residential",[Construction],1,[],0,[],0
+"Biometrics, Building Material, Consumer Electronics, Information Technology, Security","[Biometrics, Security]",2,[],0,[],0
+Information Technology,[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Financial Services, Payments",[Payments],1,[],0,[],0
+"Artificial Intelligence, Augmented Reality, Social Media, Social Network, Virtual Reality",[Reality],1,[],0,[Virtual],1
+"Banking, Finance, Financial Exchanges, Financial Services, Venture Capital",[Banking],1,[],0,[],0
+"Manufacturing, Nanotechnology",[Manufacturing],1,[],0,[],0
+"Banking, Financial Services, FinTech, Payments","[Banking, Payments]",2,[],0,[],0
+"Artificial Intelligence, Biotechnology, Health Care, Health Diagnostics",[],0,[],0,[],0
+"Finance, FinTech, SaaS, Software",[Finance],1,[],0,[],0
+"Advertising, Consulting",[Advertising],1,[],0,[],0
+"Manufacturing, Mineral, Mining, Mining Technology",[Manufacturing],1,[],0,[],0
+"Content, News, Social Media, Social Network",[],0,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"B2B, Cloud Data Services, Consulting, Information Technology, Legal, SaaS, Software",[],0,[],0,[],0
+"Insurance, Service Industry",[Insurance],1,[],0,[],0
+"Financial Services, FinTech, Information Technology, Real Estate",[],0,[],0,[],0
+"Asset Management, Energy, Renewable Energy, Transportation",[Transportation],1,[],0,[],0
+Restaurants,[Restaurants],1,[],0,[],0
+"Crowdsourcing, Delivery, E-Commerce, Retail",[],0,[],0,[],0
+Real Estate Investment,[],0,[],0,[Real],1
+"Energy, Oil and Gas",[Energy],1,[],0,[],0
+"Enterprise Software, Human Resources, Insurance, Internet",[],0,[],0,[],0
+"Banking, Consulting, Finance, Financial Services",[Banking],1,[],0,[],0
+"Fuel, Industrial, Oil and Gas, Retail",[],0,[],0,[],0
+"Biotechnology, Pharmaceutical, Veterinary",[],0,[],0,[],0
+"Logistics, Railroad, Transportation",[],0,[],0,[],0
+"Commercial, Construction, Consulting, Service Industry",[],0,[],0,[],0
+"Energy, Environmental Engineering, Renewable Energy",[Energy],1,[],0,[],0
+"Developer Platform, Enterprise Software, Software",[],0,[],0,[],0
+"Advertising, Energy, Health Care, Marketing, Office Administration",[Advertising],1,[],0,[],0
+"Apps, Banking, Financial Services, FinTech, Personal Finance",[],0,[],0,[],0
+"Delivery Service, E-Commerce, Grocery, Shopping",[Shopping],1,[],0,[],0
+"Service Industry, Telecommunications",[Telecommunications],1,[],0,[],0
+"Biotechnology, Health Care, Health Diagnostics, Pharmaceutical",[Pharmaceutical],1,[],0,[],0
+"Information Services, Information Technology, Software",[],0,[],0,[],0
+"E-Commerce, Hardware, Information Technology, Product Design, Software, Virtual Reality",[Reality],1,[],0,[Virtual],1
+"Banking, Finance, Financial Services, Insurance","[Banking, Insurance]",2,[],0,[],0
+Infrastructure,[Infrastructure],1,[],0,[],0
+"Banking, Credit Cards, Finance, Financial Services, Wealth Management",[Banking],1,[],0,[],0
+"Financial Services, Insurance",[Insurance],1,[],0,[],0
+"Digital Marketing, Travel Accommodations",[],0,[],0,[],0
+Banking,[Banking],1,[],0,[],0
+"Information Services, Information Technology, Software",[],0,[],0,[],0
+"E-Commerce, Food and Beverage, Grocery, Organic Food, Subscription Service",[],0,[],0,[],0
+"Outsourcing, Skill Assessment, Test and Measurement","[Outsourcing, Measurement]",2,[],0,[],0
+"Information and Communications Technology (ICT), Internet, Mobile, Telecommunications, Wireless",[Information],1,[],0,[],0
+"E-Commerce, Furniture, Lifestyle",[],0,[],0,[],0
+"Finance, Financial Services, FinTech",[Finance],1,[],0,[],0
+"Advertising, Media and Entertainment, Podcast",[Advertising],1,[],0,[],0
+"Construction, Infrastructure, Railroad, Transportation",[Construction],1,[],0,[],0
+"Building Material, Industrial, Manufacturing",[Manufacturing],1,[],0,[],0
+"Mobile, Mobile Payments, Wireless",[],0,[],0,[],0
+"Crowdfunding, Cryptocurrency, Financial Services, Venture Capital",[],0,[],0,[],0
+"Creative Agency, Marketing, SEO, Web Design","[Marketing, SEO, Web, Design]",4,[],0,[],0
+"Building Material, Manufacturing, Real Estate",[],0,[],0,[Real],1
+"Gaming, Publishing, Video Games",[Gaming],1,[],0,[],0
+"Cyber Security, Insurance, InsurTech",[],0,[],0,[],0
+"Banking, Enterprise Software, Financial Services",[Banking],1,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Media and Entertainment, Property Development, Real Estate",[Media],1,[],0,[],0
+"Data Visualization, Geospatial, Information Technology, Mapping Services, Software",[],0,[],0,[],0
+"Biotechnology, Health Care",[],0,[],0,[],0
+"Building Material, Landscaping",[Landscaping],1,[],0,[],0
+"E-Commerce, Fraud Detection, Mobile Payments, Payments",[Payments],1,[],0,[],0
+"Enterprise Software, Human Resources, SaaS, Software",[],0,[],0,[],0
+"Finance, Financial Services, Impact Investing",[Finance],1,[],0,[],0
+"Finance, Financial Services, Impact Investing",[Finance],1,[],0,[],0
+"Finance, Financial Services, Impact Investing",[Finance],1,[],0,[],0
+"Finance, FinTech, Social Media, Trading Platform","[Finance, Trading, Platform]",3,[],0,[],0
+"Computer, Fitness, Real Time, Wellness",[],0,[],0,[Real],1
+"Information Services, Information Technology, Software",[],0,[],0,[],0
+"Industrial, Manufacturing, Mechanical Engineering, Software",[],0,[],0,[],0
+"Biotechnology, Pharmaceutical, Supply Chain Management",[],0,[],0,[],0
+"Environmental Engineering, Industrial, Technical Support",[],0,[],0,[],0
+"Delivery Service, Information Technology, Same Day Delivery",[],0,[],0,[],0
+"Consulting, Information Technology",[],0,[],0,[],0
+"Consulting, Digital Media, Energy, Publishing",[],0,[],0,[],0
+"Health Care, Hospital",[],0,[],0,[],0
+"Civil Engineering, Construction, Infrastructure",[Infrastructure],1,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Food and Beverage, Food Processing, Life Science, Manufacturing","[Food, Manufacturing]",2,[],0,[],0
+"Construction, Medical",[Construction],1,[],0,[],0
+"Agriculture, Farming, Food and Beverage, Livestock, Renewable Energy, Transportation","[Agriculture, Transportation]",2,[],0,[],0
+"Financial Services, Logistics, Supply Chain Management, Venture Capital",[],0,[],0,[],0
+"Data Integration, Data Visualization",[],0,[],0,[],0
+"Education, Fitness, Health Care, Personal Health, Wellness",[Education],1,[],0,[],0
+"Information Technology, Printing, Retail, Technical Support",[],0,[],0,[],0
+Wine And Spirits,"[Wine, Spirits]",2,[],0,[],0
+"Finance, Financial Services, FinTech, Wealth Management",[Finance],1,[],0,[],0
+"Advertising, Electronics, Marketing, Reputation","[Advertising, Reputation]",2,[],0,[],0
+"Manufacturing, Paper Manufacturing, Renewable Energy",[Manufacturing],1,[],0,[],0
+"Electronics, Service Industry, Space Travel",[Electronics],1,[],0,[],0
+"Health Care, Medical, Medical Device",[],0,[],0,[],0
+"Cyber Security, Information Technology, Network Security, Security",[Security],1,[],0,[],0
+"E-Commerce, Financial Services, Venture Capital",[],0,[],0,[],0
+"Fitness, Service Industry, Wellness",[],0,[],0,[],0
+Home and Garden,[Home],1,[],0,[],0
+"Manufacturing, Marketing, Semiconductor",[Manufacturing],1,[],0,[],0
+"Consulting, Financial Services",[],0,[],0,[],0
+"Internet, Service Industry, Telecommunications","[Internet, Telecommunications]",2,[],0,[],0
+"Film Production, Marketing, TV",[TV],1,[],0,[],0
+"Artificial Intelligence, Construction, Consulting, Information Technology, Outsourcing",[Outsourcing],1,[],0,[],0
+"Digital Marketing, Social Media Marketing",[Marketing],1,[],0,[],0
+"Health Care, Life Science",[],0,[],0,[],0
+"Artificial Intelligence, Construction, Consulting, Information Technology, Outsourcing",[Outsourcing],1,[],0,[],0
+"Electronics, Industrial Automation, Manufacturing","[Electronics, Manufacturing]",2,[],0,[],0
+"Enterprise Software, Fleet Management, Information Services, Information Technology, SaaS",[SaaS],1,[],0,[],0
+"Banking, Financial Services, Venture Capital",[Banking],1,[],0,[],0
+"Consumer, Consumer Goods, Home Services, Manufacturing","[Consumer, Manufacturing]",2,[],0,[],0
+"Enterprise Resource Planning (ERP), Enterprise Software, Financial Services, Software",[],0,[],0,[],0
+Environmental Engineering,[],0,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Financial Services, Health Care, Telecommunications, Venture Capital",[],0,[],0,[],0
+"Advertising, B2B, Internet, Marketing, SaaS, Small and Medium Businesses",[Advertising],1,[],0,[Small],1
+"Enterprise Software, Software",[],0,[],0,[],0
+"E-Learning, EdTech, Education, Training","[E, -, Training]",3,[],0,[],0
+"Biotechnology, Health Care, Health Diagnostics",[],0,[],0,[],0
+"Consulting, Manufacturing, Public Safety, Real Estate, Service Industry",[],0,[],0,[],0
+"E-Learning, Education, Service Industry","[E, -]",2,[],0,[],0
+"Commercial, Electronics, Manufacturing",[Manufacturing],1,[],0,[],0
+Legal,[],0,[],0,[Legal],1
+"Enterprise Software, Financial Services, Information Technology, Payments, Risk Management, Security","[Payments, Security]",2,[],0,[],0
+"Finance, Financial Services",[Finance],1,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Billing, Legal, Software",[],0,[],0,[],0
+"Internet, Mobile, Wireless",[Internet],1,[],0,[],0
+"Auctions, E-Commerce, Internet, Marketplace, Retail, Search Engine",[Auctions],1,[],0,[],0
+"Consulting, CRM, Information Technology, Software",[],0,[],0,[],0
+"Architecture, Information Technology, Software",[],0,[],0,[],0
+"Financial Services, FinTech, Information Technology, Real Estate",[],0,[],0,[],0
+"Consumer Goods, Grocery, Retail",[Consumer],1,[],0,[],0
+Semiconductor,[Semiconductor],1,[],0,[],0
+"Banking, Finance, Financial Services",[Banking],1,[],0,[],0
+"Hardware, Internet of Things, IT Infrastructure, Network Security, Software","[Hardware, Internet]",2,[],0,[],0
+"Angel Investment, Bitcoin, Finance, FinTech, Venture Capital",[],0,[],0,[],0
+"Manufacturing, Mining, Precious Metals","[Manufacturing, Mining, Metals]",3,[],0,[Precious],1
+"Advice, Financial Services, Information Technology",[Advice],1,[],0,[],0
+"Food and Beverage, Wine And Spirits","[Food, Spirits]",2,[],0,[],0
+"E-Commerce, Software",[],0,[],0,[],0
+"Brand Marketing, Digital Media, SaaS, Software",[],0,[],0,[],0
+Software,[Software],1,[],0,[],0
+"Consulting, Information Technology, Software",[],0,[],0,[],0
+"Food and Beverage, Nutrition",[Food],1,[],0,[],0
+"Angel Investment, Finance, Financial Services, Health Care, Venture Capital",[],0,[],0,[],0
+"E-Commerce, Grocery, Retail, Shopping",[Shopping],1,[],0,[],0
+Printing,[Printing],1,[],0,[],0
+"SaaS, Small and Medium Businesses, Software",[],0,[],0,[Small],1
+"Delivery Service, E-Commerce, Grocery, Shopping",[Shopping],1,[],0,[],0
+"E-Commerce, Fashion, Internet, Marketplace",[],0,[],0,[],0
+"Banking, Cryptocurrency, Financial Services, Trading Platform","[Banking, Trading]",2,[],0,[],0
+"Biopharma, Biotechnology, Life Science",[],0,[],0,[],0
+"Clean Energy, Energy, Sustainability",[Sustainability],1,[],0,[],0
+"EdTech, Education, Language Learning",[],0,[],0,[],0
+"Cloud Management, Consulting, Cyber Security, Information Technology",[],0,[],0,[],0
+Chemical,[Chemical],1,[],0,[],0
+"SaaS, Software",[],0,[],0,[],0
+"Building Material, Wholesale",[],0,[],0,[],0
+"Asset Management, Credit, Financial Services, Property Management, Real Estate",[],0,[],0,[],0
+"Consulting, Government, Information Technology, Legal, Management Consulting, Risk Management",[],0,[],0,[],0
+Public Relations,[],0,[],0,[],0
+"Banking, Consulting, Content, E-Commerce, Financial Services, FinTech, PaaS, SaaS, Software",[Banking],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+Banking,[Banking],1,[],0,[],0
+"Advertising, Audio, Broadcasting, Content Delivery Network, Content Marketing, Internet Radio, Podcast",[Advertising],1,[],0,[],0
+Printing,[Printing],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Consulting, Financial Services, Professional Services",[],0,[],0,[],0
+"Communications Infrastructure, Infrastructure, Wireless",[],0,[],0,[],0
+"Semiconductor, Solar",[],0,[],0,[],0
+"Machinery Manufacturing, Manufacturing, Wholesale",[],0,[],0,[],0
+"Fashion, Sporting Goods, Sports","[Fashion, Sports]",2,[],0,[],0
+"Credit, Financial Services, Lending, Venture Capital",[Credit],1,[],0,[],0
+"Crowdsourcing, Delivery, E-Commerce, Retail",[],0,[],0,[],0
+"Ediscovery, Enterprise Software, Legal, Legal Tech",[],0,[],0,[],0
+Recruiting,[Recruiting],1,[],0,[],0
+Civil Engineering,[],0,[],0,[],0
+"Banking, Finance, Financial Services",[Banking],1,[],0,[],0
+"Automotive, Customer Service, Sales",[Sales],1,[],0,[],0
+"Financial Services, FinTech, Payments",[Payments],1,[],0,[],0
+"Energy, Energy Management, Oil and Gas",[Energy],1,[],0,[],0
+"Medical, Pharmaceutical",[],0,[],0,[],0
+"Brand Marketing, Manufacturing, Printing, Publishing, Software",[],0,[],0,[],0
+"Mobile, Telecommunications, VoIP",[],0,[],0,[],0
+"Mobile, Telecommunications, VoIP",[],0,[],0,[],0
+"Computer, CRM, Software",[],0,[],0,[],0
+"Advertising, Analytics, Enterprise Software, SaaS, Software",[Advertising],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Health Care, Medical Device",[],0,[],0,[],0
+"Consulting, Financial Services",[],0,[],0,[],0
+"Finance, Financial Services, Impact Investing",[Finance],1,[],0,[],0
+"FinTech, Home Improvement, Home Renovation, Home Services, Information Services, Insurance, InsurTech, Mobile Apps",[],0,[],0,[],0
+"Internet, Telecommunications",[Internet],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Asset Management, Crowdfunding, Financial Services, FinTech",[],0,[],0,[],0
+Sports,[Sports],1,[],0,[],0
+"Financial Services, FinTech, Payments",[Payments],1,[],0,[],0
+"Biotechnology, Health Care, Hospital",[],0,[],0,[],0
+"Business Information Systems, Consulting, Marketing",[Marketing],1,[],0,[],0
+"Aquaculture, Farming, Seafood",[Aquaculture],1,[],0,[],0
+"Electrical Distribution, Energy, Energy Management, Renewable Energy, Solar",[],0,[],0,[Electrical],1
+Advertising,[Advertising],1,[],0,[],0
+"Consulting, Financial Services, Information Technology, Retail Technology, Software",[],0,[],0,[],0
+"Consumer Goods, Retail, Supply Chain Management",[Consumer],1,[],0,[],0
+"Fleet Management, Logistics",[],0,[],0,[],0
+"Automotive, E-Commerce, Logistics, Marketplace, Retail Technology",[],0,[],0,[Automotive],1
+"Food and Beverage, Restaurants","[Food, Restaurants]",2,[],0,[],0
+"Accounting, Finance, Wealth Management",[Accounting],1,[],0,[],0
+"Advertising, Information Services, Marketing, Social Media Marketing","[Advertising, Marketing]",2,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Clean Energy, Energy, Industrial, Information Technology, Oil and Gas",[],0,[],0,[],0
+"Food and Beverage, Wholesale, Wine And Spirits","[Food, Spirits]",2,[],0,[],0
+"Beauty, E-Commerce, Fashion, Lifestyle, Wellness",[],0,[],0,[],0
+"Advice, Asset Management, Business Development, Financial Services, Insurance, Wealth Management",[Advice],1,[],0,[],0
+"Consumer Goods, Home and Garden, Home Decor, Manufacturing, Professional Services",[Consumer],1,[],0,[],0
+"Civil Engineering, Construction, Consulting, Industrial, Professional Services",[],0,[],0,[],0
+"Apps, Consulting, IT Infrastructure",[],0,[],0,[],0
+"Consulting, Enterprise Software, Information Services, Information Technology, Outsourcing, Quality Assurance, Software, Test and Measurement",[Measurement],1,[],0,[],0
+Information Services,[],0,[],0,[],0
+Biotechnology,[Biotechnology],1,[],0,[],0
+Biotechnology,[Biotechnology],1,[],0,[],0
+"Consumer Electronics, Consumer Goods, Hardware, Home Services, Manufacturing, Sales","[Consumer, Sales]",2,[],0,[],0
+"Information Technology, Software, Sports",[Sports],1,[],0,[],0
+"Android, E-Commerce, Information Services, Information Technology, Marketing, Mobile, Mobile Apps, Software, Web Design, Web Development","[Web, Web]",2,[],0,[],0
+"Analytics, Artificial Intelligence",[],0,[],0,[],0
+Online Portals,[Portals],1,[],0,[],0
+"Photography, Professional Services",[],0,[],0,[],0
+"Gaming, Online Games, PC Games",[Gaming],1,[],0,[],0
+"Industrial, Manufacturing, Service Industry",[],0,[],0,[],0
+"Digital Media, Service Industry",[],0,[],0,[],0
+"Accounting, Cloud Computing, Finance, Management Information Systems, Software",[Accounting],1,[],0,[],0
+"Biotechnology, Health Care, Medical, Pharmaceutical",[],0,[],0,[],0
+"Digital Entertainment, Mobile Apps, Online Games, Software, Video Games",[],0,[],0,[],0
+"Information Technology, Printing, Retail, Technical Support",[],0,[],0,[],0
+"Human Resources, Professional Services, Recruiting",[],0,[],0,[],0
+"Artificial Intelligence, Software, Task Management",[],0,[],0,[],0
+"Education, Internet","[Education, Internet]",2,[],0,[],0
+"Analytics, Data Center Automation, Information Services, Information Technology, Software",[],0,[],0,[],0
+Manufacturing,[Manufacturing],1,[],0,[],0
+"Banking, Financial Services, Lending","[Banking, Lending]",2,[],0,[],0
+Construction,[Construction],1,[],0,[],0
+"Aquaculture, Consulting, Environmental Consulting, Management Consulting",[Aquaculture],1,[],0,[],0
+"Casino, Gambling",[Gambling],1,[],0,[],0
+"3D Printing, Hardware, Software",[],0,[],0,[],0
+"Big Data, Construction, FinTech, Infrastructure, Real Estate, SaaS, Software, Virtual Workforce",[],0,[],0,[],0
+"Health Care, mHealth, Mobile Apps, Training, Wellness",[],0,[],0,[],0
+"Automotive, Autonomous Vehicles, Manufacturing",[Manufacturing],1,[],0,[],0
+"Health Care, Health Diagnostics",[],0,[],0,[],0
+"Media and Entertainment, Telecommunications","[Media, Telecommunications]",2,[],0,[],0
+"Energy Management, Software",[],0,[],0,[],0
+"Brand Marketing, Food Delivery, Franchise, Training",[Training],1,[],0,[],0
+"Banking, Digital Media, Marketing","[Banking, Marketing]",2,[],0,[],0
+"Artificial Intelligence, Computer Vision, Crowdsourcing, Enterprise Software, Image Recognition, Natural Language Processing, Outsourcing",[Outsourcing],1,[],0,[],0
+"Advertising, Broadcasting, Digital Media, Telecommunications","[Advertising, Telecommunications]",2,[],0,[],0
+"Asset Management, Financial Services",[],0,[],0,[],0
+"Biotechnology, Health Care, Hospital, Life Science, Medical",[],0,[],0,[],0
+Sports,[Sports],1,[],0,[],0
+"Cloud Data Services, Financial Services, FinTech, Information Technology",[],0,[],0,[],0
+"Financial Services, Health Care, Venture Capital",[],0,[],0,[],0
+Software,[Software],1,[],0,[],0
+"Beauty, Cosmetics, E-Commerce, Internet, Training, Wellness",[Cosmetics],1,[],0,[],0
+Construction,[Construction],1,[],0,[],0
+Pharmaceutical,[],0,[],0,[Pharmaceutical],1
+"Consulting, Information Technology, Internet",[],0,[],0,[],0
+"Employee Benefits, Insurance","[Employee, Benefits, Insurance]",3,[],0,[],0
+"Recruiting, Staffing Agency",[Recruiting],1,[],0,[],0
+"E-Commerce, Pet",[Pet],1,[],0,[],0
+"IT Management, Legal, Security",[Security],1,[],0,[],0
+"Chemical, Manufacturing, Medical",[],0,[],0,[],0
+"Automotive, Manufacturing, Transportation",[Transportation],1,[],0,[],0
+"Architecture, Building Maintenance, Civil Engineering, Construction","[Architecture, Construction]",2,[],0,[],0
+"Education, Vocational Education",[Education],1,[],0,[],0
+"Enterprise Software, Mobile, Social Media, Software",[],0,[],0,[],0
+"Audio, Blogging Platforms, Social Media",[Media],1,[],0,[],0
+"Consulting, CRM, Database, Enterprise Software, Mobile Apps, Software",[],0,[],0,[],0
+"Enterprise Software, Human Resources, Intelligent Systems, Neuroscience, Predictive Analytics, SaaS, Software",[],0,[],0,[],0
+"Cloud Data Services, Technical Support",[],0,[],0,[],0
+"Cannabis, Medical, Organic",[],0,[],0,[],0
+"Advertising, Brand Marketing, Digital Marketing, Internet, Marketing","[Advertising, Marketing]",2,[],0,[],0
+"Collaboration, Enterprise Software, Information Technology, Search Engine",[Collaboration],1,[],0,[],0
+"Financial Services, Impact Investing",[],0,[],0,[],0
+"Energy, Power Grid",[Energy],1,[],0,[],0
+"EdTech, Education",[],0,[],0,[],0
+"Biotechnology, Consulting, Health Care",[Biotechnology],1,[],0,[],0
+"Delivery, E-Commerce, Retail",[Delivery],1,[],0,[],0
+"Computer, Network Security",[],0,[],0,[],0
+"Advertising, Digital Marketing, Graphic Design, Marketing, Public Relations, Social Media Marketing, Web Design","[Advertising, Web, Design]",3,[],0,[],0
+"Enterprise Software, Human Resources, Risk Management, Software",[],0,[],0,[],0
+"Accounting, Cloud Computing, CRM, Enterprise Resource Planning (ERP), Enterprise Software, Finance, SaaS, Software",[Accounting],1,[],0,[],0
+"Collaboration, Enterprise Software, Information Technology, Software",[Collaboration],1,[],0,[],0
+"Advertising, Consulting, Marketing","[Advertising, Marketing]",2,[],0,[],0
+"3D Technology, Enterprise Software, Manufacturing, Product Design",[],0,[],0,[],0
+"Financial Services, Venture Capital",[],0,[],0,[],0
+"Manufacturing, Printing, Publishing",[Manufacturing],1,[],0,[],0
+"Commercial Insurance, Finance, Financial Services, Insurance",[Insurance],1,[],0,[],0
+Real Estate,[Estate],1,[],0,[Real],1
+"Artificial Intelligence, Information Services, Information Technology, Robotics",[Robotics],1,[],0,[],0
+Clinical Trials,[],0,[],0,[],0
+"Finance, Financial Services",[Finance],1,[],0,[],0
+"Electronics, Industrial, Manufacturing, Semiconductor",[Electronics],1,[],0,[],0
+"Fashion, Sporting Goods, Sports","[Fashion, Sports]",2,[],0,[],0
+"Biotechnology, Health Care",[],0,[],0,[],0
+"Building Material, Construction, Energy, Hardware, Manufacturing, Real Estate, Telecommunications",[Telecommunications],1,[],0,[],0
+"Tourism, Travel, Travel Agency",[],0,[],0,[],0
+"Blockchain, Cryptocurrency, Developer APIs, Information Technology, Virtual Currency",[APIs],1,[],0,[],0
+"Consulting, Human Resources",[],0,[],0,[],0
+"Electronics, Finance, Information Services, Internet, Medical, Mobile, Retail, Web Development","[Electronics, Web]",2,[],0,[],0
+"Commercial Insurance, Employee Benefits, Financial Services, Health Insurance, Human Resources, Insurance, Life Insurance",[Benefits],1,[],0,[],0
+"Business Intelligence, Cloud Security, Enterprise Resource Planning (ERP), Information Technology, Internet of Things, IT Infrastructure, Machine Learning, Software",[Internet],1,[],0,[],0
+"Analytics, CAD, Enterprise Software, Mechanical Engineering, Mobile, SaaS, Software",[],0,[],0,[],0
+"Biotechnology, Genetics, Health Care, Health Diagnostics",[],0,[],0,[],0
+"Artificial Intelligence, CAD, Construction, Enterprise Software, Infrastructure, Internet of Things, Software",[Internet],1,[],0,[],0
+"Financial Services, FinTech, Mobile Payments, Software",[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Software, Sports, Video",[Video],1,[],0,[],0
+"Information Services, Information Technology, Marketing",[Marketing],1,[],0,[],0
+"Financial Services, FinTech, Information Services, Information Technology",[],0,[],0,[],0
+"Asset Management, Commercial Real Estate, Financial Services",[],0,[],0,[],0
+"Finance, Payments","[Finance, Payments]",2,[],0,[],0
+"Computer, E-Learning, Email, Legal, Professional Services",[Computer],1,[],0,[],0
+"Computer, Software",[],0,[],0,[],0
+"Chemical, Clean Energy, Environmental Engineering",[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Building Material, Home Improvement, Home Renovation, Retail, Wholesale",[],0,[],0,[],0
+"Electronics, Technical Support",[Electronics],1,[],0,[],0
+"Manufacturing, Paper Manufacturing, Sales","[Manufacturing, Sales]",2,[],0,[],0
+"Cyber Security, Information Services, Information Technology, IT Management, Security, Software",[],0,[],0,[],0
+"Finance, Financial Services, FinTech, Service Industry",[Finance],1,[],0,[],0
+"Advice, Environmental Consulting",[Advice],1,[],0,[],0
+Geospatial,[Geospatial],1,[],0,[],0
+"Customer Service, Supply Chain Management, Warehousing",[],0,[],0,[],0
+Insurance,[Insurance],1,[],0,[],0
+"Artificial Intelligence, Construction, Consulting, Information Technology, Outsourcing",[Outsourcing],1,[],0,[],0
+"Fleet Management, Logistics, Supply Chain Management, Transportation",[],0,[],0,[],0
+"Consulting, Software, Training",[Training],1,[],0,[],0
+"E-Commerce, Electronics, Information Technology, Payments, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Medical",[],0,[],0,[],0
+"Finance, Financial Services",[Finance],1,[],0,[],0
+"Artificial Intelligence, Cyber Security, Network Security",[],0,[],0,[],0
+"Analytics, Health Care, Hospital, Software",[],0,[],0,[],0
+"Asset Management, Financial Services",[],0,[],0,[],0
+"Information Services, Information Technology",[],0,[],0,[],0
+"Bitcoin, Blockchain, Ethereum, Finance, Information Technology, Software",[],0,[],0,[],0
+"Industrial, Manufacturing",[Manufacturing],1,[],0,[],0
+"Biopharma, Medical, Pharmaceutical",[],0,[],0,[],0
+Biotechnology,[Biotechnology],1,[],0,[],0
+"Biopharma, Biotechnology, Medical Device, Pharmaceutical",[Pharmaceutical],1,[],0,[],0
+Video Games,[],0,[],0,[],0
+"Financial Services, Small and Medium Businesses",[],0,[],0,[Small],1
+"Energy, Industrial Automation, Manufacturing, Solar",[Energy],1,[],0,[],0
+"Business Intelligence, Software",[],0,[],0,[],0
+"Fitness, Health Care, Hospital",[],0,[],0,[],0
+"Internet, Software",[Internet],1,[],0,[],0
+"Leisure, Real Estate, Tourism, Travel","[Leisure, Travel]",2,[],0,[],0
+"Enterprise Software, Health Care, Pharmaceutical",[],0,[],0,[],0
+"Consulting, Network Security",[],0,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"Manufacturing, Robotics","[Manufacturing, Robotics]",2,[],0,[],0
+"Electrical Distribution, Energy Efficiency, Industrial Automation",[],0,[],0,[Electrical],1
+"Film, Media and Entertainment, Motion Capture, Social Media",[Media],1,[],0,[],0
+"Communities, Enterprise Software, Health Care, Public Safety, Software",[Communities],1,[],0,[],0
+"Content, Data Mining, Internet, Social Media",[Media],1,[],0,[],0
+"Information Services, News, Publishing, Social News",[],0,[],0,[],0
+"Consulting, Politics",[Politics],1,[],0,[],0
+"Logistics, Transportation","[Logistics, Transportation]",2,[],0,[],0
+"Dental, Health Care, Medical, Service Industry, Training",[Training],1,[],0,[],0
+"Financial Services, Retirement, Wealth Management",[],0,[],0,[],0
+"Financial Services, Retirement, Wealth Management",[],0,[],0,[],0
+"Financial Services, Information Technology, Venture Capital",[],0,[],0,[],0
+"Consulting, Enterprise Resource Planning (ERP), Information Technology, Software",[],0,[],0,[],0
+"Analytics, Big Data, Cloud Data Services, Commercial Real Estate, Real Estate, Real Estate Investment",[Analytics],1,[],0,[],0
+"Electronics, Manufacturing","[Electronics, Manufacturing]",2,[],0,[],0
+"Communications Infrastructure, Telecommunications, Wireless",[],0,[],0,[],0
+Finance,[Finance],1,[],0,[],0
+"Brand Marketing, E-Commerce, Retail",[],0,[],0,[],0
+"E-Commerce, Retail Technology",[],0,[],0,[],0
+"Finance, Financial Services, Retirement",[Finance],1,[],0,[],0
+"Android, Casual Games, Online Games",[],0,[],0,[],0
+"Biotechnology, Health Care, Pharmaceutical",[],0,[],0,[],0
+"Angel Investment, Finance, Venture Capital",[],0,[],0,[],0
+"Computer, Risk Management, Software",[Computer],1,[],0,[],0
+Technical Support,[],0,[],0,[],0
+"Asset Management, Government, Venture Capital",[],0,[],0,[],0
+Construction,[Construction],1,[],0,[],0
+"B2B, Commercial, Consumer Electronics, Wholesale",[],0,[],0,[],0
+"Business Intelligence, Information Technology, Outsourcing, Staffing Agency",[],0,[Staffing],1,[],0
+Financial Services,[],0,[],0,[],0
+"Business Information Systems, Enterprise Software, Human Resources, Information Technology, Software",[],0,[],0,[],0
+"Environmental Consulting, Renewable Energy",[],0,[],0,[],0
+"Computer, Network Security",[],0,[],0,[],0
+"3D Technology, Gaming, Online Games, Software, Video Games",[],0,[],0,[],0
+"Fitness, Health Care, Manufacturing, Medical Device, Sports",[Sports],1,[],0,[],0
+"Publishing, Social Bookmarking",[],0,[],0,[],0
+"Asset Management, Business Development, Finance, Financial Services, Venture Capital",[],0,[],0,[],0
+"Bitcoin, Blockchain, Cryptocurrency, Ethereum, FinTech",[],0,[],0,[],0
+"Commercial, Electrical Distribution",[Distribution],1,[],0,"[Commercial, Electrical]",2
+"Banking, Employee Benefits, Financial Services, Wealth Management","[Banking, Benefits]",2,[],0,[],0
+"3D Printing, Consumer Goods, Manufacturing, Product Design",[Goods],1,[],0,[3D],1
+"Real Estate, Software, Technical Support",[],0,[],0,[Real],1
+"Enterprise Software, Financial Services, Translation Service, Venture Capital",[],0,[],0,[],0
+Web Hosting,"[Web, Hosting]",2,[],0,[],0
+"Energy, Oil and Gas",[Energy],1,[],0,[],0
+"Health Care, Information Technology, Software",[],0,[],0,[],0
+Architecture,[Architecture],1,[],0,[],0
+"Cyber Security, Information Technology, Insurance, Risk Management",[],0,[],0,[],0
+E-Commerce,[Commerce],1,[],0,[],0
+"Consulting, Information Technology",[],0,[],0,[],0
+"Health Care, Medical, Wellness",[],0,[],0,[],0
+"Financial Services, Venture Capital",[],0,[],0,[],0
+"Chemical, Energy, Manufacturing, Oil and Gas",[],0,[],0,[],0
+"Information Technology, Office Administration, Professional Services, Recruiting, Staffing Agency",[],0,[],0,[],0
+"Consumer Electronics, Electronics, Energy Efficiency, Manufacturing, Semiconductor",[Consumer],1,[],0,[],0
+"Laundry and Dry-cleaning, Service Industry",[cleaning],1,[],0,[],0
+Venture Capital,[],0,[],0,[],0
+"Fitness, Health Care, Software, Wellness",[],0,[],0,[],0
+"Financial Exchanges, Financial Services, Internet, Mobile Payments, Payments",[Payments],1,[],0,[],0
+"Child Care, Consumer, Education",[],0,[],0,[],0
+"Enterprise Software, Information Technology, Software",[],0,[],0,[],0
+"Employment, Professional Services, Recruiting",[Employment],1,[],0,[],0
+"Food and Beverage, Food Processing, Product Research",[Food],1,[],0,[],0
+"Publishing, Social Bookmarking",[],0,[],0,[],0
+"Consumer Goods, Retail, Supply Chain Management",[Consumer],1,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Human Resources, Information Technology, Professional Services, Software",[],0,[],0,[],0
+"Cloud Management, Information Technology",[],0,[],0,[],0
+"Food Delivery, Food Processing, Logistics, Supply Chain Management, Warehousing",[],0,[],0,[],0
+"Blockchain, Developer APIs, Developer Platform, Productivity Tools","[Developer, APIs]",2,[],0,[],0
+"Advertising, Marketing, News, Social Media","[Advertising, Media]",2,[],0,[],0
+"Fashion, Sporting Goods, Sports","[Fashion, Sports]",2,[],0,[],0
+"3D Printing, Product Design",[],0,[],0,[3D],1
+"Cannabis, Manufacturing, Medical, Pharmaceutical",[],0,[],0,[],0
+"Consulting, Financial Services, Venture Capital",[],0,[],0,[],0
+"Enterprise Software, Finance, Financial Services",[],0,[],0,[],0
+"PaaS, Social Media, Social Media Advertising, Social Media Management, Social Media Marketing, Software",[],0,[],0,[],0
+"Banking, Finance, Financial Services, FinTech",[Banking],1,[],0,[],0
+"Clean Energy, CleanTech, Electrical Distribution, Energy Management, Renewable Energy",[],0,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Consulting, Financial Services, Impact Investing, Venture Capital",[],0,[],0,[],0
+"Asset Management, Financial Services, Real Estate, Venture Capital",[],0,[],0,[],0
+"Industrial Engineering, Industrial Manufacturing",[],0,[],0,[],0
+"Billing, Developer APIs, Payments, SaaS, Software","[Billing, Developer, APIs]",3,[],0,[],0
+"3D Printing, Industrial Engineering, Manufacturing, Mechanical Engineering",[],0,[],0,[3D],1
+"Consumer Goods, Industrial, Manufacturing, Product Design, Sales","[Consumer, Sales]",2,[],0,[],0
+"Business Development, Franchise, Management Consulting, Service Industry",[],0,[],0,[],0
+"Business Development, Finance, Financial Services",[],0,[],0,[],0
+"Communities, Consumer Goods, Lifestyle, Manufacturing, Sports","[Communities, Sports]",2,[],0,[],0
+"Cloud Computing, SaaS, Virtualization, Web Hosting","[Web, Hosting]",2,[],0,[],0
+"Biopharma, Medical, Pharmaceutical",[],0,[],0,[],0
+"CRM, Customer Service, Internet",[],0,[],0,[],0
+"Automotive, Manufacturing",[Manufacturing],1,[],0,[],0
+"Accounting, Advice, Legal, Marketplace",[Accounting],1,[],0,[],0
+"Digital Marketing, SEO, Web Design","[SEO, Web, Design]",3,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Financial Services, Impact Investing, Venture Capital",[],0,[],0,[],0
+"Asset Management, Banking, Financial Services, FinTech",[],0,[],0,[],0
+"Consulting, Recruiting, Small and Medium Businesses",[],0,[],0,[Small],1
+"Enterprise Software, Financial Services, Software",[],0,[],0,[],0
+"Agriculture, AgTech, Asset Management, FinTech, Real Estate Investment",[],0,[],0,[],0
+"Advertising, Analytics, Consulting, Email Marketing, SEM, SEO","[Advertising, SEO]",2,[],0,[],0
+"Customer Service, E-Commerce, Enterprise Software, Hotel, Information Technology, SaaS, Software",[],0,[],0,[],0
+"Dental, Health Care, Software",[],0,[],0,[],0
+"Analytics, Cyber Security, Information Technology, Internet",[Analytics],1,[],0,[],0
+"Accounting, Financial Services, Professional Services",[Accounting],1,[],0,[],0
+"Health Care, Manufacturing, Medical Device",[],0,[],0,[],0
+"Health Insurance, Insurance, Life Insurance",[],0,[],0,[],0
+"Information Technology, Media and Entertainment, Video, Video Streaming",[],0,[],0,[],0
+"Finance, Small and Medium Businesses, Venture Capital",[Finance],1,[],0,[Small],1
+"Financial Services, Management Consulting, Project Management",[],0,[],0,[],0
+"Advice, Consulting, Management Consulting",[Advice],1,[],0,[],0
+"Asset Management, Financial Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Commercial, Health Care, Medical, Medical Device",[],0,[],0,[],0
+"Hospitality, Information Technology, Internet",[Hospitality],1,[],0,[],0
+"Automotive, Autonomous Vehicles, Manufacturing, Service Industry",[],0,[],0,[],0
+"Cloud Computing, Cloud Data Services, Web Hosting","[Web, Hosting]",2,[],0,[],0
+"Financial Services, Real Estate",[],0,[],0,[Real],1
+"Asset Management, Business Development, Finance, Financial Services, Venture Capital",[],0,[],0,[],0
+"Consulting, Information Technology, Legal",[],0,[],0,[Legal],1
+"Enterprise Software, Hardware, Internet of Things, Parking, Payments, Software",[Internet],1,[],0,[],0
+"Health Care, Medical, Medical Device",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Health Care, Medical, Medical Device",[],0,[],0,[],0
+"Accounting, Advice, Consulting, Information Technology, Management Consulting",[Accounting],1,[],0,[],0
+"Finance, Financial Services",[Finance],1,[],0,[],0
+"Consumer, Health Care, Therapeutics","[Consumer, Therapeutics]",2,[],0,[],0
+"Financial Services, FinTech, Insurance",[Insurance],1,[],0,[],0
+Asset Management,[],0,[],0,[],0
+"Information Technology, Internet, Telecommunications",[],0,[],0,[],0
+"Biotechnology, Health Care, Medical, Pharmaceutical",[],0,[],0,[],0
+"Biotechnology, Health Care, Medical",[],0,[],0,[],0
+Video Games,[],0,[],0,[],0
+"Education, Non Profit",[Education],1,[],0,[],0
+"Information Technology, IT Infrastructure, Software",[],0,[],0,[],0
+"Fitness, Service Industry, Wellness",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Finance, Financial Services, Impact Investing",[Finance],1,[],0,[],0
+"Fitness, Service Industry, Wellness",[],0,[],0,[],0
+"Gaming, Information Technology, Media and Entertainment, Video Games",[Gaming],1,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Energy, Information Technology, Software",[Energy],1,[],0,[],0
+Association,[Association],1,[],0,[],0
+"Health Care, Medical Device",[],0,[],0,[],0
+"Health Care, Health Diagnostics, Hospital",[Hospital],1,[],0,[],0
+Oil and Gas,[Oil],1,[],0,[],0
+"Customer Service, Sales",[Sales],1,[],0,[],0
+"Cloud Computing, Sustainability",[Sustainability],1,[],0,[],0
+"Hospitality, Retail",[],0,[],0,[],0
+"Health Care, Outpatient Care",[],0,[],0,[],0
+"Consulting, Information Technology, Software, Telecommunications",[],0,[],0,[],0
+"Financial Services, Retail",[],0,[],0,[],0
+"Cryptocurrency, FinTech, Stock Exchanges, Trading Platform","[Trading, Platform]",2,[],0,[],0
+"Automotive, Industrial Engineering, Marine Technology, Mechanical Engineering",[],0,[],0,[],0
+"Computer, Health Care, Network Security, Software",[Computer],1,[],0,[],0
+"Banking, Financial Services",[Banking],1,[],0,[],0
+"Communications Infrastructure, Customer Service, Information Technology, Software",[],0,[],0,[],0
+"Automotive, Mechanical Engineering, Plastics and Rubber Manufacturing",[Manufacturing],1,[],0,[],0
+"Information Services, Information Technology, Service Industry",[],0,[],0,[],0
+"Electronics, Manufacturing","[Electronics, Manufacturing]",2,[],0,[],0
+"Brand Marketing, Graphic Design, Software",[],0,[],0,[],0
+"Auto Insurance, Commercial Insurance, Customer Service, Health Insurance, Insurance",[Insurance],1,[],0,[],0
+"Legal, Professional Services, Software",[],0,[],0,[Legal],1
+"Advertising, Marketing, Mobile Advertising","[Advertising, Marketing]",2,[],0,[],0
+"3D Printing, Manufacturing",[Manufacturing],1,[],0,[3D],1
+"Developer Platform, Energy, Oil and Gas",[],0,[],0,[],0
+"Advertising, Content, Lead Generation, Marketing","[Advertising, Marketing]",2,[],0,[],0
+"Health Care, Software",[],0,[],0,[],0
+"Credit Cards, Financial Services, FinTech, Payments",[Payments],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Consulting, Recruiting, Staffing Agency",[],0,[],0,[],0
+"Accounting, Artificial Intelligence, Business Intelligence, Consulting, Financial Services, Professional Services",[Accounting],1,[],0,[],0
+"Consulting, Information Technology, IT Management, News, Software",[],0,[],0,[],0
+"Food and Beverage, Wine And Spirits","[Food, Spirits]",2,[],0,[],0
+"EdTech, Education",[],0,[],0,[],0
+"Human Resources, Information Technology, Staffing Agency",[],0,[Staffing],1,[],0
+"Construction, Real Estate, Supply Chain Management",[Construction],1,[],0,[],0
+"Apps, Consulting, Internet, Open Source, Software",[],0,[],0,[],0
+Chemical,[Chemical],1,[],0,[],0
+"Financial Services, SaaS, Software",[],0,[],0,[],0
+"Augmented Reality, Cryptocurrency, E-Commerce, Gaming, Internet, Media and Entertainment, Retail, SaaS, Virtual Reality, Virtual World",[],0,[],0,"[Virtual, Virtual]",2
+"Hardware, Information Technology, Professional Services, Software",[Hardware],1,[],0,[],0
+"Enterprise Software, Logistics, Supply Chain Management",[],0,[],0,[],0
+"CleanTech, Environmental Consulting, Information Technology",[],0,[],0,[],0
+"Advertising, Content, Marketing","[Advertising, Marketing]",2,[],0,[],0
+"Information Technology, Payments, Small and Medium Businesses, Software",[],0,[],0,[Small],1
+Building Material,[],0,[],0,[],0
+"Consulting, Information Technology, IT Management, News, Software",[],0,[],0,[],0
+"Mining, Mining Technology, Precious Metals","[Mining, Metals]",2,[],0,[Precious],1
+"Electronics, Information Technology, Manufacturing","[Electronics, Manufacturing]",2,[],0,[],0
+"Advertising Platforms, B2B, Enterprise Software, Social Media Advertising, Software",[],0,[],0,[],0
+"Information Services, Online Portals",[Portals],1,[],0,[],0
+"Financial Services, Venture Capital",[],0,[],0,[],0
+"Machinery Manufacturing, Mechanical Design",[],0,[],0,[],0
+"Finance, Impact Investing, Market Research",[Finance],1,[],0,[],0
+"Finance, Financial Services",[Finance],1,[],0,[],0
+"Financial Services, Risk Management, Wealth Management",[],0,[],0,[],0
+"Business Intelligence, Commercial Real Estate, Information Technology, Rental Property",[],0,[],0,[],0
+"Consulting, Human Resources, Recruiting, SaaS, Software",[],0,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Artificial Intelligence, Health Care, Medical Device, Software",[],0,[],0,[],0
+"3D Printing, 3D Technology, Industrial Engineering, Mechanical Engineering, Software",[],0,[],0,[3D],1
+"Apps, Children, Health Care",[],0,[],0,[],0
+"Media and Entertainment, Telecommunications","[Media, Telecommunications]",2,[],0,[],0
+"Bitcoin, Blockchain, Cryptocurrency, Ethereum, FinTech",[],0,[],0,[],0
+Venture Capital,[],0,[],0,[],0
+"Aerospace, Hardware, Manufacturing",[Manufacturing],1,[],0,[],0
+"Logistics, Messaging, Transportation","[Logistics, Transportation]",2,[],0,[],0
+"Consulting, Financial Services, Insurance, Management Consulting, Risk Management",[],0,[],0,[],0
+"Beauty, Cosmetics, Manufacturing, Personal Health",[Cosmetics],1,[],0,[],0
+"Business Development, Industrial, Manufacturing",[Manufacturing],1,[],0,[],0
+Management Consulting,[],0,[],0,[],0
+"Education, Electrical Distribution, Facilities Support Services, Facility Management, Industrial, Janitorial Service, Manufacturing, Mechanical Engineering",[Education],1,[],0,[Electrical],1
+"Financial Services, Insurance, Wealth Management",[],0,[],0,[],0
+Video Games,[],0,[],0,[],0
+"Architecture, Furniture, Health Care, Interior Design",[],0,[],0,[],0
+"Advertising, Consulting, Marketing","[Advertising, Marketing]",2,[],0,[],0
+"Elder Care, Health Care",[],0,[],0,[],0
+"Document Management, Enterprise Software, Software, Web Hosting","[Web, Hosting]",2,[],0,[],0
+"E-Commerce, Information Technology, Internet, Marketplace, Professional Services",[],0,[],0,[],0
+"Biopharma, Clinical Trials, Data Integration, Health Care, Software",[],0,[],0,[],0
+Building Material,[],0,[],0,[],0
+"E-Learning, EdTech, Education, Tutoring","[E, -]",2,[],0,[],0
+"Food Processing, Health Care",[],0,[],0,[],0
+"Digital Marketing, Marketing",[Marketing],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Computer, Consumer Electronics, Hardware, IT Infrastructure, Software",[Computer],1,[],0,[],0
+"Finance, Financial Services, Impact Investing",[Finance],1,[],0,[],0
+"Computer, SaaS, Software",[],0,[],0,[],0
+"Financial Services, Innovation Management, Software",[],0,[],0,[],0
+"Apps, Enterprise, Financial Services, Payments",[Payments],1,[],0,[],0
+"Information and Communications Technology (ICT), Information Technology",[Information],1,[],0,[],0
+"Biotechnology, Education, Health Care, Pharmaceutical",[],0,[],0,[],0
+"Energy, Power Grid, Renewable Energy",[Energy],1,[],0,[],0
+E-Commerce,[Commerce],1,[],0,[],0
+"E-Commerce, Financial Services, FinTech, Payments",[Payments],1,[],0,[],0
+"Banking, Consulting, Financial Services",[Banking],1,[],0,[],0
+"Accounting, Consulting, Financial Services",[Accounting],1,[],0,[],0
+"Information Technology, Internet",[],0,[],0,[],0
+"Clinical Trials, Pharmaceutical",[],0,[],0,[],0
+"Financial Services, Venture Capital",[],0,[],0,[],0
+"Clinical Trials, Health Care, Medical",[],0,[],0,[],0
+"Audio, Consumer, Consumer Electronics, DSP, Electronics, Manufacturing",[Manufacturing],1,[],0,[],0
+"Health Care, Life Science",[],0,[],0,[],0
+"CRM, Information Technology",[],0,[],0,[],0
+"Automotive, Retail, Sales",[Sales],1,[],0,[],0
+"E-Commerce, Finance, Financial Services",[],0,[],0,[],0
+"Data Center, Information Technology",[],0,[],0,[],0
+"Information Technology, Internet",[],0,[],0,[],0
+"IT Management, Mobile, Software, Web Development",[Web],1,[],0,[],0
+"Advertising, Brand Marketing, Digital Marketing, Internet, Marketing","[Advertising, Marketing]",2,[],0,[],0
+"Accounting, Legal, Risk Management, Software",[Accounting],1,[],0,[],0
+"Document Management, Financial Services, Information Services, Mobile Payments, Payments, Software",[Payments],1,[],0,[],0
+"Biotechnology, Health Diagnostics, Life Science, Manufacturing",[Manufacturing],1,[],0,[],0
+"Innovation Management, Quality Assurance, Security",[Security],1,[],0,[],0
+"Banking, Credit Cards, Financial Services, FinTech, Retail",[Banking],1,[],0,[],0
+"Automotive, Autonomous Vehicles, Electric Vehicle, Ride Sharing, Software",[],0,[],0,[],0
+"FinTech, Information Technology, Logistics, SaaS",[SaaS],1,[],0,[],0
+"Technical Support, Transportation",[Transportation],1,[],0,[],0
+"Cloud Computing, Collaboration, Enterprise Software, Music, Software, Video, Video Editing",[],0,[],0,[],0
+"Finance, Impact Investing, Venture Capital",[Finance],1,[],0,[],0
+"Biotechnology, Health Care, Health Diagnostics, Medical Device",[Device],1,[],0,[],0
+"Consulting, Information Technology, IT Management, Software",[],0,[],0,[],0
+Infrastructure,[Infrastructure],1,[],0,[],0
+"Financial Services, Insurance, Service Industry",[],0,[],0,[],0
+Business Development,[],0,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"Analytics, Automotive, Enterprise Software, Information Technology, Software, Supply Chain Management",[],0,[],0,[],0
+"Health Care, Home Health Care, Medical",[],0,[],0,[],0
+"Health Care, Home Services",[],0,[],0,[],0
+"Consumer, Enterprise Software, Financial Services, Health Care, Service Industry",[Consumer],1,[],0,[],0
+"Finance, Financial Services, Personal Finance",[Finance],1,[],0,[],0
+"Insurance, Software",[Insurance],1,[],0,[],0
+"Business Development, Finance, Podcast, Venture Capital",[],0,[],0,[],0
+"Cloud Data Services, Cyber Security, Information Technology",[],0,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+Cosmetics,[Cosmetics],1,[],0,[],0
+"Financial Services, Web Hosting","[Web, Hosting]",2,[],0,[],0
+"Consulting, Information Technology",[],0,[],0,[],0
+Logistics,[Logistics],1,[],0,[],0
+"Advertising, Brand Marketing, Marketing, Retail",[Advertising],1,[],0,[],0
+"Artificial Intelligence, Blockchain, Finance, Financial Services, FinTech, Machine Learning, Sales, Software, Web Development",[Web],1,[],0,[],0
+"FinTech, Human Resources, Recruiting",[],0,[],0,[],0
+"Communications Infrastructure, Electronics, Information Technology, Mobile, Public Safety, Telecommunications, Wireless",[],0,[],0,[],0
+"Peer to Peer, Rental, Retail",[],0,[Peer],1,[],0
+"Impact Investing, Venture Capital",[],0,[],0,[],0
+"Consumer Goods, Grocery, Retail",[Consumer],1,[],0,[],0
+"Financial Services, FinTech, Information Technology",[],0,[],0,[],0
+Manufacturing,[Manufacturing],1,[],0,[],0
+Optical Communication,[],0,[],0,[Optical],1
+"Aerospace, Cyber Security, Information Technology, Law Enforcement, Military, National Security, Space Travel, Test and Measurement",[Measurement],1,[],0,[],0
+"Finance, Financial Services, FinTech",[Finance],1,[],0,[],0
+Security,[Security],1,[],0,[],0
+"EdTech, Internet, Video Chat",[],0,[],0,[],0
+Accounting,[Accounting],1,[],0,[],0
+"Consulting, Information Services, Information Technology, Staffing Agency",[],0,[Staffing],1,[],0
+"Business Development, Finance, Financial Services",[],0,[],0,[],0
+"Analytics, Enterprise Software, Gift Card, Information Technology",[],0,[],0,[],0
+Internet,[Internet],1,[],0,[],0
+"Banking, Financial Services",[Banking],1,[],0,[],0
+"Information Technology, Software",[],0,[],0,[],0
+"Health Care, Medical, Medical Device",[],0,[],0,[],0
+"Education, Information Technology, Software",[Education],1,[],0,[],0
+"Analytics, Health Care, Life Science",[],0,[],0,[],0
+Manufacturing,[Manufacturing],1,[],0,[],0
+"Consumer Goods, Food and Beverage, Manufacturing","[Consumer, Manufacturing]",2,[],0,[],0
+"Public Safety, Service Industry",[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+Podcast,[],0,[Podcast],1,[],0
+"Consulting, Enterprise Software, Information Technology, Lifestyle, Product Design",[],0,[],0,[],0
+"Apps, E-Commerce",[Commerce],1,[],0,[],0
+"Health Care, Medical, Wellness",[],0,[],0,[],0
+CRM,[],0,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Advertising, Enterprise Software, Intelligent Systems, Marketing, Professional Networking, Social Network",[Advertising],1,[],0,[],0
+"Hardware, Industrial Engineering, Manufacturing, Mechanical Design, Software",[Hardware],1,[],0,[],0
+"Cyber Security, Information Technology",[],0,[],0,[],0
+"Health Care, Manufacturing, Medical Device",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Angel Investment, Finance, Financial Services, Impact Investing, Venture Capital",[],0,[],0,[],0
+"Manufacturing, Oil and Gas",[Manufacturing],1,[],0,[],0
+Business Development,[],0,[],0,[],0
+"Artificial Intelligence, Biotechnology, Health Care, Health Diagnostics, Medical Device, Therapeutics",[Therapeutics],1,[],0,[],0
+"Consulting, Customer Service, Information Technology, Software",[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Cloud Computing, Enterprise Software, SaaS, Software",[],0,[],0,[],0
+"Consulting, Emergency Medicine, Enterprise Software, Health Care, Hospital",[],0,[],0,[],0
+"Energy, Waste Management",[Energy],1,[],0,[],0
+"Business Intelligence, Commercial Real Estate, Professional Services, Real Estate Investment, Software, Sustainability",[Sustainability],1,[],0,[],0
+"Health Care, Hospital",[],0,[],0,[],0
+"Commercial Insurance, Health Care, Health Insurance, Insurance",[Insurance],1,[],0,[],0
+"Telecommunications, Video","[Telecommunications, Video]",2,[],0,[],0
+Financial Services,[],0,[],0,[],0
+Management Information Systems,[],0,[],0,[],0
+"Consulting, Finance, Financial Services, Retirement",[],0,[],0,[],0
+"Computer, Information Technology, Software",[Computer],1,[],0,[],0
+"Analytics, Artificial Intelligence, Cloud Data Services, Data Integration, Developer Platform, Information Technology, Machine Learning, Predictive Analytics, SaaS, Software",[],0,[],0,[],0
+"Financial Services, Insurance, Life Insurance",[],0,[],0,[],0
+"Health Care, Health Insurance, Insurance, Venture Capital",[],0,[],0,[],0
+"Health Insurance, Insurance, Life Insurance",[],0,[],0,[],0
+"Building Material, Manufacturing, Mechanical Design",[],0,[],0,[],0
+Insurance,[Insurance],1,[],0,[],0
+"Building Material, Manufacturing, Mechanical Design",[],0,[],0,[],0
+Venture Capital,[],0,[],0,[],0
+"Building Material, Professional Services",[],0,[],0,[],0
+"CRM, Information Technology, Software, Web Design","[Web, Design]",2,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Apps, Gaming, Internet",[Internet],1,[],0,[],0
+"Credit Cards, Financial Services, Payments",[Payments],1,[],0,[],0
+"Construction, Electronics, Energy, Energy Management",[Construction],1,[],0,[],0
+"Billing, Health Care, Health Insurance, Home Health Care, Medical",[],0,[],0,[],0
+"Energy, Oil and Gas",[Energy],1,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"FinTech, Marketplace, Real Estate, Rental Property",[],0,[],0,[],0
+"Advice, Business Development, Consulting, Finance, Financial Services",[Advice],1,[],0,[],0
+"Innovation Management, Quality Assurance, Security",[Security],1,[],0,[],0
+"Asset Management, Consulting, Management Consulting",[],0,[],0,[],0
+"Information Technology, Software",[],0,[],0,[],0
+"Analytics, Customer Service, Enterprise Software, SaaS, Text Analytics",[Analytics],1,[],0,[],0
+"Health Care, Hospital, Medical",[],0,[],0,[],0
+"Digital Marketing, Social Media Marketing",[Marketing],1,[],0,[],0
+"Developer APIs, Event Management, Events, Mobile Advertising, PaaS, SaaS, Software, Ticketing","[Developer, APIs, Events]",3,[Ticketing],1,[],0
+"Indoor Positioning, Navigation, Software, Web Hosting","[Web, Hosting]",2,[],0,[],0
+"Consulting, Employee Benefits, Human Resources, Recruiting, Risk Management",[Benefits],1,[],0,[],0
+Facilities Support Services,[],0,[],0,[],0
+"Construction, Consulting, Energy, Information Technology, Management Consulting",[Construction],1,[],0,[],0
+"Financial Services, Outsourcing, Retail",[],0,[],0,[],0
+"Financial Services, Outsourcing, Retail",[],0,[],0,[],0
+"Fitness, Health Care, Medical, Wellness",[],0,[],0,[],0
+"Collaboration, Enterprise Software, Geospatial, Software",[Collaboration],1,[],0,[],0
+"Online Games, PC Games, Software, Video Games",[],0,[],0,[],0
+"Online Games, PC Games, Software, Video Games",[],0,[],0,[],0
+"Online Games, PC Games, Software, Video Games",[],0,[],0,[],0
+"CRM, Information Technology, Machinery Manufacturing, Real Estate",[],0,[],0,[Real],1
+"Information Technology, Software",[],0,[],0,[],0
+"B2B, Billing, FinTech, Payments",[Payments],1,[],0,[],0
+Environmental Consulting,[],0,[],0,[],0
+"Energy, Renewable Energy, Solar",[Energy],1,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Analytics, Banking, Big Data, Financial Services, Software, Venture Capital",[Analytics],1,[],0,[],0
+"Information Services, Information Technology",[],0,[],0,[],0
+"Finance, Financial Services, Insurance","[Finance, Insurance]",2,[],0,[],0
+"Artificial Intelligence, Automotive, Autonomous Vehicles, Image Recognition, Sensor, Software, Transportation",[],0,[],0,[],0
+"Dietary Supplements, Medical",[],0,[],0,[],0
+"Information Technology, Telecommunications",[],0,[],0,[],0
+Consulting,[Consulting],1,[],0,[],0
+Infrastructure,[Infrastructure],1,[],0,[],0
+"Aerospace, Analytics, Software",[],0,[],0,[],0
+"Aerospace, Analytics, Software",[],0,[],0,[],0
+Property Development,[],0,[],0,[],0
+"Cannabis, Clinical Trials, Health Care, Medical, Pharmaceutical",[],0,[],0,[],0
+Transportation,[Transportation],1,[],0,[],0
+Machinery Manufacturing,"[Machinery, Manufacturing]",2,[],0,[],0
+"Industrial, Industrial Manufacturing, Manufacturing",[Manufacturing],1,[],0,[],0
+"Health Care, Information Technology, Recruiting, Staffing Agency",[],0,[],0,[],0
+"Health Care, Information Technology, Recruiting, Staffing Agency",[],0,[],0,[],0
+"Information Services, Information Technology",[],0,[],0,[],0
+"Health Care, Medical, Rehabilitation, Wellness",[],0,[],0,[],0
+"Language Learning, Service Industry, Translation Service",[],0,[],0,[],0
+"Advertising, E-Commerce, Marketing, Wine And Spirits","[Advertising, Spirits]",2,[],0,[],0
+"Advertising, Affiliate Marketing, Digital Marketing, Marketing, Social Media, Social Media Marketing","[Advertising, Marketing]",2,[],0,[],0
+"Health Care, Life Science, Wellness",[],0,[],0,[],0
+"Finance, Small and Medium Businesses, Venture Capital",[Finance],1,[],0,[Small],1
+"Gaming, Internet, Online Games, Video Games",[Gaming],1,[],0,[],0
+"Biometrics, Building Material, Consumer Electronics, Information Technology, Security","[Biometrics, Security]",2,[],0,[],0
+Consulting,[Consulting],1,[],0,[],0
+"Emerging Markets, Financial Services, FinTech",[],0,[Emerging],1,[],0
+Consulting,[Consulting],1,[],0,[],0
+"Health Care, Health Diagnostics, Medical",[],0,[],0,[],0
+"Automotive, Service Industry, Transportation",[],0,[],0,[],0
+"E-Commerce, Financial Services",[],0,[],0,[],0
+"Health Care, Hospital, Information Technology, mHealth",[],0,[],0,[],0
+Manufacturing,[Manufacturing],1,[],0,[],0
+"Energy, Oil and Gas, Rental, Water",[Energy],1,[],0,[],0
+"Commercial Real Estate, Leasing, Real Estate",[Estate],1,[],0,"[Commercial, Real]",2
+"Finance, Financial Services, Small and Medium Businesses, Software",[Finance],1,[],0,[Small],1
+"Artificial Intelligence, Business Intelligence, Enterprise Software, Machine Learning",[],0,[],0,[],0
+"Health Care, Information Technology",[],0,[],0,[],0
+"Education, Financial Services",[Education],1,[],0,[],0
+"Education, Financial Services",[Education],1,[],0,[],0
+"Consumer Goods, Media and Entertainment","[Consumer, Media]",2,[],0,[],0
+"Machinery Manufacturing, Manufacturing, Medical Device",[],0,[],0,[],0
+"Service Industry, Technical Support, Web Design","[Web, Design]",2,[],0,[],0
+"SaaS, Software",[],0,[],0,[],0
+"SaaS, Software",[],0,[],0,[],0
+Insurance,[Insurance],1,[],0,[],0
+"Computer, Customer Service, Document Management, Education, Innovation Management, Legal, Legal Tech, Software",[Computer],1,[],0,[],0
+"Information Technology, Manufacturing",[Manufacturing],1,[],0,[],0
+"Digital Entertainment, Manufacturing, Marketing, Mobile",[Marketing],1,[],0,[],0
+"Consulting, Graphic Design, Innovation Management",[],0,[],0,[],0
+"Industrial, Service Industry",[],0,[],0,[],0
+"Analytics, Big Data, Business Intelligence, Data Visualization, Enterprise Software, Information Services, Medical, Medical Device, Software",[Analytics],1,[],0,[],0
+"Alternative Medicine, Cannabis, Health Care, Medical",[],0,[],0,[],0
+"E-Commerce, Ticketing",[],0,[Ticketing],1,[],0
+"Consulting, CRM, Information Technology",[],0,[],0,[],0
+"Consulting, CRM, Information Technology",[],0,[],0,[],0
+Real Estate Investment,[],0,[],0,[Real],1
+"Information Technology, Medical, Medical Device",[],0,[],0,[],0
+"Banking, Bitcoin, Financial Services",[Banking],1,[],0,[],0
+Biotechnology,[Biotechnology],1,[],0,[],0
+"Enterprise Software, Knowledge Management, Market Research, Product Research",[],0,[],0,[],0
+"Asset Management, Banking, Finance, Financial Services",[],0,[],0,[],0
+"Consulting, Market Research, Software",[],0,[],0,[],0
+"Artificial Intelligence, Construction, Consulting, Information Technology, Outsourcing",[Outsourcing],1,[],0,[],0
+"Biotechnology, Health Care, Health Diagnostics",[],0,[],0,[],0
+"Robotics, Software, Sports","[Robotics, Sports]",2,[],0,[],0
+"Communication Hardware, Electronics, Network Hardware, Professional Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Education, Language Learning, Publishing",[Education],1,[],0,[],0
+"Banking, Financial Services, Venture Capital",[Banking],1,[],0,[],0
+"Big Data, Geospatial, Mapping Services, Software",[],0,[],0,[],0
+"Commercial Insurance, Insurance",[Insurance],1,[],0,[],0
+"Information Technology, Marketplace, Staffing Agency",[],0,[Staffing],1,[],0
+"Data Center, Infrastructure",[Infrastructure],1,[],0,[],0
+"Cannabis, Digital Marketing, Digital Media, News",[News],1,[],0,[],0
+"Angel Investment, Finance, Financial Services, Health Care, Venture Capital",[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Customer Service, Health Care, Medical, Medical Device, Wellness",[Wellness],1,[],0,[],0
+"Customer Service, Health Care, Medical, Medical Device, Wellness",[Wellness],1,[],0,[],0
+"Consulting, Financial Services, Insurance, Management Consulting, Risk Management",[],0,[],0,[],0
+"Biopharma, Biotechnology, Pharmaceutical",[],0,[],0,[],0
+"Cyber Security, Information Technology, Security",[Security],1,[],0,[],0
+"E-Commerce Platforms, Jewelry, Retail",[],0,[],0,[],0
+"Employment, Professional Services, Risk Management, Training","[Employment, Training]",2,[],0,[],0
+"Enterprise Software, Information Services, Information Technology",[],0,[],0,[],0
+"Payments, Telecommunications, Transaction Processing","[Payments, Processing]",2,[],0,[],0
+Enterprise Software,[],0,[],0,[],0
+"Advertising, Digital Media",[Advertising],1,[],0,[],0
+"Finance, Impact Investing, Market Research",[Finance],1,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"Document Management, Management Information Systems, Productivity Tools, Software",[],0,[],0,[],0
+"Financial Services, Impact Investing, Real Estate",[],0,[],0,[],0
+"Human Resources, Recruiting, Staffing Agency",[],0,[],0,[],0
+"Debit Cards, Financial Services, FinTech, Mobile, Mobile Payments, Payments, Transaction Processing","[Payments, Processing]",2,[],0,[],0
+"Developer Platform, Software",[],0,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Software, Web Design","[Software, Web, Design]",3,[],0,[],0
+"Information Services, Information Technology, SaaS, Software, Ticketing, Tourism, Transportation, Travel",[Travel],1,[],0,[],0
+"eSports, Franchise, Software",[eSports],1,[],0,[],0
+"E-Commerce, Fashion, Leisure, Lifestyle, Retail, Web Design","[Web, Design]",2,[],0,[],0
+Electronics,[Electronics],1,[],0,[],0
+Insurance,[Insurance],1,[],0,[],0
+"Big Data, Machine Learning, Software",[],0,[],0,[],0
+"Communities, Content, Digital Media, Social Media",[Media],1,[],0,[],0
+"Health Insurance, Insurance, Life Insurance",[],0,[],0,[],0
+"Advice, Banking, Consulting, Finance, Financial Services",[Advice],1,[],0,[],0
+"CRM, Information Technology, Robotics, Software",[],0,[],0,[],0
+"CRM, Information Technology, Robotics, Software",[],0,[],0,[],0
+"Finance, Financial Services, Venture Capital",[Finance],1,[],0,[],0
+"Finance, Financial Services, Insurance, InsurTech, Risk Management",[Finance],1,[],0,[],0
+"Environmental Engineering, Industrial",[],0,[],0,[],0
+"Advice, Financial Services, Wealth Management",[Advice],1,[],0,[],0
+"Finance, FinTech, Health Care",[Finance],1,[],0,[],0
+"B2B, Financial Services, Venture Capital",[],0,[],0,[],0
+"Journalism, Publishing, Social Media",[Media],1,[],0,[],0
+"Biotechnology, Genetics, Health Care, Medical",[],0,[],0,[],0
+"Cloud Computing, Cloud Infrastructure, Data Center, Embedded Software, Information Services, Information Technology, Telecommunications, Web Hosting, Wireless",[Web],1,[],0,[],0
+"Construction, Telecommunications",[Construction],1,[],0,[],0
+Oil and Gas,[Oil],1,[],0,[],0
+"Environmental Engineering, Waste Management",[],0,[],0,[],0
+"Food Processing, Hardware, Manufacturing, Software",[],0,[],0,[],0
+"Cloud Computing, Computer, Enterprise Software, Finance, Information Technology, Insurance, Software",[],0,[],0,[],0
+"Automotive, Electric Vehicle, Logistics, Manufacturing, Transportation",[Transportation],1,[],0,[],0
+"Clean Energy, Energy, Industrial, Information Technology, Oil and Gas",[],0,[],0,[],0
+"Aerospace, Asset Management, Financial Services, Management Consulting",[],0,[],0,[],0
+"Automotive, Transportation",[],0,[],0,[],0
+"3D Printing, Manufacturing, Product Design",[],0,[],0,[3D],1
+"Enterprise Software, Health Care, Service Industry, Software",[],0,[],0,[],0
+Consulting,[Consulting],1,[],0,[],0
+"Consulting, Financial Services, Insurance, Management Consulting, Risk Management",[],0,[],0,[],0
+"Angel Investment, Finance, Financial Services, FinTech, Wealth Management",[],0,[],0,[],0
+Aerospace,[Aerospace],1,[],0,[],0
+"Recycling, Waste Management",[Recycling],1,[],0,[],0
+"Enterprise Software, Industrial, Information Technology, Manufacturing, Mining",[Mining],1,[],0,[],0
+"Construction, Waste Management",[Construction],1,[],0,[],0
+"Energy, Manufacturing, Renewable Energy, Solar",[Energy],1,[],0,[],0
+"EdTech, Education, Software",[],0,[],0,[],0
+"Cloud Computing, Cloud Infrastructure, Data Center, Information Technology, Private Cloud",[],0,[],0,[Private],1
+"Information Technology, Life Insurance, Lifestyle, Personal Health, Software, Wealth Management, Wellness",[],0,[],0,[],0
+"Banking, Finance, Financial Services",[Banking],1,[],0,[],0
+Manufacturing,[Manufacturing],1,[],0,[],0
+"Energy, Oil and Gas",[Energy],1,[],0,[],0
+"Health Care, Information Technology, Project Management",[],0,[],0,[],0
+"Finance, Financial Services",[Finance],1,[],0,[],0
+Pharmaceutical,[],0,[],0,[Pharmaceutical],1
+"Digital Media, Product Search, SaaS, Software",[],0,[],0,[],0
+"Wine And Spirits, Winery",[Wine],1,[],0,[],0
+"Logistics, Transportation","[Logistics, Transportation]",2,[],0,[],0
+"Industrial, Industrial Manufacturing",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Artificial Intelligence, Manufacturing, Software, Supply Chain Management",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Building Material, Machinery Manufacturing, Manufacturing",[Manufacturing],1,[],0,[],0
+"Automotive, Commercial, Manufacturing",[Manufacturing],1,[],0,[],0
+"Brewing, Craft Beer, Food and Beverage",[Brewing],1,[],0,[],0
+"Enterprise Software, Information Services, Information Technology",[],0,[],0,[],0
+"E-Commerce, Grocery, Internet, Marketing, Retail Technology",[],0,[],0,[],0
+"Electronics, Manufacturing, Telecommunications",[Electronics],1,[],0,[],0
+"Consumer Goods, Manufacturing","[Consumer, Goods, Manufacturing]",3,[],0,[],0
+"Industrial Engineering, Manufacturing",[Manufacturing],1,[],0,[],0
+"Indoor Positioning, Navigation, Software, Web Hosting","[Web, Hosting]",2,[],0,[],0
+"Financial Services, FinTech",[],0,[],0,[],0
+"Brand Marketing, Organic Food, Wellness",[],0,[],0,[],0
+"Accounting, CRM, Human Resources, Software, Training",[Training],1,[],0,[],0
+"Clean Energy, Energy, Renewable Energy",[],0,[],0,[],0
+"Analytics, Mobile, Non Profit, SaaS, Software, Web Hosting","[Web, Hosting]",2,[],0,[],0
+"Broadcasting, Electrical Distribution, Industrial, Media and Entertainment",[Broadcasting],1,[],0,[],0
+"Aerospace, Analytics, Industrial Engineering, Information Technology, Internet of Things, Software",[Internet],1,[],0,[],0
+"Financial Services, Venture Capital",[],0,[],0,[],0
+"Angel Investment, Consulting, Credit, Financial Services",[],0,[],0,[],0
+"E-Commerce, Logistics, Transportation",[],0,[],0,[],0
+"Hardware, Information Technology, Nanotechnology, Software",[Hardware],1,[],0,[],0
+"Manufacturing, Medical",[Manufacturing],1,[],0,[],0
+"Enterprise Software, Information Services, Information Technology",[],0,[],0,[],0
+"Broadcasting, E-Commerce, Internet, Internet of Things, Mobile, News, Video, Visual Search","[Broadcasting, Internet]",2,[],0,[],0
+"Cloud Computing, Compliance, Document Management, Information Technology, SaaS, Software",[],0,[],0,[],0
+"Cooking, Manufacturing","[Cooking, Manufacturing]",2,[],0,[],0
+"Information Services, Information Technology",[],0,[],0,[],0
+"Cosmetics, Dental, Health Care, Wellness",[Cosmetics],1,[],0,[],0
+"Mobile, Telecommunications, VoIP",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Gaming, Software",[Gaming],1,[],0,[],0
+"Energy, Mining, Renewable Energy",[Energy],1,[],0,[],0
+Innovation Management,[],0,[],0,[],0
+Mining,[Mining],1,[],0,[],0
+Banking,[Banking],1,[],0,[],0
+"Information Technology, Mobile, Software, Telecommunications",[],0,[],0,[],0
+"Audio, Online Portals, Video",[Video],1,[],0,[],0
+"Brand Marketing, Cannabis, Food and Beverage, Sales",[Sales],1,[],0,[],0

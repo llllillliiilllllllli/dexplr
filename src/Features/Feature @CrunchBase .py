@@ -6,8 +6,7 @@ import numpy as np
 import pandas as pd   
 
 from Functions.DataAnalysis import Converter
-from Functions.DataAnalysis import TextAnalyser
-from Functions.DataAnalysis import NumberAnalyser
+from Functions.DataAnalysis import Analyzer
 from Functions.DataAnalysis import Validator
 
 def convert_currency(value: Any, src: str = None, des: str = "USD") -> float:
@@ -118,6 +117,9 @@ def convert_currency(value: Any, src: str = None, des: str = "USD") -> float:
 
 class CrunchBaseAcquisitionData:
 
+    def collect() -> None:
+        return NotImplemented 
+
     def clean() -> None:
 
         print("Enter input file path: ", end="")
@@ -142,12 +144,12 @@ class CrunchBaseAcquisitionData:
             .apply(convert_currency)\
             .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
         
-        df["Acquiree's Total Funding Amount"] = df["Acquiree's Total Funding Amount"]\
+        df["Acquiree Total Funding Amount"] = df["Acquiree Total Funding Amount"]\
             .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
             .apply(convert_currency)\
             .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)             
         
-        df["Acquirer's Total Funding Amount"] = df["Acquirer's Total Funding Amount"]\
+        df["Acquirer Total Funding Amount"] = df["Acquirer Total Funding Amount"]\
             .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
             .apply(convert_currency)\
             .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
@@ -170,12 +172,98 @@ class CrunchBaseAcquisitionData:
         return None
 
     def describe() -> None:
-        pass 
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True, date_parser=Converter.convert_date)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        for label, series in df.iteritems():
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"[\d]+[-][\d][\d][-][\d][\d]", check_value) != None:          
+                    df[str(label)] = pd.to_datetime(df[label])
+                if re.search(r"[$][\d,.]+", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(".", "").strip() if type(x)==str else np.NaN)
+                    df[str(label)] = pd.to_numeric(df[str(label)])
+            except:
+                continue
+        
+        df = df.convert_dtypes()
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
+        print("=" * os.get_terminal_size().columns)
+
+        df.info(verbose=True)
+
+        ### 5
+        print("\nDETAILED DATA TABLE:")
+        print("=" * os.get_terminal_size().columns)
+        print(df, end="\n\n")
+
+        ### 6
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = Analyzer.describe_numbers(series)
+                print(f"{numerical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+            if Validator.is_text(series) == True:
+                categorical_df = Analyzer.describe_text(series)
+                print(f"{categorical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None
 
     def visualize() -> None:
         pass 
 
 class CrunchBaseCompanyData: 
+
+    def collect() -> None:
+        return NotImplemented 
 
     def clean() -> None: 
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -352,7 +440,6 @@ class CrunchBaseCompanyData:
         df = df[fields]
 
         ### 3
-        df = df.convert_dtypes()
         for label, series in df.iteritems():
 
             try:  
@@ -361,6 +448,8 @@ class CrunchBaseCompanyData:
                     df[label] = pd.to_datetime(df[label])
             except:
                 continue
+
+        df = df.convert_dtypes()
 
         ### 4
         print("\nGENERAL INFORMATION:")
@@ -377,20 +466,20 @@ class CrunchBaseCompanyData:
         ### 6
         for label, series in df.iteritems():
             if Validator.is_number(series) == True:
-                numerical_df = NumberAnalyser.summarize(series)
+                numerical_df = Analyzer.describe_numbers(series)
                 print(f"{numerical_df}", end="\n\n")
 
-                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Summary #-------------- .csv"
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
                 numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
                 timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
                 os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
 
             if Validator.is_text(series) == True:
-                categorical_df = TextAnalyser.summarize(series)
+                categorical_df = Analyzer.describe_text(series)
                 print(f"{categorical_df}", end="\n\n")
 
-                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Summary #-------------- .csv"
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
                 categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
                 timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
@@ -402,6 +491,9 @@ class CrunchBaseCompanyData:
         pass 
 
 class CrunchBaseContactData:
+
+    def collect() -> None:
+        return NotImplemented 
 
     def clean() -> None:
         print("Enter input file path: ", end="")
@@ -455,6 +547,9 @@ class CrunchBaseContactData:
 
 class CrunchBaseEventData:
 
+    def collect() -> None:
+        return NotImplemented 
+
     def clean() -> None:
 
         print("Enter input file path: ", end="")
@@ -491,6 +586,9 @@ class CrunchBaseEventData:
         return None
 
 class CrunchBaseFundingData:
+
+    def collect() -> None:
+        return NotImplemented 
 
     def clean() -> None:
 
@@ -544,6 +642,9 @@ class CrunchBaseFundingData:
         pass
 
 class CrunchBaseHubData:
+
+    def collect() -> None:
+        return NotImplemented 
 
     def clean() -> None:
 
@@ -641,7 +742,10 @@ class CrunchBaseHubData:
         pass 
 
 class CrunchBaseInvestorData:
-    
+
+    def collect() -> None:
+        return NotImplemented 
+
     def clean() -> None:
 
         print("Enter input file path: ", end="")
@@ -715,7 +819,10 @@ class CrunchBaseInvestorData:
         pass 
 
 class CrunchBasePeopleData:
-    
+
+    def collect() -> None:
+        return NotImplemented 
+
     def clean() -> None:
 
         print("Enter input file path: ", end="")
@@ -750,6 +857,9 @@ class CrunchBasePeopleData:
         pass
 
 class CrunchBaseSchoolData:
+
+    def collect() -> None:
+        return NotImplemented 
 
     def clean() -> None: 
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

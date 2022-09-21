@@ -1,0 +1,675 @@
+﻿Text,Token,Freq,Lemma,PoS,Tag,Dep,Shape,Sentiment
+3D Printing,3D,7,3d,ADJ,JJ,amod,dX,0.0
+3D Printing,Printing,7,printing,NOUN,NN,ROOT,Xxxxx,0.0
+3D Technology,3D,3,3D,PROPN,NNP,compound,dX,0.0
+3D Technology,Technology,3,Technology,PROPN,NNP,ROOT,Xxxxx,0.0
+Accounting,Accounting,11,accounting,NOUN,NN,ROOT,Xxxxx,0.0
+Advertising,Advertising,27,advertising,NOUN,NN,ROOT,Xxxxx,0.0
+Advertising Platforms,Advertising,1,advertising,NOUN,NN,compound,Xxxxx,0.0
+Advertising Platforms,Platforms,1,platform,NOUN,NNS,ROOT,Xxxxx,0.0
+Advice,Advice,9,advice,NOUN,NN,ROOT,Xxxxx,0.0
+Aerospace,Aerospace,7,aerospace,NOUN,NN,ROOT,Xxxxx,0.0
+Affiliate Marketing,Affiliate,1,Affiliate,PROPN,NNP,compound,Xxxxx,0.0
+Affiliate Marketing,Marketing,1,Marketing,PROPN,NNP,ROOT,Xxxxx,0.0
+Agriculture,Agriculture,2,agriculture,NOUN,NN,ROOT,Xxxxx,0.0
+AgTech,AgTech,1,AgTech,PROPN,NNP,ROOT,XxXxxx,0.0
+Alternative Medicine,Alternative,1,Alternative,PROPN,NNP,compound,Xxxxx,0.0
+Alternative Medicine,Medicine,1,Medicine,PROPN,NNP,ROOT,Xxxxx,0.0
+Analytics,Analytics,20,analytic,NOUN,NNS,ROOT,Xxxxx,0.0
+Android,Android,2,android,NOUN,NN,ROOT,Xxxxx,0.0
+Angel Investment,Angel,7,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Angel Investment,Investment,7,Investment,PROPN,NNP,ROOT,Xxxxx,0.0
+Apps,Apps,7,app,NOUN,NNS,ROOT,Xxxx,0.0
+Aquaculture,Aquaculture,2,aquaculture,NOUN,NN,ROOT,Xxxxx,0.0
+Architecture,Architecture,4,architecture,NOUN,NN,ROOT,Xxxxx,0.0
+Artificial Intelligence,Artificial,21,Artificial,PROPN,NNP,amod,Xxxxx,0.0
+Artificial Intelligence,Intelligence,21,Intelligence,PROPN,NNP,ROOT,Xxxxx,0.0
+Asset Management,Asset,19,Asset,PROPN,NNP,compound,Xxxxx,0.0
+Asset Management,Management,19,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Association,Association,1,association,NOUN,NN,ROOT,Xxxxx,0.0
+Auctions,Auctions,2,auction,NOUN,NNS,ROOT,Xxxxx,0.0
+Audio,Audio,5,audio,NOUN,NN,ROOT,Xxxxx,0.0
+Augmented Reality,Augmented,2,Augmented,PROPN,NNP,compound,Xxxxx,0.0
+Augmented Reality,Reality,2,reality,NOUN,NN,ROOT,Xxxxx,0.0
+Auto Insurance,Auto,1,Auto,PROPN,NNP,compound,Xxxx,0.0
+Auto Insurance,Insurance,1,Insurance,PROPN,NNP,ROOT,Xxxxx,0.0
+Automotive,Automotive,16,automotive,ADJ,JJ,ROOT,Xxxxx,0.0
+Autonomous Vehicles,Autonomous,4,Autonomous,PROPN,NNP,compound,Xxxxx,0.0
+Autonomous Vehicles,Vehicles,4,Vehicles,PROPN,NNPS,ROOT,Xxxxx,0.0
+B2B,B2B,6,b2b,VERB,VB,ROOT,XdX,0.0
+Banking,Banking,31,banking,NOUN,NN,ROOT,Xxxxx,0.0
+Beauty,Beauty,4,beauty,NOUN,NN,ROOT,Xxxxx,0.0
+Big Data,Big,6,Big,PROPN,NNP,compound,Xxx,0.0
+Big Data,Data,6,Data,PROPN,NNP,ROOT,Xxxx,0.0
+Billing,Billing,4,billing,NOUN,NN,ROOT,Xxxxx,0.0
+Biometrics,Biometrics,3,biometric,NOUN,NNS,ROOT,Xxxxx,0.0
+Biopharma,Biopharma,8,Biopharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Biotechnology,Biotechnology,33,biotechnology,NOUN,NN,ROOT,Xxxxx,0.0
+Bitcoin,Bitcoin,5,bitcoin,VERB,VB,ROOT,Xxxxx,0.0
+Blockchain,Blockchain,6,blockchain,NOUN,NN,ROOT,Xxxxx,0.0
+Blogging Platforms,Blogging,1,Blogging,PROPN,NNP,compound,Xxxxx,0.0
+Blogging Platforms,Platforms,1,platform,NOUN,NNS,ROOT,Xxxxx,0.0
+Brand Marketing,Brand,10,Brand,PROPN,NNP,compound,Xxxxx,0.0
+Brand Marketing,Marketing,10,marketing,NOUN,NN,ROOT,Xxxxx,0.0
+Brewing,Brewing,1,brewing,NOUN,NN,ROOT,Xxxxx,0.0
+Broadcasting,Broadcasting,4,broadcast,VERB,VBG,ROOT,Xxxxx,0.0
+Building Maintenance,Building,1,Building,PROPN,NNP,compound,Xxxxx,0.0
+Building Maintenance,Maintenance,1,Maintenance,PROPN,NNP,ROOT,Xxxxx,0.0
+Building Material,Building,14,Building,PROPN,NNP,compound,Xxxxx,0.0
+Building Material,Material,14,Material,PROPN,NNP,ROOT,Xxxxx,0.0
+Business Development,Business,12,Business,PROPN,NNP,compound,Xxxxx,0.0
+Business Development,Development,12,Development,PROPN,NNP,ROOT,Xxxxx,0.0
+Business Information Systems,Business,3,Business,PROPN,NNP,compound,Xxxxx,0.0
+Business Information Systems,Information,3,Information,PROPN,NNP,compound,Xxxxx,0.0
+Business Information Systems,Systems,3,Systems,PROPN,NNPS,ROOT,Xxxxx,0.0
+Business Intelligence,Business,9,Business,PROPN,NNP,compound,Xxxxx,0.0
+Business Intelligence,Intelligence,9,Intelligence,PROPN,NNP,ROOT,Xxxxx,0.0
+CAD,CAD,2,CAD,PROPN,NNP,ROOT,XXX,0.0
+Cannabis,Cannabis,6,cannabis,VERB,VB,ROOT,Xxxxx,0.0
+Casino,Casino,1,casino,NOUN,NN,ROOT,Xxxxx,0.0
+Casual Games,Casual,1,Casual,PROPN,NNP,compound,Xxxxx,0.0
+Casual Games,Games,1,Games,PROPN,NNPS,ROOT,Xxxxx,0.0
+Chemical,Chemical,6,chemical,NOUN,NN,ROOT,Xxxxx,0.0
+Child Care,Child,1,child,NOUN,NN,compound,Xxxxx,0.0
+Child Care,Care,1,Care,PROPN,NNP,ROOT,Xxxx,0.0
+Children,Children,1,child,NOUN,NNS,ROOT,Xxxxx,0.0
+Civil Engineering,Civil,4,Civil,PROPN,NNP,compound,Xxxxx,0.0
+Civil Engineering,Engineering,4,Engineering,PROPN,NNP,ROOT,Xxxxx,0.0
+Clean Energy,Clean,6,Clean,PROPN,NNP,compound,Xxxxx,0.0
+Clean Energy,Energy,6,Energy,PROPN,NNP,ROOT,Xxxxx,0.0
+CleanTech,CleanTech,2,cleantech,NOUN,NN,ROOT,XxxxxXxxx,0.0
+Clinical Trials,Clinical,5,Clinical,PROPN,NNP,compound,Xxxxx,0.0
+Clinical Trials,Trials,5,Trials,PROPN,NNPS,ROOT,Xxxxx,0.0
+Cloud Computing,Cloud,12,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+Cloud Computing,Computing,12,Computing,PROPN,NNP,ROOT,Xxxxx,0.0
+Cloud Data Services,Cloud,7,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+Cloud Data Services,Data,7,Data,PROPN,NNP,compound,Xxxx,0.0
+Cloud Data Services,Services,7,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+Cloud Infrastructure,Cloud,2,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+Cloud Infrastructure,Infrastructure,2,Infrastructure,PROPN,NNP,ROOT,Xxxxx,0.0
+Cloud Management,Cloud,2,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+Cloud Management,Management,2,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Cloud Security,Cloud,1,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+Cloud Security,Security,1,Security,PROPN,NNP,ROOT,Xxxxx,0.0
+Collaboration,Collaboration,4,collaboration,NOUN,NN,ROOT,Xxxxx,0.0
+Commercial,Commercial,6,commercial,NOUN,NN,ROOT,Xxxxx,0.0
+Commercial Insurance,Commercial,5,Commercial,PROPN,NNP,compound,Xxxxx,0.0
+Commercial Insurance,Insurance,5,Insurance,PROPN,NNP,ROOT,Xxxxx,0.0
+Commercial Real Estate,Commercial,5,commercial,ADJ,JJ,amod,Xxxxx,0.0
+Commercial Real Estate,Real,5,Real,PROPN,NNP,compound,Xxxx,0.0
+Commercial Real Estate,Estate,5,Estate,PROPN,NNP,ROOT,Xxxxx,0.0
+Communication Hardware,Communication,1,Communication,PROPN,NNP,compound,Xxxxx,0.0
+Communication Hardware,Hardware,1,Hardware,PROPN,NNP,ROOT,Xxxxx,0.0
+Communications Infrastructure,Communications,4,Communications,PROPN,NNP,compound,Xxxxx,0.0
+Communications Infrastructure,Infrastructure,4,Infrastructure,PROPN,NNP,ROOT,Xxxxx,0.0
+Communities,Communities,3,community,NOUN,NNS,ROOT,Xxxxx,0.0
+Compliance,Compliance,1,compliance,NOUN,NN,ROOT,Xxxxx,0.0
+Computer,Computer,14,computer,NOUN,NN,ROOT,Xxxxx,0.0
+Computer Vision,Computer,1,computer,NOUN,NN,compound,Xxxxx,0.0
+Computer Vision,Vision,1,Vision,PROPN,NNP,ROOT,Xxxxx,0.0
+Construction,Construction,24,construction,NOUN,NN,ROOT,Xxxxx,0.0
+Consulting,Consulting,80,consulting,NOUN,NN,ROOT,Xxxxx,0.0
+Consumer,Consumer,6,consumer,NOUN,NN,ROOT,Xxxxx,0.0
+Consumer Electronics,Consumer,8,consumer,NOUN,NN,compound,Xxxxx,0.0
+Consumer Electronics,Electronics,8,electronic,NOUN,NNS,ROOT,Xxxxx,0.0
+Consumer Goods,Consumer,14,consumer,NOUN,NN,compound,Xxxxx,0.0
+Consumer Goods,Goods,14,good,NOUN,NNS,ROOT,Xxxxx,0.0
+Content,Content,6,content,NOUN,NN,ROOT,Xxxxx,0.0
+Content Delivery Network,Content,1,Content,PROPN,NNP,compound,Xxxxx,0.0
+Content Delivery Network,Delivery,1,Delivery,PROPN,NNP,compound,Xxxxx,0.0
+Content Delivery Network,Network,1,Network,PROPN,NNP,ROOT,Xxxxx,0.0
+Content Marketing,Content,1,Content,PROPN,NNP,compound,Xxxxx,0.0
+Content Marketing,Marketing,1,Marketing,PROPN,NNP,ROOT,Xxxxx,0.0
+Cooking,Cooking,1,cooking,NOUN,NN,ROOT,Xxxxx,0.0
+Cosmetics,Cosmetics,5,cosmetic,NOUN,NNS,ROOT,Xxxxx,0.0
+Craft Beer,Craft,1,Craft,PROPN,NNP,compound,Xxxxx,0.0
+Craft Beer,Beer,1,beer,NOUN,NN,ROOT,Xxxx,0.0
+Creative Agency,Creative,1,creative,ADJ,JJ,amod,Xxxxx,0.0
+Creative Agency,Agency,1,Agency,PROPN,NNP,ROOT,Xxxxx,0.0
+Credit,Credit,4,credit,NOUN,NN,ROOT,Xxxxx,0.0
+Credit Cards,Credit,4,Credit,PROPN,NNP,compound,Xxxxx,0.0
+Credit Cards,Cards,4,Cards,PROPN,NNPS,ROOT,Xxxxx,0.0
+CRM,CRM,14,CRM,PROPN,NNP,ROOT,XXX,0.0
+Crowdfunding,Crowdfunding,2,crowdfunde,VERB,VBG,ROOT,Xxxxx,0.0
+Crowdsourcing,Crowdsourcing,3,crowdsource,VERB,VBG,ROOT,Xxxxx,0.0
+Cryptocurrency,Cryptocurrency,7,cryptocurrency,NOUN,NN,ROOT,Xxxxx,0.0
+Customer Service,Customer,13,Customer,PROPN,NNP,compound,Xxxxx,0.0
+Customer Service,Service,13,Service,PROPN,NNP,ROOT,Xxxxx,0.0
+Cyber Security,Cyber,11,Cyber,PROPN,NNP,compound,Xxxxx,0.0
+Cyber Security,Security,11,Security,PROPN,NNP,ROOT,Xxxxx,0.0
+Data Center,Data,4,Data,PROPN,NNP,compound,Xxxx,0.0
+Data Center,Center,4,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Data Center Automation,Data,1,Data,PROPN,NNP,compound,Xxxx,0.0
+Data Center Automation,Center,1,Center,PROPN,NNP,compound,Xxxxx,0.0
+Data Center Automation,Automation,1,Automation,PROPN,NNP,ROOT,Xxxxx,0.0
+Data Integration,Data,3,Data,PROPN,NNP,compound,Xxxx,0.0
+Data Integration,Integration,3,Integration,PROPN,NNP,ROOT,Xxxxx,0.0
+Data Mining,Data,1,Data,PROPN,NNP,compound,Xxxx,0.0
+Data Mining,Mining,1,Mining,PROPN,NNP,ROOT,Xxxxx,0.0
+Data Visualization,Data,3,Data,PROPN,NNP,compound,Xxxx,0.0
+Data Visualization,Visualization,3,Visualization,PROPN,NNP,ROOT,Xxxxx,0.0
+Database,Database,1,Database,PROPN,NNP,ROOT,Xxxxx,0.0
+Debit Cards,Debit,1,debit,NOUN,NN,compound,Xxxxx,0.0
+Debit Cards,Cards,1,card,NOUN,NNS,ROOT,Xxxxx,0.0
+Delivery,Delivery,3,delivery,NOUN,NN,ROOT,Xxxxx,0.0
+Delivery Service,Delivery,3,Delivery,PROPN,NNP,compound,Xxxxx,0.0
+Delivery Service,Service,3,Service,PROPN,NNP,ROOT,Xxxxx,0.0
+Dental,Dental,3,dental,ADJ,JJ,ROOT,Xxxxx,0.0
+Developer APIs,Developer,4,developer,NOUN,NN,compound,Xxxxx,0.0
+Developer APIs,APIs,4,api,NOUN,NNS,ROOT,XXXx,0.0
+Developer Platform,Developer,5,developer,NOUN,NN,compound,Xxxxx,0.0
+Developer Platform,Platform,5,Platform,PROPN,NNP,ROOT,Xxxxx,0.0
+Dietary Supplements,Dietary,1,Dietary,PROPN,NNP,compound,Xxxxx,0.0
+Dietary Supplements,Supplements,1,Supplements,PROPN,NNPS,ROOT,Xxxxx,0.0
+Digital Entertainment,Digital,5,Digital,PROPN,NNP,compound,Xxxxx,0.0
+Digital Entertainment,Entertainment,5,Entertainment,PROPN,NNP,ROOT,Xxxxx,0.0
+Digital Marketing,Digital,10,Digital,PROPN,NNP,compound,Xxxxx,0.0
+Digital Marketing,Marketing,10,Marketing,PROPN,NNP,ROOT,Xxxxx,0.0
+Digital Media,Digital,13,Digital,PROPN,NNP,compound,Xxxxx,0.0
+Digital Media,Media,13,medium,NOUN,NNS,ROOT,Xxxxx,0.0
+Document Management,Document,5,document,NOUN,NN,compound,Xxxxx,0.0
+Document Management,Management,5,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+DSP,DSP,2,DSP,PROPN,NNP,ROOT,XXX,0.0
+E-Commerce,E,40,E,PROPN,NNP,ROOT,X,0.0
+E-Commerce,-,40,-,PROPN,NNP,punct,-,0.0
+E-Commerce,Commerce,40,commerce,NOUN,NN,appos,Xxxxx,0.0
+E-Commerce Platforms,E,1,E,PROPN,NNP,compound,X,0.0
+E-Commerce Platforms,-,1,-,PROPN,NNP,compound,-,0.0
+E-Commerce Platforms,Commerce,1,Commerce,PROPN,NNP,compound,Xxxxx,0.0
+E-Commerce Platforms,Platforms,1,platform,NOUN,NNS,ROOT,Xxxxx,0.0
+Ediscovery,Ediscovery,1,Ediscovery,PROPN,NNP,ROOT,Xxxxx,0.0
+EdTech,EdTech,9,EdTech,PROPN,NNP,ROOT,XxXxxx,0.0
+Education,Education,26,education,NOUN,NN,ROOT,Xxxxx,0.0
+Elder Care,Elder,1,Elder,PROPN,NNP,compound,Xxxxx,0.0
+Elder Care,Care,1,care,NOUN,NN,ROOT,Xxxx,0.0
+E-Learning,E,6,e,NOUN,NN,compound,X,0.0
+E-Learning,-,6,-,NOUN,NN,punct,-,0.0
+E-Learning,Learning,6,learning,NOUN,NN,ROOT,Xxxxx,0.0
+Electric Vehicle,Electric,2,Electric,PROPN,NNP,compound,Xxxxx,0.0
+Electric Vehicle,Vehicle,2,Vehicle,PROPN,NNP,ROOT,Xxxxx,0.0
+Electrical Distribution,Electrical,6,electrical,ADJ,JJ,amod,Xxxxx,0.0
+Electrical Distribution,Distribution,6,distribution,NOUN,NN,ROOT,Xxxxx,0.0
+Electronics,Electronics,19,electronic,NOUN,NNS,ROOT,Xxxxx,0.0
+Email,Email,2,email,NOUN,NN,ROOT,Xxxxx,0.0
+Email Marketing,Email,1,email,NOUN,NN,compound,Xxxxx,0.0
+Email Marketing,Marketing,1,marketing,NOUN,NN,ROOT,Xxxxx,0.0
+Embedded Software,Embedded,1,embed,VERB,VBN,amod,Xxxxx,0.0
+Embedded Software,Software,1,Software,PROPN,NNP,ROOT,Xxxxx,0.0
+Emergency Medicine,Emergency,2,Emergency,PROPN,NNP,compound,Xxxxx,0.0
+Emergency Medicine,Medicine,2,Medicine,PROPN,NNP,ROOT,Xxxxx,0.0
+Emerging Markets,Emerging,1,emerge,VERB,VBG,amod,Xxxxx,0.0
+Emerging Markets,Markets,1,market,NOUN,NNS,ROOT,Xxxxx,0.0
+Employee Benefits,Employee,4,employee,NOUN,NN,compound,Xxxxx,0.0
+Employee Benefits,Benefits,4,benefit,NOUN,NNS,ROOT,Xxxxx,0.0
+Employment,Employment,2,employment,NOUN,NN,ROOT,Xxxxx,0.0
+Energy,Energy,30,energy,NOUN,NN,ROOT,Xxxxx,0.0
+Energy Efficiency,Energy,2,Energy,PROPN,NNP,compound,Xxxxx,0.0
+Energy Efficiency,Efficiency,2,Efficiency,PROPN,NNP,ROOT,Xxxxx,0.0
+Energy Management,Energy,5,Energy,PROPN,NNP,compound,Xxxxx,0.0
+Energy Management,Management,5,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Enterprise,Enterprise,1,enterprise,NOUN,NN,ROOT,Xxxxx,0.0
+Enterprise Resource Planning (ERP),Enterprise,4,Enterprise,PROPN,NNP,compound,Xxxxx,0.0
+Enterprise Resource Planning (ERP),Resource,4,Resource,PROPN,NNP,compound,Xxxxx,0.0
+Enterprise Resource Planning (ERP),Planning,4,Planning,PROPN,NNP,ROOT,Xxxxx,0.0
+Enterprise Resource Planning (ERP),(,4,(,PUNCT,-LRB-,punct,(,0.0
+Enterprise Resource Planning (ERP),ERP,4,ERP,PROPN,NNP,appos,XXX,0.0
+Enterprise Resource Planning (ERP),),4,),PUNCT,-RRB-,punct,),0.0
+Enterprise Software,Enterprise,55,Enterprise,PROPN,NNP,compound,Xxxxx,0.0
+Enterprise Software,Software,55,Software,PROPN,NNP,ROOT,Xxxxx,0.0
+Environmental Consulting,Environmental,6,Environmental,PROPN,NNP,compound,Xxxxx,0.0
+Environmental Consulting,Consulting,6,Consulting,PROPN,NNP,ROOT,Xxxxx,0.0
+Environmental Engineering,Environmental,6,Environmental,PROPN,NNP,compound,Xxxxx,0.0
+Environmental Engineering,Engineering,6,Engineering,PROPN,NNP,ROOT,Xxxxx,0.0
+eSports,eSports,1,esport,NOUN,NNS,ROOT,xXxxxx,0.0
+Ethereum,Ethereum,3,ethereum,NOUN,NN,ROOT,Xxxxx,0.0
+Event Management,Event,1,event,NOUN,NN,compound,Xxxxx,0.0
+Event Management,Management,1,management,NOUN,NN,ROOT,Xxxxx,0.0
+Events,Events,1,event,NOUN,NNS,ROOT,Xxxxx,0.0
+Facilities Support Services,Facilities,3,Facilities,PROPN,NNPS,compound,Xxxxx,0.0
+Facilities Support Services,Support,3,Support,PROPN,NNP,compound,Xxxxx,0.0
+Facilities Support Services,Services,3,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+Facility Management,Facility,1,Facility,PROPN,NNP,compound,Xxxxx,0.0
+Facility Management,Management,1,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Farming,Farming,2,farm,VERB,VBG,ROOT,Xxxxx,0.0
+Fashion,Fashion,6,fashion,NOUN,NN,ROOT,Xxxxx,0.0
+Film,Film,1,film,NOUN,NN,ROOT,Xxxx,0.0
+Film Production,Film,1,Film,PROPN,NNP,compound,Xxxx,0.0
+Film Production,Production,1,Production,PROPN,NNP,ROOT,Xxxxx,0.0
+Finance,Finance,81,finance,NOUN,NN,ROOT,Xxxxx,0.0
+Financial Exchanges,Financial,2,financial,ADJ,JJ,compound,Xxxxx,0.0
+Financial Exchanges,Exchanges,2,exchange,NOUN,NNS,ROOT,Xxxxx,0.0
+Financial Services,Financial,178,Financial,PROPN,NNP,compound,Xxxxx,0.0
+Financial Services,Services,178,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+FinTech,FinTech,44,fintech,NOUN,NN,ROOT,XxxXxxx,0.0
+Fitness,Fitness,9,fitness,NOUN,NN,ROOT,Xxxxx,0.0
+Fleet Management,Fleet,3,Fleet,PROPN,NNP,compound,Xxxxx,0.0
+Fleet Management,Management,3,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Food and Beverage,Food,13,food,NOUN,NN,ROOT,Xxxx,0.0
+Food and Beverage,and,13,and,CCONJ,CC,cc,xxx,0.0
+Food and Beverage,Beverage,13,Beverage,PROPN,NNP,conj,Xxxxx,0.0
+Food Delivery,Food,2,Food,PROPN,NNP,compound,Xxxx,0.0
+Food Delivery,Delivery,2,Delivery,PROPN,NNP,ROOT,Xxxxx,0.0
+Food Processing,Food,5,food,NOUN,NN,compound,Xxxx,0.0
+Food Processing,Processing,5,processing,NOUN,NN,ROOT,Xxxxx,0.0
+Franchise,Franchise,3,franchise,NOUN,NN,ROOT,Xxxxx,0.0
+Fraud Detection,Fraud,1,Fraud,PROPN,NNP,compound,Xxxxx,0.0
+Fraud Detection,Detection,1,Detection,PROPN,NNP,ROOT,Xxxxx,0.0
+Fuel,Fuel,1,fuel,NOUN,NN,ROOT,Xxxx,0.0
+Furniture,Furniture,2,furniture,NOUN,NN,ROOT,Xxxxx,0.0
+Gambling,Gambling,1,gambling,NOUN,NN,ROOT,Xxxxx,0.0
+Gaming,Gaming,11,game,VERB,VBG,ROOT,Xxxxx,0.0
+Genetics,Genetics,2,genetic,NOUN,NNS,ROOT,Xxxxx,0.0
+Geospatial,Geospatial,4,geospatial,NOUN,NN,ROOT,Xxxxx,0.0
+Gift Card,Gift,1,Gift,PROPN,NNP,compound,Xxxx,0.0
+Gift Card,Card,1,Card,PROPN,NNP,ROOT,Xxxx,0.0
+Government,Government,2,government,NOUN,NN,ROOT,Xxxxx,0.0
+Graphic Design,Graphic,3,Graphic,PROPN,NNP,compound,Xxxxx,0.0
+Graphic Design,Design,3,Design,PROPN,NNP,ROOT,Xxxxx,0.0
+Grocery,Grocery,7,grocery,NOUN,NN,ROOT,Xxxxx,0.0
+Hardware,Hardware,13,hardware,NOUN,NN,ROOT,Xxxxx,0.0
+Health Care,Health,95,Health,PROPN,NNP,compound,Xxxxx,0.0
+Health Care,Care,95,Care,PROPN,NNP,ROOT,Xxxx,0.0
+Health Diagnostics,Health,12,Health,PROPN,NNP,compound,Xxxxx,0.0
+Health Diagnostics,Diagnostics,12,Diagnostics,PROPN,NNPS,ROOT,Xxxxx,0.0
+Health Insurance,Health,9,Health,PROPN,NNP,compound,Xxxxx,0.0
+Health Insurance,Insurance,9,Insurance,PROPN,NNP,ROOT,Xxxxx,0.0
+Hedge Funds,Hedge,1,Hedge,PROPN,NNP,compound,Xxxxx,0.0
+Hedge Funds,Funds,1,Funds,PROPN,NNPS,ROOT,Xxxxx,0.0
+Home and Garden,Home,2,home,NOUN,NN,ROOT,Xxxx,0.0
+Home and Garden,and,2,and,CCONJ,CC,cc,xxx,0.0
+Home and Garden,Garden,2,Garden,PROPN,NNP,conj,Xxxxx,0.0
+Home Decor,Home,1,Home,PROPN,NNP,compound,Xxxx,0.0
+Home Decor,Decor,1,Decor,PROPN,NNP,ROOT,Xxxxx,0.0
+Home Health Care,Home,3,Home,PROPN,NNP,compound,Xxxx,0.0
+Home Health Care,Health,3,Health,PROPN,NNP,compound,Xxxxx,0.0
+Home Health Care,Care,3,Care,PROPN,NNP,ROOT,Xxxx,0.0
+Home Improvement,Home,2,Home,PROPN,NNP,compound,Xxxx,0.0
+Home Improvement,Improvement,2,improvement,NOUN,NN,ROOT,Xxxxx,0.0
+Home Renovation,Home,2,Home,PROPN,NNP,compound,Xxxx,0.0
+Home Renovation,Renovation,2,renovation,NOUN,NN,ROOT,Xxxxx,0.0
+Home Services,Home,4,Home,PROPN,NNP,compound,Xxxx,0.0
+Home Services,Services,4,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+Hospital,Hospital,10,hospital,NOUN,NN,ROOT,Xxxxx,0.0
+Hospitality,Hospitality,2,hospitality,NOUN,NN,ROOT,Xxxxx,0.0
+Hotel,Hotel,1,hotel,NOUN,NN,ROOT,Xxxxx,0.0
+Human Resources,Human,15,Human,PROPN,NNP,compound,Xxxxx,0.0
+Human Resources,Resources,15,Resources,PROPN,NNPS,ROOT,Xxxxx,0.0
+Image Recognition,Image,2,image,NOUN,NN,compound,Xxxxx,0.0
+Image Recognition,Recognition,2,Recognition,PROPN,NNP,ROOT,Xxxxx,0.0
+Impact Investing,Impact,15,Impact,PROPN,NNP,compound,Xxxxx,0.0
+Impact Investing,Investing,15,Investing,PROPN,NNP,ROOT,Xxxxx,0.0
+Indoor Positioning,Indoor,2,Indoor,PROPN,NNP,compound,Xxxxx,0.0
+Indoor Positioning,Positioning,2,positioning,NOUN,NN,ROOT,Xxxxx,0.0
+Industrial,Industrial,19,Industrial,PROPN,NNP,ROOT,Xxxxx,0.0
+Industrial Automation,Industrial,3,Industrial,PROPN,NNP,compound,Xxxxx,0.0
+Industrial Automation,Automation,3,Automation,PROPN,NNP,ROOT,Xxxxx,0.0
+Industrial Engineering,Industrial,7,Industrial,PROPN,NNP,compound,Xxxxx,0.0
+Industrial Engineering,Engineering,7,Engineering,PROPN,NNP,ROOT,Xxxxx,0.0
+Industrial Manufacturing,Industrial,4,Industrial,PROPN,NNP,compound,Xxxxx,0.0
+Industrial Manufacturing,Manufacturing,4,Manufacturing,PROPN,NNP,ROOT,Xxxxx,0.0
+Information and Communications Technology (ICT),Information,2,information,NOUN,NN,nmod,Xxxxx,0.0
+Information and Communications Technology (ICT),and,2,and,CCONJ,CC,cc,xxx,0.0
+Information and Communications Technology (ICT),Communications,2,Communications,PROPN,NNP,compound,Xxxxx,0.0
+Information and Communications Technology (ICT),Technology,2,Technology,PROPN,NNP,conj,Xxxxx,0.0
+Information and Communications Technology (ICT),(,2,(,PUNCT,-LRB-,punct,(,0.0
+Information and Communications Technology (ICT),ICT,2,ICT,PROPN,NNP,ROOT,XXX,0.0
+Information and Communications Technology (ICT),),2,),PUNCT,-RRB-,punct,),0.0
+Information Services,Information,31,Information,PROPN,NNP,compound,Xxxxx,0.0
+Information Services,Services,31,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+Information Technology,Information,154,Information,PROPN,NNP,compound,Xxxxx,0.0
+Information Technology,Technology,154,Technology,PROPN,NNP,ROOT,Xxxxx,0.0
+Infrastructure,Infrastructure,10,infrastructure,NOUN,NN,ROOT,Xxxxx,0.0
+Innovation Management,Innovation,6,Innovation,PROPN,NNP,compound,Xxxxx,0.0
+Innovation Management,Management,6,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Insurance,Insurance,34,insurance,NOUN,NN,ROOT,Xxxxx,0.0
+InsurTech,InsurTech,3,insurtech,NOUN,NN,ROOT,XxxxxXxxx,0.0
+Intelligent Systems,Intelligent,2,Intelligent,PROPN,NNP,compound,Xxxxx,0.0
+Intelligent Systems,Systems,2,Systems,PROPN,NNPS,ROOT,Xxxxx,0.0
+Interior Design,Interior,1,Interior,PROPN,NNP,compound,Xxxxx,0.0
+Interior Design,Design,1,Design,PROPN,NNP,ROOT,Xxxxx,0.0
+Internet,Internet,34,internet,NOUN,NN,ROOT,Xxxxx,0.0
+Internet of Things,Internet,6,internet,NOUN,NN,ROOT,Xxxxx,0.0
+Internet of Things,of,6,of,ADP,IN,prep,xx,0.0
+Internet of Things,Things,6,thing,NOUN,NNS,pobj,Xxxxx,0.0
+Internet Radio,Internet,1,internet,NOUN,NN,compound,Xxxxx,0.0
+Internet Radio,Radio,1,Radio,PROPN,NNP,ROOT,Xxxxx,0.0
+IT Infrastructure,IT,5,it,NOUN,NN,compound,XX,0.0
+IT Infrastructure,Infrastructure,5,Infrastructure,PROPN,NNP,ROOT,Xxxxx,0.0
+IT Management,IT,6,IT,PROPN,NNP,compound,XX,0.0
+IT Management,Management,6,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Janitorial Service,Janitorial,1,Janitorial,PROPN,NNP,compound,Xxxxx,0.0
+Janitorial Service,Service,1,Service,PROPN,NNP,ROOT,Xxxxx,0.0
+Jewelry,Jewelry,1,jewelry,NOUN,NN,ROOT,Xxxxx,0.0
+Journalism,Journalism,1,journalism,NOUN,NN,ROOT,Xxxxx,0.0
+Knowledge Management,Knowledge,1,Knowledge,PROPN,NNP,compound,Xxxxx,0.0
+Knowledge Management,Management,1,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Landscaping,Landscaping,1,landscaping,NOUN,NN,ROOT,Xxxxx,0.0
+Language Learning,Language,3,language,NOUN,NN,compound,Xxxxx,0.0
+Language Learning,Learning,3,Learning,PROPN,NNP,ROOT,Xxxxx,0.0
+Laundry and Dry-cleaning,Laundry,1,Laundry,PROPN,NNP,ROOT,Xxxxx,0.0
+Laundry and Dry-cleaning,and,1,and,CCONJ,CC,cc,xxx,0.0
+Laundry and Dry-cleaning,Dry,1,Dry,PROPN,NNP,compound,Xxx,0.0
+Laundry and Dry-cleaning,-,1,-,PUNCT,HYPH,punct,-,0.0
+Laundry and Dry-cleaning,cleaning,1,cleaning,NOUN,NN,conj,xxxx,0.0
+Law Enforcement,Law,1,Law,PROPN,NNP,compound,Xxx,0.0
+Law Enforcement,Enforcement,1,Enforcement,PROPN,NNP,ROOT,Xxxxx,0.0
+Lead Generation,Lead,1,Lead,PROPN,NNP,compound,Xxxx,0.0
+Lead Generation,Generation,1,Generation,PROPN,NNP,ROOT,Xxxxx,0.0
+Leasing,Leasing,1,leasing,NOUN,NN,ROOT,Xxxxx,0.0
+Legal,Legal,12,legal,ADJ,JJ,ROOT,Xxxxx,0.0
+Legal Tech,Legal,2,Legal,PROPN,NNP,compound,Xxxxx,0.0
+Legal Tech,Tech,2,Tech,PROPN,NNP,ROOT,Xxxx,0.0
+Leisure,Leisure,2,leisure,NOUN,NN,ROOT,Xxxxx,0.0
+Lending,Lending,2,lending,NOUN,NN,ROOT,Xxxxx,0.0
+Life Insurance,Life,6,life,NOUN,NN,compound,Xxxx,0.0
+Life Insurance,Insurance,6,insurance,NOUN,NN,ROOT,Xxxxx,0.0
+Life Science,Life,9,Life,PROPN,NNP,compound,Xxxx,0.0
+Life Science,Science,9,Science,PROPN,NNP,ROOT,Xxxxx,0.0
+Lifestyle,Lifestyle,6,lifestyle,NOUN,NN,ROOT,Xxxxx,0.0
+Livestock,Livestock,1,livestock,NOUN,NN,ROOT,Xxxxx,0.0
+Logistics,Logistics,15,logistic,NOUN,NNS,ROOT,Xxxxx,0.0
+Machine Learning,Machine,5,Machine,PROPN,NNP,compound,Xxxxx,0.0
+Machine Learning,Learning,5,Learning,PROPN,NNP,ROOT,Xxxxx,0.0
+Machinery Manufacturing,Machinery,6,machinery,NOUN,NN,compound,Xxxxx,0.0
+Machinery Manufacturing,Manufacturing,6,manufacturing,NOUN,NN,ROOT,Xxxxx,0.0
+Management Consulting,Management,13,Management,PROPN,NNP,compound,Xxxxx,0.0
+Management Consulting,Consulting,13,Consulting,PROPN,NNP,ROOT,Xxxxx,0.0
+Management Information Systems,Management,3,Management,PROPN,NNP,compound,Xxxxx,0.0
+Management Information Systems,Information,3,Information,PROPN,NNP,compound,Xxxxx,0.0
+Management Information Systems,Systems,3,Systems,PROPN,NNPS,ROOT,Xxxxx,0.0
+Manufacturing,Manufacturing,81,manufacturing,NOUN,NN,ROOT,Xxxxx,0.0
+Mapping Services,Mapping,2,Mapping,PROPN,NNP,compound,Xxxxx,0.0
+Mapping Services,Services,2,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+Marine Technology,Marine,1,Marine,PROPN,NNP,compound,Xxxxx,0.0
+Marine Technology,Technology,1,Technology,PROPN,NNP,ROOT,Xxxxx,0.0
+Market Research,Market,6,Market,PROPN,NNP,compound,Xxxxx,0.0
+Market Research,Research,6,Research,PROPN,NNP,ROOT,Xxxxx,0.0
+Marketing,Marketing,28,marketing,NOUN,NN,ROOT,Xxxxx,0.0
+Marketplace,Marketplace,8,marketplace,NOUN,NN,ROOT,Xxxxx,0.0
+Mechanical Design,Mechanical,4,Mechanical,PROPN,NNP,compound,Xxxxx,0.0
+Mechanical Design,Design,4,Design,PROPN,NNP,ROOT,Xxxxx,0.0
+Mechanical Engineering,Mechanical,7,Mechanical,PROPN,NNP,compound,Xxxxx,0.0
+Mechanical Engineering,Engineering,7,Engineering,PROPN,NNP,ROOT,Xxxxx,0.0
+Media and Entertainment,Media,10,medium,NOUN,NNS,ROOT,Xxxxx,0.0
+Media and Entertainment,and,10,and,CCONJ,CC,cc,xxx,0.0
+Media and Entertainment,Entertainment,10,Entertainment,PROPN,NNP,conj,Xxxxx,0.0
+Medical,Medical,40,medical,ADJ,JJ,ROOT,Xxxxx,0.0
+Medical Device,Medical,19,medical,ADJ,JJ,amod,Xxxxx,0.0
+Medical Device,Device,19,device,NOUN,NN,ROOT,Xxxxx,0.0
+Messaging,Messaging,1,message,VERB,VBG,ROOT,Xxxxx,0.0
+mHealth,mHealth,2,mhealth,NOUN,NN,ROOT,xXxxxx,0.0
+Military,Military,1,military,ADJ,JJ,ROOT,Xxxxx,0.0
+Mineral,Mineral,2,mineral,NOUN,NN,ROOT,Xxxxx,0.0
+Mining,Mining,6,mining,NOUN,NN,ROOT,Xxxxx,0.0
+Mining Technology,Mining,2,Mining,PROPN,NNP,compound,Xxxxx,0.0
+Mining Technology,Technology,2,Technology,PROPN,NNP,ROOT,Xxxxx,0.0
+Mobile,Mobile,22,mobile,NOUN,NN,ROOT,Xxxxx,0.0
+Mobile Advertising,Mobile,2,Mobile,PROPN,NNP,compound,Xxxxx,0.0
+Mobile Advertising,Advertising,2,advertising,NOUN,NN,ROOT,Xxxxx,0.0
+Mobile Apps,Mobile,7,mobile,ADJ,JJ,amod,Xxxxx,0.0
+Mobile Apps,Apps,7,Apps,PROPN,NNP,ROOT,Xxxx,0.0
+Mobile Payments,Mobile,6,Mobile,PROPN,NNP,compound,Xxxxx,0.0
+Mobile Payments,Payments,6,payment,NOUN,NNS,ROOT,Xxxxx,0.0
+Motion Capture,Motion,1,Motion,PROPN,NNP,compound,Xxxxx,0.0
+Motion Capture,Capture,1,capture,NOUN,NN,ROOT,Xxxxx,0.0
+Music,Music,3,music,NOUN,NN,ROOT,Xxxxx,0.0
+Nanotechnology,Nanotechnology,2,nanotechnology,NOUN,NN,ROOT,Xxxxx,0.0
+National Security,National,1,National,PROPN,NNP,compound,Xxxxx,0.0
+National Security,Security,1,Security,PROPN,NNP,ROOT,Xxxxx,0.0
+Natural Language Processing,Natural,1,Natural,PROPN,NNP,compound,Xxxxx,0.0
+Natural Language Processing,Language,1,Language,PROPN,NNP,compound,Xxxxx,0.0
+Natural Language Processing,Processing,1,processing,NOUN,NN,ROOT,Xxxxx,0.0
+Navigation,Navigation,2,navigation,NOUN,NN,ROOT,Xxxxx,0.0
+Network Hardware,Network,1,Network,PROPN,NNP,compound,Xxxxx,0.0
+Network Hardware,Hardware,1,Hardware,PROPN,NNP,ROOT,Xxxxx,0.0
+Network Security,Network,8,Network,PROPN,NNP,compound,Xxxxx,0.0
+Network Security,Security,8,Security,PROPN,NNP,ROOT,Xxxxx,0.0
+Neuroscience,Neuroscience,1,neuroscience,NOUN,NN,ROOT,Xxxxx,0.0
+News,News,7,news,NOUN,NN,ROOT,Xxxx,0.0
+Non Profit,Non,2,Non,PROPN,NNP,compound,Xxx,0.0
+Non Profit,Profit,2,Profit,PROPN,NNP,ROOT,Xxxxx,0.0
+Nutrition,Nutrition,1,nutrition,NOUN,NN,ROOT,Xxxxx,0.0
+Office Administration,Office,2,Office,PROPN,NNP,compound,Xxxxx,0.0
+Office Administration,Administration,2,Administration,PROPN,NNP,ROOT,Xxxxx,0.0
+Oil and Gas,Oil,16,oil,NOUN,NN,ROOT,Xxx,0.0
+Oil and Gas,and,16,and,CCONJ,CC,cc,xxx,0.0
+Oil and Gas,Gas,16,Gas,PROPN,NNP,conj,Xxx,0.0
+Online Games,Online,8,Online,PROPN,NNP,compound,Xxxxx,0.0
+Online Games,Games,8,Games,PROPN,NNPS,ROOT,Xxxxx,0.0
+Online Portals,Online,4,Online,PROPN,NNP,compound,Xxxxx,0.0
+Online Portals,Portals,4,portal,NOUN,NNS,ROOT,Xxxxx,0.0
+Open Source,Open,1,open,ADJ,JJ,compound,Xxxx,0.0
+Open Source,Source,1,Source,PROPN,NNP,ROOT,Xxxxx,0.0
+Optical Communication,Optical,1,optical,ADJ,JJ,compound,Xxxxx,0.0
+Optical Communication,Communication,1,Communication,PROPN,NNP,ROOT,Xxxxx,0.0
+Organic,Organic,1,organic,ADJ,JJ,ROOT,Xxxxx,0.0
+Organic Food,Organic,2,Organic,PROPN,NNP,compound,Xxxxx,0.0
+Organic Food,Food,2,Food,PROPN,NNP,ROOT,Xxxx,0.0
+Outpatient Care,Outpatient,1,Outpatient,PROPN,NNP,compound,Xxxxx,0.0
+Outpatient Care,Care,1,Care,PROPN,NNP,ROOT,Xxxx,0.0
+Outsourcing,Outsourcing,11,outsourcing,VERB,VB,ROOT,Xxxxx,0.0
+PaaS,PaaS,3,paas,NOUN,NN,ROOT,XxxX,0.0
+Paper Manufacturing,Paper,2,paper,NOUN,NN,compound,Xxxxx,0.0
+Paper Manufacturing,Manufacturing,2,manufacturing,NOUN,NN,ROOT,Xxxxx,0.0
+Parking,Parking,1,parking,NOUN,NN,ROOT,Xxxxx,0.0
+Payments,Payments,23,payment,NOUN,NNS,ROOT,Xxxxx,0.0
+PC Games,PC,6,PC,PROPN,NNP,compound,XX,0.0
+PC Games,Games,6,Games,PROPN,NNPS,ROOT,Xxxxx,0.0
+Peer to Peer,Peer,1,peer,VERB,VB,ROOT,Xxxx,0.0
+Peer to Peer,to,1,to,ADP,IN,prep,xx,0.0
+Peer to Peer,Peer,1,peer,VERB,VB,pobj,Xxxx,0.0
+Personal Finance,Personal,2,Personal,PROPN,NNP,amod,Xxxxx,0.0
+Personal Finance,Finance,2,Finance,PROPN,NNP,ROOT,Xxxxx,0.0
+Personal Health,Personal,4,Personal,PROPN,NNP,compound,Xxxxx,0.0
+Personal Health,Health,4,Health,PROPN,NNP,ROOT,Xxxxx,0.0
+Pet,Pet,1,pet,NOUN,NN,ROOT,Xxx,0.0
+Pharmaceutical,Pharmaceutical,23,pharmaceutical,ADJ,JJ,ROOT,Xxxxx,0.0
+Photography,Photography,1,photography,NOUN,NN,ROOT,Xxxxx,0.0
+Physical Security,Physical,1,Physical,PROPN,NNP,compound,Xxxxx,0.0
+Physical Security,Security,1,Security,PROPN,NNP,ROOT,Xxxxx,0.0
+Plastics and Rubber Manufacturing,Plastics,1,plastic,NOUN,NNS,ROOT,Xxxxx,0.0
+Plastics and Rubber Manufacturing,and,1,and,CCONJ,CC,cc,xxx,0.0
+Plastics and Rubber Manufacturing,Rubber,1,Rubber,PROPN,NNP,compound,Xxxxx,0.0
+Plastics and Rubber Manufacturing,Manufacturing,1,manufacturing,NOUN,NN,conj,Xxxxx,0.0
+Podcast,Podcast,4,podcast,VERB,VB,ROOT,Xxxxx,0.0
+Politics,Politics,1,politic,NOUN,NNS,ROOT,Xxxxx,0.0
+Power Grid,Power,2,Power,PROPN,NNP,compound,Xxxxx,0.0
+Power Grid,Grid,2,Grid,PROPN,NNP,ROOT,Xxxx,0.0
+Precious Metals,Precious,2,precious,ADJ,JJ,amod,Xxxxx,0.0
+Precious Metals,Metals,2,metal,NOUN,NNS,ROOT,Xxxxx,0.0
+Predictive Analytics,Predictive,2,Predictive,PROPN,NNP,compound,Xxxxx,0.0
+Predictive Analytics,Analytics,2,Analytics,PROPN,NNPS,ROOT,Xxxxx,0.0
+Printing,Printing,6,printing,NOUN,NN,ROOT,Xxxxx,0.0
+Private Cloud,Private,1,private,ADJ,JJ,amod,Xxxxx,0.0
+Private Cloud,Cloud,1,Cloud,PROPN,NNP,ROOT,Xxxxx,0.0
+Product Design,Product,7,product,NOUN,NN,compound,Xxxxx,0.0
+Product Design,Design,7,Design,PROPN,NNP,ROOT,Xxxxx,0.0
+Product Research,Product,2,product,NOUN,NN,compound,Xxxxx,0.0
+Product Research,Research,2,Research,PROPN,NNP,ROOT,Xxxxx,0.0
+Product Search,Product,1,product,NOUN,NN,compound,Xxxxx,0.0
+Product Search,Search,1,Search,PROPN,NNP,ROOT,Xxxxx,0.0
+Productivity Tools,Productivity,2,Productivity,PROPN,NNP,compound,Xxxxx,0.0
+Productivity Tools,Tools,2,Tools,PROPN,NNPS,ROOT,Xxxxx,0.0
+Professional Networking,Professional,1,Professional,PROPN,NNP,compound,Xxxxx,0.0
+Professional Networking,Networking,1,Networking,PROPN,NNP,ROOT,Xxxxx,0.0
+Professional Services,Professional,18,Professional,PROPN,NNP,compound,Xxxxx,0.0
+Professional Services,Services,18,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+Project Management,Project,3,Project,PROPN,NNP,compound,Xxxxx,0.0
+Project Management,Management,3,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Property Development,Property,2,Property,PROPN,NNP,compound,Xxxxx,0.0
+Property Development,Development,2,Development,PROPN,NNP,ROOT,Xxxxx,0.0
+Property Management,Property,1,Property,PROPN,NNP,compound,Xxxxx,0.0
+Property Management,Management,1,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Public Relations,Public,3,Public,PROPN,NNP,compound,Xxxxx,0.0
+Public Relations,Relations,3,Relations,PROPN,NNPS,ROOT,Xxxxx,0.0
+Public Safety,Public,5,Public,PROPN,NNP,compound,Xxxxx,0.0
+Public Safety,Safety,5,Safety,PROPN,NNP,ROOT,Xxxxx,0.0
+Publishing,Publishing,9,publishing,NOUN,NN,ROOT,Xxxxx,0.0
+Quality Assurance,Quality,3,Quality,PROPN,NNP,compound,Xxxxx,0.0
+Quality Assurance,Assurance,3,Assurance,PROPN,NNP,ROOT,Xxxxx,0.0
+Railroad,Railroad,2,railroad,NOUN,NN,ROOT,Xxxxx,0.0
+Real Estate,Real,21,real,ADJ,JJ,amod,Xxxx,0.0
+Real Estate,Estate,21,estate,NOUN,NN,ROOT,Xxxxx,0.0
+Real Estate Investment,Real,5,real,ADJ,JJ,compound,Xxxx,0.0
+Real Estate Investment,Estate,5,Estate,PROPN,NNP,compound,Xxxxx,0.0
+Real Estate Investment,Investment,5,Investment,PROPN,NNP,ROOT,Xxxxx,0.0
+Real Time,Real,1,real,ADJ,JJ,amod,Xxxx,0.0
+Real Time,Time,1,time,NOUN,NN,ROOT,Xxxx,0.0
+Recruiting,Recruiting,13,recruiting,NOUN,NN,ROOT,Xxxxx,0.0
+Recycling,Recycling,1,recycling,NOUN,NN,ROOT,Xxxxx,0.0
+Rehabilitation,Rehabilitation,1,rehabilitation,NOUN,NN,ROOT,Xxxxx,0.0
+Renewable Energy,Renewable,12,renewable,ADJ,JJ,ROOT,Xxxxx,0.0
+Renewable Energy,Energy,12,Energy,PROPN,NNP,dobj,Xxxxx,0.0
+Rental,Rental,2,rental,NOUN,NN,ROOT,Xxxxx,0.0
+Rental Property,Rental,2,Rental,PROPN,NNP,compound,Xxxxx,0.0
+Rental Property,Property,2,property,NOUN,NN,ROOT,Xxxxx,0.0
+Reputation,Reputation,1,reputation,NOUN,NN,ROOT,Xxxxx,0.0
+Residential,Residential,1,residential,ADJ,JJ,ROOT,Xxxxx,0.0
+Restaurants,Restaurants,2,restaurant,NOUN,NNS,ROOT,Xxxxx,0.0
+Retail,Retail,29,retail,NOUN,NN,ROOT,Xxxxx,0.0
+Retail Technology,Retail,4,Retail,PROPN,NNP,compound,Xxxxx,0.0
+Retail Technology,Technology,4,Technology,PROPN,NNP,ROOT,Xxxxx,0.0
+Retirement,Retirement,4,retirement,NOUN,NN,ROOT,Xxxxx,0.0
+Ride Sharing,Ride,1,Ride,PROPN,NNP,compound,Xxxx,0.0
+Ride Sharing,Sharing,1,Sharing,PROPN,NNP,ROOT,Xxxxx,0.0
+Risk Management,Risk,13,Risk,PROPN,NNP,compound,Xxxx,0.0
+Risk Management,Management,13,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Robotics,Robotics,6,robotic,NOUN,NNS,ROOT,Xxxxx,0.0
+SaaS,SaaS,33,saas,NOUN,NN,ROOT,XxxX,0.0
+Sales,Sales,9,sale,NOUN,NNS,ROOT,Xxxxx,0.0
+Same Day Delivery,Same,1,same,ADJ,JJ,compound,Xxxx,0.0
+Same Day Delivery,Day,1,Day,PROPN,NNP,compound,Xxx,0.0
+Same Day Delivery,Delivery,1,Delivery,PROPN,NNP,ROOT,Xxxxx,0.0
+Seafood,Seafood,1,seafood,NOUN,NN,ROOT,Xxxxx,0.0
+Search Engine,Search,5,search,NOUN,NN,compound,Xxxxx,0.0
+Search Engine,Engine,5,Engine,PROPN,NNP,ROOT,Xxxxx,0.0
+Security,Security,11,security,NOUN,NN,ROOT,Xxxxx,0.0
+SEM,SEM,1,SEM,PROPN,NNP,ROOT,XXX,0.0
+Semantic Search,Semantic,1,Semantic,PROPN,NNP,compound,Xxxxx,0.0
+Semantic Search,Search,1,Search,PROPN,NNP,ROOT,Xxxxx,0.0
+Semiconductor,Semiconductor,5,semiconductor,NOUN,NN,ROOT,Xxxxx,0.0
+Sensor,Sensor,1,sensor,VERB,VB,ROOT,Xxxxx,0.0
+SEO,SEO,3,seo,NOUN,NN,ROOT,XXX,0.0
+Service Industry,Service,26,Service,PROPN,NNP,compound,Xxxxx,0.0
+Service Industry,Industry,26,Industry,PROPN,NNP,ROOT,Xxxxx,0.0
+Shopping,Shopping,3,shopping,NOUN,NN,ROOT,Xxxxx,0.0
+Skill Assessment,Skill,1,Skill,PROPN,NNP,compound,Xxxxx,0.0
+Skill Assessment,Assessment,1,assessment,NOUN,NN,ROOT,Xxxxx,0.0
+Small and Medium Businesses,Small,9,small,ADJ,JJ,amod,Xxxxx,0.0
+Small and Medium Businesses,and,9,and,CCONJ,CC,cc,xxx,0.0
+Small and Medium Businesses,Medium,9,Medium,PROPN,NNP,conj,Xxxxx,0.0
+Small and Medium Businesses,Businesses,9,Businesses,PROPN,NNPS,ROOT,Xxxxx,0.0
+Social Bookmarking,Social,2,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Bookmarking,Bookmarking,2,Bookmarking,PROPN,NNP,ROOT,Xxxxx,0.0
+Social Media,Social,13,social,ADJ,JJ,amod,Xxxxx,0.0
+Social Media,Media,13,medium,NOUN,NNS,ROOT,Xxxxx,0.0
+Social Media Advertising,Social,2,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Media Advertising,Media,2,Media,PROPN,NNP,compound,Xxxxx,0.0
+Social Media Advertising,Advertising,2,advertising,NOUN,NN,ROOT,Xxxxx,0.0
+Social Media Management,Social,1,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Media Management,Media,1,Media,PROPN,NNP,compound,Xxxxx,0.0
+Social Media Management,Management,1,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Social Media Marketing,Social,6,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Media Marketing,Media,6,Media,PROPN,NNP,compound,Xxxxx,0.0
+Social Media Marketing,Marketing,6,marketing,NOUN,NN,ROOT,Xxxxx,0.0
+Social Network,Social,3,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Network,Network,3,Network,PROPN,NNP,ROOT,Xxxxx,0.0
+Social News,Social,1,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social News,News,1,News,PROPN,NNP,ROOT,Xxxx,0.0
+Software,Software,161,software,NOUN,NN,ROOT,Xxxxx,0.0
+Software Engineering,Software,1,Software,PROPN,NNP,compound,Xxxxx,0.0
+Software Engineering,Engineering,1,Engineering,PROPN,NNP,ROOT,Xxxxx,0.0
+Solar,Solar,5,solar,NOUN,NN,ROOT,Xxxxx,0.0
+Space Travel,Space,2,Space,PROPN,NNP,compound,Xxxxx,0.0
+Space Travel,Travel,2,Travel,PROPN,NNP,ROOT,Xxxxx,0.0
+Sporting Goods,Sporting,3,Sporting,PROPN,NNP,compound,Xxxxx,0.0
+Sporting Goods,Goods,3,good,NOUN,NNS,ROOT,Xxxxx,0.0
+Sports,Sports,10,sport,NOUN,NNS,ROOT,Xxxxx,0.0
+Staffing Agency,Staffing,10,staff,VERB,VBG,compound,Xxxxx,0.0
+Staffing Agency,Agency,10,Agency,PROPN,NNP,ROOT,Xxxxx,0.0
+Stock Exchanges,Stock,1,Stock,PROPN,NNP,compound,Xxxxx,0.0
+Stock Exchanges,Exchanges,1,exchange,NOUN,NNS,ROOT,Xxxxx,0.0
+Subscription Service,Subscription,1,Subscription,PROPN,NNP,compound,Xxxxx,0.0
+Subscription Service,Service,1,Service,PROPN,NNP,ROOT,Xxxxx,0.0
+Supply Chain Management,Supply,12,Supply,PROPN,NNP,compound,Xxxxx,0.0
+Supply Chain Management,Chain,12,Chain,PROPN,NNP,compound,Xxxxx,0.0
+Supply Chain Management,Management,12,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Sustainability,Sustainability,3,sustainability,NOUN,NN,ROOT,Xxxxx,0.0
+Task Management,Task,1,Task,PROPN,NNP,compound,Xxxx,0.0
+Task Management,Management,1,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Technical Support,Technical,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+Technical Support,Support,9,Support,PROPN,NNP,ROOT,Xxxxx,0.0
+Telecommunications,Telecommunications,24,telecommunication,NOUN,NNS,ROOT,Xxxxx,0.0
+Test and Measurement,Test,3,test,NOUN,NN,ROOT,Xxxx,0.0
+Test and Measurement,and,3,and,CCONJ,CC,cc,xxx,0.0
+Test and Measurement,Measurement,3,measurement,NOUN,NN,conj,Xxxxx,0.0
+Text Analytics,Text,1,Text,PROPN,NNP,compound,Xxxx,0.0
+Text Analytics,Analytics,1,Analytics,PROPN,NNPS,ROOT,Xxxxx,0.0
+Textiles,Textiles,1,textile,NOUN,NNS,ROOT,Xxxxx,0.0
+Therapeutics,Therapeutics,3,therapeutic,NOUN,NNS,ROOT,Xxxxx,0.0
+Ticketing,Ticketing,3,ticket,VERB,VBG,ROOT,Xxxxx,0.0
+Tourism,Tourism,3,tourism,NOUN,NN,ROOT,Xxxxx,0.0
+Trading Platform,Trading,3,trading,NOUN,NN,compound,Xxxxx,0.0
+Trading Platform,Platform,3,platform,NOUN,NN,ROOT,Xxxxx,0.0
+Training,Training,8,training,NOUN,NN,ROOT,Xxxxx,0.0
+Transaction Processing,Transaction,2,transaction,NOUN,NN,compound,Xxxxx,0.0
+Transaction Processing,Processing,2,processing,NOUN,NN,ROOT,Xxxxx,0.0
+Translation Service,Translation,2,translation,NOUN,NN,compound,Xxxxx,0.0
+Translation Service,Service,2,Service,PROPN,NNP,ROOT,Xxxxx,0.0
+Transportation,Transportation,17,transportation,NOUN,NN,ROOT,Xxxxx,0.0
+Travel,Travel,3,travel,NOUN,NN,ROOT,Xxxxx,0.0
+Travel Accommodations,Travel,1,travel,NOUN,NN,compound,Xxxxx,0.0
+Travel Accommodations,Accommodations,1,Accommodations,PROPN,NNP,ROOT,Xxxxx,0.0
+Travel Agency,Travel,1,travel,NOUN,NN,compound,Xxxxx,0.0
+Travel Agency,Agency,1,Agency,PROPN,NNP,ROOT,Xxxxx,0.0
+Tutoring,Tutoring,1,tutoring,NOUN,NN,ROOT,Xxxxx,0.0
+TV,TV,1,tv,NOUN,NN,ROOT,XX,0.0
+Unified Communications,Unified,1,Unified,PROPN,NNP,compound,Xxxxx,0.0
+Unified Communications,Communications,1,Communications,PROPN,NNPS,ROOT,Xxxxx,0.0
+Venture Capital,Venture,56,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Venture Capital,Capital,56,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Vertical Search,Vertical,1,Vertical,PROPN,NNP,compound,Xxxxx,0.0
+Vertical Search,Search,1,Search,PROPN,NNP,ROOT,Xxxxx,0.0
+Veterinary,Veterinary,1,veterinary,ADV,RB,ROOT,Xxxxx,0.0
+Video,Video,6,video,NOUN,NN,ROOT,Xxxxx,0.0
+Video Chat,Video,1,Video,PROPN,NNP,compound,Xxxxx,0.0
+Video Chat,Chat,1,Chat,PROPN,NNP,ROOT,Xxxx,0.0
+Video Editing,Video,1,Video,PROPN,NNP,compound,Xxxxx,0.0
+Video Editing,Editing,1,Editing,PROPN,NNP,ROOT,Xxxxx,0.0
+Video Games,Video,13,Video,PROPN,NNP,compound,Xxxxx,0.0
+Video Games,Games,13,Games,PROPN,NNPS,ROOT,Xxxxx,0.0
+Video Streaming,Video,1,video,NOUN,NN,compound,Xxxxx,0.0
+Video Streaming,Streaming,1,Streaming,PROPN,NNP,ROOT,Xxxxx,0.0
+Virtual Currency,Virtual,1,virtual,ADJ,JJ,amod,Xxxxx,0.0
+Virtual Currency,Currency,1,Currency,PROPN,NNP,ROOT,Xxxxx,0.0
+Virtual Reality,Virtual,3,virtual,ADJ,JJ,amod,Xxxxx,0.0
+Virtual Reality,Reality,3,reality,NOUN,NN,ROOT,Xxxxx,0.0
+Virtual Workforce,Virtual,1,Virtual,PROPN,NNP,compound,Xxxxx,0.0
+Virtual Workforce,Workforce,1,Workforce,PROPN,NNP,ROOT,Xxxxx,0.0
+Virtual World,Virtual,1,virtual,ADJ,JJ,amod,Xxxxx,0.0
+Virtual World,World,1,World,PROPN,NNP,ROOT,Xxxxx,0.0
+Virtualization,Virtualization,1,virtualization,NOUN,NN,ROOT,Xxxxx,0.0
+Visual Search,Visual,1,Visual,PROPN,NNP,compound,Xxxxx,0.0
+Visual Search,Search,1,Search,PROPN,NNP,ROOT,Xxxxx,0.0
+Vocational Education,Vocational,1,Vocational,PROPN,NNP,compound,Xxxxx,0.0
+Vocational Education,Education,1,Education,PROPN,NNP,ROOT,Xxxxx,0.0
+VoIP,VoIP,4,voip,NOUN,NN,ROOT,XxXX,0.0
+Warehousing,Warehousing,2,warehousing,NOUN,NN,ROOT,Xxxxx,0.0
+Waste Management,Waste,4,Waste,PROPN,NNP,compound,Xxxxx,0.0
+Waste Management,Management,4,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Water,Water,1,water,NOUN,NN,ROOT,Xxxxx,0.0
+Wealth Management,Wealth,12,Wealth,PROPN,NNP,compound,Xxxxx,0.0
+Wealth Management,Management,12,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Web Design,Web,8,web,NOUN,NN,compound,Xxx,0.0
+Web Design,Design,8,design,NOUN,NN,ROOT,Xxxxx,0.0
+Web Development,Web,4,web,NOUN,NN,compound,Xxx,0.0
+Web Development,Development,4,Development,PROPN,NNP,ROOT,Xxxxx,0.0
+Web Hosting,Web,9,web,NOUN,NN,compound,Xxx,0.0
+Web Hosting,Hosting,9,hosting,NOUN,NN,ROOT,Xxxxx,0.0
+Wellness,Wellness,19,wellness,NOUN,NN,ROOT,Xxxxx,0.0
+Wholesale,Wholesale,5,Wholesale,PROPN,NNP,ROOT,Xxxxx,0.0
+Wine And Spirits,Wine,7,wine,NOUN,NN,ROOT,Xxxx,0.0
+Wine And Spirits,And,7,and,CCONJ,CC,cc,Xxx,0.0
+Wine And Spirits,Spirits,7,spirit,NOUN,NNS,conj,Xxxxx,0.0
+Winery,Winery,1,Winery,PROPN,NNP,ROOT,Xxxxx,0.0
+Wireless,Wireless,8,wireless,ADJ,JJ,ROOT,Xxxxx,0.0
