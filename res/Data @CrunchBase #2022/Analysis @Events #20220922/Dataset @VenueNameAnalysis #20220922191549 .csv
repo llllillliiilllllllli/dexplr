@@ -1,0 +1,1060 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+—,—,1,610,1,—,PUNCT,:,ROOT,—,0.0
+Huntington Place,Huntington,2,1,10,Huntington,PROPN,NNP,compound,Xxxxx,0.0
+Huntington Place,Place,2,1,5,Place,PROPN,NNP,ROOT,Xxxxx,0.0
+Rudarska ulica 2,Rudarska,3,1,8,Rudarska,PROPN,NNP,nsubj,Xxxxx,0.0
+Rudarska ulica 2,ulica,3,1,5,ulica,VERB,VBP,ROOT,xxxx,0.0
+Rudarska ulica 2,2,3,1,1,2,NUM,CD,nummod,d,0.0
+Event Location,Event,2,4,5,event,NOUN,NN,compound,Xxxxx,0.0
+Event Location,Location,2,4,8,location,NOUN,NN,ROOT,Xxxxx,0.0
+Venue,Venue,1,6,5,venue,NOUN,NN,ROOT,Xxxxx,0.0
+Hilton Hotel in Needham’s Point,Hilton,5,1,6,Hilton,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Hotel in Needham’s Point,Hotel,5,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+Hilton Hotel in Needham’s Point,in,5,1,2,in,ADP,IN,prep,xx,0.0
+Hilton Hotel in Needham’s Point,Needham,5,1,7,Needham,PROPN,NNP,poss,Xxxxx,0.0
+Hilton Hotel in Needham’s Point,’s,5,1,2,’s,PART,POS,case,’x,0.0
+Hilton Hotel in Needham’s Point,Point,5,1,5,Point,PROPN,NNP,pobj,Xxxxx,0.0
+"Mandalay Bay, Las Vegas, USA",Mandalay,5,3,8,Mandalay,PROPN,NNP,compound,Xxxxx,0.0
+"Mandalay Bay, Las Vegas, USA",Bay,5,3,3,Bay,PROPN,NNP,ROOT,Xxx,0.0
+"Mandalay Bay, Las Vegas, USA",",",5,3,1,",",PUNCT,",",punct,",",0.0
+"Mandalay Bay, Las Vegas, USA",Las,5,3,3,Las,PROPN,NNP,compound,Xxx,0.0
+"Mandalay Bay, Las Vegas, USA",Vegas,5,3,5,Vegas,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Mandalay Bay, Las Vegas, USA",USA,5,3,3,USA,PROPN,NNP,appos,XXX,0.0
+Splitska ulica 3,Splitska,3,1,8,Splitska,PROPN,NNP,nsubj,Xxxxx,0.0
+Splitska ulica 3,ulica,3,1,5,ulica,VERB,VBP,ROOT,xxxx,0.0
+Splitska ulica 3,3,3,1,1,3,NUM,CD,nummod,d,0.0
+"Old Billingsgate, London, United Kingdom",Old,5,1,3,old,ADJ,JJ,amod,Xxx,0.0
+"Old Billingsgate, London, United Kingdom",Billingsgate,5,1,12,Billingsgate,PROPN,NNP,ROOT,Xxxxx,0.0
+"Old Billingsgate, London, United Kingdom",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Old Billingsgate, London, United Kingdom",London,5,1,6,London,PROPN,NNP,conj,Xxxxx,0.0
+"Old Billingsgate, London, United Kingdom",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Old Billingsgate, London, United Kingdom",Kingdom,5,1,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+Mandalay Bay,Mandalay,2,5,8,Mandalay,PROPN,NNP,compound,Xxxxx,0.0
+Mandalay Bay,Bay,2,5,3,Bay,PROPN,NNP,ROOT,Xxx,0.0
+National African American Smithsonian Museum,National,5,1,8,national,ADJ,JJ,amod,Xxxxx,0.0
+National African American Smithsonian Museum,African,5,1,7,African,PROPN,NNP,compound,Xxxxx,0.0
+National African American Smithsonian Museum,American,5,1,8,American,PROPN,NNP,compound,Xxxxx,0.0
+National African American Smithsonian Museum,Smithsonian,5,1,11,Smithsonian,PROPN,NNP,compound,Xxxxx,0.0
+National African American Smithsonian Museum,Museum,5,1,6,Museum,PROPN,NNP,ROOT,Xxxxx,0.0
+"International Exibition Center ""EXPO""",International,4,1,13,International,PROPN,NNP,nmod,Xxxxx,0.0
+"International Exibition Center ""EXPO""",Exibition,4,1,9,Exibition,PROPN,NNP,nmod,Xxxxx,0.0
+"International Exibition Center ""EXPO""",Center,4,1,6,Center,PROPN,NNP,nmod,Xxxxx,0.0
+"International Exibition Center ""EXPO""","""",4,1,1,"""",PUNCT,``,punct,"""",0.0
+"International Exibition Center ""EXPO""",EXPO,4,1,4,expo,NOUN,NN,ROOT,XXXX,0.0
+"International Exibition Center ""EXPO""","""",4,1,1,"""",PUNCT,'',punct,"""",0.0
+Los Angeles Convention Center,Los,4,2,3,Los,PROPN,NNP,compound,Xxx,0.0
+Los Angeles Convention Center,Angeles,4,2,7,Angeles,PROPN,NNP,compound,Xxxxx,0.0
+Los Angeles Convention Center,Convention,4,2,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Los Angeles Convention Center,Center,4,2,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Location,Location,1,3,8,location,NOUN,NN,ROOT,Xxxxx,0.0
+ExCeL London,ExCeL,2,1,5,ExCeL,NOUN,NNS,compound,XxXxX,0.0
+ExCeL London,London,2,1,6,London,PROPN,NNP,ROOT,Xxxxx,0.0
+Headquarters,Headquarters,1,3,12,headquarter,NOUN,NNS,ROOT,Xxxxx,0.0
+Congress Hotel Yerevan,Congress,3,1,8,Congress,PROPN,NNP,compound,Xxxxx,0.0
+Congress Hotel Yerevan,Hotel,3,1,5,Hotel,PROPN,NNP,compound,Xxxxx,0.0
+Congress Hotel Yerevan,Yerevan,3,1,7,Yerevan,PROPN,NNP,ROOT,Xxxxx,0.0
+Moscone Center,Moscone,2,3,7,Moscone,PROPN,NNP,compound,Xxxxx,0.0
+Moscone Center,Center,2,3,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+"1 Expo Drive, Wan Chai",1,5,1,1,1,NUM,CD,nummod,d,0.0
+"1 Expo Drive, Wan Chai",Expo,5,1,4,Expo,PROPN,NNP,compound,Xxxx,0.0
+"1 Expo Drive, Wan Chai",Drive,5,1,5,Drive,PROPN,NNP,ROOT,Xxxxx,0.0
+"1 Expo Drive, Wan Chai",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"1 Expo Drive, Wan Chai",Wan,5,1,3,Wan,PROPN,NNP,compound,Xxx,0.0
+"1 Expo Drive, Wan Chai",Chai,5,1,4,Chai,PROPN,NNP,appos,Xxxx,0.0
+InterContinental Mark Hopkins San Francisco,InterContinental,5,1,16,InterContinental,PROPN,NNP,compound,XxxxxXxxxx,0.0
+InterContinental Mark Hopkins San Francisco,Mark,5,1,4,Mark,PROPN,NNP,compound,Xxxx,0.0
+InterContinental Mark Hopkins San Francisco,Hopkins,5,1,7,Hopkins,PROPN,NNP,compound,Xxxxx,0.0
+InterContinental Mark Hopkins San Francisco,San,5,1,3,San,PROPN,NNP,compound,Xxx,0.0
+InterContinental Mark Hopkins San Francisco,Francisco,5,1,9,Francisco,PROPN,NNP,ROOT,Xxxxx,0.0
+Taets Art and Event Park,Taets,5,1,5,Taets,PROPN,NNP,compound,Xxxxx,0.0
+Taets Art and Event Park,Art,5,1,3,Art,PROPN,NNP,nmod,Xxx,0.0
+Taets Art and Event Park,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Taets Art and Event Park,Event,5,1,5,Event,PROPN,NNP,compound,Xxxxx,0.0
+Taets Art and Event Park,Park,5,1,4,Park,PROPN,NNP,ROOT,Xxxx,0.0
+JW Marriott Parq Vancouver,JW,4,1,2,JW,PROPN,NNP,compound,XX,0.0
+JW Marriott Parq Vancouver,Marriott,4,1,8,Marriott,PROPN,NNP,compound,Xxxxx,0.0
+JW Marriott Parq Vancouver,Parq,4,1,4,Parq,PROPN,NNP,compound,Xxxx,0.0
+JW Marriott Parq Vancouver,Vancouver,4,1,9,Vancouver,PROPN,NNP,ROOT,Xxxxx,0.0
+The Mirage,The,2,3,3,the,DET,DT,det,Xxx,0.0
+The Mirage,Mirage,2,3,6,Mirage,PROPN,NNP,ROOT,Xxxxx,0.0
+Istanbul New Airport,Istanbul,3,1,8,Istanbul,PROPN,NNP,compound,Xxxxx,0.0
+Istanbul New Airport,New,3,1,3,New,PROPN,NNP,compound,Xxx,0.0
+Istanbul New Airport,Airport,3,1,7,Airport,PROPN,NNP,ROOT,Xxxxx,0.0
+Sheraton Dallas Hotel,Sheraton,3,1,8,Sheraton,PROPN,NNP,compound,Xxxxx,0.0
+Sheraton Dallas Hotel,Dallas,3,1,6,Dallas,PROPN,NNP,compound,Xxxxx,0.0
+Sheraton Dallas Hotel,Hotel,3,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+ST. FRANCIS YACHT CLUB,ST,4,1,2,ST,PROPN,NNP,compound,XX,0.0
+ST. FRANCIS YACHT CLUB,.,4,1,1,.,PROPN,NNP,compound,.,0.0
+ST. FRANCIS YACHT CLUB,FRANCIS,4,1,7,FRANCIS,PROPN,NNP,compound,XXXX,0.0
+ST. FRANCIS YACHT CLUB,YACHT,4,1,5,YACHT,PROPN,NNP,compound,XXXX,0.0
+ST. FRANCIS YACHT CLUB,CLUB,4,1,4,CLUB,VERB,VBD,ROOT,XXXX,0.0
+Rosen Shingle Creek,Rosen,3,1,5,Rosen,PROPN,NNP,compound,Xxxxx,0.0
+Rosen Shingle Creek,Shingle,3,1,7,Shingle,PROPN,NNP,compound,Xxxxx,0.0
+Rosen Shingle Creek,Creek,3,1,5,Creek,PROPN,NNP,ROOT,Xxxxx,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,SANTA,7,1,5,SANTA,PROPN,NNP,compound,XXXX,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,FE,7,1,2,FE,PROPN,NNP,compound,XX,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,STATION,7,1,7,STATION,PROPN,NNP,compound,XXXX,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,HOTEL,7,1,5,HOTEL,PROPN,NNP,ROOT,XXXX,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,&,7,1,1,&,CCONJ,CC,cc,&,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,amp,7,1,3,amp,PROPN,NNP,conj,xxx,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,;,7,1,1,;,PUNCT,:,punct,;,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,CASINO,7,1,6,CASINO,PROPN,NNP,compound,XXXX,0.0
+SANTA FE STATION HOTEL &amp; CASINO Address,Address,7,1,7,Address,PROPN,NNP,appos,Xxxxx,0.0
+5/6 park,5/6,2,1,3,5/6,NUM,CD,nummod,d/d,0.0
+5/6 park,park,2,1,4,park,NOUN,NN,ROOT,xxxx,0.0
+"Mbarara, Uganda",Mbarara,2,1,7,Mbarara,PROPN,NNP,ROOT,Xxxxx,0.0
+"Mbarara, Uganda",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Mbarara, Uganda",Uganda,2,1,6,Uganda,PROPN,NNP,npadvmod,Xxxxx,0.0
+Yogyakarta,Yogyakarta,1,1,10,Yogyakarta,PROPN,NNP,ROOT,Xxxxx,0.0
+Novotel London West,Novotel,3,3,7,Novotel,PROPN,NNP,compound,Xxxxx,0.0
+Novotel London West,London,3,3,6,London,PROPN,NNP,compound,Xxxxx,0.0
+Novotel London West,West,3,3,4,West,PROPN,NNP,ROOT,Xxxx,0.0
+Dubai World Trade Center,Dubai,4,1,5,Dubai,PROPN,NNP,compound,Xxxxx,0.0
+Dubai World Trade Center,World,4,1,5,World,PROPN,NNP,compound,Xxxxx,0.0
+Dubai World Trade Center,Trade,4,1,5,Trade,PROPN,NNP,compound,Xxxxx,0.0
+Dubai World Trade Center,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Messe Dortmund GmbH,Messe,3,1,5,Messe,PROPN,NNP,compound,Xxxxx,0.0
+Messe Dortmund GmbH,Dortmund,3,1,8,Dortmund,PROPN,NNP,ROOT,Xxxxx,0.0
+Messe Dortmund GmbH,GmbH,3,1,4,GmbH,PROPN,NNP,appos,XxxX,0.0
+Antigua Licorera del Valle,Antigua,4,1,7,Antigua,PROPN,NNP,compound,Xxxxx,0.0
+Antigua Licorera del Valle,Licorera,4,1,8,Licorera,PROPN,NNP,compound,Xxxxx,0.0
+Antigua Licorera del Valle,del,4,1,3,del,PROPN,NNP,compound,xxx,0.0
+Antigua Licorera del Valle,Valle,4,1,5,Valle,PROPN,NNP,ROOT,Xxxxx,0.0
+"Paris, France",Paris,2,1,5,Paris,PROPN,NNP,ROOT,Xxxxx,0.0
+"Paris, France",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Paris, France",France,2,1,6,France,PROPN,NNP,appos,Xxxxx,0.0
+Radialsystem,Radialsystem,1,1,12,radialsystem,VERB,VB,ROOT,Xxxxx,0.0
+SRI International,SRI,2,1,3,SRI,PROPN,NNP,compound,XXX,0.0
+SRI International,International,2,1,13,International,PROPN,NNP,ROOT,Xxxxx,0.0
+HQ,HQ,1,1,2,HQ,PROPN,NNP,ROOT,XX,0.0
+Mobile World Congress Barcelona,Mobile,4,1,6,Mobile,PROPN,NNP,compound,Xxxxx,0.0
+Mobile World Congress Barcelona,World,4,1,5,World,PROPN,NNP,compound,Xxxxx,0.0
+Mobile World Congress Barcelona,Congress,4,1,8,Congress,PROPN,NNP,compound,Xxxxx,0.0
+Mobile World Congress Barcelona,Barcelona,4,1,9,Barcelona,PROPN,NNP,ROOT,Xxxxx,0.0
+Roseate House,Roseate,2,1,7,roseate,NOUN,NN,compound,Xxxxx,0.0
+Roseate House,House,2,1,5,House,PROPN,NNP,ROOT,Xxxxx,0.0
+Humboldt Carré,Humboldt,2,1,8,Humboldt,PROPN,NNP,compound,Xxxxx,0.0
+Humboldt Carré,Carré,2,1,5,Carré,PROPN,NNP,ROOT,Xxxxx,0.0
+241 allée du Majestic,241,4,1,3,241,NUM,CD,nummod,ddd,0.0
+241 allée du Majestic,allée,4,1,5,allée,VERB,VBP,ROOT,xxxx,0.0
+241 allée du Majestic,du,4,1,2,du,PROPN,NNP,compound,xx,0.0
+241 allée du Majestic,Majestic,4,1,8,Majestic,PROPN,NNP,dobj,Xxxxx,0.0
+Virtual,Virtual,1,1,7,virtual,ADJ,JJ,ROOT,Xxxxx,0.0
+Sheraton Hotel,Sheraton,2,1,8,Sheraton,PROPN,NNP,compound,Xxxxx,0.0
+Sheraton Hotel,Hotel,2,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+Centro de Incubação de Évora,Centro,5,3,6,Centro,PROPN,NNP,compound,Xxxxx,0.0
+Centro de Incubação de Évora,de,5,3,2,de,PROPN,NNP,nmod,xx,0.0
+Centro de Incubação de Évora,Incubação,5,3,9,Incubação,PROPN,NNP,compound,Xxxxx,0.0
+Centro de Incubação de Évora,de,5,3,2,de,PROPN,NNP,compound,xx,0.0
+Centro de Incubação de Évora,Évora,5,3,5,Évora,PROPN,NNP,ROOT,Xxxxx,0.0
+Draper Startup House,Draper,3,1,6,draper,NOUN,NN,compound,Xxxxx,0.0
+Draper Startup House,Startup,3,1,7,Startup,PROPN,NNP,compound,Xxxxx,0.0
+Draper Startup House,House,3,1,5,House,PROPN,NNP,ROOT,Xxxxx,0.0
+Marriott Hotel,Marriott,2,1,8,Marriott,PROPN,NNP,compound,Xxxxx,0.0
+Marriott Hotel,Hotel,2,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+American Trucking Show,American,3,1,8,American,PROPN,NNP,compound,Xxxxx,0.0
+American Trucking Show,Trucking,3,1,8,Trucking,PROPN,NNP,compound,Xxxxx,0.0
+American Trucking Show,Show,3,1,4,Show,PROPN,NNP,ROOT,Xxxx,0.0
+Hotel Le Meridien,Hotel,3,1,5,Hotel,PROPN,NNP,compound,Xxxxx,0.0
+Hotel Le Meridien,Le,3,1,2,Le,PROPN,NNP,compound,Xx,0.0
+Hotel Le Meridien,Meridien,3,1,8,Meridien,PROPN,NNP,ROOT,Xxxxx,0.0
+Fantadroms,Fantadroms,1,1,10,fantadrom,NOUN,NNS,ROOT,Xxxxx,0.0
+The Mandarin Oriental,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Mandarin Oriental,Mandarin,3,1,8,Mandarin,PROPN,NNP,compound,Xxxxx,0.0
+The Mandarin Oriental,Oriental,3,1,8,Oriental,PROPN,NNP,ROOT,Xxxxx,0.0
+Marriott Hotel Grand Cayman,Marriott,4,1,8,Marriott,PROPN,NNP,compound,Xxxxx,0.0
+Marriott Hotel Grand Cayman,Hotel,4,1,5,Hotel,PROPN,NNP,compound,Xxxxx,0.0
+Marriott Hotel Grand Cayman,Grand,4,1,5,Grand,PROPN,NNP,compound,Xxxxx,0.0
+Marriott Hotel Grand Cayman,Cayman,4,1,6,Cayman,PROPN,NNP,ROOT,Xxxxx,0.0
+Taj Dubai,Taj,2,3,3,Taj,PROPN,NNP,compound,Xxx,0.0
+Taj Dubai,Dubai,2,3,5,Dubai,PROPN,NNP,ROOT,Xxxxx,0.0
+Virtual Event,Virtual,2,2,7,virtual,ADJ,JJ,amod,Xxxxx,0.0
+Virtual Event,Event,2,2,5,event,NOUN,NN,ROOT,Xxxxx,0.0
+Forum Fribourg,Forum,2,1,5,Forum,PROPN,NNP,compound,Xxxxx,0.0
+Forum Fribourg,Fribourg,2,1,8,Fribourg,PROPN,NNP,ROOT,Xxxxx,0.0
+The Oberoi Centre,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Oberoi Centre,Oberoi,3,1,6,Oberoi,PROPN,NNP,compound,Xxxxx,0.0
+The Oberoi Centre,Centre,3,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+Dubai World Trade Centre,Dubai,4,2,5,Dubai,PROPN,NNP,compound,Xxxxx,0.0
+Dubai World Trade Centre,World,4,2,5,World,PROPN,NNP,compound,Xxxxx,0.0
+Dubai World Trade Centre,Trade,4,2,5,Trade,PROPN,NNP,compound,Xxxxx,0.0
+Dubai World Trade Centre,Centre,4,2,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+Casa da Arquitetura de Matosinhos,Casa,5,1,4,Casa,PROPN,NNP,compound,Xxxx,0.0
+Casa da Arquitetura de Matosinhos,da,5,1,2,da,NOUN,NN,compound,xx,0.0
+Casa da Arquitetura de Matosinhos,Arquitetura,5,1,11,Arquitetura,PROPN,NNP,compound,Xxxxx,0.0
+Casa da Arquitetura de Matosinhos,de,5,1,2,de,X,FW,nmod,xx,0.0
+Casa da Arquitetura de Matosinhos,Matosinhos,5,1,10,Matosinhos,PROPN,NNP,ROOT,Xxxxx,0.0
+Online Live,Online,2,1,6,online,ADJ,JJ,compound,Xxxxx,0.0
+Online Live,Live,2,1,4,live,ADV,RB,ROOT,Xxxx,0.0
+The Rosen Centre Hotel,The,4,1,3,the,DET,DT,det,Xxx,0.0
+The Rosen Centre Hotel,Rosen,4,1,5,Rosen,PROPN,NNP,compound,Xxxxx,0.0
+The Rosen Centre Hotel,Centre,4,1,6,Centre,PROPN,NNP,compound,Xxxxx,0.0
+The Rosen Centre Hotel,Hotel,4,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+Swissnex San Francisco,Swissnex,3,1,8,Swissnex,PROPN,NNP,compound,Xxxxx,0.0
+Swissnex San Francisco,San,3,1,3,San,PROPN,NNP,compound,Xxx,0.0
+Swissnex San Francisco,Francisco,3,1,9,Francisco,PROPN,NNP,ROOT,Xxxxx,0.0
+Wisdome LA,Wisdome,2,1,7,Wisdome,PROPN,NNP,compound,Xxxxx,0.0
+Wisdome LA,LA,2,1,2,LA,PROPN,NNP,ROOT,XX,0.0
+SMU Cox Business School,SMU,4,1,3,SMU,PROPN,NNP,compound,XXX,0.0
+SMU Cox Business School,Cox,4,1,3,Cox,PROPN,NNP,compound,Xxx,0.0
+SMU Cox Business School,Business,4,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+SMU Cox Business School,School,4,1,6,School,PROPN,NNP,ROOT,Xxxxx,0.0
+Cidade das Artes,Cidade,3,1,6,cidade,ADJ,JJ,amod,Xxxxx,0.0
+Cidade das Artes,das,3,1,3,da,NOUN,NNS,compound,xxx,0.0
+Cidade das Artes,Artes,3,1,5,arte,NOUN,NNS,ROOT,Xxxxx,0.0
+The Expo Centre,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Expo Centre,Expo,3,1,4,Expo,PROPN,NNP,compound,Xxxx,0.0
+The Expo Centre,Centre,3,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+V&amp;A Waterfront,V&amp;A,2,1,7,V&amp;A,PROPN,NNP,compound,X&xxx;X,0.0
+V&amp;A Waterfront,Waterfront,2,1,10,Waterfront,PROPN,NNP,ROOT,Xxxxx,0.0
+Hilton Philadelphia City Avenue,Hilton,4,1,6,Hilton,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Philadelphia City Avenue,Philadelphia,4,1,12,Philadelphia,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Philadelphia City Avenue,City,4,1,4,City,PROPN,NNP,compound,Xxxx,0.0
+Hilton Philadelphia City Avenue,Avenue,4,1,6,Avenue,PROPN,NNP,ROOT,Xxxxx,0.0
+mHUB,mHUB,1,1,4,mhub,X,LS,ROOT,xXXX,0.0
+"International Conference Center,",International,3,1,13,International,PROPN,NNP,compound,Xxxxx,0.0
+"International Conference Center,",Conference,3,1,10,Conference,PROPN,NNP,compound,Xxxxx,0.0
+"International Conference Center,",Center,3,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+"International Conference Center,",",",3,1,1,",",PUNCT,",",punct,",",0.0
+POLAND,POLAND,1,1,6,POLAND,PROPN,NNP,ROOT,XXXX,0.0
+Westin Grand Hotel Munich,Westin,4,1,6,Westin,PROPN,NNP,compound,Xxxxx,0.0
+Westin Grand Hotel Munich,Grand,4,1,5,Grand,PROPN,NNP,compound,Xxxxx,0.0
+Westin Grand Hotel Munich,Hotel,4,1,5,Hotel,PROPN,NNP,compound,Xxxxx,0.0
+Westin Grand Hotel Munich,Munich,4,1,6,Munich,PROPN,NNP,ROOT,Xxxxx,0.0
+Brussels Expo,Brussels,2,1,8,Brussels,PROPN,NNP,compound,Xxxxx,0.0
+Brussels Expo,Expo,2,1,4,Expo,PROPN,NNP,ROOT,Xxxx,0.0
+City Hall,City,2,1,4,City,PROPN,NNP,compound,Xxxx,0.0
+City Hall,Hall,2,1,4,Hall,PROPN,NNP,ROOT,Xxxx,0.0
+Bloque 74 c 9,Bloque,4,1,6,Bloque,PROPN,NNP,ROOT,Xxxxx,0.0
+Bloque 74 c 9,74,4,1,2,74,NUM,CD,nummod,dd,0.0
+Bloque 74 c 9,c,4,1,1,c,SYM,SYM,appos,x,0.0
+Bloque 74 c 9,9,4,1,1,9,NUM,CD,nummod,d,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,Hilton,7,1,6,Hilton,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,Toronto,7,1,7,Toronto,PROPN,NNP,nmod,Xxxxx,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,/,7,1,1,/,SYM,SYM,punct,/,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,Markham,7,1,7,Markham,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,Suites,7,1,6,Suites,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,Conference,7,1,10,Conference,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,Centre,7,1,6,Centre,PROPN,NNP,nsubj,Xxxxx,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,&,7,1,1,&,CCONJ,CC,cc,&,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,amp,7,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,;,7,1,1,;,PUNCT,:,punct,;,0.0
+Hilton Toronto/Markham Suites Conference Centre &amp; Spa,Spa,7,1,3,spa,VERB,VB,ROOT,Xxx,0.0
+Jw Marriott Marquis,Jw,3,1,2,Jw,PROPN,NNP,compound,Xx,0.0
+Jw Marriott Marquis,Marriott,3,1,8,Marriott,PROPN,NNP,compound,Xxxxx,0.0
+Jw Marriott Marquis,Marquis,3,1,7,Marquis,PROPN,NNP,ROOT,Xxxxx,0.0
+D'podium International Event Centre,D'podium,4,1,8,d'podium,NOUN,NN,det,X'xxxx,0.0
+D'podium International Event Centre,International,4,1,13,International,PROPN,NNP,compound,Xxxxx,0.0
+D'podium International Event Centre,Event,4,1,5,Event,PROPN,NNP,compound,Xxxxx,0.0
+D'podium International Event Centre,Centre,4,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+PWD Digital Agency,PWD,3,1,3,PWD,PROPN,NNP,compound,XXX,0.0
+PWD Digital Agency,Digital,3,1,7,Digital,PROPN,NNP,compound,Xxxxx,0.0
+PWD Digital Agency,Agency,3,1,6,Agency,PROPN,NNP,ROOT,Xxxxx,0.0
+Jumeirah Emirates Towers,Jumeirah,3,1,8,Jumeirah,PROPN,NNP,compound,Xxxxx,0.0
+Jumeirah Emirates Towers,Emirates,3,1,8,emirate,VERB,VBZ,compound,Xxxxx,0.0
+Jumeirah Emirates Towers,Towers,3,1,6,tower,NOUN,NNS,ROOT,Xxxxx,0.0
+Migr8 Global Services LLP,Migr8,4,3,5,migr8,NOUN,NN,compound,Xxxxd,0.0
+Migr8 Global Services LLP,Global,4,3,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Migr8 Global Services LLP,Services,4,3,8,Services,PROPN,NNPS,compound,Xxxxx,0.0
+Migr8 Global Services LLP,LLP,4,3,3,LLP,PROPN,NNP,ROOT,XXX,0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",1701,8,1,4,1701,NUM,CD,nummod,dddd,0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",Collins,8,1,7,Collins,PROPN,NNP,compound,Xxxxx,0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",Ave,8,1,3,Ave,PROPN,NNP,compound,Xxx,0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",Miami,8,1,5,Miami,PROPN,NNP,compound,Xxxxx,0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",Beach,8,1,5,Beach,PROPN,NNP,ROOT,Xxxxx,0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",Miami,8,1,5,Miami,PROPN,NNP,appos,Xxxxx,0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",FL,8,1,2,FL,PROPN,NNP,conj,XX,0.0
+"1701 Collins Ave Miami Beach, Miami, FL 33139",33139,8,1,5,33139,NUM,CD,nummod,dddd,0.0
+The Buckhead Club,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Buckhead Club,Buckhead,3,1,8,Buckhead,PROPN,NNP,compound,Xxxxx,0.0
+The Buckhead Club,Club,3,1,4,Club,PROPN,NNP,ROOT,Xxxx,0.0
+Dubai,Dubai,1,2,5,dubai,NOUN,NN,ROOT,Xxxxx,0.0
+The Glasshouse,The,2,1,3,the,DET,DT,det,Xxx,0.0
+The Glasshouse,Glasshouse,2,1,10,Glasshouse,PROPN,NNP,ROOT,Xxxxx,0.0
+PayPal Park,PayPal,2,1,6,PayPal,PROPN,NNP,compound,XxxXxx,0.0
+PayPal Park,Park,2,1,4,Park,PROPN,NNP,ROOT,Xxxx,0.0
+Agora Bogotá,Agora,2,1,5,Agora,PROPN,NNP,compound,Xxxxx,0.0
+Agora Bogotá,Bogotá,2,1,6,Bogotá,PROPN,NNP,ROOT,Xxxxx,0.0
+"Melisakki, Kea",Melisakki,2,1,9,Melisakki,PROPN,NNP,ROOT,Xxxxx,0.0
+"Melisakki, Kea",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Melisakki, Kea",Kea,2,1,3,Kea,PROPN,NNP,appos,Xxx,0.0
+Garcia’s at The Capitol Theatre,Garcia,5,1,6,Garcia,PROPN,NNP,ROOT,Xxxxx,0.0
+Garcia’s at The Capitol Theatre,’s,5,1,2,’s,PART,POS,nummod,’x,0.0
+Garcia’s at The Capitol Theatre,at,5,1,2,at,ADP,IN,prep,xx,0.0
+Garcia’s at The Capitol Theatre,The,5,1,3,the,DET,DT,det,Xxx,0.0
+Garcia’s at The Capitol Theatre,Capitol,5,1,7,Capitol,PROPN,NNP,compound,Xxxxx,0.0
+Garcia’s at The Capitol Theatre,Theatre,5,1,7,Theatre,PROPN,NNP,pobj,Xxxxx,0.0
+Ecole de Musique et de Danse Intercommunale,Ecole,7,1,5,Ecole,PROPN,NNP,nmod,Xxxxx,0.0
+Ecole de Musique et de Danse Intercommunale,de,7,1,2,de,X,FW,nmod,xx,0.0
+Ecole de Musique et de Danse Intercommunale,Musique,7,1,7,Musique,PROPN,NNP,nmod,Xxxxx,0.0
+Ecole de Musique et de Danse Intercommunale,et,7,1,2,et,ADP,IN,nmod,xx,0.0
+Ecole de Musique et de Danse Intercommunale,de,7,1,2,de,X,FW,compound,xx,0.0
+Ecole de Musique et de Danse Intercommunale,Danse,7,1,5,Danse,PROPN,NNP,compound,Xxxxx,0.0
+Ecole de Musique et de Danse Intercommunale,Intercommunale,7,1,14,Intercommunale,PROPN,NNP,ROOT,Xxxxx,0.0
+Messukeskus Helsinki,Messukeskus,2,1,11,Messukeskus,PROPN,NNP,compound,Xxxxx,0.0
+Messukeskus Helsinki,Helsinki,2,1,8,Helsinki,PROPN,NNP,ROOT,Xxxxx,0.0
+Altice Arena,Altice,2,1,6,Altice,PROPN,NNP,compound,Xxxxx,0.0
+Altice Arena,Arena,2,1,5,Arena,PROPN,NNP,ROOT,Xxxxx,0.0
+Paradise Point Bowls Club,Paradise,4,1,8,Paradise,PROPN,NNP,compound,Xxxxx,0.0
+Paradise Point Bowls Club,Point,4,1,5,Point,PROPN,NNP,compound,Xxxxx,0.0
+Paradise Point Bowls Club,Bowls,4,1,5,Bowls,PROPN,NNP,compound,Xxxxx,0.0
+Paradise Point Bowls Club,Club,4,1,4,Club,PROPN,NNP,ROOT,Xxxx,0.0
+Searchlight HQ,Searchlight,2,1,11,Searchlight,PROPN,NNP,compound,Xxxxx,0.0
+Searchlight HQ,HQ,2,1,2,HQ,PROPN,NNP,ROOT,XX,0.0
+InterContinental Dubai,InterContinental,2,2,16,InterContinental,PROPN,NNP,compound,XxxxxXxxxx,0.0
+InterContinental Dubai,Dubai,2,2,5,Dubai,PROPN,NNP,ROOT,Xxxxx,0.0
+Charlotte Convention Center,Charlotte,3,2,9,Charlotte,PROPN,NNP,compound,Xxxxx,0.0
+Charlotte Convention Center,Convention,3,2,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Charlotte Convention Center,Center,3,2,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Harlem YMCA,Harlem,2,1,6,Harlem,PROPN,NNP,compound,Xxxxx,0.0
+Harlem YMCA,YMCA,2,1,4,ymca,NOUN,NN,ROOT,XXXX,0.0
+"street Mohamed V, downtown tunis, Tunisia",street,6,1,6,street,NOUN,NN,compound,xxxx,0.0
+"street Mohamed V, downtown tunis, Tunisia",Mohamed,6,1,7,Mohamed,PROPN,NNP,compound,Xxxxx,0.0
+"street Mohamed V, downtown tunis, Tunisia",V,6,1,1,V,PROPN,NNP,ROOT,X,0.0
+"street Mohamed V, downtown tunis, Tunisia",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"street Mohamed V, downtown tunis, Tunisia",downtown,6,1,8,downtown,NOUN,NN,compound,xxxx,0.0
+"street Mohamed V, downtown tunis, Tunisia",tunis,6,1,5,tunis,NOUN,NN,appos,xxxx,0.0
+"street Mohamed V, downtown tunis, Tunisia",Tunisia,6,1,7,Tunisia,PROPN,NNP,appos,Xxxxx,0.0
+Av. du Port 86C,Av,4,1,2,av,INTJ,UH,ROOT,Xx,0.0
+Av. du Port 86C,.,4,1,1,.,PUNCT,.,punct,.,0.0
+Av. du Port 86C,du,4,1,2,du,PROPN,NNP,compound,xx,0.0
+Av. du Port 86C,Port,4,1,4,Port,PROPN,NNP,ROOT,Xxxx,0.0
+Av. du Port 86C,86C,4,1,3,86c,NUM,CD,nummod,ddX,0.0
+Brighton,Brighton,1,1,8,Brighton,PROPN,NNP,ROOT,Xxxxx,0.0
+"Jumeirah Beach Hotel, Dubai",Jumeirah,4,1,8,Jumeirah,PROPN,NNP,compound,Xxxxx,0.0
+"Jumeirah Beach Hotel, Dubai",Beach,4,1,5,Beach,PROPN,NNP,compound,Xxxxx,0.0
+"Jumeirah Beach Hotel, Dubai",Hotel,4,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+"Jumeirah Beach Hotel, Dubai",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Jumeirah Beach Hotel, Dubai",Dubai,4,1,5,Dubai,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Convention,13,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Centre,13,1,6,Centre,PROPN,NNP,compound,Xxxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Dublin,13,1,6,Dublin,PROPN,NNP,compound,Xxxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Spencer,13,1,7,Spencer,PROPN,NNP,nsubj,Xxxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Dock,13,1,4,Dock,PROPN,NNP,compound,Xxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",North,13,1,5,North,PROPN,NNP,compound,Xxxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Wall,13,1,4,Wall,PROPN,NNP,compound,Xxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Quay,13,1,4,Quay,PROPN,NNP,compound,Xxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Dublin,13,1,6,Dublin,PROPN,NNP,ROOT,Xxxxx,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",1,13,1,1,1,NUM,CD,nummod,d,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",",",13,1,1,",",PUNCT,",",punct,",",0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",D01,13,1,3,D01,PROPN,NNP,compound,Xdd,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",T1W6,13,1,4,T1W6,PROPN,NNP,compound,XdXd,0.0
+"Convention Centre Dublin Spencer Dock North Wall Quay Dublin 1, D01 T1W6 Ireland",Ireland,13,1,7,Ireland,PROPN,NNP,appos,Xxxxx,0.0
+ITC Grand Chola,ITC,3,1,3,ITC,PROPN,NNP,compound,XXX,0.0
+ITC Grand Chola,Grand,3,1,5,Grand,PROPN,NNP,compound,Xxxxx,0.0
+ITC Grand Chola,Chola,3,1,5,Chola,PROPN,NNP,ROOT,Xxxxx,0.0
+New York Estonian House,New,4,1,3,New,PROPN,NNP,compound,Xxx,0.0
+New York Estonian House,York,4,1,4,York,PROPN,NNP,compound,Xxxx,0.0
+New York Estonian House,Estonian,4,1,8,Estonian,PROPN,NNP,compound,Xxxxx,0.0
+New York Estonian House,House,4,1,5,House,PROPN,NNP,ROOT,Xxxxx,0.0
+LLotja de Mar,LLotja,3,1,6,LLotja,PROPN,NNP,compound,XXxxxx,0.0
+LLotja de Mar,de,3,1,2,de,X,FW,compound,xx,0.0
+LLotja de Mar,Mar,3,1,3,Mar,PROPN,NNP,ROOT,Xxx,0.0
+South Mountain YMCA Camps,South,4,1,5,South,PROPN,NNP,compound,Xxxxx,0.0
+South Mountain YMCA Camps,Mountain,4,1,8,Mountain,PROPN,NNP,compound,Xxxxx,0.0
+South Mountain YMCA Camps,YMCA,4,1,4,YMCA,PROPN,NNP,compound,XXXX,0.0
+South Mountain YMCA Camps,Camps,4,1,5,camp,NOUN,NNS,ROOT,Xxxxx,0.0
+Maggiano's Little Italy,Maggiano,3,1,8,Maggiano,PROPN,NNP,poss,Xxxxx,0.0
+Maggiano's Little Italy,'s,3,1,2,'s,PART,POS,case,'x,0.0
+Maggiano's Little Italy,Little,3,1,6,Little,PROPN,NNP,compound,Xxxxx,0.0
+Maggiano's Little Italy,Italy,3,1,5,Italy,PROPN,NNP,ROOT,Xxxxx,0.0
+"Taj Wellington Mews, Chennai",Taj,4,1,3,Taj,PROPN,NNP,compound,Xxx,0.0
+"Taj Wellington Mews, Chennai",Wellington,4,1,10,Wellington,PROPN,NNP,compound,Xxxxx,0.0
+"Taj Wellington Mews, Chennai",Mews,4,1,4,Mews,PROPN,NNP,ROOT,Xxxx,0.0
+"Taj Wellington Mews, Chennai",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Taj Wellington Mews, Chennai",Chennai,4,1,7,Chennai,PROPN,NNP,appos,Xxxxx,0.0
+etc.venues St. Paul's,etc.venues,3,1,10,etc.venue,VERB,VBZ,ROOT,xxx.xxxx,0.0
+etc.venues St. Paul's,St.,3,1,3,St.,PROPN,NNP,compound,Xx.,0.0
+etc.venues St. Paul's,Paul,3,1,4,Paul,PROPN,NNP,dobj,Xxxx,0.0
+etc.venues St. Paul's,'s,3,1,2,'s,PART,POS,case,'x,0.0
+FREEHOLD,FREEHOLD,1,1,8,freehold,ADJ,JJ,ROOT,XXXX,0.0
+"Rand Airport, Transvaal Aviation Club Building, Germiston,",Rand,7,2,4,Rand,PROPN,NNP,compound,Xxxx,0.0
+"Rand Airport, Transvaal Aviation Club Building, Germiston,",Airport,7,2,7,Airport,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rand Airport, Transvaal Aviation Club Building, Germiston,",",",7,2,1,",",PUNCT,",",punct,",",0.0
+"Rand Airport, Transvaal Aviation Club Building, Germiston,",Transvaal,7,2,9,Transvaal,PROPN,NNP,compound,Xxxxx,0.0
+"Rand Airport, Transvaal Aviation Club Building, Germiston,",Aviation,7,2,8,Aviation,PROPN,NNP,compound,Xxxxx,0.0
+"Rand Airport, Transvaal Aviation Club Building, Germiston,",Club,7,2,4,Club,PROPN,NNP,compound,Xxxx,0.0
+"Rand Airport, Transvaal Aviation Club Building, Germiston,",Building,7,2,8,Building,PROPN,NNP,appos,Xxxxx,0.0
+"Rand Airport, Transvaal Aviation Club Building, Germiston,",Germiston,7,2,9,Germiston,PROPN,NNP,conj,Xxxxx,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),Centre,7,1,6,centre,NOUN,NN,compound,Xxxxx,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),d'événements,7,1,12,d'événements,NOUN,NN,ROOT,x'xxxx,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),et,7,1,2,et,X,FW,nmod,xx,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),de,7,1,2,de,X,FW,nmod,xx,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),congrès,7,1,7,congrès,PROPN,NNP,compound,xxxx,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),inter@ctifs,7,1,11,inter@ctifs,PROPN,NNP,appos,xxxx@xxxx,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),(,7,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),CECI,7,1,4,CECI,PROPN,NNP,appos,XXXX,0.0
+Centre d'événements et de congrès inter@ctifs (CECI),),7,1,1,),PUNCT,-RRB-,punct,),0.0
+Rick's Cafe,Rick,2,1,4,Rick,PROPN,NNP,poss,Xxxx,0.0
+Rick's Cafe,'s,2,1,2,'s,PART,POS,case,'x,0.0
+Rick's Cafe,Cafe,2,1,4,Cafe,PROPN,NNP,ROOT,Xxxx,0.0
+Mustamäe tee 3a,Mustamäe,3,1,8,mustamäe,NOUN,NN,compound,Xxxxx,0.0
+Mustamäe tee 3a,tee,3,1,3,tee,NOUN,NN,ROOT,xxx,0.0
+Mustamäe tee 3a,3a,3,1,2,3a,NUM,CD,appos,dx,0.0
+McCormick Place,McCormick,2,1,9,McCormick,PROPN,NNP,compound,XxXxxxx,0.0
+McCormick Place,Place,2,1,5,Place,PROPN,NNP,ROOT,Xxxxx,0.0
+"iKuben, Britvegen 4, 6410 Molde",iKuben,5,1,6,iKuben,PROPN,NNP,ROOT,xXxxxx,0.0
+"iKuben, Britvegen 4, 6410 Molde",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"iKuben, Britvegen 4, 6410 Molde",Britvegen,5,1,9,Britvegen,PROPN,NNP,appos,Xxxxx,0.0
+"iKuben, Britvegen 4, 6410 Molde",4,5,1,1,4,NUM,CD,nummod,d,0.0
+"iKuben, Britvegen 4, 6410 Molde",6410,5,1,4,6410,NUM,CD,appos,dddd,0.0
+"iKuben, Britvegen 4, 6410 Molde",Molde,5,1,5,Molde,PROPN,NNP,appos,Xxxxx,0.0
+Glover Memorial hall,Glover,3,1,6,Glover,PROPN,NNP,compound,Xxxxx,0.0
+Glover Memorial hall,Memorial,3,1,8,Memorial,PROPN,NNP,compound,Xxxxx,0.0
+Glover Memorial hall,hall,3,1,4,hall,NOUN,NN,ROOT,xxxx,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",international,10,1,13,international,PROPN,NNP,compound,xxxx,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",Conference,10,1,10,Conference,PROPN,NNP,compound,Xxxxx,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",Centre,10,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",",",10,1,1,",",PUNCT,",",punct,",",0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",11,10,1,2,11,NUM,CD,appos,dd,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",Central,10,1,7,Central,PROPN,NNP,compound,Xxxxx,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",Area,10,1,4,Area,PROPN,NNP,appos,Xxxx,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",900,10,1,3,900,NUM,CD,nummod,ddd,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",Herbert,10,1,7,Herbert,PROPN,NNP,compound,Xxxxx,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",Macaulay,10,1,8,Macaulay,PROPN,NNP,compound,Xxxxx,0.0
+"international Conference Centre, 11, Central Area, 900 Herbert Macaulay Way,",Way,10,1,3,Way,PROPN,NNP,appos,Xxx,0.0
+San Diego Convention Center,San,4,2,3,San,PROPN,NNP,compound,Xxx,0.0
+San Diego Convention Center,Diego,4,2,5,Diego,PROPN,NNP,compound,Xxxxx,0.0
+San Diego Convention Center,Convention,4,2,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+San Diego Convention Center,Center,4,2,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+The Four Seasons Hotel,The,4,1,3,the,DET,DT,det,Xxx,0.0
+The Four Seasons Hotel,Four,4,1,4,Four,PROPN,NNP,nummod,Xxxx,0.0
+The Four Seasons Hotel,Seasons,4,1,7,season,NOUN,NNS,compound,Xxxxx,0.0
+The Four Seasons Hotel,Hotel,4,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+Venetian Resort Las Vegas,Venetian,4,1,8,Venetian,PROPN,NNP,compound,Xxxxx,0.0
+Venetian Resort Las Vegas,Resort,4,1,6,Resort,PROPN,NNP,compound,Xxxxx,0.0
+Venetian Resort Las Vegas,Las,4,1,3,Las,PROPN,NNP,compound,Xxx,0.0
+Venetian Resort Las Vegas,Vegas,4,1,5,Vegas,PROPN,NNP,ROOT,Xxxxx,0.0
+Hilton Sydney,Hilton,2,1,6,Hilton,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Sydney,Sydney,2,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Bespoke,Bespoke,1,5,7,Bespoke,PROPN,NNP,ROOT,Xxxxx,0.0
+Wayfare Tavern,Wayfare,2,1,7,Wayfare,PROPN,NNP,compound,Xxxxx,0.0
+Wayfare Tavern,Tavern,2,1,6,Tavern,PROPN,NNP,ROOT,Xxxxx,0.0
+"Malminkatu 16, Helsinki, Southern Finland 00100, FI",Malminkatu,7,1,10,Malminkatu,PROPN,NNP,ROOT,Xxxxx,0.0
+"Malminkatu 16, Helsinki, Southern Finland 00100, FI",16,7,1,2,16,NUM,CD,nummod,dd,0.0
+"Malminkatu 16, Helsinki, Southern Finland 00100, FI",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Malminkatu 16, Helsinki, Southern Finland 00100, FI",Helsinki,7,1,8,Helsinki,PROPN,NNP,appos,Xxxxx,0.0
+"Malminkatu 16, Helsinki, Southern Finland 00100, FI",Southern,7,1,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Malminkatu 16, Helsinki, Southern Finland 00100, FI",Finland,7,1,7,Finland,PROPN,NNP,appos,Xxxxx,0.0
+"Malminkatu 16, Helsinki, Southern Finland 00100, FI",00100,7,1,5,00100,NUM,CD,nummod,dddd,0.0
+"Malminkatu 16, Helsinki, Southern Finland 00100, FI",FI,7,1,2,fi,NOUN,NN,appos,XX,0.0
+845 Market Street,845,3,1,3,845,NUM,CD,nummod,ddd,0.0
+845 Market Street,Market,3,1,6,Market,PROPN,NNP,compound,Xxxxx,0.0
+845 Market Street,Street,3,1,6,Street,PROPN,NNP,ROOT,Xxxxx,0.0
+DHL INNOVATION CENTER,DHL,3,1,3,DHL,PROPN,NNP,compound,XXX,0.0
+DHL INNOVATION CENTER,INNOVATION,3,1,10,innovation,NOUN,NN,compound,XXXX,0.0
+DHL INNOVATION CENTER,CENTER,3,1,6,center,NOUN,NN,ROOT,XXXX,0.0
+metavere,metavere,1,1,8,metavere,ADV,RB,ROOT,xxxx,0.0
+W San Francisco,W,3,1,1,W,PROPN,NNP,compound,X,0.0
+W San Francisco,San,3,1,3,San,PROPN,NNP,compound,Xxx,0.0
+W San Francisco,Francisco,3,1,9,Francisco,PROPN,NNP,ROOT,Xxxxx,0.0
+Hyatt Regency,Hyatt,2,2,5,Hyatt,PROPN,NNP,compound,Xxxxx,0.0
+Hyatt Regency,Regency,2,2,7,Regency,PROPN,NNP,ROOT,Xxxxx,0.0
+MANCHESTER GRAND HYATT,MANCHESTER,3,1,10,MANCHESTER,PROPN,NNP,compound,XXXX,0.0
+MANCHESTER GRAND HYATT,GRAND,3,1,5,GRAND,PROPN,NNP,compound,XXXX,0.0
+MANCHESTER GRAND HYATT,HYATT,3,1,5,hyatt,NOUN,NN,ROOT,XXXX,0.0
+Fira Gran Via,Fira,3,1,4,Fira,PROPN,NNP,compound,Xxxx,0.0
+Fira Gran Via,Gran,3,1,4,Gran,PROPN,NNP,compound,Xxxx,0.0
+Fira Gran Via,Via,3,1,3,Via,PROPN,NNP,ROOT,Xxx,0.0
+Lisbon,Lisbon,1,1,6,lisbon,NOUN,NN,ROOT,Xxxxx,0.0
+Piedmont Driving Club,Piedmont,3,1,8,Piedmont,PROPN,NNP,nsubj,Xxxxx,0.0
+Piedmont Driving Club,Driving,3,1,7,drive,VERB,VBG,ROOT,Xxxxx,0.0
+Piedmont Driving Club,Club,3,1,4,Club,PROPN,NNP,dobj,Xxxx,0.0
+World Yogashala,World,2,22,5,World,PROPN,NNP,compound,Xxxxx,0.0
+World Yogashala,Yogashala,2,22,9,Yogashala,PROPN,NNP,ROOT,Xxxxx,0.0
+Globe Theatre,Globe,2,1,5,Globe,PROPN,NNP,compound,Xxxxx,0.0
+Globe Theatre,Theatre,2,1,7,Theatre,PROPN,NNP,ROOT,Xxxxx,0.0
+Sands Expo Level 1 Hall G,Sands,6,1,5,Sands,PROPN,NNP,compound,Xxxxx,0.0
+Sands Expo Level 1 Hall G,Expo,6,1,4,Expo,PROPN,NNP,compound,Xxxx,0.0
+Sands Expo Level 1 Hall G,Level,6,1,5,Level,PROPN,NNP,ROOT,Xxxxx,0.0
+Sands Expo Level 1 Hall G,1,6,1,1,1,NUM,CD,nummod,d,0.0
+Sands Expo Level 1 Hall G,Hall,6,1,4,Hall,PROPN,NNP,compound,Xxxx,0.0
+Sands Expo Level 1 Hall G,G,6,1,1,G,PROPN,NNP,ROOT,X,0.0
+Paris,Paris,1,1,5,Paris,PROPN,NNP,ROOT,Xxxxx,0.0
+"Dubai, UAE",Dubai,2,1,5,Dubai,PROPN,NNP,ROOT,Xxxxx,0.0
+"Dubai, UAE",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Dubai, UAE",UAE,2,1,3,UAE,PROPN,NNP,npadvmod,XXX,0.0
+Fairmont Chicago,Fairmont,2,1,8,Fairmont,PROPN,NNP,compound,Xxxxx,0.0
+Fairmont Chicago,Chicago,2,1,7,Chicago,PROPN,NNP,ROOT,Xxxxx,0.0
+New City Gas,New,3,1,3,New,PROPN,NNP,compound,Xxx,0.0
+New City Gas,City,3,1,4,City,PROPN,NNP,compound,Xxxx,0.0
+New City Gas,Gas,3,1,3,Gas,PROPN,NNP,ROOT,Xxx,0.0
+Yoga Essence Rishikesh,Yoga,3,25,4,yoga,NOUN,NN,compound,Xxxx,0.0
+Yoga Essence Rishikesh,Essence,3,25,7,Essence,PROPN,NNP,compound,Xxxxx,0.0
+Yoga Essence Rishikesh,Rishikesh,3,25,9,Rishikesh,PROPN,NNP,ROOT,Xxxxx,0.0
+Komplek. Carina Sayang A No.69,Komplek,5,1,7,Komplek,PROPN,NNP,ROOT,Xxxxx,0.0
+Komplek. Carina Sayang A No.69,.,5,1,1,.,PUNCT,.,punct,.,0.0
+Komplek. Carina Sayang A No.69,Carina,5,1,6,Carina,PROPN,NNP,compound,Xxxxx,0.0
+Komplek. Carina Sayang A No.69,Sayang,5,1,6,Sayang,PROPN,NNP,compound,Xxxxx,0.0
+Komplek. Carina Sayang A No.69,A,5,1,1,A,PROPN,NNP,det,X,0.0
+Komplek. Carina Sayang A No.69,No.69,5,1,5,no.69,NOUN,NN,ROOT,Xx.dd,0.0
+Mumbai,Mumbai,1,1,6,mumbai,NOUN,NN,ROOT,Xxxxx,0.0
+Gene Stover Lakefront Park,Gene,4,1,4,Gene,PROPN,NNP,compound,Xxxx,0.0
+Gene Stover Lakefront Park,Stover,4,1,6,Stover,PROPN,NNP,compound,Xxxxx,0.0
+Gene Stover Lakefront Park,Lakefront,4,1,9,Lakefront,PROPN,NNP,compound,Xxxxx,0.0
+Gene Stover Lakefront Park,Park,4,1,4,Park,PROPN,NNP,ROOT,Xxxx,0.0
+New World Stages,New,3,1,3,New,PROPN,NNP,compound,Xxx,0.0
+New World Stages,World,3,1,5,World,PROPN,NNP,compound,Xxxxx,0.0
+New World Stages,Stages,3,1,6,stage,NOUN,NNS,ROOT,Xxxxx,0.0
+Olympia,Olympia,1,1,7,Olympia,NOUN,NNS,ROOT,Xxxxx,0.0
+"Cannes, France",Cannes,2,1,6,Cannes,PROPN,NNP,ROOT,Xxxxx,0.0
+"Cannes, France",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Cannes, France",France,2,1,6,France,PROPN,NNP,appos,Xxxxx,0.0
+Online,Online,1,1,6,online,ADJ,JJ,ROOT,Xxxxx,0.0
+"Washington, DC",Washington,2,3,10,Washington,PROPN,NNP,ROOT,Xxxxx,0.0
+"Washington, DC",",",2,3,1,",",PUNCT,",",punct,",",0.0
+"Washington, DC",DC,2,3,2,DC,PROPN,NNP,appos,XX,0.0
+Business Design Centre,Business,3,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+Business Design Centre,Design,3,1,6,Design,PROPN,NNP,compound,Xxxxx,0.0
+Business Design Centre,Centre,3,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+100% Online,100,2,1,3,100,NUM,CD,nummod,ddd,0.0
+100% Online,%,2,1,1,%,NOUN,NN,npadvmod,%,0.0
+100% Online,Online,2,1,6,online,ADJ,JJ,ROOT,Xxxxx,0.0
+Loudermilk Conference Center,Loudermilk,3,1,10,Loudermilk,PROPN,NNP,compound,Xxxxx,0.0
+Loudermilk Conference Center,Conference,3,1,10,Conference,PROPN,NNP,compound,Xxxxx,0.0
+Loudermilk Conference Center,Center,3,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Event Venue,Event,2,1,5,event,NOUN,NN,compound,Xxxxx,0.0
+Event Venue,Venue,2,1,5,Venue,PROPN,NNP,ROOT,Xxxxx,0.0
+The Riverside Church,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Riverside Church,Riverside,3,1,9,Riverside,PROPN,NNP,compound,Xxxxx,0.0
+The Riverside Church,Church,3,1,6,Church,PROPN,NNP,ROOT,Xxxxx,0.0
+Penn Stater Hotel,Penn,3,1,4,Penn,PROPN,NNP,compound,Xxxx,0.0
+Penn Stater Hotel,Stater,3,1,6,Stater,PROPN,NNP,compound,Xxxxx,0.0
+Penn Stater Hotel,Hotel,3,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+845 Market St,845,3,1,3,845,NUM,CD,nummod,ddd,0.0
+845 Market St,Market,3,1,6,Market,PROPN,NNP,compound,Xxxxx,0.0
+845 Market St,St,3,1,2,St,PROPN,NNP,ROOT,Xx,0.0
+"2 Chome-1 Nakase, Mihama Ward,",2,5,1,1,2,NUM,CD,nummod,d,0.0
+"2 Chome-1 Nakase, Mihama Ward,",Chome-1,5,1,7,Chome-1,PROPN,NNP,compound,Xxxxx-d,0.0
+"2 Chome-1 Nakase, Mihama Ward,",Nakase,5,1,6,Nakase,PROPN,NNP,ROOT,Xxxxx,0.0
+"2 Chome-1 Nakase, Mihama Ward,",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"2 Chome-1 Nakase, Mihama Ward,",Mihama,5,1,6,Mihama,PROPN,NNP,compound,Xxxxx,0.0
+"2 Chome-1 Nakase, Mihama Ward,",Ward,5,1,4,Ward,PROPN,NNP,appos,Xxxx,0.0
+133 Houndsditch,133,2,1,3,133,NUM,CD,nummod,ddd,0.0
+133 Houndsditch,Houndsditch,2,1,11,Houndsditch,PROPN,NNP,ROOT,Xxxxx,0.0
+Las Vegas Convention Center,Las,4,4,3,Las,PROPN,NNP,compound,Xxx,0.0
+Las Vegas Convention Center,Vegas,4,4,5,Vegas,PROPN,NNP,compound,Xxxxx,0.0
+Las Vegas Convention Center,Convention,4,4,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Las Vegas Convention Center,Center,4,4,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Austin Convention Center,Austin,3,2,6,Austin,PROPN,NNP,compound,Xxxxx,0.0
+Austin Convention Center,Convention,3,2,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Austin Convention Center,Center,3,2,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+4 Boulevard Léon Bureau,4,4,1,1,4,NUM,CD,nummod,d,0.0
+4 Boulevard Léon Bureau,Boulevard,4,1,9,Boulevard,PROPN,NNP,compound,Xxxxx,0.0
+4 Boulevard Léon Bureau,Léon,4,1,4,Léon,PROPN,NNP,compound,Xxxx,0.0
+4 Boulevard Léon Bureau,Bureau,4,1,6,Bureau,PROPN,NNP,ROOT,Xxxxx,0.0
+Kursaal,Kursaal,1,1,7,Kursaal,PROPN,NNP,ROOT,Xxxxx,0.0
+Anchorage Marriot Downtown,Anchorage,3,1,9,Anchorage,PROPN,NNP,compound,Xxxxx,0.0
+Anchorage Marriot Downtown,Marriot,3,1,7,Marriot,PROPN,NNP,compound,Xxxxx,0.0
+Anchorage Marriot Downtown,Downtown,3,1,8,Downtown,PROPN,NNP,ROOT,Xxxxx,0.0
+Kigali Convention Centre,Kigali,3,1,6,Kigali,PROPN,NNP,compound,Xxxxx,0.0
+Kigali Convention Centre,Convention,3,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Kigali Convention Centre,Centre,3,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+Boston Conference center,Boston,3,1,6,Boston,PROPN,NNP,compound,Xxxxx,0.0
+Boston Conference center,Conference,3,1,10,Conference,PROPN,NNP,compound,Xxxxx,0.0
+Boston Conference center,center,3,1,6,center,NOUN,NN,ROOT,xxxx,0.0
+Rafique Marriage Lawn,Rafique,3,1,7,Rafique,PROPN,NNP,compound,Xxxxx,0.0
+Rafique Marriage Lawn,Marriage,3,1,8,Marriage,PROPN,NNP,compound,Xxxxx,0.0
+Rafique Marriage Lawn,Lawn,3,1,4,Lawn,PROPN,NNP,ROOT,Xxxx,0.0
+Harmony Hollow Farm,Harmony,3,1,7,Harmony,PROPN,NNP,compound,Xxxxx,0.0
+Harmony Hollow Farm,Hollow,3,1,6,Hollow,PROPN,NNP,compound,Xxxxx,0.0
+Harmony Hollow Farm,Farm,3,1,4,Farm,PROPN,NNP,ROOT,Xxxx,0.0
+Cubo Itaú,Cubo,2,1,4,Cubo,PROPN,NNP,compound,Xxxx,0.0
+Cubo Itaú,Itaú,2,1,4,Itaú,PROPN,NNP,ROOT,Xxxx,0.0
+"C. Cifuentes, 5, 28021 Madrid, Espanha",C.,6,1,2,C.,PROPN,NNP,compound,X.,0.0
+"C. Cifuentes, 5, 28021 Madrid, Espanha",Cifuentes,6,1,9,Cifuentes,PROPN,NNPS,ROOT,Xxxxx,0.0
+"C. Cifuentes, 5, 28021 Madrid, Espanha",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"C. Cifuentes, 5, 28021 Madrid, Espanha",5,6,1,1,5,NUM,CD,appos,d,0.0
+"C. Cifuentes, 5, 28021 Madrid, Espanha",28021,6,1,5,28021,NUM,CD,nummod,dddd,0.0
+"C. Cifuentes, 5, 28021 Madrid, Espanha",Madrid,6,1,6,Madrid,PROPN,NNP,appos,Xxxxx,0.0
+"C. Cifuentes, 5, 28021 Madrid, Espanha",Espanha,6,1,7,Espanha,NOUN,NNS,appos,Xxxxx,0.0
+Gaylord National Resort &amp; Convention Center,Gaylord,6,1,7,Gaylord,PROPN,NNP,compound,Xxxxx,0.0
+Gaylord National Resort &amp; Convention Center,National,6,1,8,National,PROPN,NNP,compound,Xxxxx,0.0
+Gaylord National Resort &amp; Convention Center,Resort,6,1,6,Resort,PROPN,NNP,ROOT,Xxxxx,0.0
+Gaylord National Resort &amp; Convention Center,&,6,1,1,&,CCONJ,CC,cc,&,0.0
+Gaylord National Resort &amp; Convention Center,amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Gaylord National Resort &amp; Convention Center,;,6,1,1,;,PUNCT,:,punct,;,0.0
+Gaylord National Resort &amp; Convention Center,Convention,6,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Gaylord National Resort &amp; Convention Center,Center,6,1,6,Center,PROPN,NNP,appos,Xxxxx,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",Poble,10,1,5,Poble,PROPN,NNP,amod,Xxxxx,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",Espanyol,10,1,8,Espanyol,PROPN,NNP,ROOT,Xxxxx,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",",",10,1,1,",",PUNCT,",",punct,",",0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",Av,10,1,2,Av,PROPN,NNP,appos,Xx,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",.,10,1,1,.,PUNCT,.,punct,.,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",Francesc,10,1,8,Francesc,PROPN,NNP,compound,Xxxxx,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",Ferrer,10,1,6,Ferrer,PROPN,NNP,compound,Xxxxx,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",i,10,1,1,i,PROPN,NNP,compound,x,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",Guàrdia,10,1,7,Guàrdia,PROPN,NNP,ROOT,Xxxxx,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",13,10,1,2,13,NUM,CD,appos,dd,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",Barcelona,10,1,9,Barcelona,PROPN,NNP,conj,Xxxxx,0.0
+"Poble Espanyol, Av. Francesc Ferrer i Guàrdia, 13, Barcelona, Spain",Spain,10,1,5,Spain,PROPN,NNP,appos,Xxxxx,0.0
+"Headquarters,Ikeja Office",Headquarters,2,1,12,headquarter,NOUN,NNS,ROOT,Xxxxx,0.0
+"Headquarters,Ikeja Office",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Headquarters,Ikeja Office",Ikeja,2,1,5,Ikeja,PROPN,NNP,compound,Xxxxx,0.0
+"Headquarters,Ikeja Office",Office,2,1,6,Office,PROPN,NNP,appos,Xxxxx,0.0
+"3645S Las Vegas Blvd, Las Vegas, NV USA",3645S,8,1,5,3645S,PROPN,NNP,compound,ddddX,0.0
+"3645S Las Vegas Blvd, Las Vegas, NV USA",Las,8,1,3,Las,PROPN,NNP,compound,Xxx,0.0
+"3645S Las Vegas Blvd, Las Vegas, NV USA",Vegas,8,1,5,Vegas,PROPN,NNP,compound,Xxxxx,0.0
+"3645S Las Vegas Blvd, Las Vegas, NV USA",Blvd,8,1,4,Blvd,PROPN,NNP,ROOT,Xxxx,0.0
+"3645S Las Vegas Blvd, Las Vegas, NV USA",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"3645S Las Vegas Blvd, Las Vegas, NV USA",Vegas,8,1,5,Vegas,PROPN,NNP,npadvmod,Xxxxx,0.0
+"3645S Las Vegas Blvd, Las Vegas, NV USA",NV,8,1,2,NV,PROPN,NNP,compound,XX,0.0
+"3645S Las Vegas Blvd, Las Vegas, NV USA",USA,8,1,3,USA,PROPN,NNP,appos,XXX,0.0
+Palacio de Congresos de Granada,Palacio,5,1,7,Palacio,PROPN,NNP,nmod,Xxxxx,0.0
+Palacio de Congresos de Granada,de,5,1,2,de,X,FW,nmod,xx,0.0
+Palacio de Congresos de Granada,Congresos,5,1,9,Congresos,PROPN,NNP,nmod,Xxxxx,0.0
+Palacio de Congresos de Granada,de,5,1,2,de,PROPN,NNP,compound,xx,0.0
+Palacio de Congresos de Granada,Granada,5,1,7,Granada,PROPN,NNP,ROOT,Xxxxx,0.0
+ENERGY VIRTUAL ARENA,ENERGY,3,1,6,energy,NOUN,NN,compound,XXXX,0.0
+ENERGY VIRTUAL ARENA,VIRTUAL,3,1,7,virtual,ADJ,JJ,amod,XXXX,0.0
+ENERGY VIRTUAL ARENA,ARENA,3,1,5,arena,NOUN,NN,ROOT,XXXX,0.0
+Boston,Boston,1,1,6,Boston,PROPN,NNP,ROOT,Xxxxx,0.0
+The University of Sydney Business School,The,6,1,3,the,DET,DT,det,Xxx,0.0
+The University of Sydney Business School,University,6,1,10,University,PROPN,NNP,nmod,Xxxxx,0.0
+The University of Sydney Business School,of,6,1,2,of,ADP,IN,prep,xx,0.0
+The University of Sydney Business School,Sydney,6,1,6,Sydney,PROPN,NNP,compound,Xxxxx,0.0
+The University of Sydney Business School,Business,6,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+The University of Sydney Business School,School,6,1,6,School,PROPN,NNP,ROOT,Xxxxx,0.0
+Caron Treatment Centers,Caron,3,1,5,Caron,PROPN,NNP,compound,Xxxxx,0.0
+Caron Treatment Centers,Treatment,3,1,9,Treatment,PROPN,NNP,compound,Xxxxx,0.0
+Caron Treatment Centers,Centers,3,1,7,Centers,PROPN,NNPS,ROOT,Xxxxx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",NO.73,11,1,5,no.73,X,LS,ROOT,XX.dd,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",Defu,11,1,4,Defu,PROPN,NNP,compound,Xxxx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",Rd,11,1,2,Rd,PROPN,NNP,ROOT,Xx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",.,11,1,1,.,PUNCT,.,punct,.,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",Xingtan,11,1,7,Xingtan,PROPN,NNP,compound,Xxxxx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",Town,11,1,4,Town,PROPN,NNP,ROOT,Xxxx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",",",11,1,1,",",PUNCT,",",punct,",",0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",Foshan,11,1,6,Foshan,PROPN,NNP,compound,Xxxxx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",City,11,1,4,City,PROPN,NNP,conj,Xxxx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",Guangdong,11,1,9,Guangdong,PROPN,NNP,compound,Xxxxx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",Province,11,1,8,Province,PROPN,NNP,conj,Xxxxx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",P.R.,11,1,4,P.R.,PROPN,NNP,appos,X.X.,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",of,11,1,2,of,ADP,IN,prep,xx,0.0
+"NO.73 Defu Rd. Xingtan Town, Foshan City, Guangdong Province,P.R. of China",China,11,1,5,China,PROPN,NNP,pobj,Xxxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,Waterkloof,11,1,10,Waterkloof,PROPN,NNP,compound,Xxxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,Western,11,1,7,Western,PROPN,NNP,compound,Xxxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,Entrance,11,1,8,Entrance,PROPN,NNP,compound,Xxxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,4th,11,1,3,4th,ADJ,JJ,compound,dxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,Street,11,1,6,Street,PROPN,NNP,compound,Xxxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,Centurion,11,1,9,Centurion,PROPN,NNP,compound,Xxxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,City,11,1,4,City,PROPN,NNP,ROOT,Xxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,of,11,1,2,of,ADP,IN,prep,xx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,Tshwane,11,1,7,Tshwane,PROPN,NNP,compound,Xxxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,South,11,1,5,South,PROPN,NNP,compound,Xxxxx,0.0
+Waterkloof Western Entrance 4th Street Centurion City of Tshwane South Africa,Africa,11,1,6,Africa,PROPN,NNP,pobj,Xxxxx,0.0
+Ft Lauderdale Convention Center,Ft,4,1,2,Ft,PROPN,NNP,compound,Xx,0.0
+Ft Lauderdale Convention Center,Lauderdale,4,1,10,Lauderdale,PROPN,NNP,compound,Xxxxx,0.0
+Ft Lauderdale Convention Center,Convention,4,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Ft Lauderdale Convention Center,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Le Berthom,Le,2,1,2,Le,PROPN,NNP,compound,Xx,0.0
+Le Berthom,Berthom,2,1,7,Berthom,PROPN,NNP,ROOT,Xxxxx,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,Seminole,7,1,8,Seminole,PROPN,NNP,compound,Xxxxx,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,Hard,7,1,4,Hard,PROPN,NNP,compound,Xxxx,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,Rock,7,1,4,Rock,PROPN,NNP,compound,Xxxx,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,Hotel,7,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,&,7,1,1,&,CCONJ,CC,cc,&,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,amp,7,1,3,amp,NOUN,NN,conj,xxx,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,;,7,1,1,;,PUNCT,:,punct,;,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,Casino,7,1,6,Casino,PROPN,NNP,compound,Xxxxx,0.0
+Seminole Hard Rock Hotel &amp; Casino Hollywood,Hollywood,7,1,9,Hollywood,PROPN,NNP,appos,Xxxxx,0.0
+"Yoga Essence Ashram,,",Yoga,3,8,4,Yoga,PROPN,NNP,compound,Xxxx,0.0
+"Yoga Essence Ashram,,",Essence,3,8,7,Essence,PROPN,NNP,compound,Xxxxx,0.0
+"Yoga Essence Ashram,,",Ashram,3,8,6,Ashram,PROPN,NNP,ROOT,Xxxxx,0.0
+"Yoga Essence Ashram,,",",",3,8,1,",",PUNCT,",",punct,",",0.0
+Guildhall,Guildhall,1,1,9,guildhall,VERB,VB,ROOT,Xxxxx,0.0
+Hannover Exhibition Center,Hannover,3,1,8,Hannover,PROPN,NNP,compound,Xxxxx,0.0
+Hannover Exhibition Center,Exhibition,3,1,10,Exhibition,PROPN,NNP,compound,Xxxxx,0.0
+Hannover Exhibition Center,Center,3,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+MEO Arena and FIL,MEO,4,1,3,MEO,PROPN,NNP,compound,XXX,0.0
+MEO Arena and FIL,Arena,4,1,5,Arena,PROPN,NNP,ROOT,Xxxxx,0.0
+MEO Arena and FIL,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+MEO Arena and FIL,FIL,4,1,3,FIL,PROPN,NNP,conj,XXX,0.0
+Airbus DS Innovation Factory,Airbus,4,1,6,Airbus,PROPN,NNP,compound,Xxxxx,0.0
+Airbus DS Innovation Factory,DS,4,1,2,DS,PROPN,NNP,compound,XX,0.0
+Airbus DS Innovation Factory,Innovation,4,1,10,Innovation,PROPN,NNP,compound,Xxxxx,0.0
+Airbus DS Innovation Factory,Factory,4,1,7,Factory,PROPN,NNP,ROOT,Xxxxx,0.0
+Venue Location,Venue,2,4,5,Venue,PROPN,NNP,compound,Xxxxx,0.0
+Venue Location,Location,2,4,8,location,NOUN,NN,ROOT,Xxxxx,0.0
+Abhayaranya Yoga Ashram,Abhayaranya,3,1,11,Abhayaranya,PROPN,NNP,compound,Xxxxx,0.0
+Abhayaranya Yoga Ashram,Yoga,3,1,4,Yoga,PROPN,NNP,compound,Xxxx,0.0
+Abhayaranya Yoga Ashram,Ashram,3,1,6,Ashram,PROPN,NNP,ROOT,Xxxxx,0.0
+"Lake Sevan, Gegharkunik, Armenia",Lake,4,1,4,Lake,PROPN,NNP,compound,Xxxx,0.0
+"Lake Sevan, Gegharkunik, Armenia",Sevan,4,1,5,Sevan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Lake Sevan, Gegharkunik, Armenia",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Lake Sevan, Gegharkunik, Armenia",Gegharkunik,4,1,11,Gegharkunik,PROPN,NNP,appos,Xxxxx,0.0
+"Lake Sevan, Gegharkunik, Armenia",Armenia,4,1,7,Armenia,PROPN,NNP,appos,Xxxxx,0.0
+Miami Beach Convention Center,Miami,4,1,5,Miami,PROPN,NNP,compound,Xxxxx,0.0
+Miami Beach Convention Center,Beach,4,1,5,Beach,PROPN,NNP,compound,Xxxxx,0.0
+Miami Beach Convention Center,Convention,4,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Miami Beach Convention Center,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+No 2,No,2,1,2,no,DET,DT,det,Xx,0.0
+No 2,2,2,1,1,2,NUM,CD,ROOT,d,0.0
+Porte de Versailles,Porte,3,1,5,porte,NOUN,NN,nmod,Xxxxx,0.0
+Porte de Versailles,de,3,1,2,de,X,FW,nmod,xx,0.0
+Porte de Versailles,Versailles,3,1,10,Versailles,PROPN,NNPS,ROOT,Xxxxx,0.0
+Universität Hohenheim,Universität,2,1,11,Universität,PROPN,NNP,compound,Xxxxx,0.0
+Universität Hohenheim,Hohenheim,2,1,9,Hohenheim,PROPN,NNP,ROOT,Xxxxx,0.0
+SUNTEC SINGAPORE,SUNTEC,2,1,6,SUNTEC,PROPN,NNP,compound,XXXX,0.0
+SUNTEC SINGAPORE,SINGAPORE,2,1,9,SINGAPORE,PROPN,NNP,ROOT,XXXX,0.0
+Austria Trend Parkhotel Schönbrunn,Austria,4,1,7,Austria,PROPN,NNP,compound,Xxxxx,0.0
+Austria Trend Parkhotel Schönbrunn,Trend,4,1,5,Trend,PROPN,NNP,compound,Xxxxx,0.0
+Austria Trend Parkhotel Schönbrunn,Parkhotel,4,1,9,Parkhotel,PROPN,NNP,compound,Xxxxx,0.0
+Austria Trend Parkhotel Schönbrunn,Schönbrunn,4,1,10,Schönbrunn,PROPN,NNP,ROOT,Xxxxx,0.0
+Franklin,Franklin,1,1,8,Franklin,PROPN,NNP,ROOT,Xxxxx,0.0
+Bohemian National Hall,Bohemian,3,1,8,Bohemian,PROPN,NNP,compound,Xxxxx,0.0
+Bohemian National Hall,National,3,1,8,National,PROPN,NNP,compound,Xxxxx,0.0
+Bohemian National Hall,Hall,3,1,4,Hall,PROPN,NNP,ROOT,Xxxx,0.0
+London,London,1,1,6,London,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",Rossio,6,1,6,Rossio,PROPN,NNP,nsubj,Xxxxx,0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",dos,6,1,3,do,VERB,VBZ,ROOT,xxx,0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",Olivais,6,1,7,Olivais,PROPN,NNP,dobj,Xxxxx,0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",1990,6,1,4,1990,NUM,CD,nummod,dddd,0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",-,6,1,1,-,SYM,SYM,punct,-,0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",231,6,1,3,231,NUM,CD,nummod,ddd,0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",Lisboa,6,1,6,Lisboa,PROPN,NNP,appos,Xxxxx,0.0
+"Rossio dos Olivais, 1990-231 Lisboa, Portugal",Portugal,6,1,8,Portugal,PROPN,NNP,appos,Xxxxx,0.0
+Marina Village Conference Center,Marina,4,1,6,Marina,PROPN,NNP,compound,Xxxxx,0.0
+Marina Village Conference Center,Village,4,1,7,Village,PROPN,NNP,compound,Xxxxx,0.0
+Marina Village Conference Center,Conference,4,1,10,Conference,PROPN,NNP,compound,Xxxxx,0.0
+Marina Village Conference Center,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+"The W Hotel, Nashville",The,4,1,3,the,DET,DT,det,Xxx,0.0
+"The W Hotel, Nashville",W,4,1,1,W,PROPN,NNP,compound,X,0.0
+"The W Hotel, Nashville",Hotel,4,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+"The W Hotel, Nashville",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"The W Hotel, Nashville",Nashville,4,1,9,Nashville,PROPN,NNP,appos,Xxxxx,0.0
+Cologne Exhibition Centre,Cologne,3,1,7,Cologne,PROPN,NNP,compound,Xxxxx,0.0
+Cologne Exhibition Centre,Exhibition,3,1,10,Exhibition,PROPN,NNP,compound,Xxxxx,0.0
+Cologne Exhibition Centre,Centre,3,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+"639, Dr Mukherjee Nagar",639,4,1,3,639,NUM,CD,ROOT,ddd,0.0
+"639, Dr Mukherjee Nagar",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"639, Dr Mukherjee Nagar",Dr,4,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+"639, Dr Mukherjee Nagar",Mukherjee,4,1,9,Mukherjee,PROPN,NNP,compound,Xxxxx,0.0
+"639, Dr Mukherjee Nagar",Nagar,4,1,5,Nagar,PROPN,NNP,appos,Xxxxx,0.0
+Hannaford Hall,Hannaford,2,1,9,Hannaford,PROPN,NNP,compound,Xxxxx,0.0
+Hannaford Hall,Hall,2,1,4,Hall,PROPN,NNP,ROOT,Xxxx,0.0
+Sheraton,Sheraton,1,1,8,Sheraton,PROPN,NNP,ROOT,Xxxxx,0.0
+Royal Lancaster London,Royal,3,1,5,Royal,PROPN,NNP,compound,Xxxxx,0.0
+Royal Lancaster London,Lancaster,3,1,9,Lancaster,PROPN,NNP,compound,Xxxxx,0.0
+Royal Lancaster London,London,3,1,6,London,PROPN,NNP,ROOT,Xxxxx,0.0
+Ahern Hotel,Ahern,2,1,5,Ahern,PROPN,NNP,compound,Xxxxx,0.0
+Ahern Hotel,Hotel,2,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rishikesh Yogpeeth ,Abhayaranya Yoga Ashram",Rishikesh,5,1,9,Rishikesh,PROPN,NNP,compound,Xxxxx,0.0
+"Rishikesh Yogpeeth ,Abhayaranya Yoga Ashram",Yogpeeth,5,1,8,Yogpeeth,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rishikesh Yogpeeth ,Abhayaranya Yoga Ashram",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Rishikesh Yogpeeth ,Abhayaranya Yoga Ashram",Abhayaranya,5,1,11,Abhayaranya,PROPN,NNP,compound,Xxxxx,0.0
+"Rishikesh Yogpeeth ,Abhayaranya Yoga Ashram",Yoga,5,1,4,Yoga,PROPN,NNP,compound,Xxxx,0.0
+"Rishikesh Yogpeeth ,Abhayaranya Yoga Ashram",Ashram,5,1,6,Ashram,PROPN,NNP,appos,Xxxxx,0.0
+Ground Control,Ground,2,1,6,Ground,PROPN,NNP,compound,Xxxxx,0.0
+Ground Control,Control,2,1,7,Control,PROPN,NNP,ROOT,Xxxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),Nova,15,1,4,Nova,PROPN,NNP,compound,Xxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),School,15,1,6,School,PROPN,NNP,nsubj,Xxxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),of,15,1,2,of,ADP,IN,prep,xx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),Business,15,1,8,Business,PROPN,NNP,pobj,Xxxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),&,15,1,1,&,CCONJ,CC,cc,&,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),amp,15,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),;,15,1,1,;,PUNCT,:,punct,;,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),Economics,15,1,9,Economics,PROPN,NNP,nsubj,Xxxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),and,15,1,3,and,CCONJ,CC,cc,xxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),Fundação,15,1,8,Fundação,PROPN,NNP,conj,Xxxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),para,15,1,4,para,VERB,VBZ,ROOT,xxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),a,15,1,1,a,DET,DT,det,x,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),Ciência,15,1,7,Ciência,PROPN,NNP,compound,Xxxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),e,15,1,1,e,NOUN,NN,dobj,x,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),Tecnologia,15,1,10,Tecnologia,PROPN,NNP,nmod,Xxxxx,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),(,15,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),FCT,15,1,3,FCT,PROPN,NNP,appos,XXX,0.0
+Nova School of Business &amp; Economics and Fundação para a Ciência e a Tecnologia (FCT),),15,1,1,),PUNCT,-RRB-,punct,),0.0
+Orange County Convention Center,Orange,4,1,6,Orange,PROPN,NNP,compound,Xxxxx,0.0
+Orange County Convention Center,County,4,1,6,County,PROPN,NNP,compound,Xxxxx,0.0
+Orange County Convention Center,Convention,4,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Orange County Convention Center,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Shivoham Yoga School,Shivoham,3,1,8,Shivoham,PROPN,NNP,compound,Xxxxx,0.0
+Shivoham Yoga School,Yoga,3,1,4,Yoga,PROPN,NNP,compound,Xxxx,0.0
+Shivoham Yoga School,School,3,1,6,School,PROPN,NNP,ROOT,Xxxxx,0.0
+Altice Arena &amp; Fil,Altice,4,1,6,Altice,PROPN,NNP,compound,Xxxxx,0.0
+Altice Arena &amp; Fil,Arena,4,1,5,Arena,PROPN,NNP,ROOT,Xxxxx,0.0
+Altice Arena &amp; Fil,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Altice Arena &amp; Fil,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Altice Arena &amp; Fil,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Altice Arena &amp; Fil,Fil,4,1,3,Fil,PROPN,NNP,appos,Xxx,0.0
+ExCel,ExCel,1,1,5,ExCel,PROPN,NNP,ROOT,XxXxx,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",Za'abeel,9,1,8,Za'abeel,PROPN,NNP,compound,Xx'xxxx,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",Halls,9,1,5,Halls,PROPN,NNP,ROOT,Xxxxx,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",5,9,1,1,5,NUM,CD,nummod,d,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",&,9,1,1,&,CCONJ,CC,cc,&,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",amp,9,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",;,9,1,1,;,PUNCT,:,punct,;,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",6,9,1,1,6,NUM,CD,appos,d,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",Dubai,9,1,5,Dubai,PROPN,NNP,compound,Xxxxx,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",World,9,1,5,World,PROPN,NNP,compound,Xxxxx,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",Trade,9,1,5,Trade,PROPN,NNP,compound,Xxxxx,0.0
+"Za'abeel Halls 5 &amp; 6, Dubai World Trade Centre",Centre,9,1,6,Centre,PROPN,NNP,appos,Xxxxx,0.0
+Media city,Media,2,1,5,medium,NOUN,NNS,compound,Xxxxx,0.0
+Media city,city,2,1,4,city,NOUN,NN,ROOT,xxxx,0.0
+Rove Marina,Rove,2,1,4,Rove,PROPN,NNP,compound,Xxxx,0.0
+Rove Marina,Marina,2,1,6,Marina,PROPN,NNP,ROOT,Xxxxx,0.0
+"NEC, BIRMINGHAM",NEC,2,1,3,NEC,PROPN,NNP,ROOT,XXX,0.0
+"NEC, BIRMINGHAM",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"NEC, BIRMINGHAM",BIRMINGHAM,2,1,10,BIRMINGHAM,PROPN,NNP,appos,XXXX,0.0
+Huntley,Huntley,1,2,7,Huntley,PROPN,NNP,ROOT,Xxxxx,0.0
+Book People,Book,2,1,4,Book,PROPN,NNP,compound,Xxxx,0.0
+Book People,People,2,1,6,People,PROPN,NNPS,ROOT,Xxxxx,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,EMAAR,12,1,5,EMAAR,PROPN,NNP,compound,XXXX,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,Business,12,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,Park,12,1,4,Park,PROPN,NNP,ROOT,Xxxx,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,-,12,1,1,-,PUNCT,:,punct,-,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,The,12,1,3,the,DET,DT,det,Xxx,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,Greens,12,1,6,Greens,PROPN,NNP,compound,Xxxxx,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,-,12,1,1,-,PUNCT,HYPH,punct,-,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,Dubai,12,1,5,Dubai,PROPN,NNP,compound,Xxxxx,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,United,12,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,Arab,12,1,4,Arab,PROPN,NNP,compound,Xxxx,0.0
+EMAAR Business Park - The Greens - Dubai - United Arab Emirates,Emirates,12,1,8,Emirates,PROPN,NNPS,appos,Xxxxx,0.0
+The Twig Book Shop,The,4,1,3,the,DET,DT,det,Xxx,0.0
+The Twig Book Shop,Twig,4,1,4,Twig,PROPN,NNP,compound,Xxxx,0.0
+The Twig Book Shop,Book,4,1,4,Book,PROPN,NNP,compound,Xxxx,0.0
+The Twig Book Shop,Shop,4,1,4,Shop,PROPN,NNP,ROOT,Xxxx,0.0
+najafgarh,najafgarh,1,1,9,najafgarh,ADJ,JJ,ROOT,xxxx,0.0
+Hilton Riyadh Hotel and Residences,Hilton,5,1,6,Hilton,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Riyadh Hotel and Residences,Riyadh,5,1,6,Riyadh,PROPN,NNP,compound,Xxxxx,0.0
+Hilton Riyadh Hotel and Residences,Hotel,5,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+Hilton Riyadh Hotel and Residences,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Hilton Riyadh Hotel and Residences,Residences,5,1,10,residence,NOUN,NNS,conj,Xxxxx,0.0
+Online Virtual Event,Online,3,1,6,online,ADJ,JJ,amod,Xxxxx,0.0
+Online Virtual Event,Virtual,3,1,7,virtual,ADJ,JJ,amod,Xxxxx,0.0
+Online Virtual Event,Event,3,1,5,event,NOUN,NN,ROOT,Xxxxx,0.0
+BbnZ Live,BbnZ,2,2,4,bbnz,NOUN,NN,compound,XxxX,0.0
+BbnZ Live,Live,2,2,4,live,VERB,VB,ROOT,Xxxx,0.0
+"jancuk kore no,21",jancuk,3,1,6,jancuk,PROPN,NNP,compound,xxxx,0.0
+"jancuk kore no,21",kore,3,1,4,kore,PROPN,NNP,compound,xxxx,0.0
+"jancuk kore no,21","no,21",3,1,5,"no,21",NOUN,NN,ROOT,"xx,dd",0.0
+"Singapore, Asia",Singapore,2,1,9,Singapore,PROPN,NNP,ROOT,Xxxxx,0.0
+"Singapore, Asia",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Singapore, Asia",Asia,2,1,4,Asia,PROPN,NNP,appos,Xxxx,0.0
+Hotel courtyard Marriott,Hotel,3,1,5,hotel,NOUN,NN,compound,Xxxxx,0.0
+Hotel courtyard Marriott,courtyard,3,1,9,courtyard,NOUN,NN,compound,xxxx,0.0
+Hotel courtyard Marriott,Marriott,3,1,8,Marriott,PROPN,NNP,ROOT,Xxxxx,0.0
+"Yoga Essence Ashram,, ,",Yoga,4,2,4,Yoga,PROPN,NNP,compound,Xxxx,0.0
+"Yoga Essence Ashram,, ,",Essence,4,2,7,Essence,PROPN,NNP,compound,Xxxxx,0.0
+"Yoga Essence Ashram,, ,",Ashram,4,2,6,Ashram,PROPN,NNP,ROOT,Xxxxx,0.0
+"Yoga Essence Ashram,, ,",",",4,2,1,",",PUNCT,",",punct,",",0.0
+Boston Convention and Exhibition Center,Boston,5,1,6,Boston,PROPN,NNP,nmod,Xxxxx,0.0
+Boston Convention and Exhibition Center,Convention,5,1,10,Convention,PROPN,NNP,nmod,Xxxxx,0.0
+Boston Convention and Exhibition Center,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Boston Convention and Exhibition Center,Exhibition,5,1,10,Exhibition,PROPN,NNP,compound,Xxxxx,0.0
+Boston Convention and Exhibition Center,Center,5,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Magic Hour Rooftop Bar &amp; Lounge,Magic,6,1,5,Magic,PROPN,NNP,compound,Xxxxx,0.0
+Magic Hour Rooftop Bar &amp; Lounge,Hour,6,1,4,Hour,PROPN,NNP,compound,Xxxx,0.0
+Magic Hour Rooftop Bar &amp; Lounge,Rooftop,6,1,7,Rooftop,PROPN,NNP,compound,Xxxxx,0.0
+Magic Hour Rooftop Bar &amp; Lounge,Bar,6,1,3,Bar,PROPN,NNP,ROOT,Xxx,0.0
+Magic Hour Rooftop Bar &amp; Lounge,&,6,1,1,&,CCONJ,CC,cc,&,0.0
+Magic Hour Rooftop Bar &amp; Lounge,amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Magic Hour Rooftop Bar &amp; Lounge,;,6,1,1,;,PUNCT,:,punct,;,0.0
+Magic Hour Rooftop Bar &amp; Lounge,Lounge,6,1,6,Lounge,PROPN,NNP,appos,Xxxxx,0.0
+"20 Lexington Dr,Bella Vista NSW 2153",20,6,1,2,20,NUM,CD,nummod,dd,0.0
+"20 Lexington Dr,Bella Vista NSW 2153",Lexington,6,1,9,Lexington,PROPN,NNP,compound,Xxxxx,0.0
+"20 Lexington Dr,Bella Vista NSW 2153",Dr,6,1,2,Dr,PROPN,NNP,ROOT,Xx,0.0
+"20 Lexington Dr,Bella Vista NSW 2153",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"20 Lexington Dr,Bella Vista NSW 2153",Bella,6,1,5,Bella,PROPN,NNP,compound,Xxxxx,0.0
+"20 Lexington Dr,Bella Vista NSW 2153",Vista,6,1,5,Vista,PROPN,NNP,compound,Xxxxx,0.0
+"20 Lexington Dr,Bella Vista NSW 2153",NSW,6,1,3,NSW,PROPN,NNP,appos,XXX,0.0
+"20 Lexington Dr,Bella Vista NSW 2153",2153,6,1,4,2153,NUM,CD,appos,dddd,0.0
+Lohmühlenstraße 65,Lohmühlenstraße,2,1,15,Lohmühlenstraße,PROPN,NNP,ROOT,Xxxxx,0.0
+Lohmühlenstraße 65,65,2,1,2,65,NUM,CD,nummod,dd,0.0
+"Royal Tropical Institute (KIT), Amsterdam",Royal,5,1,5,Royal,PROPN,NNP,compound,Xxxxx,0.0
+"Royal Tropical Institute (KIT), Amsterdam",Tropical,5,1,8,Tropical,PROPN,NNP,compound,Xxxxx,0.0
+"Royal Tropical Institute (KIT), Amsterdam",Institute,5,1,9,Institute,PROPN,NNP,ROOT,Xxxxx,0.0
+"Royal Tropical Institute (KIT), Amsterdam",(,5,1,1,(,PUNCT,-LRB-,punct,(,0.0
+"Royal Tropical Institute (KIT), Amsterdam",KIT,5,1,3,KIT,PROPN,NNP,appos,XXX,0.0
+"Royal Tropical Institute (KIT), Amsterdam",),5,1,1,),PUNCT,-RRB-,punct,),0.0
+"Royal Tropical Institute (KIT), Amsterdam",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Royal Tropical Institute (KIT), Amsterdam",Amsterdam,5,1,9,Amsterdam,PROPN,NNP,appos,Xxxxx,0.0
+"Yoga Essence Ashram,,,",Yoga,3,1,4,Yoga,PROPN,NNP,compound,Xxxx,0.0
+"Yoga Essence Ashram,,,",Essence,3,1,7,Essence,PROPN,NNP,compound,Xxxxx,0.0
+"Yoga Essence Ashram,,,",Ashram,3,1,6,Ashram,PROPN,NNP,ROOT,Xxxxx,0.0
+"Yoga Essence Ashram,,,",",",3,1,1,",",PUNCT,",",punct,",",0.0
+Singapore Expo,Singapore,2,1,9,Singapore,PROPN,NNP,compound,Xxxxx,0.0
+Singapore Expo,Expo,2,1,4,Expo,PROPN,NNP,ROOT,Xxxx,0.0
+"Campus London, a Google space",Campus,5,1,6,Campus,PROPN,NNP,compound,Xxxxx,0.0
+"Campus London, a Google space",London,5,1,6,London,PROPN,NNP,ROOT,Xxxxx,0.0
+"Campus London, a Google space",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Campus London, a Google space",a,5,1,1,a,DET,DT,det,x,0.0
+"Campus London, a Google space",Google,5,1,6,Google,PROPN,NNP,compound,Xxxxx,0.0
+"Campus London, a Google space",space,5,1,5,space,NOUN,NN,appos,xxxx,0.0
+New Palam Vihar,New,3,1,3,New,PROPN,NNP,compound,Xxx,0.0
+New Palam Vihar,Palam,3,1,5,Palam,PROPN,NNP,compound,Xxxxx,0.0
+New Palam Vihar,Vihar,3,1,5,Vihar,PROPN,NNP,ROOT,Xxxxx,0.0
+Altice Arena (Formerly known as MEO Arena),Altice,7,1,6,Altice,PROPN,NNP,compound,Xxxxx,0.0
+Altice Arena (Formerly known as MEO Arena),Arena,7,1,5,Arena,PROPN,NNP,ROOT,Xxxxx,0.0
+Altice Arena (Formerly known as MEO Arena),(,7,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Altice Arena (Formerly known as MEO Arena),Formerly,7,1,8,formerly,ADV,RB,advmod,Xxxxx,0.0
+Altice Arena (Formerly known as MEO Arena),known,7,1,5,know,VERB,VBN,acl,xxxx,0.0
+Altice Arena (Formerly known as MEO Arena),as,7,1,2,as,ADP,IN,prep,xx,0.0
+Altice Arena (Formerly known as MEO Arena),MEO,7,1,3,MEO,PROPN,NNP,compound,XXX,0.0
+Altice Arena (Formerly known as MEO Arena),Arena,7,1,5,Arena,PROPN,NNP,pobj,Xxxxx,0.0
+Altice Arena (Formerly known as MEO Arena),),7,1,1,),PUNCT,-RRB-,punct,),0.0
+"Wellcome Genome Campus, UK",Wellcome,4,1,8,Wellcome,PROPN,NNP,compound,Xxxxx,0.0
+"Wellcome Genome Campus, UK",Genome,4,1,6,Genome,PROPN,NNP,compound,Xxxxx,0.0
+"Wellcome Genome Campus, UK",Campus,4,1,6,Campus,PROPN,NNP,ROOT,Xxxxx,0.0
+"Wellcome Genome Campus, UK",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Wellcome Genome Campus, UK",UK,4,1,2,UK,PROPN,NNP,npadvmod,XX,0.0
+Bali International Convention Center,Bali,4,1,4,Bali,PROPN,NNP,compound,Xxxx,0.0
+Bali International Convention Center,International,4,1,13,International,PROPN,NNP,compound,Xxxxx,0.0
+Bali International Convention Center,Convention,4,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Bali International Convention Center,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+"MOO HQ, Library Space",MOO,4,1,3,MOO,PROPN,NNP,compound,XXX,0.0
+"MOO HQ, Library Space",HQ,4,1,2,HQ,PROPN,NNP,ROOT,XX,0.0
+"MOO HQ, Library Space",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"MOO HQ, Library Space",Library,4,1,7,Library,PROPN,NNP,compound,Xxxxx,0.0
+"MOO HQ, Library Space",Space,4,1,5,Space,PROPN,NNP,appos,Xxxxx,0.0
+"639, Mukherjee Nagar, Delhi",639,4,1,3,639,NUM,CD,ROOT,ddd,0.0
+"639, Mukherjee Nagar, Delhi",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"639, Mukherjee Nagar, Delhi",Mukherjee,4,1,9,Mukherjee,PROPN,NNP,compound,Xxxxx,0.0
+"639, Mukherjee Nagar, Delhi",Nagar,4,1,5,Nagar,PROPN,NNP,npadvmod,Xxxxx,0.0
+"639, Mukherjee Nagar, Delhi",Delhi,4,1,5,Delhi,PROPN,NNP,appos,Xxxxx,0.0
+Park Plaza Riverbank London,Park,4,1,4,Park,PROPN,NNP,compound,Xxxx,0.0
+Park Plaza Riverbank London,Plaza,4,1,5,Plaza,PROPN,NNP,compound,Xxxxx,0.0
+Park Plaza Riverbank London,Riverbank,4,1,9,Riverbank,PROPN,NNP,compound,Xxxxx,0.0
+Park Plaza Riverbank London,London,4,1,6,London,PROPN,NNP,ROOT,Xxxxx,0.0
+Yale University,Yale,2,1,4,Yale,PROPN,NNP,compound,Xxxx,0.0
+Yale University,University,2,1,10,University,PROPN,NNP,ROOT,Xxxxx,0.0
+Cornell University,Cornell,2,2,7,Cornell,PROPN,NNP,compound,Xxxxx,0.0
+Cornell University,University,2,2,10,University,PROPN,NNP,ROOT,Xxxxx,0.0
+Purdue Memorial Union,Purdue,3,1,6,Purdue,PROPN,NNP,compound,Xxxxx,0.0
+Purdue Memorial Union,Memorial,3,1,8,Memorial,PROPN,NNP,compound,Xxxxx,0.0
+Purdue Memorial Union,Union,3,1,5,Union,PROPN,NNP,ROOT,Xxxxx,0.0
+"Abhayaranya Yoga Ashram,",Abhayaranya,3,1,11,Abhayaranya,PROPN,NNP,compound,Xxxxx,0.0
+"Abhayaranya Yoga Ashram,",Yoga,3,1,4,Yoga,PROPN,NNP,compound,Xxxx,0.0
+"Abhayaranya Yoga Ashram,",Ashram,3,1,6,Ashram,PROPN,NNP,ROOT,Xxxxx,0.0
+"Abhayaranya Yoga Ashram,",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"W Marriott Washington, DC",W,4,1,1,W,PROPN,NNP,compound,X,0.0
+"W Marriott Washington, DC",Marriott,4,1,8,Marriott,PROPN,NNP,compound,Xxxxx,0.0
+"W Marriott Washington, DC",Washington,4,1,10,Washington,PROPN,NNP,ROOT,Xxxxx,0.0
+"W Marriott Washington, DC",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"W Marriott Washington, DC",DC,4,1,2,DC,PROPN,NNP,npadvmod,XX,0.0
+Gulab Nagar,Gulab,2,1,5,Gulab,PROPN,NNP,compound,Xxxxx,0.0
+Gulab Nagar,Nagar,2,1,5,Nagar,PROPN,NNP,ROOT,Xxxxx,0.0
+Gaylord Palms Resort &amp; Convention Center,Gaylord,6,1,7,Gaylord,PROPN,NNP,compound,Xxxxx,0.0
+Gaylord Palms Resort &amp; Convention Center,Palms,6,1,5,Palms,PROPN,NNPS,compound,Xxxxx,0.0
+Gaylord Palms Resort &amp; Convention Center,Resort,6,1,6,Resort,PROPN,NNP,ROOT,Xxxxx,0.0
+Gaylord Palms Resort &amp; Convention Center,&,6,1,1,&,CCONJ,CC,cc,&,0.0
+Gaylord Palms Resort &amp; Convention Center,amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Gaylord Palms Resort &amp; Convention Center,;,6,1,1,;,PUNCT,:,punct,;,0.0
+Gaylord Palms Resort &amp; Convention Center,Convention,6,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Gaylord Palms Resort &amp; Convention Center,Center,6,1,6,Center,PROPN,NNP,appos,Xxxxx,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",2451,9,1,4,2451,NUM,CD,nummod,dddd,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",W.,9,1,2,W.,PROPN,NNP,compound,X.,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",Grapevine,9,1,9,Grapevine,PROPN,NNP,compound,Xxxxx,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",Mills,9,1,5,Mills,PROPN,NNPS,compound,Xxxxx,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",Circle,9,1,6,Circle,PROPN,NNP,compound,Xxxxx,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",Grapevine,9,1,9,Grapevine,PROPN,NNP,ROOT,Xxxxx,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",TX,9,1,2,TX,PROPN,NNP,appos,XX,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",US,9,1,2,US,PROPN,NNP,conj,XX,0.0
+"2451 W. Grapevine Mills Circle Grapevine, TX, US 76051",76051,9,1,5,76051,NUM,CD,nummod,dddd,0.0
+3rd Floor,3rd,2,1,3,3rd,ADJ,JJ,amod,dxx,0.0
+3rd Floor,Floor,2,1,5,Floor,PROPN,NNP,ROOT,Xxxxx,0.0
+Kinara,Kinara,1,1,6,Kinara,PROPN,NNP,ROOT,Xxxxx,0.0
+Davos-Klosters,Davos,1,1,5,Davos,PROPN,NNP,compound,Xxxxx,0.0
+Davos-Klosters,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Davos-Klosters,Klosters,1,1,8,kloster,NOUN,NNS,ROOT,Xxxxx,0.0
+Rishikesh Yogpeeth,Rishikesh,2,1,9,Rishikesh,PROPN,NNP,compound,Xxxxx,0.0
+Rishikesh Yogpeeth,Yogpeeth,2,1,8,Yogpeeth,PROPN,NNP,ROOT,Xxxxx,0.0
+The Venetian Convention and Expo Center,The,6,1,3,the,DET,DT,det,Xxx,0.0
+The Venetian Convention and Expo Center,Venetian,6,1,8,Venetian,PROPN,NNP,nmod,Xxxxx,0.0
+The Venetian Convention and Expo Center,Convention,6,1,10,Convention,PROPN,NNP,nmod,Xxxxx,0.0
+The Venetian Convention and Expo Center,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+The Venetian Convention and Expo Center,Expo,6,1,4,Expo,PROPN,NNP,compound,Xxxx,0.0
+The Venetian Convention and Expo Center,Center,6,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Park Gorrkova,Park,2,1,4,Park,PROPN,NNP,compound,Xxxx,0.0
+Park Gorrkova,Gorrkova,2,1,8,Gorrkova,PROPN,NNP,ROOT,Xxxxx,0.0
+Greater Fort Lauderdale / Broward County Convention Center,Greater,8,1,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+Greater Fort Lauderdale / Broward County Convention Center,Fort,8,1,4,Fort,PROPN,NNP,compound,Xxxx,0.0
+Greater Fort Lauderdale / Broward County Convention Center,Lauderdale,8,1,10,Lauderdale,PROPN,NNP,nmod,Xxxxx,0.0
+Greater Fort Lauderdale / Broward County Convention Center,/,8,1,1,/,SYM,SYM,punct,/,0.0
+Greater Fort Lauderdale / Broward County Convention Center,Broward,8,1,7,Broward,PROPN,NNP,compound,Xxxxx,0.0
+Greater Fort Lauderdale / Broward County Convention Center,County,8,1,6,County,PROPN,NNP,compound,Xxxxx,0.0
+Greater Fort Lauderdale / Broward County Convention Center,Convention,8,1,10,Convention,PROPN,NNP,compound,Xxxxx,0.0
+Greater Fort Lauderdale / Broward County Convention Center,Center,8,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+"Delhi, Mukherjee Nagar",Delhi,3,1,5,Delhi,PROPN,NNP,ROOT,Xxxxx,0.0
+"Delhi, Mukherjee Nagar",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Delhi, Mukherjee Nagar",Mukherjee,3,1,9,Mukherjee,PROPN,NNP,compound,Xxxxx,0.0
+"Delhi, Mukherjee Nagar",Nagar,3,1,5,Nagar,PROPN,NNP,appos,Xxxxx,0.0
+"Palace of Culture and Science, Warsaw",Palace,6,1,6,Palace,PROPN,NNP,ROOT,Xxxxx,0.0
+"Palace of Culture and Science, Warsaw",of,6,1,2,of,ADP,IN,prep,xx,0.0
+"Palace of Culture and Science, Warsaw",Culture,6,1,7,Culture,PROPN,NNP,pobj,Xxxxx,0.0
+"Palace of Culture and Science, Warsaw",and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Palace of Culture and Science, Warsaw",Science,6,1,7,Science,PROPN,NNP,conj,Xxxxx,0.0
+"Palace of Culture and Science, Warsaw",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Palace of Culture and Science, Warsaw",Warsaw,6,1,6,Warsaw,PROPN,NNP,appos,Xxxxx,0.0
+San Francisco Marriott Marquis,San,4,1,3,San,PROPN,NNP,compound,Xxx,0.0
+San Francisco Marriott Marquis,Francisco,4,1,9,Francisco,PROPN,NNP,compound,Xxxxx,0.0
+San Francisco Marriott Marquis,Marriott,4,1,8,Marriott,PROPN,NNP,compound,Xxxxx,0.0
+San Francisco Marriott Marquis,Marquis,4,1,7,Marquis,PROPN,NNP,ROOT,Xxxxx,0.0
+The Gateway Hotel,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Gateway Hotel,Gateway,3,1,7,Gateway,PROPN,NNP,compound,Xxxxx,0.0
+The Gateway Hotel,Hotel,3,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+Soho Farmhouse,Soho,2,1,4,Soho,PROPN,NNP,compound,Xxxx,0.0
+Soho Farmhouse,Farmhouse,2,1,9,Farmhouse,PROPN,NNP,ROOT,Xxxxx,0.0
+Hong Kong Convention and Exhibition Centre,Hong,6,1,4,Hong,PROPN,NNP,compound,Xxxx,0.0
+Hong Kong Convention and Exhibition Centre,Kong,6,1,4,Kong,PROPN,NNP,nmod,Xxxx,0.0
+Hong Kong Convention and Exhibition Centre,Convention,6,1,10,Convention,PROPN,NNP,nmod,Xxxxx,0.0
+Hong Kong Convention and Exhibition Centre,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Hong Kong Convention and Exhibition Centre,Exhibition,6,1,10,Exhibition,PROPN,NNP,conj,Xxxxx,0.0
+Hong Kong Convention and Exhibition Centre,Centre,6,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+New Lab,New,2,1,3,new,ADJ,JJ,compound,Xxx,0.0
+New Lab,Lab,2,1,3,Lab,PROPN,NNP,ROOT,Xxx,0.0
+Vadodara,Vadodara,1,1,8,Vadodara,PROPN,NNP,ROOT,Xxxxx,0.0
+franklin,franklin,1,1,8,franklin,PROPN,NNP,ROOT,xxxx,0.0
+"Lake Sevan, Gegharkunik province, Armenia",Lake,5,1,4,Lake,PROPN,NNP,compound,Xxxx,0.0
+"Lake Sevan, Gegharkunik province, Armenia",Sevan,5,1,5,Sevan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Lake Sevan, Gegharkunik province, Armenia",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Lake Sevan, Gegharkunik province, Armenia",Gegharkunik,5,1,11,Gegharkunik,PROPN,NNP,compound,Xxxxx,0.0
+"Lake Sevan, Gegharkunik province, Armenia",province,5,1,8,province,NOUN,NN,appos,xxxx,0.0
+"Lake Sevan, Gegharkunik province, Armenia",Armenia,5,1,7,Armenia,PROPN,NNP,appos,Xxxxx,0.0
+The Westin New York at Times Square,The,7,1,3,the,DET,DT,det,Xxx,0.0
+The Westin New York at Times Square,Westin,7,1,6,Westin,PROPN,NNP,compound,Xxxxx,0.0
+The Westin New York at Times Square,New,7,1,3,New,PROPN,NNP,compound,Xxx,0.0
+The Westin New York at Times Square,York,7,1,4,York,PROPN,NNP,ROOT,Xxxx,0.0
+The Westin New York at Times Square,at,7,1,2,at,ADP,IN,prep,xx,0.0
+The Westin New York at Times Square,Times,7,1,5,Times,PROPN,NNP,compound,Xxxxx,0.0
+The Westin New York at Times Square,Square,7,1,6,Square,PROPN,NNP,pobj,Xxxxx,0.0
+Online Virtual Certification,Online,3,1,6,Online,PROPN,NNP,compound,Xxxxx,0.0
+Online Virtual Certification,Virtual,3,1,7,Virtual,PROPN,NNP,compound,Xxxxx,0.0
+Online Virtual Certification,Certification,3,1,13,Certification,PROPN,NNP,ROOT,Xxxxx,0.0
+etc.venues 360 Madison,etc.venues,3,1,10,etc.venue,VERB,VBZ,ROOT,xxx.xxxx,0.0
+etc.venues 360 Madison,360,3,1,3,360,NUM,CD,nummod,ddd,0.0
+etc.venues 360 Madison,Madison,3,1,7,Madison,PROPN,NNP,dobj,Xxxxx,0.0
+The Barn at Blackburn Farm,The,5,1,3,the,DET,DT,det,Xxx,0.0
+The Barn at Blackburn Farm,Barn,5,1,4,Barn,PROPN,NNP,ROOT,Xxxx,0.0
+The Barn at Blackburn Farm,at,5,1,2,at,ADP,IN,prep,xx,0.0
+The Barn at Blackburn Farm,Blackburn,5,1,9,Blackburn,PROPN,NNP,compound,Xxxxx,0.0
+The Barn at Blackburn Farm,Farm,5,1,4,Farm,PROPN,NNP,pobj,Xxxx,0.0
+Bima Sakti Village,Bima,3,1,4,Bima,PROPN,NNP,compound,Xxxx,0.0
+Bima Sakti Village,Sakti,3,1,5,Sakti,PROPN,NNP,compound,Xxxxx,0.0
+Bima Sakti Village,Village,3,1,7,Village,PROPN,NNP,ROOT,Xxxxx,0.0
+Digital Catapult Centre,Digital,3,1,7,Digital,PROPN,NNP,compound,Xxxxx,0.0
+Digital Catapult Centre,Catapult,3,1,8,Catapult,PROPN,NNP,compound,Xxxxx,0.0
+Digital Catapult Centre,Centre,3,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+"330 Hudson St. New York, NY, 10013",330,7,1,3,330,NUM,CD,nummod,ddd,0.0
+"330 Hudson St. New York, NY, 10013",Hudson,7,1,6,Hudson,PROPN,NNP,nmod,Xxxxx,0.0
+"330 Hudson St. New York, NY, 10013",St.,7,1,3,St.,PROPN,NNP,compound,Xx.,0.0
+"330 Hudson St. New York, NY, 10013",New,7,1,3,New,PROPN,NNP,compound,Xxx,0.0
+"330 Hudson St. New York, NY, 10013",York,7,1,4,York,PROPN,NNP,ROOT,Xxxx,0.0
+"330 Hudson St. New York, NY, 10013",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"330 Hudson St. New York, NY, 10013",NY,7,1,2,NY,PROPN,NNP,appos,XX,0.0
+"330 Hudson St. New York, NY, 10013",10013,7,1,5,10013,NUM,CD,appos,dddd,0.0
+717 Tate Trotter Road,717,4,1,3,717,NUM,CD,nummod,ddd,0.0
+717 Tate Trotter Road,Tate,4,1,4,Tate,PROPN,NNP,compound,Xxxx,0.0
+717 Tate Trotter Road,Trotter,4,1,7,Trotter,PROPN,NNP,compound,Xxxxx,0.0
+717 Tate Trotter Road,Road,4,1,4,Road,PROPN,NNP,ROOT,Xxxx,0.0
+The Lalit Ashok,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Lalit Ashok,Lalit,3,1,5,Lalit,PROPN,NNP,compound,Xxxxx,0.0
+The Lalit Ashok,Ashok,3,1,5,Ashok,PROPN,NNP,ROOT,Xxxxx,0.0
+"Excel, London",Excel,2,1,5,Excel,PROPN,NNP,ROOT,Xxxxx,0.0
+"Excel, London",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Excel, London",London,2,1,6,London,PROPN,NNP,appos,Xxxxx,0.0

@@ -1,0 +1,43 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+$1M to $10M,$,3,361,1,$,SYM,$,nmod,$,0.0
+$1M to $10M,1,3,361,1,1,NUM,CD,ROOT,d,0.0
+$1M to $10M,M,3,361,1,M,PROPN,NNP,npadvmod,X,0.0
+$1M to $10M,to,3,361,2,to,ADP,IN,prep,xx,0.0
+$1M to $10M,$,3,361,1,$,SYM,$,quantmod,$,0.0
+$1M to $10M,10,3,361,2,10,NUM,CD,pobj,dd,0.0
+$1M to $10M,M,3,361,1,m,NUM,CD,pobj,X,0.0
+$10M to $50M,$,3,112,1,$,SYM,$,nmod,$,0.0
+$10M to $50M,10,3,112,2,10,NUM,CD,ROOT,dd,0.0
+$10M to $50M,M,3,112,1,m,NUM,CD,nmod,X,0.0
+$10M to $50M,to,3,112,2,to,ADP,IN,prep,xx,0.0
+$10M to $50M,50,3,112,2,50,NUM,CD,pobj,dd,0.0
+$10M to $50M,M,3,112,1,m,NUM,CD,intj,X,0.0
+$100M to $500M,$,3,13,1,$,SYM,$,nmod,$,0.0
+$100M to $500M,100,3,13,3,100,NUM,CD,ROOT,ddd,0.0
+$100M to $500M,M,3,13,1,M,PROPN,NNP,nmod,X,0.0
+$100M to $500M,to,3,13,2,to,ADP,IN,prep,xx,0.0
+$100M to $500M,$,3,13,1,$,SYM,$,quantmod,$,0.0
+$100M to $500M,500,3,13,3,500,NUM,CD,pobj,ddd,0.0
+$100M to $500M,M,3,13,1,m,NOUN,NN,intj,X,0.0
+$1B to $10B,$,3,35,1,$,SYM,$,nmod,$,0.0
+$1B to $10B,1B,3,35,2,1b,NOUN,NN,ROOT,dX,0.0
+$1B to $10B,to,3,35,2,to,ADP,IN,prep,xx,0.0
+$1B to $10B,10B,3,35,3,10b,NUM,CD,pobj,ddX,0.0
+$50M to $100M,$,3,32,1,$,SYM,$,nmod,$,0.0
+$50M to $100M,50,3,32,2,50,NUM,CD,ROOT,dd,0.0
+$50M to $100M,M,3,32,1,M,PROPN,NNP,nmod,X,0.0
+$50M to $100M,to,3,32,2,to,ADP,IN,nmod,xx,0.0
+$50M to $100M,100,3,32,3,100,NUM,CD,pobj,ddd,0.0
+$50M to $100M,M,3,32,1,m,NUM,CD,intj,X,0.0
+$10B+,$,1,20,1,$,SYM,$,nmod,$,0.0
+$10B+,10B+,1,20,4,10b+,NUM,CD,ROOT,ddX+,0.0
+Less than $1M,Less,3,52,4,Less,ADJ,JJR,amod,Xxxx,0.0
+Less than $1M,than,3,52,4,than,ADP,IN,quantmod,xxxx,0.0
+Less than $1M,$,3,52,1,$,SYM,$,quantmod,$,0.0
+Less than $1M,1,3,52,1,1,NUM,CD,nummod,d,0.0
+Less than $1M,M,3,52,1,m,NUM,CD,ROOT,X,0.0
+$500M to $1B,$,3,11,1,$,SYM,$,nmod,$,0.0
+$500M to $1B,500,3,11,3,500,NUM,CD,nsubj,ddd,0.0
+$500M to $1B,M,3,11,1,M,PROPN,NNP,npadvmod,X,0.0
+$500M to $1B,to,3,11,2,to,PART,TO,aux,xx,0.0
+$500M to $1B,1B,3,11,2,1b,VERB,VB,ROOT,dX,0.0

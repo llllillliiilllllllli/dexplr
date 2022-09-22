@@ -1,0 +1,3 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Male,Male,1,21,4,male,NOUN,NN,ROOT,Xxxx,0.0
+Female,Female,1,1,6,female,ADJ,JJ,ROOT,Xxxxx,0.0

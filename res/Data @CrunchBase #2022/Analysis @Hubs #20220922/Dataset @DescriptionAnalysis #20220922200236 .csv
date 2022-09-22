@@ -1,0 +1,1001 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"The top 10,000 companies and startups in United States with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United States with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 private companies and startups in United States, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in United States, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in United States with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United States with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the manufacturing space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the manufacturing space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, revenue, rank]",6,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the manufacturing space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United States with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the manufacturing space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Southern US with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Southern, more]",3
+"The top 10,000 companies and startups in United States with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the manufacturing space with more than 10 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United States in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the manufacturing space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Southern US with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Southern, more]",3
+"The top 10,000 companies and startups in East Coast with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Southern US with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, Southern, less]",3
+"The top 10,000 companies and startups in Southern US with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Southern, less]",3
+"The top 10,000 private companies and startups in Southern US, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Southern US, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Southern US with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Southern, fewer]",3
+"The top 10,000 companies and startups in the manufacturing space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United States with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Southern US with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Southern, less]",3
+"The top 10,000 companies and startups in East Coast with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Europe.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in the dental space with more than $1m in revenue.,"[Companies, startups, space, m, revenue]",5,[],0,"[dental, more]",2
+"The top 10,000 private companies and startups in East Coast, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in East Coast, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in the manufacturing space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United States with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in East Coast with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Venture capital investors that made investments in companies headquartered in East Coast.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in East Coast with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in East Coast with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the real estate space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, estate, space, m, revenue, rank]",7,[],0,"[top, real, more]",3
+"The top 10,000 companies and startups in Great Lakes with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the industrial space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, industrial, more]",3
+"The top 10,000 companies and startups in East Coast with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Northeastern US.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the health care space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, health, care, space, m, revenue, rank]",8,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in United States.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Midwestern US with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Southern US with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Southern, fewer]",3
+"The top 10,000 companies and startups in Southern US with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Southern, less]",3
+"The top 10,000 companies and startups in Western US with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Western, more]",3
+"The top 10,000 companies and startups in the property management space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, property, management, space, m, revenue, rank]",8,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in the manufacturing space with more than 50 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the manufacturing space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Midwestern US with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Great Lakes with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Southern US with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Southern, fewer]",3
+"The top 10,000 companies and startups in the manufacturing space with more than $10m in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Great Lakes with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Great Lakes with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in East Coast with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the industrial space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, space, revenue, rank]",5,[],0,"[top, industrial, less]",3
+Venture capital investors that made investments in companies headquartered in Western US.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the industrial space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, industrial, less]",3
+"The top 10,000 companies and startups in the industrial space with more than 10 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, industrial, more]",3
+"The top 10,000 companies and startups in the real estate space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, estate, space, revenue, rank]",6,[],0,"[top, real, less]",3
+Venture capital investors that made investments in companies headquartered in West Coast.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the real estate space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, estate, space, m, revenue, rank]",7,[],0,"[top, real, less]",3
+"The top 10,000 private companies and startups in Western US, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Western US, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Midwestern US with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in California.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Midwestern US with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Midwestern US with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 private companies and startups in Midwestern US, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Southern US in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Midwestern US, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 private companies and startups in Great Lakes, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the real estate space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, estate, space, m, revenue, rank]",7,[],0,"[top, real, less]",3
+"The top 10,000 companies and startups in the industrial space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, industrial, less]",3
+"The top 10,000 companies and startups in Great Lakes, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in the real estate space with more than 10 employees, by Crunchbase rank.","[companies, startups, estate, space, employees, rank]",6,[],0,"[top, real, more]",3
+Private equity firms that made investments in companies headquartered in Massachusetts.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Great Lakes with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Great Lakes with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the real estate space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, estate, space, employees, rank]",6,[],0,"[top, real, fewer]",3
+"The top 10,000 companies and startups in Western US with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Western, fewer]",3
+"The top 10,000 companies and startups in Western US with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Western, more]",3
+Venture capital investors that made investments in companies headquartered in Greater New York Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the health care space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, health, care, space, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the health care space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, health, care, space, m, revenue, rank]",8,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in New England.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Midwestern US with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the medical space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, medical, more]",3
+"The top 10,000 companies and startups in Western US with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, Western, less]",3
+Venture capital investors that made investments in companies headquartered in United Kingdom.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in United States in the real estate space, by Crunchbase rank.","[companies, startups, estate, space, rank]",5,[],0,"[top, real]",2
+"The top 10,000 companies and startups in Western US with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Western, less]",3
+"The top 10,000 companies and startups in United States in the medical space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, medical]",2
+"The top 10,000 companies and startups in the health care space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, health, care, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the industrial space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, industrial, fewer]",3
+"The top 10,000 companies and startups in East Coast with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the health care space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, health, care, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the real estate space, by Crunchbase rank.","[companies, startups, estate, space, rank]",5,[],0,"[top, real]",2
+"Venture capital investors that made investments in companies headquartered in New York, New York.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in East Coast with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Western US with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Western, less]",3
+"The top 10,000 companies and startups in the property management space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, property, management, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the health care space with more than 10 employees, by Crunchbase rank.","[companies, startups, health, care, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+Venture capital investors that made investments in companies headquartered in European Union (EU).,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the industrial space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, industrial]",2
+"The top 10,000 companies and startups in the property management space, by Crunchbase rank.","[companies, startups, property, management, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in United States in the industrial space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, industrial]",2
+"The top 10,000 companies and startups in Southern US with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Southern, more]",3
+"The top 10,000 companies and startups in the consulting space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, consulting, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States in the property management space, by Crunchbase rank.","[companies, startups, property, management, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in the property management space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, property, management, space, employees, rank]",7,[],0,"[top, fewer]",2
+Venture capital investors that made investments in companies headquartered in San Francisco Bay Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the property management space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, property, management, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the property management space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, property, management, space, m, revenue, rank]",8,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in Greater Boston Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Startups that were founded in 2022.,[Startups],1,[founded],1,[],0
+"The top 10,000 companies and startups in the property management space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, property, management, space, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the residential space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, residential, more]",3
+"The top 10,000 companies and startups in East Coast in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the health care space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, health, care, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in East Coast with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Companies and startups in Georgia in the manufacturing space.,"[Companies, startups, manufacturing, space]",4,[],0,[],0
+"The top 10,000 companies and startups in Northeastern US with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Massachusetts.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Venture capital investors that made investments in companies headquartered in New York.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Western US with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Western, fewer]",3
+"The top 10,000 companies and startups in the property management space with more than 10 employees, by Crunchbase rank.","[companies, startups, property, management, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Europe with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in New England.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Venture capital investors that made investments in companies headquartered in Silicon Valley.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the real estate space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, estate, space, employees, rank]",6,[],0,"[top, real, fewer]",3
+Venture capital investors that made investments in companies headquartered in Southern US.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the real estate space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, estate, space, m, revenue, rank]",7,[],0,"[top, real, less]",3
+"The top 10,000 companies and startups with fewer than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the industrial space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, industrial, fewer]",3
+"The top 10,000 companies and startups in Northeastern US with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the property management space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, property, management, space, employees, rank]",7,[],0,"[top, fewer]",2
+Companies and startups in Europe in the web apps space.,"[Companies, startups, web, apps, space]",5,[],0,[],0
+"The top 10,000 companies and startups in the health care space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, health, care, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the manufacturing space with more than 100 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Southern US with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Southern, more]",3
+"The top 10,000 private companies and startups in Northeastern US, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Northeastern US, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in West Coast with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the property management space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, property, management, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Midwestern US with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Venture capital investors that made investments in companies headquartered in Greater Los Angeles Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Europe, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+Venture capital investors that made investments in companies headquartered in Greater Boston Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 private companies and startups in Europe, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the medical space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, space, revenue, rank]",5,[],0,"[top, medical, less]",3
+"The top 10,000 companies and startups in the medical space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, medical, less]",3
+"The top 10,000 companies and startups in the consulting space with more than 10 employees, by Crunchbase rank.","[companies, startups, consulting, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Great Lakes with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Northeastern US with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Private equity firms that made investments in companies headquartered in Northeastern US.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the medical space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, medical, less]",3
+"The top 10,000 companies and startups in West Coast, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 private companies and startups in West Coast, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the commercial space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, commercial, more]",3
+"The top 10,000 companies and startups in Western US with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Western, less]",3
+Private equity firms that made investments in companies headquartered in East Coast.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Western US with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Western, fewer]",3
+"The top 10,000 companies and startups in Great Lakes with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Europe with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the real estate space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, estate, space, employees, rank]",6,[],0,"[top, real, fewer]",3
+"The top 10,000 companies and startups in the consulting space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, consulting, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Northeastern US with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Northeastern US with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the medical space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, medical, fewer]",3
+"The top 10,000 companies and startups in West Coast with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Southern US with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Southern, more]",3
+"The top 10,000 companies and startups in the health care space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, health, care, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United States with fewer than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in West Coast with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in East Coast with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Midwestern US with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the consulting space, by Crunchbase rank.","[companies, startups, consulting, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the industrial space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, industrial, less]",3
+"The top 10,000 companies and startups in Great Lakes in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the machinery manufacturing space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, m, revenue, rank]",8,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the medical space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, medical]",2
+"The top 10,000 companies and startups in West Coast with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the product design space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, product, design, space, m, revenue, rank]",8,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Northeastern US with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in West Coast with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the medical space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, medical, less]",3
+"The top 10,000 companies and startups in the residential space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, space, revenue, rank]",5,[],0,"[top, residential, less]",3
+"Private equity firms that made investments in companies headquartered in Boston, Massachusetts.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the residential space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, residential, less]",3
+Companies and startups in Canada in the manufacturing space.,"[Companies, startups, manufacturing, space]",4,[],0,[],0
+"The top 10,000 companies and startups in Midwestern US with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"Venture capital investors that made investments in companies headquartered in San Francisco, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the residential space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, residential, less]",3
+"The top 10,000 companies and startups in Great Lakes with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Venture capital investors that made investments in companies headquartered in Canada.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the medical space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, medical, fewer]",3
+"The top 10,000 companies and startups in Europe with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the residential space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, residential]",2
+"The top 10,000 companies and startups in the residential space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, residential, fewer]",3
+"The top 10,000 companies and startups in West Coast with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in California with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in East Coast with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Great Lakes.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the consulting space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, consulting, space, revenue, rank]",6,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Florida with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Companies and startups in Florida in the construction space.,"[Companies, startups, construction, space]",4,[],0,[],0
+Private equity firms that made investments in companies headquartered in United States.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the consulting space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, consulting, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the commercial space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, commercial, less]",3
+"The top 10,000 companies and startups in the commercial space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, space, revenue, rank]",5,[],0,"[top, commercial, less]",3
+"The top 10,000 companies and startups in the construction space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, construction, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in California, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 private companies and startups in California, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the industrial space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, industrial, fewer]",3
+Venture capital investors that made investments in companies headquartered in England.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the product design space with more than 10 employees, by Crunchbase rank.","[companies, startups, product, design, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the medical space with more than 10 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, medical, more]",3
+Private equity firms that made investments in companies headquartered in Western US.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the consulting space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, consulting, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the residential space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, residential, fewer]",3
+"The top 10,000 companies and startups in the medical space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, medical, fewer]",3
+"Venture capital investors that made investments in companies headquartered in London, England.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups with more than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Southern US in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+Companies and startups founded within the last year in Asia.,"[Companies, startups, year]",3,[founded],1,[last],1
+"The top 10,000 companies and startups in the machinery manufacturing space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Midwestern US with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the residential space with more than 10 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, residential, more]",3
+"The top 10,000 companies and startups in the commercial space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, commercial, less]",3
+"The top 10,000 companies and startups in the machinery manufacturing space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"Venture capital investors that made investments in companies headquartered in San Mateo, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Great Lakes with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the machinery manufacturing space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Northeastern US with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in California with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the consulting space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, consulting, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United States in the construction space, by Crunchbase rank.","[companies, startups, construction, space, rank]",5,[],0,[top],1
+Companies and startups in the dental space with less than $50m in revenue.,"[Companies, startups, space, m, revenue]",5,[],0,"[dental, less]",2
+Companies and startups in the dental space with less than $500m in revenue.,"[Companies, startups, space, m, revenue]",5,[],0,"[dental, less]",2
+Companies and startups in the dental space with less than $1b in revenue.,"[Companies, startups, space, revenue]",4,[],0,"[dental, less]",2
+Companies and startups in the dental space with less than $10m in revenue.,"[Companies, startups, space, m, revenue]",5,[],0,"[dental, less]",2
+"The top 10,000 companies and startups in West Coast with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United States in the consulting space, by Crunchbase rank.","[companies, startups, consulting, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in California with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Midwestern US in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Europe with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the residential space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, residential, less]",3
+"The top 10,000 companies and startups with more than 500 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the wellness space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, wellness, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Europe with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Asia-Pacific (APAC), by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+Private equity firms that made investments in companies headquartered in West Coast.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in United States in the residential space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, residential]",2
+"The top 10,000 private companies and startups in Florida, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the machinery manufacturing space with more than 10 employees, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Florida, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Florida with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in California with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the commercial space with more than 10 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, commercial, more]",3
+"The top 10,000 companies and startups in California with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in Southern US.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the construction space with more than 10 employees, by Crunchbase rank.","[companies, startups, construction, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the commercial space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, commercial, fewer]",3
+"The top 10,000 companies and startups in Great Lakes with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Private equity firms that made investments in companies headquartered in California.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 private companies and startups in Asia-Pacific (APAC), by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"Venture capital investors that made investments in companies headquartered in Cambridge, Massachusetts.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the dental space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, dental, fewer]",3
+"The top 10,000 companies and startups in the dental space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, dental, fewer]",3
+"The top 10,000 companies and startups in the wholesale space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, wholesale, more]",3
+"The top 10,000 companies and startups in the residential space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, residential, fewer]",3
+Private equity firms that made investments in companies headquartered in Greater New York Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the construction space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, construction, space, revenue, rank]",6,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Florida with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Texas with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the dental space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, dental, fewer]",3
+"The top 10,000 companies and startups in California with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the consulting space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, consulting, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the machinery manufacturing space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, employees, rank]",7,[],0,"[top, fewer]",2
+Private equity firms that made investments in companies headquartered in Greater Seattle Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the construction space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, construction, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Western US with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Western, more]",3
+Private equity firms that made investments in companies headquartered in Great Lakes.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Europe with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the commercial space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, commercial]",2
+"The top 10,000 companies and startups in United States in the dental space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, dental]",2
+"The top 10,000 companies and startups in Europe with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Florida with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in West Coast with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Florida with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in San Francisco Bay Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Western US in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+Venture capital investors that made investments in companies headquartered in Asia.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Private equity firms that made investments in companies headquartered in Washington.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Northeastern US with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in West Coast with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Germany.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Southern US in the medical space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, medical]",2
+"The top 10,000 companies and startups in Canada with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the construction space, by Crunchbase rank.","[companies, startups, construction, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Midwestern US with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Europe with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in European Union (EU) in the web apps space.,"[Companies, startups, web, apps, space]",5,[],0,[],0
+"The top 10,000 companies and startups in European Union (EU) with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Companies and startups in the therapeutics space with more than $1m in revenue.,"[Companies, startups, therapeutics, space, m, revenue]",6,[],0,[more],1
+"The top 10,000 companies and startups in Southern US in the real estate space, by Crunchbase rank.","[companies, startups, estate, space, rank]",5,[],0,"[top, real]",2
+"The top 10,000 companies and startups in the machinery manufacturing space, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in the construction space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, construction, space, employees, rank]",6,[],0,"[top, fewer]",2
+Companies and startups founded within the last year in Asia-Pacific (APAC).,"[Companies, startups, year]",3,[founded],1,[last],1
+"Venture capital investors that made investments in companies headquartered in San Diego, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in East Coast in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in Northeastern US with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Asia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"Venture capital investors that made investments in companies headquartered in Palo Alto, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in United States in the commercial space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, commercial]",2
+"The top 10,000 companies and startups in Georgia with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Florida with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Greater San Diego Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the commercial space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, commercial, fewer]",3
+"The top 10,000 companies and startups in the consulting space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, consulting, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the product design space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, product, design, space, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in California with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in European Union (EU), by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 private companies and startups in European Union (EU), by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the product design space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, product, design, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United Kingdom, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in the construction space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, construction, space, m, revenue, rank]",7,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in Greater Los Angeles Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Private equity firms that made investments in companies headquartered in Midwestern US.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 private companies and startups in United Kingdom, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Europe with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the commercial space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, commercial, less]",3
+Private equity firms that made investments in companies headquartered in New York.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in Greater Atlanta Area in the manufacturing space.,"[Companies, startups, manufacturing, space]",4,[],0,[],0
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United Kingdom with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the product design space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, product, design, space, employees, rank]",7,[],0,"[top, fewer]",2
+"Venture capital investors that made investments in companies headquartered in Los Angeles, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 private companies and startups in Asia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the industrial space with more than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, industrial, more]",3
+"Private equity firms that made investments in companies headquartered in San Mateo, California.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in United Kingdom with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"Private equity firms that made investments in companies headquartered in San Francisco, California.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the dental space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, dental]",2
+"The top 10,000 companies and startups in the product design space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, product, design, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Texas with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the product design space, by Crunchbase rank.","[companies, startups, product, design, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in Great Lakes with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in European Union (EU) with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the industrial space with more than $10m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, industrial, more]",3
+"The top 10,000 companies and startups in United Kingdom with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the machinery manufacturing space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the information technology space, by Crunchbase rank.","[companies, startups, information, technology, space, rank]",6,[],0,[top],1
+"The top 10,000 private companies and startups in Texas, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Texas, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Midwestern US with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Northeastern US with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Scandinavia.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in United States in the wholesale space.,"[Companies, startups, space]",3,[],0,[wholesale],1
+Venture capital investors that made investments in companies headquartered in Nordic Countries.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[Nordic],1
+"The top 10,000 companies and startups in Texas with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"Private equity firms that made investments in companies headquartered in New York, New York.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the health care space with more than 50 employees, by Crunchbase rank.","[companies, startups, health, care, space, employees, rank]",7,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Midwestern US.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Texas with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in British Columbia.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in United States in the machinery manufacturing space.,"[Companies, startups, machinery, manufacturing, space]",5,[],0,[],0
+"The top 10,000 companies and startups in East Coast in the construction space, by Crunchbase rank.","[companies, startups, construction, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Texas with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the real estate space with more than 50 employees, by Crunchbase rank.","[companies, startups, estate, space, employees, rank]",6,[],0,"[top, real, more]",3
+"Venture capital investors that made investments in companies headquartered in Berlin, Berlin.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the wholesale space with more than 10 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, wholesale, more]",3
+"The top 10,000 companies and startups in the information technology space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, information, technology, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in California with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Greater Los Angeles Area with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States in the wellness space, by Crunchbase rank.","[companies, startups, wellness, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Europe with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in California with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Western US with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, Western, more]",3
+Venture capital investors that made investments in companies headquartered in Berlin.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the wholesale space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, wholesale, less]",3
+"The top 10,000 companies and startups in the wellness space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, wellness, space, m, revenue, rank]",7,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Greater Seattle Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the wholesale space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, space, revenue, rank]",5,[],0,"[top, wholesale, less]",3
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the wellness space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, wellness, space, revenue, rank]",6,[],0,"[top, less]",2
+Companies and startups founded within the last year with seed funding.,"[Companies, startups, year, seed, funding]",5,[founded],1,[last],1
+"The top 10,000 companies and startups in Texas with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Asia-Pacific (APAC).,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"Venture capital investors that made investments in companies headquartered in Boston, Massachusetts.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in East Coast in the real estate space, by Crunchbase rank.","[companies, startups, estate, space, rank]",5,[],0,"[top, real]",2
+"The top 10,000 companies and startups in the wellness space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, wellness, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Asia with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Florida with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Asia with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in the machinery manufacturing space with less than $10m in revenue.,"[Companies, startups, machinery, manufacturing, space, m, revenue]",7,[],0,[less],1
+"The top 10,000 companies and startups in Southern US in the construction space, by Crunchbase rank.","[companies, startups, construction, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the commercial space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, commercial, fewer]",3
+"The top 10,000 companies and startups in Northeastern US in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the software space, by Crunchbase rank.","[companies, startups, software, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the wholesale space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, wholesale]",2
+Startups in Asia that were founded in 2022.,[Startups],1,[founded],1,[],0
+"The top 10,000 companies and startups in United Kingdom with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Greater Los Angeles Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 private companies and startups in Greater Los Angeles Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in United States with more than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Companies and startups in the dental space with more than 10 employees.,"[Companies, startups, space, employees]",4,[],0,"[dental, more]",2
+"The top 10,000 companies and startups in United Kingdom with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United Kingdom with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the consulting space with more than 50 employees, by Crunchbase rank.","[companies, startups, consulting, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the wellness space, by Crunchbase rank.","[companies, startups, wellness, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Canada with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Washington.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Canada with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Texas.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the information technology space with more than 10 employees, by Crunchbase rank.","[companies, startups, information, technology, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Western US with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Western, more]",3
+Companies and startups in Great Lakes in the industrial space.,"[Companies, startups, space]",3,[],0,[industrial],1
+Private equity firms that made investments in companies headquartered in Canada.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in East Coast in the medical space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, medical]",2
+Investment banks that made investments in companies headquartered in Canada.,"[Investment, banks, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in European Union (EU) with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the wholesale space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, wholesale, fewer]",3
+"The top 10,000 companies and startups in the retail space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, retail, more]",3
+"The top 10,000 companies and startups in Florida with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 private companies and startups in Greater New York Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Greater New York Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in the wellness space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, wellness, space, employees, rank]",6,[],0,"[top, fewer]",2
+Companies and startups in Southern US in the property management space.,"[Companies, startups, property, management, space]",5,[],0,[],0
+"The top 10,000 companies and startups in the financial services space, by Crunchbase rank.","[companies, startups, services, space, rank]",5,[],0,"[top, financial]",2
+"The top 10,000 companies and startups in the financial services space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, services, space, employees, rank]",6,[],0,"[top, financial, fewer]",3
+"The top 10,000 companies and startups in the financial services space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, services, space, m, revenue, rank]",7,[],0,"[top, financial, more]",3
+"The top 10,000 companies and startups in Europe with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Canada with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the software space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, software, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Greater New York Area with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Greater Los Angeles Area with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the wholesale space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, wholesale, less]",3
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in West Coast with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Northeastern US with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States in the product design space, by Crunchbase rank.","[companies, startups, product, design, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in Greater Los Angeles Area with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United Kingdom with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the financial services space with more than 10 employees, by Crunchbase rank.","[companies, startups, services, space, employees, rank]",6,[],0,"[top, financial, more]",3
+"The top 10,000 companies and startups in Florida with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the product design space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, product, design, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 private companies and startups in New York, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in New York, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"Venture capital investors that made investments in companies headquartered in Vancouver, British Columbia.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Greater New York Area with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in European Union (EU) with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Georgia with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Companies and startups in the commercial real estate space with more than $1m in revenue.,"[Companies, startups, estate, space, m, revenue]",6,[],0,"[commercial, real, more]",3
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Georgia with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in New York with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Companies and startups founded within the last year in India.,"[Companies, startups, year]",3,[founded],1,[last],1
+"The top 10,000 companies and startups in the information technology space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, information, technology, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Georgia with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Western US in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in the wellness space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, wellness, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Europe in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Europe with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Greater Los Angeles Area with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United Kingdom with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the wellness space with more than 10 employees, by Crunchbase rank.","[companies, startups, wellness, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Greater Los Angeles Area with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the construction space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, construction, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in European Union (EU) with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Venture capital investors that made investments in companies headquartered in Ontario.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Greater New York Area with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Private equity firms that made investments in companies headquartered in New Jersey.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Southern US with fewer than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Southern, fewer]",3
+"The top 10,000 companies and startups in New York with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in the industrial manufacturing space with more than $1m in revenue.,"[Companies, startups, manufacturing, space, m, revenue]",6,[],0,"[industrial, more]",2
+Companies and startups in the therapeutics space with less than $1b in revenue.,"[Companies, startups, therapeutics, space, revenue]",5,[],0,[less],1
+Companies and startups in the therapeutics space with less than $500m in revenue.,"[Companies, startups, therapeutics, space, m, revenue]",6,[],0,[less],1
+Companies and startups in the therapeutics space with less than $50m in revenue.,"[Companies, startups, therapeutics, space, m, revenue]",6,[],0,[less],1
+"The top 10,000 companies and startups in the building material space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, building, material, space, m, revenue, rank]",8,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the non profit space, by Crunchbase rank.","[companies, startups, profit, space, rank]",5,[],0,[top],1
+Private equity firms that made investments in companies headquartered in Silicon Valley.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the non profit space with more than 10 employees, by Crunchbase rank.","[companies, startups, profit, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in New York with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Private equity firms that made investments in companies headquartered in Florida.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the retail space with more than 10 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, retail, more]",3
+"The top 10,000 companies and startups in the real estate space with more than $10m in revenue, by Crunchbase rank.","[companies, startups, estate, space, m, revenue, rank]",7,[],0,"[top, real, more]",3
+"The top 10,000 companies and startups in Greater Los Angeles Area with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the product design space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, product, design, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United States in the therapeutics space, by Crunchbase rank.","[companies, startups, therapeutics, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Georgia with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the software space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, software, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Texas with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups with more than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Companies and startups in the leasing space with more than $1m in revenue.,"[Companies, startups, leasing, space, m, revenue]",6,[],0,[more],1
+"The top 10,000 companies and startups in the non profit space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, profit, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Asia with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the health care space with more than 100 employees, by Crunchbase rank.","[companies, startups, health, care, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 private companies and startups in Georgia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Georgia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in the wellness space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, wellness, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the industrial manufacturing space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, revenue, rank]",6,[],0,"[top, industrial, less]",3
+"The top 10,000 companies and startups in Northeastern US with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the construction space with more than 50 employees, by Crunchbase rank.","[companies, startups, construction, space, employees, rank]",6,[],0,"[top, more]",2
+Companies and startups in Greater Atlanta Area with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in East Coast with fewer than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"Private equity firms that made investments in companies headquartered in Vancouver, British Columbia.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Georgia with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the retail space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, retail]",2
+Companies and startups in East Coast in the property management space.,"[Companies, startups, property, management, space]",5,[],0,[],0
+"The top 10,000 companies and startups in the information technology space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, information, technology, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the real estate space with more than 100 employees, by Crunchbase rank.","[companies, startups, estate, space, employees, rank]",6,[],0,"[top, real, more]",3
+"The top 10,000 companies and startups in the therapeutics space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, therapeutics, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups with more than $100m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the industrial manufacturing space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, m, revenue, rank]",7,[],0,"[top, industrial, less]",3
+"The top 10,000 companies and startups in the building material space with more than 10 employees, by Crunchbase rank.","[companies, startups, building, material, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in West Coast in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+Companies and startups in Southern US in the residential space.,"[Companies, startups, space]",3,[],0,[residential],1
+"The top 10,000 companies and startups in Texas with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in Colorado.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in Southern US in the industrial space.,"[Companies, startups, space]",3,[],0,[industrial],1
+"The top 10,000 companies and startups in the machinery manufacturing space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, machinery, manufacturing, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Greater New York Area with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Greater New York Area with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the building material space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, building, material, space, revenue, rank]",7,[],0,"[top, less]",2
+"Venture capital investors that made investments in companies headquartered in Menlo Park, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the information technology space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, information, technology, space, m, revenue, rank]",8,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Asia with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the building material space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, building, material, space, m, revenue, rank]",8,[],0,"[top, less]",2
+Companies and startups in East Coast in the industrial space.,"[Companies, startups, space]",3,[],0,[industrial],1
+"The top 10,000 private companies and startups in New England, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+Companies and startups in the therapeutics space with less than $10m in revenue.,"[Companies, startups, therapeutics, space, m, revenue]",6,[],0,[less],1
+"The top 10,000 companies and startups in New England, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"Venture capital investors that made investments in companies headquartered in Seattle, Washington.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in the therapeutics space with more than 10 employees.,"[Companies, startups, therapeutics, space, employees]",5,[],0,[more],1
+"The top 10,000 companies and startups in European Union (EU) with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in New England with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the building material space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, building, material, space, employees, rank]",7,[],0,"[top, fewer]",2
+Companies and startups in the personal health space with more than $1m in revenue.,"[Companies, startups, health, space, m, revenue]",6,[],0,"[personal, more]",2
+"The top 10,000 companies and startups in European Union (EU) with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in New York with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Canada with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"Venture capital investors that made investments in companies headquartered in Mountain View, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in New York with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in Greater Denver Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in the commercial real estate space with less than $1b in revenue.,"[Companies, startups, estate, space, revenue]",5,[],0,"[commercial, real, less]",3
+Companies and startups in the commercial real estate space with less than $500m in revenue.,"[Companies, startups, estate, space, m, revenue]",6,[],0,"[commercial, real, less]",3
+"The top 10,000 companies and startups in United States in the building material space, by Crunchbase rank.","[companies, startups, building, material, space, rank]",6,[],0,[top],1
+Companies and startups in the commercial real estate space with less than $50m in revenue.,"[Companies, startups, estate, space, m, revenue]",6,[],0,"[commercial, real, less]",3
+Companies and startups in the industrial manufacturing space with less than $50m in revenue.,"[Companies, startups, manufacturing, space, m, revenue]",6,[],0,"[industrial, less]",2
+Private equity firms that made investments in companies headquartered in North Carolina.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the construction space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, construction, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in European Union (EU) with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the software space with more than 10 employees, by Crunchbase rank.","[companies, startups, software, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the software space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, software, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in California with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Western US in the real estate space, by Crunchbase rank.","[companies, startups, estate, space, rank]",5,[],0,"[top, real]",2
+"The top 10,000 companies and startups with less than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Association of Southeast Asian Nations (ASEAN).,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Venture capital investors that made investments in companies headquartered in Southeast Asia.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the financial services space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, services, space, employees, rank]",6,[],0,"[top, financial, fewer]",3
+"The top 10,000 companies and startups in United States in the non profit space, by Crunchbase rank.","[companies, startups, profit, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the non profit space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, profit, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Southern US in the consulting space, by Crunchbase rank.","[companies, startups, consulting, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Greater New York Area with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Illinois with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Singapore.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Midwestern US in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+Venture capital investors that made investments in companies headquartered in New Jersey.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the building material space, by Crunchbase rank.","[companies, startups, building, material, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in the financial services space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, services, space, revenue, rank]",6,[],0,"[top, financial, less]",3
+"The top 10,000 companies and startups in the commercial real estate space, by Crunchbase rank.","[companies, startups, estate, space, rank]",5,[],0,"[top, commercial, real]",3
+"The top 10,000 private companies and startups in Canada, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the financial services space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, services, space, m, revenue, rank]",7,[],0,"[top, financial, less]",3
+"The top 10,000 companies and startups in New England with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the therapeutics space, by Crunchbase rank.","[companies, startups, therapeutics, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Western US with fewer than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, Western, fewer]",3
+"The top 10,000 companies and startups in Canada, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in the wholesale space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, wholesale, fewer]",3
+"The top 10,000 companies and startups in United States with more than 500 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Central Region.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the information technology space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, information, technology, space, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in New England with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Asia with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Western US in the medical space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, medical]",2
+"The top 10,000 companies and startups in the health care space with more than $10m in revenue, by Crunchbase rank.","[companies, startups, health, care, space, m, revenue, rank]",8,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Greater Los Angeles Area with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the information technology space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, information, technology, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"Venture capital investors that made investments in companies headquartered in Redwood City, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Texas with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United Kingdom with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the product design space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, product, design, space, employees, rank]",7,[],0,"[top, fewer]",2
+Companies and startups founded within the last year in Europe.,"[Companies, startups, year]",3,[founded],1,[last],1
+"The top 10,000 companies and startups in the food and beverage space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, food, beverage, space, m, revenue, rank]",8,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the therapeutics space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, therapeutics, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the building material space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, building, material, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the construction space with more than $10m in revenue, by Crunchbase rank.","[companies, startups, construction, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in New York with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the wellness space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, wellness, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Greater New York Area with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the commercial real estate space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, estate, space, employees, rank]",6,[],0,"[top, commercial, real, fewer]",4
+"The top 10,000 companies and startups in the e-commerce space, by Crunchbase rank.","[companies, startups, e, commerce, space, rank]",6,[],0,"[top, -]",2
+"The top 10,000 companies and startups in the retail space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, retail, fewer]",3
+"The top 10,000 companies and startups in India, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Canada with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in Midwestern US in the property management space.,"[Companies, startups, property, management, space]",5,[],0,[],0
+Companies and startups in Connecticut in the manufacturing space.,"[Companies, startups, manufacturing, space]",4,[],0,[],0
+"The top 10,000 companies and startups in the retail space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, space, revenue, rank]",5,[],0,"[top, retail, less]",3
+Private equity firms that made investments in companies headquartered in Greater San Diego Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in European Union (EU) with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"Private equity firms that made investments in companies headquartered in Seattle, Washington.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Illinois with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the industrial manufacturing space with more than 10 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, industrial, more]",3
+Private equity firms that made investments in companies headquartered in Texas.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Asia with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 private companies and startups in Illinois, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Illinois, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"Venture capital investors that made investments in companies headquartered in San Jose, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the consulting space with more than $10m in revenue, by Crunchbase rank.","[companies, startups, consulting, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the consulting space with more than 100 employees, by Crunchbase rank.","[companies, startups, consulting, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the electronics space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, electronics, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the information technology space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, information, technology, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the retail space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, retail, less]",3
+"The top 10,000 companies and startups in European Union (EU) with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in West Coast with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Companies and startups in Midwestern US in the industrial space.,"[Companies, startups, space]",3,[],0,[industrial],1
+Private equity firms that made investments in companies headquartered in Illinois.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the industrial manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,"[top, industrial]",2
+"The top 10,000 companies and startups in the financial services space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, services, space, m, revenue, rank]",7,[],0,"[top, financial, less]",3
+"The top 10,000 companies and startups in Ohio with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Startups in United States that were founded in 2022.,[Startups],1,[founded],1,[],0
+"The top 10,000 companies and startups in Illinois with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"Venture capital investors that made investments in companies headquartered in Singapore, Central Region.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in New York with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in West Coast with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Companies and startups in United States in the commercial real estate space.,"[Companies, startups, estate, space]",4,[],0,"[commercial, real]",2
+"The top 10,000 companies and startups in the insurance space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, insurance, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in New England with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in Alberta.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in New England with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United States in the information technology space, by Crunchbase rank.","[companies, startups, information, technology, space, rank]",6,[],0,[top],1
+Venture capital investors that made investments in companies headquartered in Latin America.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 private companies and startups in India, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in United States in the retail space, by Crunchbase rank.","[companies, startups, space, rank]",4,[],0,"[top, retail]",2
+"The top 10,000 companies and startups in Asia with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the training space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, training, space, m, revenue, rank]",7,[],0,"[top, more]",2
+Private equity firms that made investments in companies headquartered in Europe.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the industrial space with more than 100 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, industrial, more]",3
+Companies and startups in United States in the leasing space.,"[Companies, startups, leasing, space]",4,[],0,[],0
+"The top 10,000 companies and startups in the construction space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, construction, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the food and beverage space with more than 10 employees, by Crunchbase rank.","[companies, startups, food, beverage, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the non profit space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, profit, space, revenue, rank]",6,[],0,"[top, less]",2
+Companies and startups in the commercial real estate space with fewer than 100 employees.,"[Companies, startups, estate, space, employees]",5,[],0,"[commercial, real, fewer]",3
+"Private equity firms that made investments in companies headquartered in Cambridge, Massachusetts.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the financial services space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, services, space, employees, rank]",6,[],0,"[top, financial, fewer]",3
+"The top 10,000 companies and startups in East Coast in the consulting space, by Crunchbase rank.","[companies, startups, consulting, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the non profit space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, profit, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the industrial manufacturing space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, industrial, fewer]",3
+"The top 10,000 companies and startups in California in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Florida with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Companies and startups in Canada with more than $10m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+"The top 10,000 companies and startups in Oceania, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Australasia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in the e-commerce space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, e, commerce, space, employees, rank]",7,[],0,"[top, -, fewer]",3
+"The top 10,000 companies and startups in Asia with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in British Columbia.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the manufacturing space with more than $50m in revenue, by Crunchbase rank.","[companies, startups, manufacturing, space, m, revenue, rank]",7,[],0,"[top, more]",2
+Companies and startups in Midwestern US in the real estate space.,"[Companies, startups, estate, space]",4,[],0,[real],1
+Private equity firms that made investments in companies headquartered in Connecticut.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in India with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Private equity firms that made investments in companies headquartered in Ohio.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Greater Los Angeles Area with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in the wholesale space with less than $10m in revenue.,"[Companies, startups, space, m, revenue]",5,[],0,"[wholesale, less]",2
+"The top 10,000 companies and startups in Ohio with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"Private equity firms that made investments in companies headquartered in Waltham, Massachusetts.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in the commercial real estate space with more than 10 employees.,"[Companies, startups, estate, space, employees]",5,[],0,"[commercial, real, more]",3
+"The top 10,000 companies and startups in Greater Atlanta Area with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Oceania with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 private companies and startups in Ohio, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+Private equity firms that made investments in companies headquartered in Indiana.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the education space, by Crunchbase rank.","[companies, startups, education, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the insurance space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, insurance, space, employees, rank]",6,[],0,"[top, fewer]",2
+Venture capital investors that made investments in companies headquartered in Sweden.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Oceania with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Private equity firms that made investments in companies headquartered in Scandinavia.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Australasia with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 private companies and startups in Oceania, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+Private equity firms that made investments in companies headquartered in Nordic Countries.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,"[Private, Nordic]",2
+"The top 10,000 companies and startups in Greater Los Angeles Area with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Illinois with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Companies and startups in United States in the industrial manufacturing space.,"[Companies, startups, manufacturing, space]",4,[],0,[industrial],1
+"The top 10,000 companies and startups in Australasia with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in New England with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Companies and startups in the health diagnostics space with more than $1m in revenue.,"[Companies, startups, health, diagnostics, space, m, revenue]",7,[],0,[more],1
+"The top 10,000 private companies and startups in Australasia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"Private equity firms that made investments in companies headquartered in Irvine, California.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Illinois with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Ohio, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"Private equity firms that made investments in companies headquartered in San Diego, California.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in Africa with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+Companies and startups in the leasing space with fewer than 100 employees.,"[Companies, startups, leasing, space, employees]",5,[],0,[fewer],1
+"The top 10,000 companies and startups in the food and beverage space, by Crunchbase rank.","[companies, startups, food, beverage, space, rank]",6,[],0,[top],1
+Companies and startups in Great Lakes in the property management space.,"[Companies, startups, property, management, space]",5,[],0,[],0
+Companies and startups in the commercial real estate space with less than $10m in revenue.,"[Companies, startups, estate, space, m, revenue]",6,[],0,"[commercial, real, less]",3
+"The top 10,000 companies and startups in Great Lakes in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in Greater New York Area with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in the leasing space with fewer than 1000 employees.,"[Companies, startups, leasing, space, employees]",5,[],0,[fewer],1
+Companies and startups in the therapeutics space with fewer than 50 employees.,"[Companies, startups, therapeutics, space, employees]",5,[],0,[fewer],1
+"The top 10,000 companies and startups in United States with less than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Greater Chicago Area with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Companies and startups in the machinery manufacturing space with more than 50 employees.,"[Companies, startups, machinery, manufacturing, space, employees]",6,[],0,[more],1
+"The top 10,000 companies and startups in the health care space with fewer than 10 employees, by Crunchbase rank.","[companies, startups, health, care, space, employees, rank]",7,[],0,"[top, fewer]",2
+Companies and startups in Texas in the manufacturing space.,"[Companies, startups, manufacturing, space]",4,[],0,[],0
+"The top 10,000 companies and startups in the software space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, software, space, revenue, rank]",6,[],0,"[top, less]",2
+Companies and startups in the real estate investment space with more than $1m in revenue.,"[Companies, startups, estate, investment, space, m, revenue]",7,[],0,"[real, more]",2
+"The top 10,000 companies and startups in Asia with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Private equity firms that made investments in companies headquartered in Washington DC Metro Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the software space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, software, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the insurance space, by Crunchbase rank.","[companies, startups, insurance, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the insurance space with more than 10 employees, by Crunchbase rank.","[companies, startups, insurance, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the professional services space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, services, space, m, revenue, rank]",7,[],0,"[top, professional, more]",3
+"The top 10,000 companies and startups in Ohio with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the advertising space, by Crunchbase rank.","[companies, startups, advertising, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the professional services space with more than 10 employees, by Crunchbase rank.","[companies, startups, services, space, employees, rank]",6,[],0,"[top, professional, more]",3
+Companies and startups in the leasing space with less than $500m in revenue.,"[Companies, startups, leasing, space, m, revenue]",6,[],0,[less],1
+"The top 10,000 companies and startups in the food and beverage space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, food, beverage, space, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the food and beverage space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, food, beverage, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Greater Miami Area with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Companies and startups in the leasing space with less than $1b in revenue.,"[Companies, startups, leasing, space, revenue]",5,[],0,[less],1
+"The top 10,000 companies and startups in the electronics space with more than 10 employees, by Crunchbase rank.","[companies, startups, electronics, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 private companies and startups in Greater Miami Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Greater Chicago Area with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Greater Atlanta Area with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the software space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, software, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Greater Miami Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"Venture capital investors that made investments in companies headquartered in South San Francisco, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in Western US in the property management space.,"[Companies, startups, property, management, space]",5,[],0,[],0
+"The top 10,000 companies and startups in the professional services space, by Crunchbase rank.","[companies, startups, services, space, rank]",5,[],0,"[top, professional]",2
+"The top 10,000 private companies and startups in Greater Chicago Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"Venture capital investors that made investments in companies headquartered in Beijing, Beijing.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Greater Chicago Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Georgia with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Companies and startups in the leasing space with less than $50m in revenue.,"[Companies, startups, leasing, space, m, revenue]",6,[],0,[less],1
+"The top 10,000 companies and startups in Illinois with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in China.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in the mechanical engineering space with more than $1m in revenue.,"[Companies, startups, engineering, space, m, revenue]",6,[],0,"[mechanical, more]",2
+"The top 10,000 companies and startups in the software space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, software, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the electronics space, by Crunchbase rank.","[companies, startups, electronics, space, rank]",5,[],0,[top],1
+Venture capital investors that made investments in companies headquartered in Illinois.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Ohio with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Ohio with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Pennsylvania with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Greater Atlanta Area with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the advertising space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, advertising, space, employees, rank]",6,[],0,"[top, fewer]",2
+Companies and startups in Greater Houston Area with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+Companies and startups in the commercial real estate space with fewer than 50 employees.,"[Companies, startups, estate, space, employees]",5,[],0,"[commercial, real, fewer]",3
+"The top 10,000 companies and startups in Australia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in New York with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the retail space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, space, m, revenue, rank]",6,[],0,"[top, retail, less]",3
+"The top 10,000 companies and startups in Georgia with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in Canada in the industrial space.,"[Companies, startups, space]",3,[],0,[industrial],1
+Private equity firms that made investments in companies headquartered in Utah.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the education space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, education, space, employees, rank]",6,[],0,"[top, fewer]",2
+Startups in Asia-Pacific (APAC) that were founded in 2022.,[Startups],1,[founded],1,[],0
+Companies and startups in the leasing space.,"[Companies, startups, leasing, space]",4,[],0,[],0
+"The top 10,000 companies and startups in the training space, by Crunchbase rank.","[companies, startups, training, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in India with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"Venture capital investors that made investments in companies headquartered in Los Altos, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups founded within the last year in United States.,"[Companies, startups, year]",3,[founded],1,[last],1
+"The top 10,000 companies and startups in the professional services space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, services, space, employees, rank]",6,[],0,"[top, professional, fewer]",3
+"The top 10,000 companies and startups in the non profit space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, profit, space, employees, rank]",6,[],0,"[top, fewer]",2
+Companies and startups in the web apps space with fewer than 50 employees.,"[Companies, startups, web, apps, space, employees]",6,[],0,[fewer],1
+Venture capital investors that made investments in companies headquartered in Beijing.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Private equity firms that made investments in companies headquartered in United Kingdom.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the education space with more than 10 employees, by Crunchbase rank.","[companies, startups, education, space, employees, rank]",6,[],0,"[top, more]",2
+Companies and startups in the property development space with more than $1m in revenue.,"[Companies, startups, property, development, space, m, revenue]",7,[],0,[more],1
+"The top 10,000 companies and startups in Greater Chicago Area with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Australia with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Africa with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 private companies and startups in Australia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Northeastern US in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in the non profit space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, profit, space, m, revenue, rank]",7,[],0,"[top, less]",2
+Companies and startups in the leasing space with fewer than 50 employees.,"[Companies, startups, leasing, space, employees]",5,[],0,[fewer],1
+Companies and startups in the rental property space with more than $1m in revenue.,"[Companies, startups, property, space, m, revenue]",6,[],0,"[rental, more]",2
+Companies and startups in the web apps space with fewer than 100 employees.,"[Companies, startups, web, apps, space, employees]",6,[],0,[fewer],1
+"The top 10,000 private companies and startups in Greater Atlanta Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the marketing space, by Crunchbase rank.","[companies, startups, marketing, space, rank]",5,[],0,[top],1
+Companies and startups in Michigan with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+"The top 10,000 companies and startups in Australia with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Greater Atlanta Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Greater Atlanta Area with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Greater Atlanta Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+Companies and startups in Wisconsin with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+Companies and startups in the property development space.,"[Companies, startups, property, development, space]",5,[],0,[],0
+"The top 10,000 companies and startups in West Coast in the health care space, by Crunchbase rank.","[companies, startups, health, care, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in Pennsylvania, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 private companies and startups in Pennsylvania, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+Companies and startups in the rental space with more than $1m in revenue.,"[Companies, startups, space, m, revenue]",5,[],0,"[rental, more]",2
+Private equity firms that made investments in companies headquartered in Greater Chicago Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in Great Lakes in the real estate space.,"[Companies, startups, estate, space]",4,[],0,[real],1
+"The top 10,000 companies and startups in the food and beverage space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, food, beverage, space, employees, rank]",7,[],0,"[top, fewer]",2
+Companies and startups in the product design space with more than 50 employees.,"[Companies, startups, product, design, space, employees]",6,[],0,[more],1
+"The top 10,000 companies and startups in Europe with fewer than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Private equity firms that made investments in companies headquartered in Virginia.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in East Coast in the residential space.,"[Companies, startups, space]",3,[],0,[residential],1
+"The top 10,000 companies and startups in the marketing space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, marketing, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the training space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, training, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Oceania with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Companies and startups in the web apps space with fewer than 1000 employees.,"[Companies, startups, web, apps, space, employees]",6,[],0,[fewer],1
+Venture capital investors that made investments in companies headquartered in Georgia.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in the retail space with more than $10m in revenue.,"[Companies, startups, space, m, revenue]",5,[],0,"[retail, more]",2
+"The top 10,000 companies and startups in Australasia with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"Venture capital investors that made investments in companies headquartered in Toronto, Ontario.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Greater Atlanta Area with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Companies and startups in Quebec in the manufacturing space.,"[Companies, startups, manufacturing, space]",4,[],0,[],0
+"The top 10,000 companies and startups in the advertising space with more than 10 employees, by Crunchbase rank.","[companies, startups, advertising, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States in the financial services space, by Crunchbase rank.","[companies, startups, services, space, rank]",5,[],0,"[top, financial]",2
+"The top 10,000 companies and startups in the retail space with more than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, retail, more]",3
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the electronics space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, electronics, space, revenue, rank]",6,[],0,"[top, less]",2
+"Venture capital investors that made investments in companies headquartered in Austin, Texas.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the training space with more than 10 employees, by Crunchbase rank.","[companies, startups, training, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the e-commerce space with more than 10 employees, by Crunchbase rank.","[companies, startups, e, commerce, space, employees, rank]",7,[],0,"[top, -, more]",3
+"The top 10,000 companies and startups in the electronics space with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, electronics, space, employees, rank]",6,[],0,"[top, fewer]",2
+Private equity firms that made investments in companies headquartered in Dallas/Fort Worth Metroplex.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in the web apps space.,"[Companies, startups, web, apps, space]",5,[],0,[],0
+"The top 10,000 companies and startups in New England with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in United States in the sales space, by Crunchbase rank.","[companies, startups, sales, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in Asia-Pacific (APAC) with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in European Union (EU) with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Oceania with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the electronics space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, electronics, space, m, revenue, rank]",7,[],0,"[top, less]",2
+Companies and startups in the industrial engineering space with more than $1m in revenue.,"[Companies, startups, engineering, space, m, revenue]",6,[],0,"[industrial, more]",2
+"The top 10,000 companies and startups in the food and beverage space with more than 50 employees, by Crunchbase rank.","[companies, startups, food, beverage, space, employees, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the construction space with more than 100 employees, by Crunchbase rank.","[companies, startups, construction, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Australasia with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Companies and startups in the wholesale space with more than 50 employees.,"[Companies, startups, space, employees]",4,[],0,"[wholesale, more]",2
+"The top 10,000 companies and startups in Oceania with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the manufacturing space with more than 500 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the insurance space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, insurance, space, revenue, rank]",6,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Virginia with more than $1m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in United States in the food and beverage space, by Crunchbase rank.","[companies, startups, food, beverage, space, rank]",6,[],0,[top],1
+"The top 10,000 companies and startups in Australasia with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"Private equity firms that made investments in companies headquartered in Redwood City, California.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Greater Miami Area with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the insurance space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, insurance, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the e-commerce space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, e, commerce, space, employees, rank]",7,[],0,"[top, -, fewer]",3
+"The top 10,000 companies and startups in Greater New York Area with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Pennsylvania with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in California with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+Companies and startups in the property development space with less than $500m in revenue.,"[Companies, startups, property, development, space, m, revenue]",7,[],0,[less],1
+Companies and startups in the property development space with less than $1b in revenue.,"[Companies, startups, property, development, space, revenue]",6,[],0,[less],1
+Companies and startups in the property development space with fewer than 1000 employees.,"[Companies, startups, property, development, space, employees]",6,[],0,[fewer],1
+Private equity firms that made investments in companies headquartered in England.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in Ohio with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the information technology space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, information, technology, space, m, revenue, rank]",8,[],0,"[top, less]",2
+"Private equity firms that made investments in companies headquartered in London, England.","[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in the real estate investment space with fewer than 1000 employees.,"[Companies, startups, estate, investment, space, employees]",6,[],0,"[real, fewer]",2
+"The top 10,000 companies and startups in Michigan with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Texas with more than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in the hospital space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, hospital, space, m, revenue, rank]",7,[],0,"[top, more]",2
+"The top 10,000 companies and startups in California with more than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in Greater Chicago Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in NA - South Africa with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+Companies and startups in South Africa with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+Companies and startups in Southern US in the dental space.,"[Companies, startups, space]",3,[],0,[dental],1
+"The top 10,000 companies and startups in United States in the hospital space, by Crunchbase rank.","[companies, startups, hospital, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the sales space with more than 10 employees, by Crunchbase rank.","[companies, startups, sales, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Pennsylvania with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in New York with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Private equity firms that made investments in companies headquartered in European Union (EU).,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the real estate investment space, by Crunchbase rank.","[companies, startups, estate, investment, space, rank]",6,[],0,"[top, real]",2
+"The top 10,000 companies and startups in United States in the education space, by Crunchbase rank.","[companies, startups, education, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the financial services space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, services, space, m, revenue, rank]",7,[],0,"[top, financial, less]",3
+"The top 10,000 companies and startups in the building material space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, building, material, space, employees, rank]",7,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the e-commerce space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, e, commerce, space, m, revenue, rank]",8,[],0,"[top, -, more]",3
+"The top 10,000 companies and startups in the wholesale space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, wholesale, fewer]",3
+"The top 10,000 companies and startups in Greater Chicago Area with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the advertising space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, advertising, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Canada with less than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Greater Chicago Area with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Pennsylvania with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Companies and startups in the property development space with less than $50m in revenue.,"[Companies, startups, property, development, space, m, revenue]",7,[],0,[less],1
+Companies and startups in Ontario with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+Companies and startups in the cosmetic surgery space with more than $1m in revenue.,"[Companies, startups, surgery, space, m, revenue]",6,[],0,"[cosmetic, more]",2
+"The top 10,000 companies and startups in Pennsylvania with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Venture capital investors that made investments in companies headquartered in Washington DC Metro Area.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Asia with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 private companies and startups in Michigan, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in the medical space with more than 50 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, medical, more]",3
+"The top 10,000 companies and startups in Michigan, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in the sales space with more than $1m in revenue, by Crunchbase rank.","[companies, startups, sales, space, m, revenue, rank]",7,[],0,"[top, more]",2
+Companies and startups in the supply chain management space with more than $1m in revenue.,"[Companies, startups, supply, chain, management, space, m, revenue]",8,[],0,[more],1
+"The top 10,000 companies and startups in the real estate space with fewer than 10 employees, by Crunchbase rank.","[companies, startups, estate, space, employees, rank]",6,[],0,"[top, real, fewer]",3
+Companies and startups in Northeastern US in the industrial space.,"[Companies, startups, space]",3,[],0,[industrial],1
+"The top 10,000 companies and startups in European Union (EU) with more than $10m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, more]",2
+"The top 10,000 companies and startups in San Francisco Bay Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in United States in the electronics space, by Crunchbase rank.","[companies, startups, electronics, space, rank]",5,[],0,[top],1
+Companies and startups in the personal health space with less than $1b in revenue.,"[Companies, startups, health, space, revenue]",5,[],0,"[personal, less]",2
+"The top 10,000 companies and startups in the manufacturing space with fewer than 10 employees, by Crunchbase rank.","[companies, startups, manufacturing, space, employees, rank]",6,[],0,"[top, fewer]",2
+Companies and startups in the property management space with fewer than 10 employees.,"[Companies, startups, property, management, space, employees]",6,[],0,[fewer],1
+"The top 10,000 companies and startups in the information technology space with more than 50 employees, by Crunchbase rank.","[companies, startups, information, technology, space, employees, rank]",7,[],0,"[top, more]",2
+Companies and startups in Greater Houston Area with more than 10 employees.,"[Companies, startups, employees]",3,[],0,[more],1
+Companies and startups in the personal health space with less than $500m in revenue.,"[Companies, startups, health, space, m, revenue]",6,[],0,"[personal, less]",2
+"The top 10,000 companies and startups in Michigan with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Companies and startups in Quebec with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+"The top 10,000 private companies and startups in San Francisco Bay Area, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"Venture capital investors that made investments in companies headquartered in Sunnyvale, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in the mechanical engineering space with less than $1b in revenue.,"[Companies, startups, engineering, space, revenue]",5,[],0,"[mechanical, less]",2
+Companies and startups in Midwestern US in the medical space.,"[Companies, startups, space]",3,[],0,[medical],1
+"Venture capital investors that made investments in companies headquartered in Santa Clara, California.","[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in the property development space with more than 10 employees.,"[Companies, startups, property, development, space, employees]",6,[],0,[more],1
+"The top 10,000 companies and startups in Michigan with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Asia with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Companies and startups in Connecticut with more than $1m in revenue.,"[Companies, startups, m, revenue]",4,[],0,[more],1
+"The top 10,000 companies and startups in the software space with less than $10m in revenue, by Crunchbase rank.","[companies, startups, software, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in West Coast with fewer than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Southeast Asia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Association of Southeast Asian Nations (ASEAN), by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Australia with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Canada with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Investment banks that made investments in companies headquartered in Great Lakes.,"[Investment, banks, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in Illinois with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in Ontario in the manufacturing space.,"[Companies, startups, manufacturing, space]",4,[],0,[],0
+Companies and startups in the mechanical engineering space with less than $500m in revenue.,"[Companies, startups, engineering, space, m, revenue]",6,[],0,"[mechanical, less]",2
+"The top 10,000 companies and startups in Georgia with fewer than 50 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in Southern US in the wellness space.,"[Companies, startups, wellness, space]",4,[],0,[],0
+"The top 10,000 companies and startups in Greater Houston Area with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+Companies and startups in the personal health space with less than $50m in revenue.,"[Companies, startups, health, space, m, revenue]",6,[],0,"[personal, less]",2
+Venture capital investors that made investments in companies headquartered in Alberta.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+"The top 10,000 companies and startups in the medical space with fewer than 10 employees, by Crunchbase rank.","[companies, startups, space, employees, rank]",5,[],0,"[top, medical, fewer]",3
+"The top 10,000 companies and startups in Greater Houston Area with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in European Union (EU) in the manufacturing space, by Crunchbase rank.","[companies, startups, manufacturing, space, rank]",5,[],0,[top],1
+Companies and startups in Florida with more than 100 employees.,"[Companies, startups, employees]",3,[],0,[more],1
+Companies and startups in the machinery manufacturing space with more than $10m in revenue.,"[Companies, startups, machinery, manufacturing, space, m, revenue]",7,[],0,[more],1
+"The top 10,000 companies and startups in Michigan with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Greater Chicago Area with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Oceania with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in United States in the e-commerce space, by Crunchbase rank.","[companies, startups, e, commerce, space, rank]",6,[],0,"[top, -]",2
+"The top 10,000 companies and startups in Virginia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,[top],1
+"The top 10,000 companies and startups in Greater Miami Area with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+Venture capital investors that made investments in companies headquartered in France.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Venture capital investors that made investments in companies headquartered in Switzerland.,"[capital, investors, investments, companies]",4,"[made, headquartered]",2,[],0
+Companies and startups in the leasing space with more than 10 employees.,"[Companies, startups, leasing, space, employees]",5,[],0,[more],1
+Private equity firms that made investments in companies headquartered in Ontario.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+"The top 10,000 companies and startups in the training space with less than $1b in revenue, by Crunchbase rank.","[companies, startups, training, space, revenue, rank]",6,[],0,"[top, less]",2
+Companies and startups in Africa with less than $1b in revenue.,"[Companies, startups, revenue]",3,[],0,[less],1
+"The top 10,000 companies and startups in Australasia with less than $50m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+Companies and startups in the leasing space with less than $10m in revenue.,"[Companies, startups, leasing, space, m, revenue]",6,[],0,[less],1
+"The top 10,000 companies and startups in the marketing space with more than 10 employees, by Crunchbase rank.","[companies, startups, marketing, space, employees, rank]",6,[],0,"[top, more]",2
+"The top 10,000 private companies and startups in Virginia, by Crunchbase rank.","[companies, startups, rank]",3,[],0,"[top, private]",2
+"The top 10,000 companies and startups in Australia with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Oceania with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Companies and startups in Southern US in the commercial space.,"[Companies, startups, space]",3,[],0,[commercial],1
+"The top 10,000 companies and startups in the training space with less than $500m in revenue, by Crunchbase rank.","[companies, startups, training, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Virginia with more than 10 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, more]",2
+"The top 10,000 companies and startups in Australasia with fewer than 100 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in Australia with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in the hospital space, by Crunchbase rank.","[companies, startups, hospital, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in the mechanical engineering space, by Crunchbase rank.","[companies, startups, engineering, space, rank]",5,[],0,"[top, mechanical]",2
+"The top 10,000 companies and startups in United States in the software space, by Crunchbase rank.","[companies, startups, software, space, rank]",5,[],0,[top],1
+"The top 10,000 companies and startups in San Francisco Bay Area with fewer than 1000 employees, by Crunchbase rank.","[companies, startups, employees, rank]",4,[],0,"[top, fewer]",2
+Private equity firms that made investments in companies headquartered in Greater Miami Area.,"[equity, firms, investments, companies]",4,"[made, headquartered]",2,[Private],1
+Companies and startups in United States in the health diagnostics space.,"[Companies, startups, health, diagnostics, space]",5,[],0,[],0
+"The top 10,000 companies and startups in Greater Miami Area with less than $500m in revenue, by Crunchbase rank.","[companies, startups, m, revenue, rank]",5,[],0,"[top, less]",2
+"The top 10,000 companies and startups in West Coast in the real estate space, by Crunchbase rank.","[companies, startups, estate, space, rank]",5,[],0,"[top, real]",2
+Companies and startups in the plastics and rubber manufacturing space with more than $1m in revenue.,"[Companies, startups, plastics, rubber, manufacturing, space, m, revenue]",8,[],0,[more],1
+"The top 10,000 companies and startups in the insurance space with fewer than 100 employees, by Crunchbase rank.","[companies, startups, insurance, space, employees, rank]",6,[],0,"[top, fewer]",2
+"The top 10,000 companies and startups in the e-commerce space with fewer than 50 employees, by Crunchbase rank.","[companies, startups, e, commerce, space, employees, rank]",7,[],0,"[top, -, fewer]",3
+"The top 10,000 companies and startups in the insurance space with less than $50m in revenue, by Crunchbase rank.","[companies, startups, insurance, space, m, revenue, rank]",7,[],0,"[top, less]",2
+"The top 10,000 companies and startups in Greater Miami Area with less than $1b in revenue, by Crunchbase rank.","[companies, startups, revenue, rank]",4,[],0,"[top, less]",2

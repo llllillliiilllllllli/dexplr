@@ -1,0 +1,992 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"Bengaluru, Karnataka, India",[],0,[],0,[],0
+"São Paulo, Sao Paulo, Brazil",[],0,[],0,[],0
+"Cambridge, Massachusetts, United States",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Ann Arbor, Michigan, United States",[],0,[],0,[],0
+"Berkeley, California, United States",[],0,[],0,[],0
+"Cambridge, Massachusetts, United States",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"Pittsburgh, Pennsylvania, United States",[],0,[],0,[],0
+"Bangalore, Karnataka, India",[],0,[],0,[],0
+"Evanston, Illinois, United States",[],0,[],0,[],0
+"Tampa, Florida, United States",[],0,[],0,[],0
+"New Haven, Connecticut, United States",[],0,[],0,[],0
+"Durham, North Carolina, United States",[],0,[],0,[],0
+"Paris, Ile-de-France, France","[de, -]",2,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Saskatoon, Saskatchewan, Canada",[],0,[],0,[],0
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Louisville, Kentucky, United States",[],0,[],0,[],0
+"Burnaby, British Columbia, Canada",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Pasadena, California, United States",[],0,[],0,[],0
+"San Francisco, California, United States",[],0,[],0,[],0
+"Babson Park, Massachusetts, United States",[],0,[],0,[],0
+"Providence, Rhode Island, United States",[Providence],1,[],0,[],0
+"Vancouver, British Columbia, Canada",[],0,[],0,[],0
+"Madrid, Madrid, Spain",[],0,[],0,[],0
+"Minneapolis, Minnesota, United States",[],0,[],0,[],0
+"Miami, Florida, United States",[],0,[],0,[],0
+"Little Rock, Arkansas, United States",[],0,[],0,[],0
+"Haifa, Hefa, Israel",[],0,[],0,[],0
+"College Park, Maryland, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Edmonton, Alberta, Canada",[],0,[],0,[],0
+"Johannesburg, NA - South Africa, South Africa",[],0,[],0,[],0
+"Seattle, Washington, United States",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Cambridge, Cambridgeshire, United Kingdom",[],0,[],0,[],0
+"Miami, Florida, United States",[],0,[],0,[],0
+"Urbana, Illinois, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Hanover, New Hampshire, United States",[],0,[],0,[],0
+"Cleveland, Ohio, United States",[],0,[],0,[],0
+"Wichita, Kansas, United States",[],0,[],0,[],0
+"Toronto, Ontario, Canada",[],0,[],0,[],0
+"Columbus, Ohio, United States",[],0,[],0,[],0
+"Detroit, Michigan, United States",[],0,[],0,[],0
+"West Lafayette, Indiana, United States",[],0,[],0,[],0
+"Princeton, New Jersey, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Austin, Texas, United States",[],0,[],0,[],0
+"San Francisco, California, United States",[],0,[],0,[],0
+"Philadelphia, Pennsylvania, United States",[],0,[],0,[],0
+"Tucson, Arizona, United States",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Colchester, Essex, United Kingdom",[],0,[],0,[],0
+"Hyderabad, Andhra Pradesh, India",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Evanston, Illinois, United States",[],0,[],0,[],0
+"La Jolla, California, United States",[],0,[],0,[],0
+"Philadelphia, Pennsylvania, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Moffett Field, California, United States",[],0,[],0,[],0
+"Dublin, Dublin, Ireland",[],0,[],0,[],0
+"Saint George's, Saint George, Grenada",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Memphis, Tennessee, United States",[],0,[],0,[],0
+"Chennai, Tamil Nadu, India",[],0,[],0,[],0
+"Milwaukee, Wisconsin, United States",[],0,[],0,[],0
+"Notre Dame, Indiana, United States",[],0,[],0,[],0
+"Phoenix, Arizona, United States",[],0,[],0,[],0
+"Philadelphia, Pennsylvania, United States",[],0,[],0,[],0
+"Johannesburg, NA - South Africa, South Africa",[],0,[],0,[],0
+"Raleigh, North Carolina, United States",[],0,[],0,[],0
+"Cork, Cork, Ireland",[],0,[],0,[],0
+"Santa Clara, California, United States",[],0,[],0,[],0
+"Austin, Texas, United States",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Iowa City, Iowa, United States",[],0,[],0,[],0
+"Honolulu, Hawaii, United States",[],0,[],0,[],0
+"Montréal, Ontario, Canada",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"München, Bayern, Germany",[],0,[],0,[],0
+"La Jolla, California, United States",[],0,[],0,[],0
+"Tallahassee, Florida, United States",[],0,[],0,[],0
+"Birmingham, Birmingham, United Kingdom",[],0,[],0,[],0
+"Long Beach, California, United States",[],0,[],0,[],0
+"Miami, Florida, United States",[],0,[],0,[],0
+"Bronx, New York, United States",[],0,[],0,[],0
+"College Station, Texas, United States",[],0,[],0,[],0
+"Charlottesville, Virginia, United States",[],0,[],0,[],0
+"Nashville, Tennessee, United States",[],0,[],0,[],0
+"Saint Gallen, Sankt Gallen, Switzerland",[],0,[],0,[],0
+"San Antonio, Texas, United States",[],0,[],0,[],0
+"Albuquerque, New Mexico, United States",[],0,[],0,[],0
+"Manhattan, Kansas, United States",[],0,[],0,[],0
+"Tel Aviv, Tel Aviv, Israel",[],0,[],0,[],0
+"Dallas, Texas, United States",[],0,[],0,[],0
+"Greensboro, North Carolina, United States",[],0,[],0,[],0
+"Gainesville, Florida, United States",[],0,[],0,[],0
+"Montréal, Quebec, Canada",[],0,[],0,[],0
+"Blacksburg, Virginia, United States",[],0,[],0,[],0
+"Cambridge, Massachusetts, United States",[],0,[],0,[],0
+"St Louis, Missouri, United States",[],0,[],0,[],0
+"Boca Raton, Florida, United States",[],0,[],0,[],0
+"Bloomington, Indiana, United States",[],0,[],0,[],0
+"Austin, Texas, United States",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Perth, Western Australia, Australia",[],0,[],0,[],0
+"Cape Town, NA - South Africa, South Africa",[],0,[],0,[],0
+"London, Ontario, Canada",[],0,[],0,[],0
+"Chapel Hill, North Carolina, United States",[],0,[],0,[],0
+"Keller, Texas, United States",[],0,[],0,[],0
+"La Jolla, California, United States",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"New Orleans, Louisiana, United States",[],0,[],0,[],0
+"Santiago, Region Metropolitana, Chile",[],0,[],0,[],0
+"Dublin, Dublin, Ireland",[],0,[],0,[],0
+"Budapest, Budapest, Hungary",[],0,[],0,[],0
+"Seattle, Washington, United States",[],0,[],0,[],0
+"Stanford, California, United States",[],0,[],0,[],0
+"Waterloo, Ontario, Canada",[],0,[],0,[],0
+"Lexington, Kentucky, United States",[],0,[],0,[],0
+"Bronx, New York, United States",[],0,[],0,[],0
+"St Louis, Missouri, United States",[],0,[],0,[],0
+"University Park, Pennsylvania, United States",[],0,[],0,[],0
+"Pamplemousses, Pamplemousses, Mauritius",[Pamplemousses],1,[],0,[],0
+"Pittsburgh, Pennsylvania, United States",[],0,[],0,[],0
+"Dublin, Dublin, Ireland",[],0,[],0,[],0
+"Hawthorn, Victoria, Australia",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"East Lansing, Michigan, United States",[],0,[],0,[],0
+"Phoenix, Arizona, United States",[],0,[],0,[],0
+"Newark, New Jersey, United States",[],0,[],0,[],0
+"San Antonio, Texas, United States",[],0,[],0,[],0
+"Larnaca, Larnaca, Cyprus",[],0,[],0,[],0
+"Stellenbosch, NA - South Africa, South Africa",[],0,[],0,[],0
+"Honolulu, Hawaii, United States",[],0,[],0,[],0
+"Dallas, Texas, United States",[],0,[],0,[],0
+"Hoboken, New Jersey, United States",[],0,[],0,[],0
+"Auburn University, Alabama, United States",[],0,[],0,[],0
+"Lund, Skane Lan, Sweden",[],0,[],0,[Lund],1
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Worcester, Massachusetts, United States",[],0,[],0,[Worcester],1
+"New York, New York, United States",[],0,[],0,[],0
+"Buffalo, New York, United States",[],0,[],0,[],0
+"Syracuse, New York, United States",[],0,[],0,[],0
+"Bedford, Bedfordshire, United Kingdom",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Coleraine, Coleraine, United Kingdom",[Coleraine],1,[],0,[],0
+"Seattle, Washington, United States",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Pullman, Washington, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Worcester, Massachusetts, United States",[],0,[],0,[Worcester],1
+"Columbia, Missouri, United States",[],0,[],0,[],0
+"London, Ontario, Canada",[],0,[],0,[],0
+"Calgary, Alberta, Canada",[],0,[],0,[],0
+"Dartmouth, Massachusetts, United States",[Dartmouth],1,[],0,[],0
+"Amherst, Massachusetts, United States",[],0,[],0,[],0
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Philadelphia, Pennsylvania, United States",[],0,[],0,[],0
+"Vancouver, British Columbia, Canada",[],0,[],0,[],0
+"Toronto, Ontario, Canada",[],0,[],0,[],0
+"Claremont, California, United States",[],0,[],0,[],0
+"Birmingham, Birmingham, United Kingdom",[],0,[],0,[],0
+"Glasgow, Glasgow City, United Kingdom",[],0,[],0,[],0
+"Lawrence, Kansas, United States",[],0,[],0,[],0
+"Hong Kong, Hong Kong Island, Hong Kong",[],0,[],0,[],0
+"Dublin, Dublin, Ireland",[],0,[],0,[],0
+"Elizabethtown, Pennsylvania, United States",[],0,[],0,[],0
+"Boulder, Colorado, United States",[],0,[],0,[],0
+"Seminole, Texas, United States",[],0,[],0,[],0
+"Pasadena, California, United States",[],0,[],0,[],0
+"Manchester, Manchester, United Kingdom",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Nottingham, Nottingham, United Kingdom",[],0,[],0,[],0
+"Montréal, Quebec, Canada",[],0,[],0,[],0
+"Mount Pleasant, Michigan, United States",[],0,[],0,[],0
+"Mountain View, California, United States",[Mountain],1,[],0,[],0
+"Kwun Tong, Kowloon, Hong Kong",[],0,[],0,[],0
+"Dayton, Ohio, United States",[],0,[],0,[],0
+"Somerville, New Jersey, United States",[],0,[],0,[],0
+"Winston Salem, North Carolina, United States",[],0,[],0,[],0
+"Calgary, Alberta, Canada",[],0,[],0,[],0
+"Claremont, California, United States",[],0,[],0,[],0
+"Belfast, Belfast, United Kingdom",[],0,[],0,[],0
+"Brookings, South Dakota, United States",[Brookings],1,[],0,[],0
+"Montréal, Quebec, Canada",[],0,[],0,[],0
+"Cincinnati, Ohio, United States",[],0,[],0,[],0
+"Nairobi, Nairobi Area, Kenya",[],0,[],0,[],0
+"Winnipeg, Manitoba, Canada",[],0,[],0,[],0
+"Milwaukee, Wisconsin, United States",[],0,[],0,[],0
+"Sherbrooke, Quebec, Canada",[],0,[],0,[],0
+"Corvallis, Oregon, United States",[],0,[],0,[],0
+"Saint Lucia, Queensland, Australia",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"New Haven, Connecticut, United States",[],0,[],0,[],0
+"Norman, Oklahoma, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Milan, Lombardia, Italy",[],0,[],0,[],0
+"Aurora, Colorado, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Portland, Oregon, United States",[],0,[],0,[],0
+"Madison, Wisconsin, United States",[],0,[],0,[],0
+"Lake Worth, Florida, United States",[],0,[],0,[],0
+"Deland, Florida, United States",[],0,[],0,[],0
+"Greensboro, North Carolina, United States",[],0,[],0,[],0
+"Bethlehem, Pennsylvania, United States",[],0,[],0,[],0
+"Dublin, Dublin, Ireland",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Orlando, Florida, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Hyderabad, Andhra Pradesh, India",[],0,[],0,[],0
+"Lewiston, Maine, United States",[],0,[],0,[],0
+"Mill Valley, California, United States",[],0,[],0,[],0
+"Waterville, Maine, United States",[],0,[],0,[],0
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Portland, Oregon, United States",[],0,[],0,[],0
+"Sydney, New South Wales, Australia",[],0,[],0,[],0
+"Birmingham, Alabama, United States",[],0,[],0,[],0
+"Saint Louis, Missouri, United States",[],0,[],0,[],0
+"Louisville, Kentucky, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Richmond, Virginia, United States",[],0,[],0,[],0
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"St Louis, Missouri, United States",[],0,[],0,[],0
+"Paterson, New Jersey, United States",[],0,[],0,[],0
+"São Paulo, Sao Paulo, Brazil",[],0,[],0,[],0
+"Windsor, Ontario, Canada",[],0,[],0,[],0
+"Newcastle Upon Tyne, Newcastle upon Tyne, United Kingdom",[],0,[],0,[],0
+"Waukesha, Wisconsin, United States",[],0,[],0,[],0
+"Milwaukee, Wisconsin, United States",[],0,[],0,[],0
+"Salt Lake City, Utah, United States",[],0,[],0,[],0
+"Edinburgh, Edinburgh, City of, United Kingdom",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Boise, Idaho, United States",[],0,[],0,[],0
+"Huntington, West Virginia, United States",[],0,[],0,[],0
+"Clemson, South Carolina, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Rochester, New York, United States",[],0,[],0,[],0
+"Saint Catharines, Ontario, Canada",[],0,[],0,[],0
+"Ames, Iowa, United States",[],0,[],0,[],0
+"Indianapolis, Indiana, United States",[],0,[],0,[],0
+"Burlington, Vermont, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Waco, Texas, United States",[],0,[],0,[],0
+"Troy, New York, United States",[],0,[],0,[],0
+"São Paulo, Sao Paulo, Brazil",[],0,[],0,[],0
+"Amherst, Massachusetts, United States",[],0,[],0,[],0
+"Canterbury, Kent, United Kingdom",[],0,[],0,[],0
+"Northridge, California, United States",[],0,[],0,[],0
+"Rehovot, HaMerkaz, Israel",[],0,[],0,[],0
+"Calgary, Alberta, Canada",[],0,[],0,[],0
+"Lyndonville, New York, United States",[],0,[],0,[],0
+"Orange, California, United States",[],0,[],0,[],0
+"Villanova, Pennsylvania, United States",[],0,[],0,[],0
+"Paris, Ile-de-France, France","[de, -]",2,[],0,[],0
+"Fresno, California, United States",[],0,[],0,[],0
+"Philadelphia, Pennsylvania, United States",[],0,[],0,[],0
+"Fredericton, New Brunswick, Canada",[],0,[],0,[],0
+"Greencastle, Indiana, United States",[],0,[],0,[],0
+"Dallas, Texas, United States",[],0,[],0,[],0
+"Melbourne, Victoria, Australia",[],0,[],0,[],0
+"Valparaiso, Indiana, United States",[],0,[],0,[],0
+"Conway, Arkansas, United States",[],0,[],0,[],0
+"Oshkosh, Wisconsin, United States",[],0,[],0,[],0
+"Blackwood, New Jersey, United States",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Cincinnati, Ohio, United States",[],0,[],0,[],0
+"Denton, Texas, United States",[],0,[],0,[],0
+"Newark, Delaware, United States",[],0,[],0,[],0
+"Nashville, Tennessee, United States",[],0,[],0,[],0
+"Bristol, Bristol, City of, United Kingdom",[],0,[],0,[],0
+"Thiruvananthapuram, Kerala, India",[],0,[],0,[],0
+"Toronto, Ontario, Canada",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Golden, Colorado, United States",[],0,[],0,[],0
+"Taguig, Rizal, Philippines",[],0,[],0,[],0
+"Annandale, Virginia, United States",[],0,[],0,[],0
+"Vincennes, Indiana, United States",[Vincennes],1,[],0,[],0
+"Camden, New Jersey, United States",[],0,[],0,[],0
+"Baton Rouge, Louisiana, United States",[],0,[],0,[],0
+"Sewell, New Jersey, United States",[],0,[],0,[],0
+"Kingston, Rhode Island, United States",[],0,[],0,[],0
+"Oklahoma City, Oklahoma, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Fayetteville, Arkansas, United States",[],0,[],0,[],0
+"Worcester, Massachusetts, United States",[],0,[],0,[Worcester],1
+"Barcelona, Catalonia, Spain",[],0,[],0,[],0
+"Thousand Oaks, California, United States",[],0,[],0,[],0
+"San Juan, NA - Puerto Rico, Puerto Rico",[],0,[],0,[],0
+"Cranford, New Jersey, United States",[],0,[],0,[],0
+"Santa Barbara, California, United States",[],0,[],0,[],0
+"Jerusalem, Yerushalayim, Israel",[],0,[],0,[],0
+"Montclair, New Jersey, United States",[],0,[],0,[],0
+"Memphis, Tennessee, United States",[],0,[],0,[],0
+"Charlotte, North Carolina, United States",[],0,[],0,[],0
+"Toronto, Ontario, Canada",[],0,[],0,[],0
+"Santa Cruz, California, United States",[],0,[],0,[],0
+"Jackson, Mississippi, United States",[],0,[],0,[],0
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Newton, New Jersey, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Austin, Texas, United States",[],0,[],0,[],0
+"Newark, New Jersey, United States",[],0,[],0,[],0
+"Dayton, Ohio, United States",[],0,[],0,[],0
+"Lowell, Massachusetts, United States",[],0,[],0,[],0
+"Church Point, Nova Scotia, Canada",[],0,[],0,[],0
+"Grand Forks, North Dakota, United States",[],0,[],0,[],0
+"Fairfax, Virginia, United States",[],0,[],0,[],0
+"Nashville, Tennessee, United States",[],0,[],0,[],0
+"Cambridge, Massachusetts, United States",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Wollongong, New South Wales, Australia",[],0,[],0,[],0
+"Davie, Florida, United States",[],0,[],0,[],0
+"Bethesda, Maryland, United States",[],0,[],0,[],0
+"Pittsburgh, Pennsylvania, United States",[],0,[],0,[],0
+"Edmond, Oklahoma, United States",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Youngstown, Ohio, United States",[],0,[],0,[],0
+"Galveston, Texas, United States",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"Little Rock, Arkansas, United States",[],0,[],0,[],0
+"Cambridge, Massachusetts, United States",[],0,[],0,[],0
+"Charlotte, North Carolina, United States",[],0,[],0,[],0
+"Storrs Mansfield, Connecticut, United States",[],0,[],0,[],0
+"Be'er Sheva, HaDarom, Israel",[],0,[],0,[],0
+"Rochester, New York, United States",[],0,[],0,[],0
+"Penang, Pulau Pinang, Malaysia",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Ottawa, Ontario, Canada",[],0,[],0,[],0
+"Denver, Colorado, United States",[],0,[],0,[],0
+"Irvine, California, United States",[],0,[],0,[],0
+"Kalamazoo, Michigan, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Bangalore, Karnataka, India",[],0,[],0,[],0
+"Elon, North Carolina, United States",[],0,[],0,[],0
+"Pikeville, Kentucky, United States",[],0,[],0,[],0
+"Denver, Colorado, United States",[],0,[],0,[],0
+"Saint Peter, Minnesota, United States",[],0,[],0,[],0
+"Morrilton, Arkansas, United States",[],0,[],0,[],0
+"Tuscaloosa, Alabama, United States",[],0,[],0,[],0
+"Hangzhou, Zhejiang, China",[],0,[],0,[],0
+"Jacksonville, Alabama, United States",[],0,[],0,[],0
+"Eugene, Oregon, United States",[],0,[],0,[],0
+"Edwardsville, Illinois, United States",[],0,[],0,[],0
+"Irvine, California, United States",[],0,[],0,[],0
+"San Diego, California, United States",[],0,[],0,[],0
+"Fort Collins, Colorado, United States",[],0,[],0,[],0
+"Durham, North Carolina, United States",[],0,[],0,[],0
+"Provo, Utah, United States",[],0,[],0,[],0
+"Lafayette, Louisiana, United States",[],0,[],0,[],0
+"Hanoi, NA - Vietnam, Vietnam",[],0,[],0,[],0
+"Russellville, Arkansas, United States",[],0,[],0,[],0
+"Macon, Georgia, United States",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Albany, New York, United States",[],0,[],0,[],0
+"Durham, North Carolina, United States",[],0,[],0,[],0
+"Daytona Beach, Florida, United States",[],0,[],0,[],0
+"Pittsburgh, Pennsylvania, United States",[],0,[],0,[],0
+"Charlotte, North Carolina, United States",[],0,[],0,[],0
+"St. Petersburg, Florida, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"Mcpherson, Kansas, United States",[],0,[],0,[],0
+"Toronto, Ontario, Canada",[],0,[],0,[],0
+"Pensacola, Florida, United States",[],0,[],0,[],0
+"Milano, Lombardia, Italy",[],0,[],0,[],0
+"Toronto, Ontario, Canada",[],0,[],0,[],0
+"Mississippi State, Mississippi, United States",[],0,[],0,[],0
+"Philadelphia, Pennsylvania, United States",[],0,[],0,[],0
+"Glassboro, New Jersey, United States",[],0,[],0,[],0
+"Jackson, Mississippi, United States",[],0,[],0,[],0
+"Oakville, Ontario, Canada",[],0,[],0,[],0
+"Troy, Alabama, United States",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Canberra, Australian Capital Territory, Australia",[],0,[],0,[Australian],1
+"Kent, Ohio, United States",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Warwick, Rhode Island, United States",[],0,[],0,[],0
+"Milwaukee, Wisconsin, United States",[],0,[],0,[],0
+"Hamilton, Ontario, Canada",[],0,[],0,[],0
+"Fishers, Indiana, United States",[Fishers],1,[],0,[],0
+"Singapore, Central Region, Singapore",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Laramie, Wyoming, United States",[],0,[],0,[],0
+"Las Vegas, Nevada, United States",[],0,[],0,[],0
+"Amherst, Massachusetts, United States",[],0,[],0,[],0
+"Calgary, Alberta, Canada",[],0,[],0,[],0
+"Liverpool, Liverpool, United Kingdom",[],0,[],0,[],0
+"Fresno, California, United States",[],0,[],0,[],0
+"Welland, Ontario, Canada",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Fullerton, California, United States",[],0,[],0,[],0
+"La Jolla, California, United States",[],0,[],0,[],0
+"Loughborough, Leicestershire, United Kingdom",[],0,[],0,[],0
+"Nairobi, Nairobi Area, Kenya",[],0,[],0,[],0
+"Mound City, Kansas, United States",[],0,[],0,[],0
+"Las Cruces, New Mexico, United States",[],0,[],0,[],0
+"Boca Raton, Florida, United States",[],0,[],0,[],0
+"Orono, Maine, United States",[],0,[],0,[],0
+"Scranton, Pennsylvania, United States",[],0,[],0,[],0
+"Lancaster, Ohio, United States",[],0,[],0,[],0
+"San Jose, California, United States",[],0,[],0,[],0
+"Worcester, Massachusetts, United States",[],0,[],0,[Worcester],1
+"Richmond, Indiana, United States",[],0,[],0,[],0
+"Saint Paul, Minnesota, United States",[],0,[],0,[],0
+"Terre Haute, Indiana, United States",[],0,[],0,[],0
+"Providence, Rhode Island, United States",[Providence],1,[],0,[],0
+"Oshawa, Ontario, Canada",[],0,[],0,[],0
+"Raleigh, North Carolina, United States",[],0,[],0,[],0
+"Morgantown, West Virginia, United States",[],0,[],0,[],0
+"Durham, New Hampshire, United States",[],0,[],0,[],0
+"Singapore, Central Region, Singapore",[],0,[],0,[],0
+"Andover, Massachusetts, United States",[],0,[],0,[],0
+"Anchorage, Alaska, United States",[],0,[],0,[],0
+"Cleveland, Ohio, United States",[],0,[],0,[],0
+"Lubbock, Texas, United States",[],0,[],0,[],0
+"Rio Grande, Ohio, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"La Loupe, Centre, France",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Singapore, Central Region, Singapore",[],0,[],0,[],0
+"La Mirada, California, United States",[],0,[],0,[],0
+"Siloam Springs, Arkansas, United States",[],0,[],0,[],0
+"Klamath Falls, Oregon, United States",[],0,[],0,[],0
+"South Orange, New Jersey, United States",[],0,[],0,[],0
+"Cedarville, Ohio, United States",[],0,[],0,[],0
+"Davidson, North Carolina, United States",[],0,[],0,[],0
+"Rishikesh, Uttarakhand, India",[],0,[],0,[Rishikesh],1
+"Oakland, California, United States",[],0,[],0,[],0
+"Dayton, Ohio, United States",[],0,[],0,[],0
+"Providence, Rhode Island, United States",[Providence],1,[],0,[],0
+"Waterford, Waterford, Ireland",[],0,[],0,[],0
+"Smithfield, Rhode Island, United States",[],0,[],0,[],0
+"Swansea, Swansea, United Kingdom",[],0,[],0,[],0
+"Loma Linda, California, United States",[],0,[],0,[],0
+"Exeter, Devon, United Kingdom",[],0,[],0,[],0
+"Stanford, California, United States",[],0,[],0,[],0
+"Northampton, Massachusetts, United States",[],0,[],0,[],0
+"Berea, Ohio, United States",[],0,[],0,[],0
+"Potsdam, New York, United States",[],0,[],0,[],0
+"Buffalo, New York, United States",[],0,[],0,[],0
+"New Orleans, Louisiana, United States",[],0,[],0,[],0
+"Greensboro, North Carolina, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Champaign, Illinois, United States",[Champaign],1,[],0,[],0
+"Cheyney, Pennsylvania, United States",[],0,[],0,[],0
+"Nashville, Tennessee, United States",[],0,[],0,[],0
+"Framingham, Massachusetts, United States",[],0,[],0,[],0
+"Tucson, Arizona, United States",[],0,[],0,[],0
+"Prakanong, Krung Thep, Thailand",[],0,[],0,[],0
+"Richardson, Texas, United States",[],0,[],0,[],0
+"Minneapolis, Minnesota, United States",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Ypsilanti, Michigan, United States",[],0,[],0,[],0
+"Denver, Colorado, United States",[],0,[],0,[],0
+"Goshen, Indiana, United States",[],0,[],0,[],0
+"Sheffield, Sheffield, United Kingdom",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"Northfield Falls, Vermont, United States",[],0,[],0,[],0
+"Nashville, Tennessee, United States",[],0,[],0,[],0
+"Pensacola, Florida, United States",[],0,[],0,[],0
+"Taipei, T'ai-pei, Taiwan",[],0,[],0,[],0
+"Wichita, Kansas, United States",[],0,[],0,[],0
+"Galway, Galway, Ireland",[],0,[],0,[],0
+"Adelaide, South Australia, Australia",[],0,[],0,[],0
+"Newport, Kentucky, United States",[],0,[],0,[],0
+"Providence, Rhode Island, United States",[Providence],1,[],0,[],0
+"San Francisco, California, United States",[],0,[],0,[],0
+"Camden, New Jersey, United States",[],0,[],0,[],0
+"Rochester, New York, United States",[],0,[],0,[],0
+"Gwynedd Valley, Pennsylvania, United States",[],0,[],0,[],0
+"Grand Rapids, Michigan, United States",[],0,[],0,[],0
+"Ariana, Tunis, Tunisia",[],0,[],0,[],0
+"Merced, California, United States",[],0,[],0,[],0
+"Hiram, Ohio, United States",[],0,[],0,[],0
+"Pittsburgh, Pennsylvania, United States",[],0,[],0,[],0
+"Cleveland, Ohio, United States",[],0,[],0,[],0
+"Batesville, Arkansas, United States",[],0,[],0,[],0
+"Waco, Texas, United States",[],0,[],0,[],0
+"Cedar Falls, Iowa, United States",[],0,[],0,[],0
+"Danville, Kentucky, United States",[],0,[],0,[],0
+"Grand Rapids, Michigan, United States",[],0,[],0,[],0
+"Normal, Alabama, United States",[],0,[],0,[Normal],1
+"Albuquerque, New Mexico, United States",[],0,[],0,[],0
+"Oxnard, California, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"Tallahassee, Florida, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"Fitchburg, Massachusetts, United States",[],0,[],0,[],0
+"Lakeland, Florida, United States",[],0,[],0,[],0
+"Walla Walla, Washington, United States",[],0,[],0,[],0
+"Warren, Michigan, United States",[],0,[],0,[],0
+"Norton, Massachusetts, United States",[],0,[],0,[],0
+"Berkeley, California, United States",[],0,[],0,[],0
+"Providence, Rhode Island, United States",[Providence],1,[],0,[],0
+"Columbia, South Carolina, United States",[],0,[],0,[],0
+"Falmer, East Sussex, United Kingdom",[],0,[],0,[],0
+"Dundalk, Louth, Ireland",[],0,[],0,[],0
+"Detroit, Michigan, United States",[],0,[],0,[],0
+"Birmingham, Birmingham, United Kingdom",[],0,[],0,[],0
+"Dover, Delaware, United States",[],0,[],0,[],0
+"Providence, Rhode Island, United States",[Providence],1,[],0,[],0
+"Pittsburg, California, United States",[],0,[],0,[],0
+"Columbia, South Carolina, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Halifax, Calderdale, United Kingdom",[],0,[],0,[],0
+"New Orleans, Louisiana, United States",[],0,[],0,[],0
+"Singapore, Central Region, Singapore",[],0,[],0,[],0
+"Schenectady, New York, United States",[],0,[],0,[],0
+"Greenville, North Carolina, United States",[],0,[],0,[],0
+"Hartford, Connecticut, United States",[],0,[],0,[],0
+"Ventura, California, United States",[],0,[],0,[],0
+"Kalamazoo, Michigan, United States",[],0,[],0,[],0
+"Rancho Cucamonga, California, United States",[],0,[],0,[],0
+"Fort Smith, Arkansas, United States",[],0,[],0,[],0
+"Singapore, Central Region, Singapore",[],0,[],0,[],0
+"Canandaigua, New York, United States",[],0,[],0,[],0
+"Kingwood, Texas, United States",[],0,[],0,[],0
+"Little Rock, Arkansas, United States",[],0,[],0,[],0
+"Grand Island, Nebraska, United States",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"Birmingham, Alabama, United States",[],0,[],0,[],0
+"North Little Rock, Arkansas, United States",[],0,[],0,[],0
+"Weatherford, Oklahoma, United States",[],0,[],0,[],0
+"Harrogate, Tennessee, United States",[],0,[],0,[],0
+"Hammond, Louisiana, United States",[],0,[],0,[],0
+"Miami, Florida, United States",[],0,[],0,[],0
+"Erode, Tamil Nadu, India",[],0,[],0,[],0
+"New Delhi, Delhi, India",[],0,[],0,[],0
+"Youngwood, Pennsylvania, United States",[],0,[],0,[],0
+"Philadelphia, Pennsylvania, United States",[],0,[],0,[],0
+"Miami, Florida, United States",[],0,[],0,[],0
+"Minneapolis, Minnesota, United States",[],0,[],0,[],0
+"Fort Lauderdale, Florida, United States",[],0,[],0,[],0
+"Syracuse, New York, United States",[],0,[],0,[],0
+"Gresham, Oregon, United States",[],0,[],0,[],0
+"Savannah, Georgia, United States",[],0,[],0,[],0
+"Baldwin City, Kansas, United States",[],0,[],0,[],0
+"Oklahoma City, Oklahoma, United States",[],0,[],0,[],0
+"Shenzhen, Guangdong, China",[],0,[],0,[],0
+"Hattiesburg, Mississippi, United States",[],0,[],0,[],0
+"Evansville, Indiana, United States",[],0,[],0,[],0
+"Dunedin, Otago, New Zealand",[],0,[],0,[],0
+"Rootstown, Ohio, United States",[],0,[],0,[],0
+"Halifax, Nova Scotia, Canada",[],0,[],0,[],0
+"San Diego, California, United States",[],0,[],0,[],0
+"New Orleans, Louisiana, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"Guildford, Surrey, United Kingdom",[],0,[],0,[],0
+"Sydney, New South Wales, Australia",[],0,[],0,[],0
+"Canton, Ohio, United States",[],0,[],0,[],0
+"New Orleans, Louisiana, United States",[],0,[],0,[],0
+"Emmitsburg, Maryland, United States",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Salisbury, Maryland, United States",[],0,[],0,[],0
+"Greensboro, North Carolina, United States",[],0,[],0,[],0
+"Logan, Utah, United States",[],0,[],0,[],0
+"Salt Lake City, Utah, United States",[],0,[],0,[],0
+"Nagpur, Maharashtra, India",[],0,[],0,[],0
+"Bathurst, New South Wales, Australia",[],0,[],0,[],0
+"Cadiz, Kentucky, United States",[],0,[],0,[],0
+"Cleveland, Ohio, United States",[],0,[],0,[],0
+"Trenton, New Jersey, United States",[],0,[],0,[],0
+"Decatur, Illinois, United States",[],0,[],0,[],0
+"Toronto, Ontario, Canada",[],0,[],0,[],0
+"Bowie, Maryland, United States",[],0,[],0,[],0
+"San Antonio, Texas, United States",[],0,[],0,[],0
+"Gwalior, Madhya Pradesh, India",[],0,[],0,[],0
+"Mount Berry, Georgia, United States",[],0,[],0,[],0
+"Gary, Indiana, United States",[],0,[],0,[],0
+"Glenside, Pennsylvania, United States",[],0,[],0,[],0
+"Dobbs Ferry, New York, United States",[],0,[],0,[],0
+"Aberdeen, Aberdeen City, United Kingdom",[],0,[],0,[],0
+"Saint Paul, Minnesota, United States",[],0,[],0,[],0
+"Brighton, East Sussex, United Kingdom",[],0,[],0,[],0
+"Dillon, Colorado, United States",[],0,[],0,[],0
+"Elmhurst, Illinois, United States",[],0,[],0,[],0
+"Omaha, Nebraska, United States",[],0,[],0,[],0
+"Union City, New Jersey, United States",[],0,[],0,[],0
+"New Orleans, Louisiana, United States",[],0,[],0,[],0
+"Miami, Florida, United States",[],0,[],0,[],0
+"Gainesville, Texas, United States",[],0,[],0,[],0
+"Irving, Texas, United States",[],0,[],0,[],0
+"Wellesley, Massachusetts, United States",[],0,[],0,[],0
+"Southfield, Michigan, United States",[],0,[],0,[],0
+"Tallahassee, Florida, United States",[],0,[],0,[],0
+"Spokane, Washington, United States",[],0,[],0,[],0
+"Richmond, Virginia, United States",[],0,[],0,[],0
+"Budapest, Budapest, Hungary",[],0,[],0,[],0
+"Cleveland, Ohio, United States",[],0,[],0,[],0
+"Huntington, Indiana, United States",[],0,[],0,[],0
+"West Barnstable, Massachusetts, United States",[],0,[],0,[],0
+"Honolulu, Hawaii, United States",[],0,[],0,[],0
+"Campbellsville, Kentucky, United States",[],0,[],0,[],0
+"Cleveland, Ohio, United States",[],0,[],0,[],0
+"Augusta, Georgia, United States",[],0,[],0,[],0
+"Dublin, Dublin, Ireland",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Montréal, Quebec, Canada",[],0,[],0,[],0
+"Muncie, Indiana, United States",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Charlottesville, Virginia, United States",[],0,[],0,[],0
+"Towson, Maryland, United States",[],0,[],0,[],0
+"University Center, Michigan, United States",[],0,[],0,[],0
+"Glasgow, Glasgow City, United Kingdom",[],0,[],0,[],0
+"Birmingham, Birmingham, United Kingdom",[],0,[],0,[],0
+"Dayton, Ohio, United States",[],0,[],0,[],0
+"Akron, Pennsylvania, United States",[],0,[],0,[],0
+"Allendale, Michigan, United States",[],0,[],0,[],0
+"Lawrenceville, New Jersey, United States",[],0,[],0,[],0
+"Paris, Ile-de-France, France","[de, -]",2,[],0,[],0
+"Nashville, Tennessee, United States",[],0,[],0,[],0
+"Ijebu-ode, Ogun, Nigeria","[Ijebu, ode]",2,[],0,[],0
+"Nashville, Tennessee, United States",[],0,[],0,[],0
+"Honolulu, Hawaii, United States",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Randolph, New Jersey, United States",[],0,[],0,[],0
+"El Paso, Texas, United States",[],0,[],0,[],0
+"Hadley, Massachusetts, United States",[],0,[],0,[],0
+"State University, Arkansas, United States",[],0,[],0,[],0
+"Bentonville, Arkansas, United States",[],0,[],0,[],0
+"Decatur, Georgia, United States",[],0,[],0,[],0
+"Moora, Western Australia, Australia",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Lynnwood, Washington, United States",[Lynnwood],1,[],0,[],0
+"Glasgow, Glasgow City, United Kingdom",[],0,[],0,[],0
+"Phoenix, Arizona, United States",[],0,[],0,[],0
+"Phoenix, Arizona, United States",[],0,[],0,[],0
+"Cookeville, Tennessee, United States",[],0,[],0,[],0
+"Fort Smith, Arkansas, United States",[],0,[],0,[],0
+"Evanston, Illinois, United States",[],0,[],0,[],0
+"Riverside, California, United States",[],0,[],0,[],0
+"Austin, Texas, United States",[],0,[],0,[],0
+"Fall River, Massachusetts, United States",[],0,[],0,[],0
+"Claremont, California, United States",[],0,[],0,[],0
+"Worcester, Massachusetts, United States",[],0,[],0,[Worcester],1
+"Chapel Hill, North Carolina, United States",[],0,[],0,[],0
+"Chapel Hill, Tennessee, United States",[],0,[],0,[],0
+"Marquette, Michigan, United States",[],0,[],0,[],0
+"Vermillion, South Dakota, United States",[],0,[],0,[],0
+"Saint Bonaventure, New York, United States",[],0,[],0,[],0
+"Nugegoda, Western, Sri Lanka",[],0,[],0,[],0
+"Rockville Centre, New York, United States",[],0,[],0,[],0
+"Tampa, Florida, United States",[],0,[],0,[],0
+"Erie, Pennsylvania, United States",[],0,[],0,[],0
+"Mishawaka, Indiana, United States",[],0,[],0,[],0
+"Nanshanqu, Guangdong, China",[],0,[],0,[],0
+"Saint Louis, Missouri, United States",[],0,[],0,[],0
+"Utica, New York, United States",[],0,[],0,[],0
+"Bronx, New York, United States",[],0,[],0,[],0
+"Fullerton, California, United States",[],0,[],0,[],0
+"La Verne, California, United States",[],0,[],0,[],0
+"Dudley, Massachusetts, United States",[],0,[],0,[],0
+"Tougaloo, Mississippi, United States",[],0,[],0,[],0
+"Evansville, Indiana, United States",[],0,[],0,[],0
+"Milwaukee, Wisconsin, United States",[],0,[],0,[],0
+"Madison, Wisconsin, United States",[],0,[],0,[],0
+"Mcallen, Texas, United States",[],0,[],0,[],0
+"Martinsville, Virginia, United States",[],0,[],0,[],0
+"Pocatello, Idaho, United States",[],0,[],0,[],0
+"Park Forest, Illinois, United States",[],0,[],0,[],0
+"Riga, Riga, Latvia",[],0,[],0,[],0
+"Gardner, North Dakota, United States",[],0,[],0,[],0
+"Cincinnati, Ohio, United States",[],0,[],0,[],0
+"Santa Rosa, California, United States",[],0,[],0,[],0
+"Cleveland, Ohio, United States",[],0,[],0,[],0
+"Lexington, Kentucky, United States",[],0,[],0,[],0
+"Pittsburgh, Pennsylvania, United States",[],0,[],0,[],0
+"Bellevue, Nebraska, United States",[],0,[],0,[],0
+"Indiana, Pennsylvania, United States",[],0,[],0,[],0
+"Northfield, Minnesota, United States",[],0,[],0,[],0
+"Tuskegee Institute, Alabama, United States",[],0,[],0,[],0
+"Mumbai, Maharashtra, India",[Mumbai],1,[],0,[],0
+"Saint Louis, Missouri, United States",[],0,[],0,[],0
+"South Easton, Massachusetts, United States",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Springfield, Massachusetts, United States",[],0,[],0,[],0
+"Alvin, Texas, United States",[],0,[],0,[],0
+"Pocahontas, Arkansas, United States",[],0,[],0,[],0
+"Singapore, Central Region, Singapore",[],0,[],0,[],0
+"Nyeri, Central, Kenya",[],0,[],0,[],0
+"Holland, Michigan, United States",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"Indianapolis, Indiana, United States",[],0,[],0,[],0
+"Macau, Ilhas, Macao",[],0,[],0,[],0
+"Williamsport, Pennsylvania, United States",[],0,[],0,[],0
+"Yangon, Yangon, Myanmar",[],0,[],0,[],0
+"Greenville, South Carolina, United States",[],0,[],0,[],0
+"Bowling Green, Kentucky, United States",[],0,[],0,[],0
+"Graham, North Carolina, United States",[],0,[],0,[],0
+"Holyoke, Massachusetts, United States",[],0,[],0,[],0
+"St Louis, Missouri, United States",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"Saint Cloud, Minnesota, United States",[],0,[],0,[],0
+"De Queen, Arkansas, United States",[],0,[],0,[],0
+"Gaborone, South-East, Botswana",[],0,[],0,[],0
+"Fargo, North Dakota, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"Ashland, Ohio, United States",[],0,[],0,[],0
+"Plymouth, New Hampshire, United States",[],0,[],0,[],0
+"Sydney, New South Wales, Australia",[],0,[],0,[],0
+"Seattle, Washington, United States",[],0,[],0,[],0
+"Villanova, Pennsylvania, United States",[],0,[],0,[],0
+"Antigo, Wisconsin, United States",[],0,[],0,[],0
+"Appleton, Wisconsin, United States",[],0,[],0,[],0
+"Rio Grande, Ohio, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Houston, Texas, United States",[],0,[],0,[],0
+"Hommersåk, Rogaland, Norway",[],0,[],0,[],0
+"Oakland, California, United States",[],0,[],0,[],0
+"Leesburg, Florida, United States",[],0,[],0,[],0
+"Lodi, New Jersey, United States",[],0,[],0,[],0
+"Leeds, Leeds, United Kingdom","[Leeds, Leeds]",2,[],0,[],0
+"Nashua, New Hampshire, United States",[],0,[],0,[],0
+"Kampala, Kampala, Uganda",[],0,[],0,[],0
+"Spartanburg, South Carolina, United States",[],0,[],0,[],0
+"Albany, New York, United States",[],0,[],0,[],0
+"Mckinney, Texas, United States",[],0,[],0,[],0
+"Superior, Wisconsin, United States",[],0,[],0,[],0
+"Long Beach, California, United States",[],0,[],0,[],0
+"Baton Rouge, Louisiana, United States",[],0,[],0,[],0
+"Kansas City, Missouri, United States",[],0,[],0,[],0
+"Calabar, Cross River, Nigeria",[],0,[],0,[],0
+"San Juan, NA - Puerto Rico, Puerto Rico",[],0,[],0,[],0
+"Claremont, California, United States",[],0,[],0,[],0
+"Rochester, New York, United States",[],0,[],0,[],0
+"Scranton, Pennsylvania, United States",[],0,[],0,[],0
+"Valencia, Comunidad Valenciana, Spain",[],0,[],0,[],0
+"Albany, New York, United States",[],0,[],0,[],0
+"Lexington, Virginia, United States",[],0,[],0,[],0
+"Sanford, Florida, United States",[],0,[],0,[],0
+"Morganton, North Carolina, United States",[],0,[],0,[],0
+"Bothell, Washington, United States",[],0,[],0,[],0
+"Newark, New Jersey, United States",[],0,[],0,[],0
+"Long Island City, New York, United States",[],0,[],0,[],0
+"Victoria, British Columbia, Canada",[],0,[],0,[],0
+"Ann Arbor, Michigan, United States",[],0,[],0,[],0
+"San Jose, California, United States",[],0,[],0,[],0
+"Harvey, Louisiana, United States",[],0,[],0,[],0
+"Valhalla, New York, United States",[],0,[],0,[],0
+"Quincy, Massachusetts, United States",[],0,[],0,[],0
+"Madrid, Madrid, Spain",[],0,[],0,[],0
+"Georgetown, Kentucky, United States",[],0,[],0,[],0
+"Milwaukee, Wisconsin, United States",[],0,[],0,[],0
+"Jonesboro, Arkansas, United States",[],0,[],0,[],0
+"Montgomery, Alabama, United States",[],0,[],0,[],0
+"Maryland, Louisiana, United States",[],0,[],0,[],0
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Castine, Maine, United States",[],0,[],0,[],0
+"Indianapolis, Indiana, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Bryn Mawr, Pennsylvania, United States",[],0,[],0,[],0
+"Edinburg, Texas, United States",[],0,[],0,[],0
+"Dublin, Dublin, Ireland",[],0,[],0,[],0
+"Ithaca, New York, United States",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Charlottetown, Prince Edward Island, Canada",[],0,[],0,[],0
+"Buzzards Bay, Massachusetts, United States",[],0,[],0,[],0
+"Oregon City, Oregon, United States",[],0,[],0,[],0
+"Northfield, Vermont, United States",[],0,[],0,[],0
+"North Little Rock, Arkansas, United States",[],0,[],0,[],0
+"Santa Fe, New Mexico, United States",[],0,[],0,[],0
+"Mountain Home, Arkansas, United States",[],0,[],0,[],0
+"Ithaca, New York, United States",[],0,[],0,[],0
+"Lorman, Mississippi, United States",[],0,[],0,[],0
+"Beaumont, Texas, United States",[],0,[],0,[],0
+"Birmingham, Birmingham, United Kingdom",[],0,[],0,[],0
+"West Roxbury, Massachusetts, United States",[],0,[],0,[],0
+"Saint Benedict, Louisiana, United States",[],0,[],0,[],0
+"Imo, Ogun, Nigeria",[],0,[],0,[],0
+"Wilberforce, Ohio, United States",[],0,[],0,[],0
+"Galway, Galway, Ireland",[],0,[],0,[],0
+"New Bern, North Carolina, United States",[],0,[],0,[],0
+"Clinton, South Carolina, United States",[],0,[],0,[],0
+"Atlanta, Georgia, United States",[],0,[],0,[],0
+"Pasay City, Pasay, Philippines",[],0,[],0,[],0
+"San Francisco, California, United States",[],0,[],0,[],0
+"Newport, Newport, United Kingdom",[],0,[],0,[],0
+"Delhi, Delhi, India",[],0,[],0,[],0
+"Nacogdoches, Texas, United States",[],0,[],0,[],0
+"Prague, Hlavni mesto Praha, Czech Republic",[],0,[],0,[mesto],1
+"Tallahassee, Florida, United States",[],0,[],0,[],0
+"Gloucester, Virginia, United States",[],0,[],0,[],0
+"Denton, Texas, United States",[],0,[],0,[],0
+"Chapel Hill, North Carolina, United States",[],0,[],0,[],0
+"Mullica Hill, New Jersey, United States",[],0,[],0,[],0
+"Worcester, Massachusetts, United States",[],0,[],0,[Worcester],1
+"Fort Wayne, Indiana, United States",[],0,[],0,[],0
+"Philadelphia, Pennsylvania, United States",[],0,[],0,[],0
+"Noida, Uttar Pradesh, India",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Oklahoma City, Oklahoma, United States",[],0,[],0,[],0
+"Ann Arbor, Michigan, United States",[],0,[],0,[],0
+"Dhaka, Dhaka, Bangladesh",[],0,[],0,[],0
+"Walpole, Massachusetts, United States",[],0,[],0,[],0
+"Dayton, Ohio, United States",[],0,[],0,[],0
+"Oxford, Oxfordshire, United Kingdom",[],0,[],0,[],0
+"Norwalk, California, United States",[],0,[],0,[],0
+"El Cajon, California, United States",[],0,[],0,[],0
+"El Cajon, California, United States",[],0,[],0,[],0
+"Saint George, Utah, United States",[],0,[],0,[],0
+"Fountain Valley, California, United States",[],0,[],0,[],0
+"Ultimo, New South Wales, Australia",[],0,[],0,[],0
+"Hathorne, Massachusetts, United States",[],0,[],0,[],0
+"El Dorado, Arkansas, United States",[],0,[],0,[],0
+"Portland, Oregon, United States",[],0,[],0,[],0
+"Gurgaon, Haryana, India",[],0,[],0,[],0
+"Managua, Managua, Nicaragua",[],0,[],0,[],0
+"Dallas, Texas, United States",[],0,[],0,[],0
+"Colorado Springs, Colorado, United States",[],0,[],0,[],0
+"Fresno, California, United States",[],0,[],0,[],0
+"Greenwood, South Carolina, United States",[],0,[],0,[],0
+"Alfred, New York, United States",[],0,[],0,[],0
+"Portage, Michigan, United States",[Portage],1,[],0,[],0
+"Gujrat, Punjab, Pakistan",[],0,[],0,[],0
+"Piqua, Ohio, United States",[],0,[],0,[],0
+"Portland, Maine, United States",[],0,[],0,[],0
+"Amsterdam, Noord-Holland, The Netherlands",[],0,[],0,[],0
+"Pasadena, Texas, United States",[],0,[],0,[],0
+"Bloomfield, New Jersey, United States",[],0,[],0,[],0
+"Scottsdale, Arizona, United States",[],0,[],0,[],0
+"Zürich, Zurich, Switzerland",[],0,[],0,[],0
+"Bellingham, Washington, United States",[],0,[],0,[],0
+"Princeton, New Jersey, United States",[],0,[],0,[],0
+"Fort Smith, Arkansas, United States",[],0,[],0,[],0
+"Los Angeles, California, United States",[],0,[],0,[],0
+"Oxford, Oxfordshire, United Kingdom",[],0,[],0,[],0
+"Singapore, Central Region, Singapore",[],0,[],0,[],0
+"Oklahoma City, Oklahoma, United States",[],0,[],0,[],0
+"Freiburg, Baden-Wurttemberg, Germany",[],0,[],0,[],0
+"Parkville, New South Wales, Australia",[],0,[],0,[],0
+"Franklin, Massachusetts, United States",[],0,[],0,[],0
+"Lekki, Lagos, Nigeria",[],0,[],0,[],0
+"Palm Bay, Florida, United States",[],0,[],0,[],0
+"Tampa, Florida, United States",[],0,[],0,[],0
+"Singapore, Central Region, Singapore",[],0,[],0,[],0
+"Newtown Square, Pennsylvania, United States",[],0,[],0,[],0
+"Roslindale, Massachusetts, United States",[],0,[],0,[],0
+"Daejeon, Taejon-jikhalsi, South Korea","[Taejon, jikhalsi]",2,[],0,[],0
+"Arkadelphia, Arkansas, United States",[],0,[],0,[],0
+"Kent, Kent, United Kingdom",[],0,[],0,[],0
+"Cumberland, Kentucky, United States",[],0,[],0,[],0
+"Omaha, Nebraska, United States",[],0,[],0,[],0
+"Novi, Michigan, United States",[],0,[],0,[],0
+"Booneville, Mississippi, United States",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Belgaum, Karnataka, India",[],0,[],0,[],0
+"New Haven, Connecticut, United States",[],0,[],0,[],0
+"Zürich, Zurich, Switzerland",[],0,[],0,[],0
+"Epping, Essex, United Kingdom",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Chicago, Illinois, United States",[],0,[],0,[],0
+"Bethlehem, Pennsylvania, United States",[],0,[],0,[],0
+"Lake Jackson, Texas, United States",[],0,[],0,[],0
+"North Hills, California, United States",[],0,[],0,[],0
+"Beijing, Beijing, China",[],0,[],0,[],0
+"Jersey City, New Jersey, United States",[],0,[],0,[],0
+"Waterville, Maine, United States",[],0,[],0,[],0
+"Morgantown, West Virginia, United States",[],0,[],0,[],0
+"Raleigh, North Carolina, United States",[],0,[],0,[],0
+"Baltimore, Maryland, United States",[],0,[],0,[],0
+"New Orleans, Louisiana, United States",[],0,[],0,[],0
+"Statesboro, Georgia, United States",[],0,[],0,[],0
+"Harrison, Arkansas, United States",[],0,[],0,[],0
+"Winston Salem, North Carolina, United States",[],0,[],0,[],0
+"Kathmandu, Bagmati, Nepal",[],0,[],0,[],0
+"Rockhampton, Queensland, Australia",[],0,[],0,[],0
+"Fort Wayne, Indiana, United States",[],0,[],0,[],0
+"Springfield, Massachusetts, United States",[],0,[],0,[],0
+"West Roxbury, Massachusetts, United States",[],0,[],0,[],0
+"Longmeadow, Massachusetts, United States",[Longmeadow],1,[],0,[],0
+"Morrilton, Arkansas, United States",[],0,[],0,[],0
+"Hangzhou, Zhejiang, China",[],0,[],0,[],0
+"Westfield, Massachusetts, United States",[],0,[],0,[],0
+"New Delhi, Delhi, India",[],0,[],0,[],0
+"Farmington, Connecticut, United States",[],0,[],0,[],0
+"Lansing, Michigan, United States",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Delhi, Delhi, India",[],0,[],0,[],0
+"Pittsburgh, Pennsylvania, United States",[],0,[],0,[],0
+"Fall River, Massachusetts, United States",[],0,[],0,[],0
+"Dhaka, Dhaka, Bangladesh",[],0,[],0,[],0
+"Lexington, Kentucky, United States",[],0,[],0,[],0
+"Boston, Massachusetts, United States",[],0,[],0,[],0
+"Faridabad, Haryana, India",[],0,[],0,[],0
+"Somerset, Kentucky, United States",[],0,[],0,[],0
+"Stanford, California, United States",[],0,[],0,[],0
+"Springfield, Massachusetts, United States",[],0,[],0,[],0
+"San Francisco, California, United States",[],0,[],0,[],0
+"Odessa, Texas, United States",[],0,[],0,[],0
+"Platteville, Wisconsin, United States",[],0,[],0,[],0
+"Accra, Greater Accra, Ghana",[],0,[],0,[],0
+"Haverhill, Massachusetts, United States",[],0,[],0,[],0
+"Frankfort, Indiana, United States",[],0,[],0,[],0
+"Billerica, Massachusetts, United States",[],0,[],0,[],0
+"Winter Park, Florida, United States",[],0,[],0,[],0
+"Elyria, Ohio, United States",[],0,[],0,[],0
+"Cambridge, Massachusetts, United States",[],0,[],0,[],0
+"Melbourne, Victoria, Australia",[],0,[],0,[],0
+"Frederick, Maryland, United States",[],0,[],0,[],0
+"New York, New York, United States",[],0,[],0,[],0
+"Kolkata, West Bengal, India",[],0,[],0,[],0
+"Genève, Geneve, Switzerland",[],0,[],0,[],0
+"Kansas, Oklahoma, United States",[],0,[],0,[],0
+"Danvers, Massachusetts, United States",[Danvers],1,[],0,[],0
+"Tavares, Florida, United States",[Tavares],1,[],0,[],0
+"Cambridge, Cambridgeshire, United Kingdom",[],0,[],0,[],0
+"Tucson, Arizona, United States",[],0,[],0,[],0
+"Washington, District of Columbia, United States",[],0,[],0,[],0
+"Birmingham, Alabama, United States",[],0,[],0,[],0
+"Pilani, Rajasthan, India",[],0,[],0,[],0
+"Rochester, New York, United States",[],0,[],0,[],0
+"São Paulo, Sao Paulo, Brazil",[],0,[],0,[],0
+"Bolivia, North Carolina, United States",[],0,[],0,[],0
+"Dallas, Pennsylvania, United States",[],0,[],0,[],0
+"Medford, Massachusetts, United States",[],0,[],0,[],0
+"Atherton, California, United States",[],0,[],0,[],0
+"Salt Lake City, Utah, United States",[],0,[],0,[],0
+"Spruce Pine, North Carolina, United States",[],0,[],0,[],0
+"Manhattan, New York, United States",[],0,[],0,[],0
+"Beebe, Arkansas, United States",[Beebe],1,[],0,[],0
+"Fitchburg, Massachusetts, United States",[],0,[],0,[],0
+"Kolkata, West Bengal, India",[],0,[],0,[],0
+"White Plains, New York, United States",[],0,[],0,[],0
+"Taunton, Massachusetts, United States",[],0,[],0,[],0
+"Kalamazoo, Michigan, United States",[],0,[],0,[],0
+"Arlington, Virginia, United States",[],0,[],0,[],0
+"Manchester, Manchester, United Kingdom",[],0,[],0,[],0
+"Clayton, Victoria, Australia",[],0,[],0,[],0
+"Dhaka, Dhaka, Bangladesh",[],0,[],0,[],0
+"Wimbledon, North Dakota, United States",[],0,[],0,[],0
+"Madrid, Madrid, Spain",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Mathura, Uttar Pradesh, India",[],0,[],0,[],0
+"Dartmouth, Massachusetts, United States",[Dartmouth],1,[],0,[],0
+"Accra, Greater Accra, Ghana",[],0,[],0,[],0
+"Aberystwyth, Ceredigion, United Kingdom",[],0,[],0,[],0
+"Mexico City, Distrito Federal, Mexico",[],0,[],0,[],0
+"Edinburgh, Edinburgh, City of, United Kingdom",[],0,[],0,[],0
+"Pittsfield, Massachusetts, United States",[],0,[],0,[],0
+"Lebanon, Illinois, United States",[],0,[],0,[],0
+"Wilmington, Delaware, United States",[],0,[],0,[],0
+"Mumbai, Maharashtra, India",[Mumbai],1,[],0,[],0
+"Davis, California, United States",[],0,[],0,[],0
+"Wilmington, North Carolina, United States",[],0,[],0,[],0
+"Birmingham, Alabama, United States",[],0,[],0,[],0
+"Quezon City, Quezon City, Philippines",[],0,[],0,[],0
+"Kansas City, Missouri, United States",[],0,[],0,[],0
+"Milton Keynes, Milton Keynes, United Kingdom",[],0,[],0,[],0
+"Cape Town, NA - South Africa, South Africa",[],0,[],0,[],0
+"Harrisonburg, Virginia, United States",[],0,[],0,[],0
+"Cebu City, Cebu City, Philippines",[],0,[],0,[],0
+"New Delhi, Delhi, India",[],0,[],0,[],0
+"Tuscaloosa, Alabama, United States",[],0,[],0,[],0
+"Falmouth, Maine, United States",[],0,[],0,[],0
+"Blacksburg, Virginia, United States",[],0,[],0,[],0
+"New Bedford, Massachusetts, United States",[],0,[],0,[],0
+"Honolulu, Hawaii, United States",[],0,[],0,[],0
+"New Bedford, Massachusetts, United States",[],0,[],0,[],0
+"Cambridge, Massachusetts, United States",[],0,[],0,[],0
+"Patiala, Punjab, India",[],0,[],0,[],0
+"London, England, United Kingdom",[],0,[],0,[],0
+"Hamilton, Ontario, Canada",[],0,[],0,[],0
+"Cambridge, Massachusetts, United States",[],0,[],0,[],0
+"Malone, New York, United States",[],0,[],0,[],0
+"Prestonsburg, Kentucky, United States",[],0,[],0,[],0
+"Sydney, New South Wales, Australia",[],0,[],0,[],0
+"Middlesbrough, Middlesbrough, United Kingdom",[],0,[],0,[],0
+"Toronto, Ontario, Canada",[],0,[],0,[],0
+"Berkeley, California, United States",[],0,[],0,[],0
+"Lexington, Massachusetts, United States",[],0,[],0,[],0
+"Khartoum, Al Khartum, Sudan",[],0,[],0,[],0
+"Rome, Lazio, Italy",[],0,[],0,[],0

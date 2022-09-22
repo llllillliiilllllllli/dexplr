@@ -1,4 +1,5 @@
 import pandas as pd 
+import re
 
 def is_text(series: pd.Series) -> bool:
     return \
@@ -21,3 +22,17 @@ def is_datetime(series: pd.Series) -> bool:
     return \
         str(series.dtype) == "datetime64[ns]" \
         or str(series.dtype) == "DateTime64[ns]"
+
+def is_year(series: pd.Series) -> bool:
+    for _, value in series.iteritems():
+        if re.search(r"^[\d][\d][\d][\d]$", value) == None:
+            return False
+
+    return True
+
+def is_date(series: pd.Series) -> bool:
+    for _, value in series.iteritems():
+        if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", value) == None:
+            return False
+
+    return True

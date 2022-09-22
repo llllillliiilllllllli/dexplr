@@ -1,0 +1,954 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"Financial Services, Lending and Investments, Payments, Professional Services, Software",[],0,[],0,[],0
+"Government and Military, Other",[],0,[],0,[Other],1
+"Biotechnology, Education, Government and Military, Hardware, Health Care, Information Technology, Internet Services, Manufacturing, Mobile, Science and Engineering, Software, Sustainability",[Sustainability],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Community and Lifestyle, Financial Services, Other",[Community],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Health Care, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Energy, Financial Services, Lending and Investments, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Education, Financial Services, Lending and Investments, Other",[Education],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Privacy and Security",[Security],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+Energy,[Energy],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Community and Lifestyle, Data and Analytics, Design, Professional Services",[Community],1,[],0,[],0
+"Financial Services, Internet Services, Mobile, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Health Care, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Other, Professional Services",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Health Care, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Commerce and Shopping, Data and Analytics, Hardware, Manufacturing, Other, Professional Services, Science and Engineering, Software, Sustainability, Transportation",[Transportation],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Advertising, Gaming, Internet Services, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Education, Information Technology, Software",[Education],1,[],0,[],0
+"Financial Services, Government and Military",[],0,[],0,[],0
+"Financial Services, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Data and Analytics, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Commerce and Shopping, Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Hardware, Internet Services, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Advertising, Commerce and Shopping, Financial Services, Lending and Investments, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Government and Military",[],0,[],0,[],0
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Apps, Health Care, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Gaming, Hardware, Other, Software",[],0,[],0,[Other],1
+"Agriculture and Farming, Financial Services, Lending and Investments, Natural Resources, Sustainability","[Agriculture, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Agriculture and Farming, Data and Analytics, Financial Services, Hardware, Information Technology, Mobile, Privacy and Security, Sales and Marketing, Science and Engineering, Software",[Agriculture],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Hardware, Internet Services, Mobile",[Hardware],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Financial Services, Information Technology, Lending and Investments, Privacy and Security, Software",[Data],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Internet Services, Lending and Investments, Privacy and Security",[Security],1,[],0,[],0
+"Biotechnology, Financial Services, Hardware, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Content and Publishing, Events, Financial Services, Lending and Investments, Media and Entertainment, Sales and Marketing","[Events, Sales, Marketing]",3,[],0,[],0
+"Information Technology, Software",[],0,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Community and Lifestyle, Financial Services",[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Software",[],0,[],0,[],0
+"Apps, Commerce and Shopping, Software",[],0,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Lending and Investments, Other, Software",[],0,[],0,[Other],1
+"Agriculture and Farming, Financial Services, Information Technology, Media and Entertainment, Privacy and Security","[Agriculture, Security]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Information Technology, Other, Privacy and Security, Software, Sustainability",[Sustainability],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Administrative Services, Financial Services, Health Care, Information Technology, Payments, Privacy and Security",[Security],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Community and Lifestyle, Financial Services, Internet Services, Lending and Investments, Media and Entertainment, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Design, Financial Services, Lending and Investments","[Data, Investments]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Professional Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Information Technology, Lending and Investments, Privacy and Security, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Administrative Services, Biotechnology, Health Care, Mobile, Science and Engineering",[],0,[],0,[],0
+"Education, Software",[Education],1,[],0,[],0
+"Financial Services, Lending and Investments, Other, Professional Services",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Biotechnology, Data and Analytics, Education, Financial Services, Hardware, Health Care, Internet Services, Lending and Investments, Other, Science and Engineering, Software, Transportation",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Software",[],0,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Administrative Services, Education, Hardware, Information Technology, Internet Services, Mobile",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Information Technology, Internet Services, Privacy and Security, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Hardware, Internet Services, Lending and Investments, Mobile",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Information Technology, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Agriculture and Farming, Financial Services, Health Care, Lending and Investments, Other, Transportation","[Agriculture, Transportation]",2,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Agriculture and Farming, Education, Financial Services, Software",[Agriculture],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Science and Engineering",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Information Technology, Mobile, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Administrative Services, Government and Military, Professional Services",[],0,[],0,[],0
+"Financial Services, Professional Services, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Hardware, Lending and Investments, Other, Software",[],0,[],0,[Other],1
+"Biotechnology, Energy, Information Technology, Media and Entertainment, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other, Payments, Software",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Biotechnology, Community and Lifestyle, Health Care, Science and Engineering, Travel and Tourism",[Tourism],1,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Community and Lifestyle, Financial Services, Lending and Investments, Professional Services",[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Information Technology, Media and Entertainment, Privacy and Security",[Security],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Mobile, Software",[],0,[],0,[],0
+"Community and Lifestyle, Financial Services, Lending and Investments, Professional Services",[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Health Care, Information Technology",[],0,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Energy, Financial Services, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments, Mobile",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Information Technology, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Financial Services, Professional Services",[Data],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Other, Science and Engineering, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Community and Lifestyle, Financial Services, Lending and Investments, Professional Services",[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Sustainability,[Sustainability],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Professional Services, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Privacy and Security, Software, Transportation",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Information Technology, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Health Care, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Content and Publishing, Health Care, Information Technology, Media and Entertainment, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Community and Lifestyle, Financial Services, Lending and Investments","[Community, Investments]",2,[],0,[],0
+"Energy, Government and Military, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments, Mobile",[],0,[],0,[],0
+"Commerce and Shopping, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Health Care, Mobile",[],0,[],0,[],0
+"Financial Services, Hardware, Internet Services, Lending and Investments, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Professional Services,[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments, Other, Professional Services, Software",[],0,[],0,[Other],1
+"Community and Lifestyle, Education, Internet Services, Professional Services",[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Privacy and Security",[Security],1,[],0,[],0
+"Energy, Government and Military, Information Technology, Other, Privacy and Security, Professional Services, Real Estate, Sustainability, Transportation","[Energy, Sustainability, Transportation]",3,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Data and Analytics, Financial Services, Hardware, Health Care, Information Technology, Internet Services, Privacy and Security, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Apps, Gaming, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Internet Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Commerce and Shopping, Financial Services, Hardware, Internet Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Content and Publishing, Financial Services, Government and Military, Lending and Investments, Media and Entertainment, Real Estate",[],0,[],0,[Real],1
+"Artificial Intelligence, Data and Analytics, Financial Services, Science and Engineering, Software",[],0,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Energy, Financial Services, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Events, Media and Entertainment, Professional Services","[Events, Media]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Hardware, Health Care, Information Technology, Manufacturing, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Hardware, Software",[],0,[],0,[],0
+"Financial Services, Hardware, Lending and Investments, Manufacturing",[Manufacturing],1,[],0,[],0
+"Data and Analytics, Design, Hardware, Science and Engineering, Software",[Data],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments, Media and Entertainment, Real Estate",[],0,[],0,[Real],1
+"Agriculture and Farming, Financial Services, Information Technology, Internet Services, Lending and Investments","[Agriculture, Investments]",2,[],0,[],0
+"Financial Services, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Internet Services, Lending and Investments, Other, Professional Services",[],0,[],0,[Other],1
+"Consumer Electronics, Hardware, Internet Services, Mobile",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Government and Military, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Biotechnology, Financial Services, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other, Professional Services, Real Estate",[],0,[],0,"[Other, Real]",2
+"Commerce and Shopping, Financial Services, Hardware, Information Technology, Lending and Investments, Other, Science and Engineering, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Apps, Financial Services, Gaming, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Financial Services, Media and Entertainment, Real Estate",[],0,[],0,[Real],1
+"Financial Services, Information Technology, Media and Entertainment, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Mobile, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Agriculture and Farming, Biotechnology, Data and Analytics, Financial Services, Lending and Investments, Navigation and Mapping, Science and Engineering, Software",[Agriculture],1,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Financial Services, Government and Military",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Government and Military, Information Technology, Professional Services",[],0,[],0,[],0
+"Financial Services, Health Care",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Community and Lifestyle, Financial Services, Lending and Investments","[Community, Investments]",2,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Agriculture and Farming, Energy, Food and Beverage, Information Technology, Sustainability","[Agriculture, Sustainability]",2,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Apps, Information Technology, Mobile, Privacy and Security, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Community and Lifestyle, Financial Services, Other",[Community],1,[],0,[Other],1
+"Financial Services, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Community and Lifestyle, Other",[Community],1,[],0,[Other],1
+"Information Technology, Internet Services, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Government and Military, Information Technology, Real Estate",[],0,[],0,[],0
+Professional Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Consumer Electronics, Financial Services, Lending and Investments, Real Estate",[Consumer],1,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Information Technology, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Payments, Professional Services, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Health Care, Information Technology, Lending and Investments, Manufacturing, Other",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Platforms, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Mobile, Software",[],0,[],0,[],0
+"Administrative Services, Education, Financial Services, Internet Services, Mobile, Other, Sales and Marketing, Software",[Sales],1,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Data and Analytics, Financial Services, Internet Services, Software",[Data],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Financial Services, Professional Services, Software",[Data],1,[],0,[],0
+"Financial Services, Lending and Investments, Other, Software",[],0,[],0,[Other],1
+Financial Services,[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Financial Services, Lending and Investments","[Data, Investments]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Hardware, Mobile, Software",[],0,[],0,[],0
+"Financial Services, Media and Entertainment, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Hardware, Internet Services, Mobile, Other",[Hardware],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology",[],0,[],0,[],0
+"Government and Military, Information Technology",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software, Transportation",[],0,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Information Technology, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Community and Lifestyle, Other",[Community],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Education, Financial Services, Lending and Investments, Other, Professional Services, Software, Sustainability","[Education, Sustainability]",2,[],0,[Other],1
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Professional Services, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Biotechnology, Financial Services, Science and Engineering",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Other, Professional Services",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Data and Analytics, Government and Military, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Energy, Financial Services, Food and Beverage, Internet Services, Lending and Investments, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Privacy and Security",[Security],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Health Care, Other, Science and Engineering",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Financial Services, Hardware, Information Technology, Lending and Investments, Software",[],0,[],0,[],0
+"Energy, Financial Services, Lending and Investments, Other, Sustainability","[Energy, Sustainability]",2,[],0,[Other],1
+"Financial Services, Information Technology, Lending and Investments, Media and Entertainment, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Community and Lifestyle,[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software, Transportation",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Consumer Goods, Education, Financial Services, Hardware, Health Care, Other, Software",[Consumer],1,[],0,[Other],1
+"Financial Services, Other",[],0,[],0,[Other],1
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Hardware, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Advertising, Information Technology, Mobile, Other, Privacy and Security, Sales and Marketing, Software",[Advertising],1,[],0,[Other],1
+"Events, Media and Entertainment, Professional Services, Software","[Events, Media]",2,[],0,[],0
+Software,[Software],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments, Professional Services, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other, Professional Services",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Hardware, Media and Entertainment, Other",[Hardware],1,[],0,[Other],1
+"Financial Services, Internet Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Energy, Food and Beverage, Hardware, Health Care, Other, Science and Engineering, Software, Sustainability",[Sustainability],1,[],0,[Other],1
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Information Technology, Internet Services, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Hardware, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Hardware, Real Estate",[],0,[],0,[Real],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Sales and Marketing, Transportation","[Sales, Transportation]",2,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Apps, Education, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Consumer Electronics, Energy, Financial Services, Lending and Investments, Real Estate, Sustainability",[Sustainability],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Health Care, Lending and Investments, Media and Entertainment, Professional Services",[],0,[],0,[],0
+"Financial Services, Information Technology, Payments, Privacy and Security",[Security],1,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Biotechnology, Financial Services, Science and Engineering",[],0,[],0,[],0
+"Information Technology, Mobile, Transportation",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Other,[],0,[],0,[Other],1
+"Community and Lifestyle, Events, Financial Services, Lending and Investments, Media and Entertainment, Professional Services",[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Community and Lifestyle,[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Health Care, Information Technology, Lending and Investments, Software",[],0,[],0,[],0
+"Education, Financial Services, Information Technology, Internet Services, Media and Entertainment, Other, Software",[Education],1,[],0,[Other],1
+"Financial Services, Lending and Investments, Other, Real Estate",[Estate],1,[],0,"[Other, Real]",2
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Design, Education, Software, Travel and Tourism","[Data, Tourism]",2,[],0,[],0
+"Financial Services, Hardware, Information Technology, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Travel and Tourism",[Tourism],1,[],0,[],0
+"Advertising, Financial Services, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Internet Services, Lending and Investments, Other",[],0,[],0,[Other],1
+Financial Services,[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Health Care, Other, Payments, Real Estate, Software",[Payments],1,[],0,[Other],1
+"Apps, Education, Financial Services, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Financial Services, Lending and Investments","[Data, Investments]",2,[],0,[],0
+"Data and Analytics, Information Technology, Internet Services, Software",[Data],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Agriculture and Farming, Artificial Intelligence, Data and Analytics, Financial Services, Health Care, Internet Services, Lending and Investments, Other, Privacy and Security, Science and Engineering, Software",[Agriculture],1,[],0,[Other],1
+"Financial Services, Lending and Investments, Other, Professional Services",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Real Estate, Software, Transportation",[],0,[],0,[Real],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Health Care, Information Technology, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Science and Engineering, Software",[],0,[],0,[],0
+"Commerce and Shopping, Financial Services, Government and Military, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Hardware, Health Care, Other, Professional Services, Science and Engineering, Software, Sustainability",[Sustainability],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Biotechnology, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Agriculture and Farming, Financial Services, Hardware, Lending and Investments, Science and Engineering, Software, Transportation",[Agriculture],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Information Technology, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Health Care, Information Technology",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Information Technology, Internet Services, Lending and Investments, Privacy and Security",[Security],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Agriculture and Farming, Financial Services, Food and Beverage, Lending and Investments","[Agriculture, Investments]",2,[],0,[],0
+"Financial Services, Government and Military, Information Technology, Lending and Investments, Real Estate, Sustainability",[Sustainability],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Consumer Electronics, Financial Services, Gaming, Hardware, Information Technology, Lending and Investments, Privacy and Security, Transportation",[Consumer],1,[],0,[],0
+"Data and Analytics, Education, Financial Services, Lending and Investments, Science and Engineering, Software",[Data],1,[],0,[],0
+"Events, Financial Services, Internet Services, Lending and Investments, Media and Entertainment, Professional Services, Real Estate, Transportation","[Events, Transportation]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Community and Lifestyle, Consumer Goods, Financial Services, Food and Beverage, Health Care",[Community],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Consumer Goods, Financial Services, Lending and Investments, Other",[Consumer],1,[],0,[Other],1
+"Financial Services, Lending and Investments, Sustainability",[Sustainability],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Consumer Electronics, Data and Analytics, Financial Services, Hardware, Health Care, Information Technology, Internet Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Mobile",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Education, Financial Services, Lending and Investments, Software",[Education],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Community and Lifestyle, Data and Analytics, Financial Services, Media and Entertainment, Other, Sales and Marketing, Sports","[Community, Sales, Sports]",3,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Administrative Services, Commerce and Shopping, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Government and Military,[Government],1,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Internet Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Privacy and Security, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Commerce and Shopping, Education, Financial Services, Hardware, Health Care, Information Technology, Internet Services, Science and Engineering, Software, Sustainability",[Sustainability],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Privacy and Security",[Security],1,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Other, Transportation",[Transportation],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Education, Financial Services, Information Technology, Media and Entertainment",[],0,[],0,[],0
+"Biotechnology, Education, Financial Services, Lending and Investments, Professional Services, Science and Engineering",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Health Care, Other, Science and Engineering",[],0,[],0,[Other],1
+"Agriculture and Farming, Community and Lifestyle, Education, Energy, Financial Services, Health Care, Lending and Investments, Natural Resources, Sustainability","[Agriculture, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Financial Services, Hardware, Internet Services, Lending and Investments, Software",[Data],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Information Technology",[],0,[],0,[],0
+"Apps, Community and Lifestyle, Data and Analytics, Financial Services, Lending and Investments, Mobile, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Other, Science and Engineering, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Mobile, Professional Services",[],0,[],0,[],0
+"Financial Services, Health Care, Information Technology, Lending and Investments, Mobile, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Internet Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Lending and Investments, Mobile, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Energy, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Commerce and Shopping, Consumer Goods, Financial Services, Hardware, Health Care, Lending and Investments, Science and Engineering, Software, Transportation",[],0,[],0,[],0
+"Energy, Financial Services, Lending and Investments","[Energy, Investments]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Travel and Tourism",[Tourism],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Hardware, Other, Real Estate, Science and Engineering, Software, Transportation",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Gaming, Hardware, Lending and Investments, Media and Entertainment, Software, Sports",[Sports],1,[],0,[],0
+"Financial Services, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Gaming, Information Technology, Internet Services, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+Internet Services,[],0,[],0,[],0
+"Content and Publishing, Financial Services, Internet Services, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Education, Financial Services, Lending and Investments, Mobile",[Education],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Financial Services, Mobile, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Commerce and Shopping, Hardware, Software",[],0,[],0,[],0
+"Financial Services, Information Technology, Internet Services, Other",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Hardware, Information Technology, Internet Services, Lending and Investments, Privacy and Security",[Security],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Manufacturing, Transportation",[Transportation],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Media and Entertainment",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Other",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Lending and Investments, Other",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Financial Services, Health Care, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Education, Financial Services, Software",[Education],1,[],0,[],0
+"Data and Analytics, Financial Services, Health Care, Lending and Investments, Software",[Data],1,[],0,[],0
+"Hardware, Information Technology",[Hardware],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Government and Military, Information Technology",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Internet Services, Software",[],0,[],0,[],0

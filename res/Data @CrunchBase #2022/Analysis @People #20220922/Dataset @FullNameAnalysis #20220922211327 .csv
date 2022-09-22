@@ -1,0 +1,2539 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Edward Lando,Edward,2,1,6,Edward,PROPN,NNP,compound,Xxxxx,0.0
+Edward Lando,Lando,2,1,5,Lando,PROPN,NNP,ROOT,Xxxxx,0.0
+Atlas Benjelloun,Atlas,2,1,5,Atlas,PROPN,NNP,compound,Xxxxx,0.0
+Atlas Benjelloun,Benjelloun,2,1,10,Benjelloun,PROPN,NNP,ROOT,Xxxxx,0.0
+Nadav Ben-Chanoch,Nadav,2,1,5,Nadav,PROPN,NNP,compound,Xxxxx,0.0
+Nadav Ben-Chanoch,Ben,2,1,3,Ben,PROPN,NNP,compound,Xxx,0.0
+Nadav Ben-Chanoch,-,2,1,1,-,PROPN,NNP,punct,-,0.0
+Nadav Ben-Chanoch,Chanoch,2,1,7,Chanoch,PROPN,NNP,ROOT,Xxxxx,0.0
+Balaji Srinivasan,Balaji,2,1,6,Balaji,PROPN,NNP,compound,Xxxxx,0.0
+Balaji Srinivasan,Srinivasan,2,1,10,Srinivasan,PROPN,NNP,ROOT,Xxxxx,0.0
+Tom Williams,Tom,2,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom Williams,Williams,2,1,8,Williams,PROPN,NNP,ROOT,Xxxxx,0.0
+Kayce Brown,Kayce,2,1,5,Kayce,PROPN,NNP,compound,Xxxxx,0.0
+Kayce Brown,Brown,2,1,5,Brown,PROPN,NNP,ROOT,Xxxxx,0.0
+Jon Oringer,Jon,2,1,3,Jon,PROPN,NNP,compound,Xxx,0.0
+Jon Oringer,Oringer,2,1,7,Oringer,PROPN,NNP,ROOT,Xxxxx,0.0
+Uday Kumar Bangalore Shivaraman,Uday,4,1,4,Uday,PROPN,NNP,compound,Xxxx,0.0
+Uday Kumar Bangalore Shivaraman,Kumar,4,1,5,Kumar,PROPN,NNP,compound,Xxxxx,0.0
+Uday Kumar Bangalore Shivaraman,Bangalore,4,1,9,Bangalore,PROPN,NNP,compound,Xxxxx,0.0
+Uday Kumar Bangalore Shivaraman,Shivaraman,4,1,10,Shivaraman,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr. Raphael Nagel,Dr.,3,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Raphael Nagel,Raphael,3,1,7,Raphael,PROPN,NNP,compound,Xxxxx,0.0
+Dr. Raphael Nagel,Nagel,3,1,5,Nagel,PROPN,NNP,ROOT,Xxxxx,0.0
+Trevor Wright,Trevor,2,1,6,Trevor,PROPN,NNP,compound,Xxxxx,0.0
+Trevor Wright,Wright,2,1,6,Wright,PROPN,NNP,ROOT,Xxxxx,0.0
+Charlie Songhurst,Charlie,2,1,7,Charlie,PROPN,NNP,compound,Xxxxx,0.0
+Charlie Songhurst,Songhurst,2,1,9,Songhurst,PROPN,NNP,ROOT,Xxxxx,0.0
+Ashini Gogoi,Ashini,2,1,6,Ashini,PROPN,NNP,compound,Xxxxx,0.0
+Ashini Gogoi,Gogoi,2,1,5,Gogoi,PROPN,NNP,ROOT,Xxxxx,0.0
+Ratul Puri,Ratul,2,1,5,Ratul,PROPN,NNP,compound,Xxxxx,0.0
+Ratul Puri,Puri,2,1,4,Puri,PROPN,NNP,ROOT,Xxxx,0.0
+Aman Gupta,Aman,2,1,4,Aman,PROPN,NNP,compound,Xxxx,0.0
+Aman Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Lachy Groom,Lachy,2,1,5,Lachy,PROPN,NNP,compound,Xxxxx,0.0
+Lachy Groom,Groom,2,1,5,Groom,PROPN,NNP,ROOT,Xxxxx,0.0
+Adam Neumann,Adam,2,1,4,Adam,PROPN,NNP,compound,Xxxx,0.0
+Adam Neumann,Neumann,2,1,7,Neumann,PROPN,NNP,ROOT,Xxxxx,0.0
+Asish Mohapatra,Asish,2,1,5,Asish,PROPN,NNP,compound,Xxxxx,0.0
+Asish Mohapatra,Mohapatra,2,1,9,Mohapatra,PROPN,NNP,ROOT,Xxxxx,0.0
+Jawed Karim,Jawed,2,1,5,Jawed,PROPN,NNP,compound,Xxxxx,0.0
+Jawed Karim,Karim,2,1,5,Karim,PROPN,NNP,ROOT,Xxxxx,0.0
+Jackson Moses,Jackson,2,1,7,Jackson,PROPN,NNP,compound,Xxxxx,0.0
+Jackson Moses,Moses,2,1,5,Moses,PROPN,NNP,ROOT,Xxxxx,0.0
+Sam Altman,Sam,2,1,3,Sam,PROPN,NNP,compound,Xxx,0.0
+Sam Altman,Altman,2,1,6,Altman,PROPN,NNP,ROOT,Xxxxx,0.0
+Ramakant Sharma,Ramakant,2,1,8,Ramakant,PROPN,NNP,compound,Xxxxx,0.0
+Ramakant Sharma,Sharma,2,1,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Didier Valet,Didier,2,1,6,didier,NOUN,NN,compound,Xxxxx,0.0
+Didier Valet,Valet,2,1,5,Valet,PROPN,NNP,ROOT,Xxxxx,0.0
+Nitin Gupta,Nitin,2,1,5,Nitin,PROPN,NNP,compound,Xxxxx,0.0
+Nitin Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Alexis Barreyat,Alexis,2,1,6,Alexis,PROPN,NNP,compound,Xxxxx,0.0
+Alexis Barreyat,Barreyat,2,1,8,Barreyat,PROPN,NNP,ROOT,Xxxxx,0.0
+Shantanu Deshpande,Shantanu,2,1,8,Shantanu,PROPN,NNP,nsubj,Xxxxx,0.0
+Shantanu Deshpande,Deshpande,2,1,9,Deshpande,PROPN,NNP,ROOT,Xxxxx,0.0
+Shawn Boday,Shawn,2,1,5,Shawn,PROPN,NNP,ROOT,Xxxxx,0.0
+Shawn Boday,Boday,2,1,5,Boday,PROPN,NNP,npadvmod,Xxxxx,0.0
+Topp Jirayut Srupsrisopa,Topp,3,1,4,Topp,PROPN,NNP,compound,Xxxx,0.0
+Topp Jirayut Srupsrisopa,Jirayut,3,1,7,Jirayut,PROPN,NNP,compound,Xxxxx,0.0
+Topp Jirayut Srupsrisopa,Srupsrisopa,3,1,11,Srupsrisopa,PROPN,NNP,ROOT,Xxxxx,0.0
+Kunal Shah,Kunal,2,1,5,Kunal,PROPN,NNP,compound,Xxxxx,0.0
+Kunal Shah,Shah,2,1,4,Shah,PROPN,NNP,ROOT,Xxxx,0.0
+Ullas Naik,Ullas,2,1,5,Ullas,PROPN,NNP,compound,Xxxxx,0.0
+Ullas Naik,Naik,2,1,4,Naik,PROPN,NNP,ROOT,Xxxx,0.0
+Raj Chowdhury,Raj,2,1,3,raj,ADV,RB,advmod,Xxx,0.0
+Raj Chowdhury,Chowdhury,2,1,9,Chowdhury,PROPN,NNP,ROOT,Xxxxx,0.0
+Chris Schagen,Chris,2,1,5,Chris,PROPN,NNP,compound,Xxxxx,0.0
+Chris Schagen,Schagen,2,1,7,Schagen,PROPN,NNP,ROOT,Xxxxx,0.0
+Anndy Lian,Anndy,2,1,5,Anndy,PROPN,NNP,compound,Xxxxx,0.0
+Anndy Lian,Lian,2,1,4,Lian,PROPN,NNP,ROOT,Xxxx,0.0
+Piero Montelli,Piero,2,1,5,Piero,PROPN,NNP,compound,Xxxxx,0.0
+Piero Montelli,Montelli,2,1,8,Montelli,PROPN,NNP,ROOT,Xxxxx,0.0
+Sushil Sharma,Sushil,2,1,6,Sushil,PROPN,NNP,compound,Xxxxx,0.0
+Sushil Sharma,Sharma,2,1,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Kevin Lin,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Lin,Lin,2,1,3,Lin,PROPN,NNP,ROOT,Xxx,0.0
+Rajat Khare,Rajat,2,1,5,Rajat,PROPN,NNP,compound,Xxxxx,0.0
+Rajat Khare,Khare,2,1,5,Khare,PROPN,NNP,ROOT,Xxxxx,0.0
+Aron Govil,Aron,2,1,4,Aron,PROPN,NNP,compound,Xxxx,0.0
+Aron Govil,Govil,2,1,5,Govil,PROPN,NNP,ROOT,Xxxxx,0.0
+Serena Williams,Serena,2,1,6,Serena,PROPN,NNP,compound,Xxxxx,0.0
+Serena Williams,Williams,2,1,8,Williams,PROPN,NNP,ROOT,Xxxxx,0.0
+Bill Schantz,Bill,2,1,4,Bill,PROPN,NNP,compound,Xxxx,0.0
+Bill Schantz,Schantz,2,1,7,Schantz,PROPN,NNP,ROOT,Xxxxx,0.0
+Scott Belsky,Scott,2,1,5,Scott,PROPN,NNP,compound,Xxxxx,0.0
+Scott Belsky,Belsky,2,1,6,Belsky,PROPN,NNP,ROOT,Xxxxx,0.0
+Justin Kan,Justin,2,1,6,Justin,PROPN,NNP,compound,Xxxxx,0.0
+Justin Kan,Kan,2,1,3,Kan,PROPN,NNP,ROOT,Xxx,0.0
+Bo Polny,Bo,2,1,2,Bo,PROPN,NNP,compound,Xx,0.0
+Bo Polny,Polny,2,1,5,Polny,PROPN,NNP,ROOT,Xxxxx,0.0
+Jack Altman,Jack,2,1,4,Jack,PROPN,NNP,compound,Xxxx,0.0
+Jack Altman,Altman,2,1,6,Altman,PROPN,NNP,ROOT,Xxxxx,0.0
+Niraj Singh,Niraj,2,1,5,Niraj,PROPN,NNP,compound,Xxxxx,0.0
+Niraj Singh,Singh,2,1,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+Peyush Bansal,Peyush,2,1,6,Peyush,PROPN,NNP,compound,Xxxxx,0.0
+Peyush Bansal,Bansal,2,1,6,Bansal,PROPN,NNP,ROOT,Xxxxx,0.0
+Chris Sang,Chris,2,1,5,Chris,PROPN,NNP,compound,Xxxxx,0.0
+Chris Sang,Sang,2,1,4,Sang,PROPN,NNP,ROOT,Xxxx,0.0
+Grant Cardone,Grant,2,1,5,Grant,PROPN,NNP,compound,Xxxxx,0.0
+Grant Cardone,Cardone,2,1,7,Cardone,PROPN,NNP,ROOT,Xxxxx,0.0
+Alexis Ohanian,Alexis,2,1,6,Alexis,PROPN,NNP,compound,Xxxxx,0.0
+Alexis Ohanian,Ohanian,2,1,7,Ohanian,PROPN,NNP,ROOT,Xxxxx,0.0
+Jaynti Kanani,Jaynti,2,1,6,Jaynti,PROPN,NNP,compound,Xxxxx,0.0
+Jaynti Kanani,Kanani,2,1,6,Kanani,PROPN,NNP,ROOT,Xxxxx,0.0
+Amit Lakhotia,Amit,2,1,4,amit,VERB,VB,compound,Xxxx,0.0
+Amit Lakhotia,Lakhotia,2,1,8,Lakhotia,PROPN,NNP,ROOT,Xxxxx,0.0
+Meltem Demirors,Meltem,2,1,6,Meltem,PROPN,NNP,compound,Xxxxx,0.0
+Meltem Demirors,Demirors,2,1,8,Demirors,PROPN,NNP,ROOT,Xxxxx,0.0
+Jonathan Herman,Jonathan,2,1,8,Jonathan,PROPN,NNP,compound,Xxxxx,0.0
+Jonathan Herman,Herman,2,1,6,Herman,PROPN,NNP,ROOT,Xxxxx,0.0
+David Moradi,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Moradi,Moradi,2,1,6,Moradi,PROPN,NNP,ROOT,Xxxxx,0.0
+Amir Khoshniyati,Amir,2,1,4,Amir,PROPN,NNP,compound,Xxxx,0.0
+Amir Khoshniyati,Khoshniyati,2,1,11,Khoshniyati,PROPN,NNP,ROOT,Xxxxx,0.0
+Shane Neman,Shane,2,1,5,Shane,PROPN,NNP,compound,Xxxxx,0.0
+Shane Neman,Neman,2,1,5,Neman,PROPN,NNP,ROOT,Xxxxx,0.0
+Varun Alagh,Varun,2,1,5,Varun,PROPN,NNP,compound,Xxxxx,0.0
+Varun Alagh,Alagh,2,1,5,Alagh,PROPN,NNP,ROOT,Xxxxx,0.0
+George Burke,George,2,1,6,George,PROPN,NNP,compound,Xxxxx,0.0
+George Burke,Burke,2,1,5,Burke,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,Bocoran,10,1,7,bocoran,ADJ,JJ,amod,Xxxxx,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,jitu,10,1,4,jitu,NOUN,NN,nsubj,xxxx,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,angka,10,1,5,angka,VERB,VBD,ROOT,xxxx,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,HK,10,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,6,10,1,1,6,NUM,CD,nummod,d,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,juni,10,1,4,juni,PROPN,NNP,nmod,xxxx,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,2022,10,1,4,2022,NUM,CD,appos,dddd,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,prediksi,10,1,8,prediksi,PROPN,NNP,dobj,xxxx,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,top,10,1,3,top,PROPN,NNP,compound,xxx,0.0
+Bocoran jitu angka HK 6 juni 2022 prediksi top hk,hk,10,1,2,hk,PROPN,NNP,dobj,xx,0.0
+Stani Kulechov,Stani,2,1,5,Stani,PROPN,NNP,compound,Xxxxx,0.0
+Stani Kulechov,Kulechov,2,1,8,Kulechov,PROPN,NNP,ROOT,Xxxxx,0.0
+Andrew Izyumov,Andrew,2,1,6,Andrew,PROPN,NNP,compound,Xxxxx,0.0
+Andrew Izyumov,Izyumov,2,1,7,Izyumov,PROPN,NNP,ROOT,Xxxxx,0.0
+Binny Bansal,Binny,2,1,5,Binny,PROPN,NNP,compound,Xxxxx,0.0
+Binny Bansal,Bansal,2,1,6,Bansal,PROPN,NNP,ROOT,Xxxxx,0.0
+Marco Valta,Marco,2,1,5,Marco,PROPN,NNP,compound,Xxxxx,0.0
+Marco Valta,Valta,2,1,5,Valta,PROPN,NNP,ROOT,Xxxxx,0.0
+Gustavo Arnal,Gustavo,2,1,7,Gustavo,PROPN,NNP,compound,Xxxxx,0.0
+Gustavo Arnal,Arnal,2,1,5,Arnal,PROPN,NNP,ROOT,Xxxxx,0.0
+Ignacio Saenz Valiente,Ignacio,3,1,7,Ignacio,PROPN,NNP,compound,Xxxxx,0.0
+Ignacio Saenz Valiente,Saenz,3,1,5,Saenz,PROPN,NNP,compound,Xxxxx,0.0
+Ignacio Saenz Valiente,Valiente,3,1,8,Valiente,PROPN,NNP,ROOT,Xxxxx,0.0
+Rene Reinsberg,Rene,2,1,4,Rene,PROPN,NNP,compound,Xxxx,0.0
+Rene Reinsberg,Reinsberg,2,1,9,Reinsberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Devang Thakkar,Devang,2,1,6,Devang,PROPN,NNP,compound,Xxxxx,0.0
+Devang Thakkar,Thakkar,2,1,7,Thakkar,PROPN,NNP,ROOT,Xxxxx,0.0
+Kevin Durant,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Durant,Durant,2,1,6,Durant,PROPN,NNP,ROOT,Xxxxx,0.0
+Jerry Yang,Jerry,2,1,5,Jerry,PROPN,NNP,compound,Xxxxx,0.0
+Jerry Yang,Yang,2,1,4,Yang,PROPN,NNP,ROOT,Xxxx,0.0
+Ihar Mahaniok,Ihar,2,1,4,Ihar,PROPN,NNP,compound,Xxxx,0.0
+Ihar Mahaniok,Mahaniok,2,1,8,Mahaniok,PROPN,NNP,ROOT,Xxxxx,0.0
+Trine Marie Hansen,Trine,3,1,5,Trine,PROPN,NNP,compound,Xxxxx,0.0
+Trine Marie Hansen,Marie,3,1,5,Marie,PROPN,NNP,compound,Xxxxx,0.0
+Trine Marie Hansen,Hansen,3,1,6,Hansen,PROPN,NNP,ROOT,Xxxxx,0.0
+Glenn Kelman,Glenn,2,1,5,Glenn,PROPN,NNP,compound,Xxxxx,0.0
+Glenn Kelman,Kelman,2,1,6,Kelman,PROPN,NNP,ROOT,Xxxxx,0.0
+prediksi togel hk hari ini 2022 bocoranjitu.org,prediksi,7,1,8,prediksi,PROPN,NNP,compound,xxxx,0.0
+prediksi togel hk hari ini 2022 bocoranjitu.org,togel,7,1,5,togel,PROPN,NNP,compound,xxxx,0.0
+prediksi togel hk hari ini 2022 bocoranjitu.org,hk,7,1,2,hk,PROPN,NNP,compound,xx,0.0
+prediksi togel hk hari ini 2022 bocoranjitu.org,hari,7,1,4,hari,PROPN,NNP,compound,xxxx,0.0
+prediksi togel hk hari ini 2022 bocoranjitu.org,ini,7,1,3,ini,PROPN,NNP,ROOT,xxx,0.0
+prediksi togel hk hari ini 2022 bocoranjitu.org,2022,7,1,4,2022,NUM,CD,npadvmod,dddd,0.0
+prediksi togel hk hari ini 2022 bocoranjitu.org,bocoranjitu.org,7,1,15,bocoranjitu.org,X,ADD,punct,xxxx.xxx,0.0
+Sebastien Borget,Sebastien,2,1,9,Sebastien,PROPN,NNP,compound,Xxxxx,0.0
+Sebastien Borget,Borget,2,1,6,Borget,PROPN,NNP,ROOT,Xxxxx,0.0
+Kevin Hartz,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Hartz,Hartz,2,1,5,Hartz,PROPN,NNP,ROOT,Xxxxx,0.0
+Mustafa Suleyman,Mustafa,2,1,7,Mustafa,PROPN,NNP,compound,Xxxxx,0.0
+Mustafa Suleyman,Suleyman,2,1,8,Suleyman,PROPN,NNP,ROOT,Xxxxx,0.0
+Natalie Carnegie,Natalie,2,1,7,Natalie,PROPN,NNP,compound,Xxxxx,0.0
+Natalie Carnegie,Carnegie,2,1,8,Carnegie,PROPN,NNP,ROOT,Xxxxx,0.0
+Phillip Nunn,Phillip,2,1,7,Phillip,PROPN,NNP,compound,Xxxxx,0.0
+Phillip Nunn,Nunn,2,1,4,Nunn,PROPN,NNP,ROOT,Xxxx,0.0
+Michelle Kennedy,Michelle,2,1,8,Michelle,PROPN,NNP,compound,Xxxxx,0.0
+Michelle Kennedy,Kennedy,2,1,7,Kennedy,PROPN,NNP,ROOT,Xxxxx,0.0
+Martine Paris,Martine,2,1,7,Martine,PROPN,NNP,compound,Xxxxx,0.0
+Martine Paris,Paris,2,1,5,Paris,PROPN,NNP,ROOT,Xxxxx,0.0
+Naval Ravikant,Naval,2,1,5,Naval,PROPN,NNP,compound,Xxxxx,0.0
+Naval Ravikant,Ravikant,2,1,8,Ravikant,PROPN,NNP,ROOT,Xxxxx,0.0
+Andrea Zanon,Andrea,2,1,6,Andrea,PROPN,NNP,compound,Xxxxx,0.0
+Andrea Zanon,Zanon,2,1,5,Zanon,PROPN,NNP,ROOT,Xxxxx,0.0
+Ruchi Kalra,Ruchi,2,1,5,Ruchi,PROPN,NNP,compound,Xxxxx,0.0
+Ruchi Kalra,Kalra,2,1,5,Kalra,PROPN,NNP,ROOT,Xxxxx,0.0
+Anne Wojcicki,Anne,2,1,4,Anne,PROPN,NNP,compound,Xxxx,0.0
+Anne Wojcicki,Wojcicki,2,1,8,Wojcicki,PROPN,NNP,ROOT,Xxxxx,0.0
+Ishan Wahi,Ishan,2,1,5,Ishan,PROPN,NNP,compound,Xxxxx,0.0
+Ishan Wahi,Wahi,2,1,4,Wahi,PROPN,NNP,ROOT,Xxxx,0.0
+Dr Candice Matthews,Dr,3,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Candice Matthews,Candice,3,1,7,Candice,PROPN,NNP,compound,Xxxxx,0.0
+Dr Candice Matthews,Matthews,3,1,8,Matthews,PROPN,NNP,ROOT,Xxxxx,0.0
+Christian Vizcaino Jordan,Christian,3,1,9,Christian,PROPN,NNP,amod,Xxxxx,0.0
+Christian Vizcaino Jordan,Vizcaino,3,1,8,Vizcaino,PROPN,NNP,compound,Xxxxx,0.0
+Christian Vizcaino Jordan,Jordan,3,1,6,Jordan,PROPN,NNP,ROOT,Xxxxx,0.0
+bocoran hk 4d pasti tembus prediksitogelhk.one,bocoran,6,1,7,bocoran,PROPN,NNP,ROOT,xxxx,0.0
+bocoran hk 4d pasti tembus prediksitogelhk.one,hk,6,1,2,hk,PROPN,NNP,nmod,xx,0.0
+bocoran hk 4d pasti tembus prediksitogelhk.one,4d,6,1,2,4d,PROPN,NNP,compound,dx,0.0
+bocoran hk 4d pasti tembus prediksitogelhk.one,pasti,6,1,5,pasti,NOUN,NNS,appos,xxxx,0.0
+bocoran hk 4d pasti tembus prediksitogelhk.one,tembus,6,1,6,tembus,PROPN,NNP,compound,xxxx,0.0
+bocoran hk 4d pasti tembus prediksitogelhk.one,prediksitogelhk.one,6,1,19,prediksitogelhk.one,X,ADD,appos,xxxx.xxx,0.0
+Gil Regev,Gil,2,1,3,Gil,PROPN,NNP,compound,Xxx,0.0
+Gil Regev,Regev,2,1,5,Regev,PROPN,NNP,ROOT,Xxxxx,0.0
+Eduardo Ibanez,Eduardo,2,1,7,Eduardo,PROPN,NNP,compound,Xxxxx,0.0
+Eduardo Ibanez,Ibanez,2,1,6,Ibanez,PROPN,NNP,ROOT,Xxxxx,0.0
+Sergey Shalunov,Sergey,2,1,6,Sergey,PROPN,NNP,compound,Xxxxx,0.0
+Sergey Shalunov,Shalunov,2,1,8,Shalunov,PROPN,NNP,ROOT,Xxxxx,0.0
+Sujeet Kumar,Sujeet,2,1,6,Sujeet,PROPN,NNP,compound,Xxxxx,0.0
+Sujeet Kumar,Kumar,2,1,5,Kumar,PROPN,NNP,ROOT,Xxxxx,0.0
+Patrick Spaulding Ryan Ph.D,Patrick,4,1,7,Patrick,PROPN,NNP,compound,Xxxxx,0.0
+Patrick Spaulding Ryan Ph.D,Spaulding,4,1,9,Spaulding,PROPN,NNP,compound,Xxxxx,0.0
+Patrick Spaulding Ryan Ph.D,Ryan,4,1,4,Ryan,PROPN,NNP,compound,Xxxx,0.0
+Patrick Spaulding Ryan Ph.D,Ph,4,1,2,Ph,PROPN,NNP,ROOT,Xx,0.0
+Patrick Spaulding Ryan Ph.D,.,4,1,1,.,PROPN,NNP,nmod,.,0.0
+Patrick Spaulding Ryan Ph.D,D,4,1,1,d,NOUN,NN,punct,X,0.0
+Chris Adelsbach,Chris,2,1,5,Chris,PROPN,NNP,compound,Xxxxx,0.0
+Chris Adelsbach,Adelsbach,2,1,9,Adelsbach,PROPN,NNP,ROOT,Xxxxx,0.0
+Jonah Engler,Jonah,2,1,5,Jonah,PROPN,NNP,compound,Xxxxx,0.0
+Jonah Engler,Engler,2,1,6,Engler,PROPN,NNP,ROOT,Xxxxx,0.0
+James Siminoff,James,2,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James Siminoff,Siminoff,2,1,8,Siminoff,PROPN,NNP,ROOT,Xxxxx,0.0
+Rohit Bansal,Rohit,2,1,5,Rohit,PROPN,NNP,compound,Xxxxx,0.0
+Rohit Bansal,Bansal,2,1,6,Bansal,PROPN,NNP,ROOT,Xxxxx,0.0
+Kevin Francis Marcaida,Kevin,3,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Francis Marcaida,Francis,3,1,7,Francis,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Francis Marcaida,Marcaida,3,1,8,Marcaida,PROPN,NNP,ROOT,Xxxxx,0.0
+Alex Reinhardt,Alex,2,1,4,Alex,PROPN,NNP,compound,Xxxx,0.0
+Alex Reinhardt,Reinhardt,2,1,9,reinhardt,ADV,RB,ROOT,Xxxxx,0.0
+Anatoly Yakovenko,Anatoly,2,1,7,Anatoly,PROPN,NNP,compound,Xxxxx,0.0
+Anatoly Yakovenko,Yakovenko,2,1,9,Yakovenko,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu Hari ini,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu Hari ini,Togel,6,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu Hari ini,Sydney,6,1,6,Sydney,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu Hari ini,Terjitu,6,1,7,Terjitu,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu Hari ini,Hari,6,1,4,Hari,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel Sydney Terjitu Hari ini,ini,6,1,3,ini,NOUN,NN,ROOT,xxx,0.0
+Matthew Leibowitz,Matthew,2,1,7,Matthew,PROPN,NNP,compound,Xxxxx,0.0
+Matthew Leibowitz,Leibowitz,2,1,9,Leibowitz,PROPN,NNP,ROOT,Xxxxx,0.0
+Private Investors,Private,2,1,7,private,ADJ,JJ,amod,Xxxxx,0.0
+Private Investors,Investors,2,1,9,investor,NOUN,NNS,ROOT,Xxxxx,0.0
+Immad Akhund,Immad,2,1,5,Immad,PROPN,NNP,compound,Xxxxx,0.0
+Immad Akhund,Akhund,2,1,6,Akhund,PROPN,NNP,ROOT,Xxxxx,0.0
+Gabriel Leydon,Gabriel,2,1,7,Gabriel,PROPN,NNP,compound,Xxxxx,0.0
+Gabriel Leydon,Leydon,2,1,6,Leydon,PROPN,NNP,ROOT,Xxxxx,0.0
+Siddharth Menon,Siddharth,2,1,9,Siddharth,PROPN,NNP,compound,Xxxxx,0.0
+Siddharth Menon,Menon,2,1,5,Menon,PROPN,NNP,ROOT,Xxxxx,0.0
+Wesley Fei,Wesley,2,1,6,Wesley,PROPN,NNP,compound,Xxxxx,0.0
+Wesley Fei,Fei,2,1,3,Fei,PROPN,NNP,ROOT,Xxx,0.0
+Mark Galvin,Mark,2,1,4,Mark,PROPN,NNP,compound,Xxxx,0.0
+Mark Galvin,Galvin,2,1,6,Galvin,PROPN,NNP,ROOT,Xxxxx,0.0
+Chris Terry,Chris,2,1,5,Chris,PROPN,NNP,compound,Xxxxx,0.0
+Chris Terry,Terry,2,1,5,Terry,PROPN,NNP,ROOT,Xxxxx,0.0
+Sahil Barua,Sahil,2,1,5,Sahil,PROPN,NNP,compound,Xxxxx,0.0
+Sahil Barua,Barua,2,1,5,Barua,PROPN,NNP,ROOT,Xxxxx,0.0
+Behdad Eghbali,Behdad,2,1,6,Behdad,PROPN,NNP,compound,Xxxxx,0.0
+Behdad Eghbali,Eghbali,2,1,7,Eghbali,PROPN,NNP,ROOT,Xxxxx,0.0
+Brian C. Jensen,Brian,3,2,5,Brian,PROPN,NNP,compound,Xxxxx,0.0
+Brian C. Jensen,C.,3,2,2,C.,PROPN,NNP,compound,X.,0.0
+Brian C. Jensen,Jensen,3,2,6,Jensen,PROPN,NNP,ROOT,Xxxxx,0.0
+Paul Buchheit,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Buchheit,Buchheit,2,1,8,Buchheit,PROPN,NNP,ROOT,Xxxxx,0.0
+Sudeep Ramnani,Sudeep,2,1,6,Sudeep,PROPN,NNP,compound,Xxxxx,0.0
+Sudeep Ramnani,Ramnani,2,1,7,Ramnani,PROPN,NNP,ROOT,Xxxxx,0.0
+Kain Warwick,Kain,2,1,4,Kain,PROPN,NNP,compound,Xxxx,0.0
+Kain Warwick,Warwick,2,1,7,Warwick,PROPN,NNP,ROOT,Xxxxx,0.0
+Andrew Pearce,Andrew,2,1,6,Andrew,PROPN,NNP,compound,Xxxxx,0.0
+Andrew Pearce,Pearce,2,1,6,Pearce,PROPN,NNP,ROOT,Xxxxx,0.0
+Reid Hoffman,Reid,2,1,4,Reid,PROPN,NNP,compound,Xxxx,0.0
+Reid Hoffman,Hoffman,2,1,7,Hoffman,PROPN,NNP,ROOT,Xxxxx,0.0
+Omar Jaffrey,Omar,2,1,4,Omar,PROPN,NNP,compound,Xxxx,0.0
+Omar Jaffrey,Jaffrey,2,1,7,Jaffrey,PROPN,NNP,ROOT,Xxxxx,0.0
+Alex Christoforou,Alex,2,1,4,Alex,PROPN,NNP,compound,Xxxx,0.0
+Alex Christoforou,Christoforou,2,1,12,Christoforou,PROPN,NNP,ROOT,Xxxxx,0.0
+Amjad Masad,Amjad,2,1,5,Amjad,PROPN,NNP,compound,Xxxxx,0.0
+Amjad Masad,Masad,2,1,5,Masad,PROPN,NNP,ROOT,Xxxxx,0.0
+Ashneer Grover,Ashneer,2,1,7,Ashneer,PROPN,NNP,compound,Xxxxx,0.0
+Ashneer Grover,Grover,2,1,6,Grover,PROPN,NNP,ROOT,Xxxxx,0.0
+Marc Andreessen,Marc,2,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+Marc Andreessen,Andreessen,2,1,10,Andreessen,PROPN,NNP,ROOT,Xxxxx,0.0
+Sam Thapaliya,Sam,2,1,3,Sam,PROPN,NNP,compound,Xxx,0.0
+Sam Thapaliya,Thapaliya,2,1,9,Thapaliya,PROPN,NNP,ROOT,Xxxxx,0.0
+Utsav Somani,Utsav,2,1,5,Utsav,PROPN,NNP,compound,Xxxxx,0.0
+Utsav Somani,Somani,2,1,6,Somani,PROPN,NNP,ROOT,Xxxxx,0.0
+Claire Hughes Johnson,Claire,3,1,6,Claire,PROPN,NNP,compound,Xxxxx,0.0
+Claire Hughes Johnson,Hughes,3,1,6,Hughes,PROPN,NNP,compound,Xxxxx,0.0
+Claire Hughes Johnson,Johnson,3,1,7,Johnson,PROPN,NNP,ROOT,Xxxxx,0.0
+Kevin Mahaffey,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Mahaffey,Mahaffey,2,1,8,Mahaffey,PROPN,NNP,ROOT,Xxxxx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,Kode,9,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,Alam,9,1,4,Alam,PROPN,NNP,compound,Xxxx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,Hotel,9,1,5,Hotel,PROPN,NNP,compound,Xxxxx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,Tafsir,9,1,6,Tafsir,PROPN,NNP,compound,Xxxxx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,Buku,9,1,4,Buku,PROPN,NNP,compound,Xxxx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,Mimpi,9,1,5,Mimpi,PROPN,NNP,compound,Xxxxx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,2d,9,1,2,2d,NOUN,NNS,ROOT,dx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,3d,9,1,2,3d,PUNCT,NFP,ROOT,dx,0.0
+Kode Alam Hotel Tafsir Buku Mimpi 2d 3d 4d,4d,9,1,2,4d,NUM,CD,npadvmod,dx,0.0
+Jason Hughes,Jason,2,1,5,Jason,PROPN,NNP,compound,Xxxxx,0.0
+Jason Hughes,Hughes,2,1,6,Hughes,PROPN,NNP,ROOT,Xxxxx,0.0
+Rashaun Williams,Rashaun,2,1,7,Rashaun,PROPN,NNP,compound,Xxxxx,0.0
+Rashaun Williams,Williams,2,1,8,Williams,PROPN,NNP,ROOT,Xxxxx,0.0
+Vineet Gupta,Vineet,2,1,6,Vineet,PROPN,NNP,compound,Xxxxx,0.0
+Vineet Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Adrian Aoun,Adrian,2,1,6,adrian,ADJ,JJ,amod,Xxxxx,0.0
+Adrian Aoun,Aoun,2,1,4,Aoun,PROPN,NNP,ROOT,Xxxx,0.0
+Alok Mittal,Alok,2,1,4,Alok,PROPN,NNP,compound,Xxxx,0.0
+Alok Mittal,Mittal,2,1,6,Mittal,PROPN,NNP,ROOT,Xxxxx,0.0
+Daniel Gross,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Daniel Gross,Gross,2,1,5,Gross,PROPN,NNP,ROOT,Xxxxx,0.0
+Alan Rutledge,Alan,2,1,4,Alan,PROPN,NNP,compound,Xxxx,0.0
+Alan Rutledge,Rutledge,2,1,8,Rutledge,PROPN,NNP,ROOT,Xxxxx,0.0
+Angel Investors,Angel,2,1,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Angel Investors,Investors,2,1,9,Investors,PROPN,NNPS,ROOT,Xxxxx,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,Prediksi,10,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,Togel,10,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,SGP,10,1,3,SGP,PROPN,NNP,appos,XXX,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,4,10,1,1,4,NUM,CD,nummod,d,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,Juni,10,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,Bocoran,10,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,Angka,10,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,Jitu,10,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel SGP 4 Juni 2022 Bocoran Angka Jitu SGP,SGP,10,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Govind Ramachandran,Govind,2,1,6,Govind,PROPN,NNP,compound,Xxxxx,0.0
+Govind Ramachandran,Ramachandran,2,1,12,Ramachandran,PROPN,NNP,ROOT,Xxxxx,0.0
+Mark Pincus,Mark,2,1,4,Mark,PROPN,NNP,compound,Xxxx,0.0
+Mark Pincus,Pincus,2,1,6,Pincus,PROPN,NNP,ROOT,Xxxxx,0.0
+Rohit Nandwani,Rohit,2,1,5,Rohit,PROPN,NNP,compound,Xxxxx,0.0
+Rohit Nandwani,Nandwani,2,1,8,Nandwani,PROPN,NNP,ROOT,Xxxxx,0.0
+Vijender Reddy,Vijender,2,1,8,Vijender,PROPN,NNP,compound,Xxxxx,0.0
+Vijender Reddy,Reddy,2,1,5,Reddy,PROPN,NNP,ROOT,Xxxxx,0.0
+Anuj Jain,Anuj,2,1,4,Anuj,PROPN,NNP,compound,Xxxx,0.0
+Anuj Jain,Jain,2,1,4,Jain,PROPN,NNP,ROOT,Xxxx,0.0
+Paul Haarman,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Haarman,Haarman,2,1,7,Haarman,PROPN,NNP,ROOT,Xxxxx,0.0
+Live Draw SGP Tercepat Hari ini,Live,6,1,4,live,VERB,VB,amod,Xxxx,0.0
+Live Draw SGP Tercepat Hari ini,Draw,6,1,4,Draw,PROPN,NNP,compound,Xxxx,0.0
+Live Draw SGP Tercepat Hari ini,SGP,6,1,3,SGP,PROPN,NNP,compound,XXX,0.0
+Live Draw SGP Tercepat Hari ini,Tercepat,6,1,8,Tercepat,PROPN,NNP,compound,Xxxxx,0.0
+Live Draw SGP Tercepat Hari ini,Hari,6,1,4,Hari,PROPN,NNP,compound,Xxxx,0.0
+Live Draw SGP Tercepat Hari ini,ini,6,1,3,ini,NOUN,NN,ROOT,xxx,0.0
+Tobias Lütke,Tobias,2,1,6,Tobias,PROPN,NNP,compound,Xxxxx,0.0
+Tobias Lütke,Lütke,2,1,5,Lütke,PROPN,NNP,ROOT,Xxxxx,0.0
+Kris Poria,Kris,2,1,4,Kris,PROPN,NNP,compound,Xxxx,0.0
+Kris Poria,Poria,2,1,5,Poria,PROPN,NNP,ROOT,Xxxxx,0.0
+Sameer Mehta,Sameer,2,1,6,Sameer,PROPN,NNP,compound,Xxxxx,0.0
+Sameer Mehta,Mehta,2,1,5,Mehta,PROPN,NNP,ROOT,Xxxxx,0.0
+John Dockendorf,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Dockendorf,Dockendorf,2,1,10,Dockendorf,PROPN,NNP,ROOT,Xxxxx,0.0
+Christopher North,Christopher,2,1,11,Christopher,PROPN,NNP,compound,Xxxxx,0.0
+Christopher North,North,2,1,5,North,PROPN,NNP,ROOT,Xxxxx,0.0
+Bill Tai,Bill,2,1,4,Bill,PROPN,NNP,compound,Xxxx,0.0
+Bill Tai,Tai,2,1,3,Tai,PROPN,NNP,ROOT,Xxx,0.0
+Sam Bankman-Fried,Sam,2,1,3,Sam,PROPN,NNP,compound,Xxx,0.0
+Sam Bankman-Fried,Bankman,2,1,7,Bankman,PROPN,NNP,compound,Xxxxx,0.0
+Sam Bankman-Fried,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Sam Bankman-Fried,Fried,2,1,5,Fried,PROPN,NNP,ROOT,Xxxxx,0.0
+Vijay Pravin Maharajan,Vijay,3,1,5,Vijay,PROPN,NNP,compound,Xxxxx,0.0
+Vijay Pravin Maharajan,Pravin,3,1,6,Pravin,PROPN,NNP,compound,Xxxxx,0.0
+Vijay Pravin Maharajan,Maharajan,3,1,9,Maharajan,PROPN,NNP,ROOT,Xxxxx,0.0
+Nitesh Banta,Nitesh,2,1,6,Nitesh,PROPN,NNP,compound,Xxxxx,0.0
+Nitesh Banta,Banta,2,1,5,Banta,PROPN,NNP,ROOT,Xxxxx,0.0
+Benn GoDenzi,Benn,2,1,4,Benn,PROPN,NNP,compound,Xxxx,0.0
+Benn GoDenzi,GoDenzi,2,1,7,GoDenzi,PROPN,NNP,ROOT,XxXxxxx,0.0
+Dominik Richter,Dominik,2,1,7,Dominik,PROPN,NNP,compound,Xxxxx,0.0
+Dominik Richter,Richter,2,1,7,Richter,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran Jitu HK keluaran data togel hk,Bocoran,7,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu HK keluaran data togel hk,Jitu,7,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu HK keluaran data togel hk,HK,7,1,2,HK,PROPN,NNP,compound,XX,0.0
+Bocoran Jitu HK keluaran data togel hk,keluaran,7,1,8,keluaran,NOUN,NN,compound,xxxx,0.0
+Bocoran Jitu HK keluaran data togel hk,data,7,1,4,data,PROPN,NNP,compound,xxxx,0.0
+Bocoran Jitu HK keluaran data togel hk,togel,7,1,5,togel,PROPN,NNP,compound,xxxx,0.0
+Bocoran Jitu HK keluaran data togel hk,hk,7,1,2,hk,PROPN,NNP,ROOT,xx,0.0
+OG Juan Perez,OG,3,1,2,OG,PROPN,NNP,compound,XX,0.0
+OG Juan Perez,Juan,3,1,4,Juan,PROPN,NNP,compound,Xxxx,0.0
+OG Juan Perez,Perez,3,1,5,Perez,PROPN,NNP,ROOT,Xxxxx,0.0
+Chester Dawes,Chester,2,1,7,Chester,PROPN,NNP,compound,Xxxxx,0.0
+Chester Dawes,Dawes,2,1,5,Dawes,PROPN,NNP,ROOT,Xxxxx,0.0
+Ted Fang,Ted,2,1,3,Ted,PROPN,NNP,compound,Xxx,0.0
+Ted Fang,Fang,2,1,4,Fang,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Toto Macau Bocoran Angka Togel,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Toto Macau Bocoran Angka Togel,Toto,6,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Toto Macau Bocoran Angka Togel,Macau,6,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Toto Macau Bocoran Angka Togel,Bocoran,6,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Toto Macau Bocoran Angka Togel,Angka,6,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Toto Macau Bocoran Angka Togel,Togel,6,1,5,Togel,PROPN,NNP,ROOT,Xxxxx,0.0
+Bill Gates,Bill,2,1,4,Bill,PROPN,NNP,compound,Xxxx,0.0
+Bill Gates,Gates,2,1,5,Gates,PROPN,NNP,ROOT,Xxxxx,0.0
+Chris Xu,Chris,2,1,5,Chris,PROPN,NNP,compound,Xxxxx,0.0
+Chris Xu,Xu,2,1,2,Xu,PROPN,NNP,ROOT,Xx,0.0
+Prateek Maheshwari,Prateek,2,1,7,Prateek,PROPN,NNP,compound,Xxxxx,0.0
+Prateek Maheshwari,Maheshwari,2,1,10,Maheshwari,PROPN,NNP,ROOT,Xxxxx,0.0
+Guillermo Rauch,Guillermo,2,1,9,Guillermo,PROPN,NNP,compound,Xxxxx,0.0
+Guillermo Rauch,Rauch,2,1,5,Rauch,PROPN,NNP,ROOT,Xxxxx,0.0
+Garry Tan,Garry,2,1,5,Garry,PROPN,NNP,compound,Xxxxx,0.0
+Garry Tan,Tan,2,1,3,Tan,PROPN,NNP,ROOT,Xxx,0.0
+Somdip Dey,Somdip,2,1,6,Somdip,PROPN,NNP,compound,Xxxxx,0.0
+Somdip Dey,Dey,2,1,3,Dey,PROPN,NNP,ROOT,Xxx,0.0
+Sunny Balwani,Sunny,2,1,5,Sunny,PROPN,NNP,compound,Xxxxx,0.0
+Sunny Balwani,Balwani,2,1,7,Balwani,PROPN,NNP,ROOT,Xxxxx,0.0
+Thomas Keane,Thomas,2,1,6,Thomas,PROPN,NNP,compound,Xxxxx,0.0
+Thomas Keane,Keane,2,1,5,Keane,PROPN,NNP,ROOT,Xxxxx,0.0
+Luke Weil,Luke,2,1,4,Luke,PROPN,NNP,compound,Xxxx,0.0
+Luke Weil,Weil,2,1,4,Weil,PROPN,NNP,ROOT,Xxxx,0.0
+John T. Perrone,John,3,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John T. Perrone,T.,3,1,2,T.,PROPN,NNP,compound,X.,0.0
+John T. Perrone,Perrone,3,1,7,Perrone,PROPN,NNP,ROOT,Xxxxx,0.0
+SHERVIN MIRHASHEMI,SHERVIN,2,1,7,SHERVIN,PROPN,NNP,compound,XXXX,0.0
+SHERVIN MIRHASHEMI,MIRHASHEMI,2,1,10,MIRHASHEMI,PROPN,NNP,ROOT,XXXX,0.0
+Joseph Euteneuer,Joseph,2,1,6,Joseph,PROPN,NNP,compound,Xxxxx,0.0
+Joseph Euteneuer,Euteneuer,2,1,9,Euteneuer,PROPN,NNP,ROOT,Xxxxx,0.0
+Shlomo Zalman Bregman,Shlomo,3,1,6,shlomo,NOUN,NN,compound,Xxxxx,0.0
+Shlomo Zalman Bregman,Zalman,3,1,6,Zalman,PROPN,NNP,compound,Xxxxx,0.0
+Shlomo Zalman Bregman,Bregman,3,1,7,Bregman,PROPN,NNP,ROOT,Xxxxx,0.0
+Gabby Dizon,Gabby,2,1,5,Gabby,PROPN,NNP,compound,Xxxxx,0.0
+Gabby Dizon,Dizon,2,1,5,Dizon,PROPN,NNP,ROOT,Xxxxx,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG Prediksi hari ini,PREDIKSI,8,1,8,PREDIKSI,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG Prediksi hari ini,TOGEL,8,1,5,TOGEL,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG Prediksi hari ini,SYDNEY,8,1,6,SYDNEY,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG Prediksi hari ini,SINGAPORE,8,1,9,SINGAPORE,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG Prediksi hari ini,HONGKONG,8,1,8,HONGKONG,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG Prediksi hari ini,Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG Prediksi hari ini,hari,8,1,4,hari,PROPN,NNP,compound,xxxx,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG Prediksi hari ini,ini,8,1,3,ini,NOUN,NN,ROOT,xxx,0.0
+Kevin Hale,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Hale,Hale,2,1,4,Hale,PROPN,NNP,ROOT,Xxxx,0.0
+Carl Pei,Carl,2,1,4,Carl,PROPN,NNP,compound,Xxxx,0.0
+Carl Pei,Pei,2,1,3,Pei,PROPN,NNP,ROOT,Xxx,0.0
+Prediksi Togel HK hari Sabtu 2022 prediksitogelhk.one,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK hari Sabtu 2022 prediksitogelhk.one,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK hari Sabtu 2022 prediksitogelhk.one,HK,7,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi Togel HK hari Sabtu 2022 prediksitogelhk.one,hari,7,1,4,hari,NOUN,NN,compound,xxxx,0.0
+Prediksi Togel HK hari Sabtu 2022 prediksitogelhk.one,Sabtu,7,1,5,Sabtu,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK hari Sabtu 2022 prediksitogelhk.one,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK hari Sabtu 2022 prediksitogelhk.one,prediksitogelhk.one,7,1,19,prediksitogelhk.one,X,ADD,punct,xxxx.xxx,0.0
+Sy Zahedi,Sy,2,1,2,Sy,PROPN,NNP,compound,Xx,0.0
+Sy Zahedi,Zahedi,2,1,6,Zahedi,PROPN,NNP,ROOT,Xxxxx,0.0
+Sandeep Tandon,Sandeep,2,1,7,sandeep,ADJ,JJ,compound,Xxxxx,0.0
+Sandeep Tandon,Tandon,2,1,6,Tandon,PROPN,NNP,ROOT,Xxxxx,0.0
+Ankit Nagori,Ankit,2,1,5,Ankit,PROPN,NNP,compound,Xxxxx,0.0
+Ankit Nagori,Nagori,2,1,6,Nagori,PROPN,NNP,ROOT,Xxxxx,0.0
+Faraz Khalid,Faraz,2,1,5,Faraz,PROPN,NNP,compound,Xxxxx,0.0
+Faraz Khalid,Khalid,2,1,6,Khalid,PROPN,NNP,ROOT,Xxxxx,0.0
+Jordan Etem,Jordan,2,1,6,Jordan,PROPN,NNP,compound,Xxxxx,0.0
+Jordan Etem,Etem,2,1,4,Etem,PROPN,NNP,ROOT,Xxxx,0.0
+James Khuri,James,2,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James Khuri,Khuri,2,1,5,Khuri,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi HK 24 Mei 2022 Bocoran Jitu HK,Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 24 Mei 2022 Bocoran Jitu HK,HK,8,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Prediksi HK 24 Mei 2022 Bocoran Jitu HK,24,8,1,2,24,NUM,CD,nummod,dd,0.0
+Prediksi HK 24 Mei 2022 Bocoran Jitu HK,Mei,8,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi HK 24 Mei 2022 Bocoran Jitu HK,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi HK 24 Mei 2022 Bocoran Jitu HK,Bocoran,8,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 24 Mei 2022 Bocoran Jitu HK,Jitu,8,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi HK 24 Mei 2022 Bocoran Jitu HK,HK,8,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Daniel Recanati,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Daniel Recanati,Recanati,2,1,8,Recanati,PROPN,NNP,ROOT,Xxxxx,0.0
+Travis Kalanick,Travis,2,1,6,Travis,PROPN,NNP,compound,Xxxxx,0.0
+Travis Kalanick,Kalanick,2,1,8,Kalanick,PROPN,NNP,ROOT,Xxxxx,0.0
+James Watt,James,2,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James Watt,Watt,2,1,4,Watt,PROPN,NNP,ROOT,Xxxx,0.0
+Suhail Sameer,Suhail,2,1,6,Suhail,PROPN,NNP,compound,Xxxxx,0.0
+Suhail Sameer,Sameer,2,1,6,Sameer,PROPN,NNP,ROOT,Xxxxx,0.0
+Sandeep Nailwal,Sandeep,2,1,7,sandeep,NOUN,NN,compound,Xxxxx,0.0
+Sandeep Nailwal,Nailwal,2,1,7,Nailwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Jinglan Wang,Jinglan,2,1,7,Jinglan,PROPN,NNP,compound,Xxxxx,0.0
+Jinglan Wang,Wang,2,1,4,Wang,PROPN,NNP,ROOT,Xxxx,0.0
+Vicki Peng,Vicki,2,1,5,Vicki,PROPN,NNP,compound,Xxxxx,0.0
+Vicki Peng,Peng,2,1,4,Peng,PROPN,NNP,ROOT,Xxxx,0.0
+Ram Shriram,Ram,2,1,3,Ram,PROPN,NNP,ROOT,Xxx,0.0
+Ram Shriram,Shriram,2,1,7,Shriram,PROPN,NNP,dobj,Xxxxx,0.0
+Vilma Mattila,Vilma,2,1,5,Vilma,PROPN,NNP,compound,Xxxxx,0.0
+Vilma Mattila,Mattila,2,1,7,Mattila,PROPN,NNP,ROOT,Xxxxx,0.0
+Gaurav Munjal,Gaurav,2,1,6,Gaurav,PROPN,NNP,compound,Xxxxx,0.0
+Gaurav Munjal,Munjal,2,1,6,Munjal,PROPN,NNP,ROOT,Xxxxx,0.0
+Vlad Doronin,Vlad,2,1,4,Vlad,PROPN,NNP,compound,Xxxx,0.0
+Vlad Doronin,Doronin,2,1,7,Doronin,PROPN,NNP,ROOT,Xxxxx,0.0
+Samir H Bhatt,Samir,3,1,5,Samir,PROPN,NNP,compound,Xxxxx,0.0
+Samir H Bhatt,H,3,1,1,H,PROPN,NNP,compound,X,0.0
+Samir H Bhatt,Bhatt,3,1,5,Bhatt,PROPN,NNP,ROOT,Xxxxx,0.0
+Tom Chapman,Tom,2,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom Chapman,Chapman,2,1,7,Chapman,PROPN,NNP,ROOT,Xxxxx,0.0
+Josh Buckley,Josh,2,1,4,Josh,PROPN,NNP,compound,Xxxx,0.0
+Josh Buckley,Buckley,2,1,7,Buckley,PROPN,NNP,ROOT,Xxxxx,0.0
+Suryansh Singh,Suryansh,2,1,8,Suryansh,PROPN,NNP,compound,Xxxxx,0.0
+Suryansh Singh,Singh,2,1,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+John Patrick Moglia,John,3,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Patrick Moglia,Patrick,3,1,7,Patrick,PROPN,NNP,compound,Xxxxx,0.0
+John Patrick Moglia,Moglia,3,1,6,Moglia,PROPN,NNP,ROOT,Xxxxx,0.0
+Ryan Petersen,Ryan,2,1,4,Ryan,PROPN,NNP,compound,Xxxx,0.0
+Ryan Petersen,Petersen,2,1,8,Petersen,PROPN,NNP,ROOT,Xxxxx,0.0
+Daniel Curran,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Daniel Curran,Curran,2,1,6,Curran,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 2022 bocoranjitu.org,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 2022 bocoranjitu.org,Togel,5,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 2022 bocoranjitu.org,Sydney,5,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 2022 bocoranjitu.org,2022,5,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel Sydney 2022 bocoranjitu.org,bocoranjitu.org,5,1,15,bocoranjitu.org,X,ADD,appos,xxxx.xxx,0.0
+Christopher Jones,Christopher,2,1,11,Christopher,PROPN,NNP,compound,Xxxxx,0.0
+Christopher Jones,Jones,2,1,5,Jones,PROPN,NNP,ROOT,Xxxxx,0.0
+Maneesh Sethi,Maneesh,2,1,7,Maneesh,PROPN,NNP,compound,Xxxxx,0.0
+Maneesh Sethi,Sethi,2,1,5,Sethi,PROPN,NNP,ROOT,Xxxxx,0.0
+Joseph Ashford Ellis,Joseph,3,1,6,Joseph,PROPN,NNP,compound,Xxxxx,0.0
+Joseph Ashford Ellis,Ashford,3,1,7,Ashford,PROPN,NNP,compound,Xxxxx,0.0
+Joseph Ashford Ellis,Ellis,3,1,5,Ellis,PROPN,NNP,ROOT,Xxxxx,0.0
+Learic Spellman,Learic,2,1,6,Learic,PROPN,NNP,compound,Xxxxx,0.0
+Learic Spellman,Spellman,2,1,8,Spellman,PROPN,NNP,ROOT,Xxxxx,0.0
+Elad Gil,Elad,2,1,4,Elad,PROPN,NNP,compound,Xxxx,0.0
+Elad Gil,Gil,2,1,3,Gil,PROPN,NNP,ROOT,Xxx,0.0
+Jay Brown,Jay,2,1,3,Jay,PROPN,NNP,compound,Xxx,0.0
+Jay Brown,Brown,2,1,5,Brown,PROPN,NNP,ROOT,Xxxxx,0.0
+Simon Borrero,Simon,2,1,5,Simon,PROPN,NNP,compound,Xxxxx,0.0
+Simon Borrero,Borrero,2,1,7,Borrero,PROPN,NNP,ROOT,Xxxxx,0.0
+Amrish Rau,Amrish,2,1,6,Amrish,PROPN,NNP,compound,Xxxxx,0.0
+Amrish Rau,Rau,2,1,3,Rau,PROPN,NNP,ROOT,Xxx,0.0
+Tom Blomfield,Tom,2,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom Blomfield,Blomfield,2,1,9,Blomfield,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Jitu SGP bocoran jitu Sinapore,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Jitu SGP bocoran jitu Sinapore,Syair,7,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Jitu SGP bocoran jitu Sinapore,Jitu,7,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Syair Jitu SGP bocoran jitu Sinapore,SGP,7,1,3,SGP,PROPN,NNP,nsubj,XXX,0.0
+Prediksi Syair Jitu SGP bocoran jitu Sinapore,bocoran,7,1,7,bocoran,VERB,VBD,ROOT,xxxx,0.0
+Prediksi Syair Jitu SGP bocoran jitu Sinapore,jitu,7,1,4,jitu,NOUN,NN,compound,xxxx,0.0
+Prediksi Syair Jitu SGP bocoran jitu Sinapore,Sinapore,7,1,8,Sinapore,PROPN,NNP,dobj,Xxxxx,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,Prediksi,9,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,Syair,9,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,HK,9,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,8,9,1,1,8,NUM,CD,nummod,d,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,Mei,9,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,2022,9,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,Kode,9,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,syair,9,1,5,syair,PROPN,NNP,nsubj,xxxx,0.0
+Prediksi Syair HK 8 Mei 2022 Kode syair hongkong,hongkong,9,1,8,hongkong,VERB,VBD,ROOT,xxxx,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,Prediksi,9,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,Togel,9,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,HK,9,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,1,9,1,1,1,NUM,CD,nummod,d,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,Juni,9,1,4,Juni,PROPN,NNP,nmod,Xxxx,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,2022,9,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,Bocoran,9,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,Jitu,9,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel HK 1 Juni 2022 Bocoran Jitu Hongkong,Hongkong,9,1,8,Hongkong,PROPN,NNP,ROOT,Xxxxx,0.0
+Frederic Kerrest,Frederic,2,1,8,Frederic,PROPN,NNP,compound,Xxxxx,0.0
+Frederic Kerrest,Kerrest,2,1,7,Kerrest,PROPN,NNP,ROOT,Xxxxx,0.0
+Nithin Kamath,Nithin,2,1,6,Nithin,PROPN,NNP,compound,Xxxxx,0.0
+Nithin Kamath,Kamath,2,1,6,Kamath,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel SGP Hari Ini,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP Hari Ini,Togel,5,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP Hari Ini,SGP,5,1,3,SGP,PROPN,NNP,compound,XXX,0.0
+Prediksi Togel SGP Hari Ini,Hari,5,1,4,Hari,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel SGP Hari Ini,Ini,5,1,3,Ini,PROPN,NNP,ROOT,Xxx,0.0
+Ashutosh Dutt,Ashutosh,2,1,8,Ashutosh,PROPN,NNP,compound,Xxxxx,0.0
+Ashutosh Dutt,Dutt,2,1,4,Dutt,PROPN,NNP,ROOT,Xxxx,0.0
+Dylan Field,Dylan,2,1,5,Dylan,PROPN,NNP,compound,Xxxxx,0.0
+Dylan Field,Field,2,1,5,Field,PROPN,NNP,ROOT,Xxxxx,0.0
+Emlyn Scott,Emlyn,2,1,5,Emlyn,PROPN,NNP,compound,Xxxxx,0.0
+Emlyn Scott,Scott,2,1,5,Scott,PROPN,NNP,ROOT,Xxxxx,0.0
+Michael Ovitz,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Ovitz,Ovitz,2,1,5,Ovitz,PROPN,NNP,ROOT,Xxxxx,0.0
+Manolo Atala,Manolo,2,1,6,Manolo,PROPN,NNP,compound,Xxxxx,0.0
+Manolo Atala,Atala,2,1,5,Atala,PROPN,NNP,ROOT,Xxxxx,0.0
+Clarence DeLany,Clarence,2,1,8,clarence,NOUN,NN,compound,Xxxxx,0.0
+Clarence DeLany,DeLany,2,1,6,DeLany,PROPN,NNP,ROOT,XxXxxx,0.0
+Sundar Pichai,Sundar,2,1,6,sundar,VERB,VB,compound,Xxxxx,0.0
+Sundar Pichai,Pichai,2,1,6,Pichai,PROPN,NNP,ROOT,Xxxxx,0.0
+Paul Forster,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Forster,Forster,2,1,7,Forster,PROPN,NNP,ROOT,Xxxxx,0.0
+Ariel Maislos,Ariel,2,1,5,Ariel,PROPN,NNP,compound,Xxxxx,0.0
+Ariel Maislos,Maislos,2,1,7,Maislos,PROPN,NNP,ROOT,Xxxxx,0.0
+Chris Sacca,Chris,2,1,5,Chris,PROPN,NNP,compound,Xxxxx,0.0
+Chris Sacca,Sacca,2,1,5,Sacca,PROPN,NNP,ROOT,Xxxxx,0.0
+Christian Lane,Christian,2,1,9,Christian,PROPN,NNP,compound,Xxxxx,0.0
+Christian Lane,Lane,2,1,4,Lane,PROPN,NNP,ROOT,Xxxx,0.0
+Donald Lucas,Donald,2,1,6,Donald,PROPN,NNP,compound,Xxxxx,0.0
+Donald Lucas,Lucas,2,1,5,Lucas,PROPN,NNP,ROOT,Xxxxx,0.0
+Pierre Antoine Dusoulier,Pierre,3,1,6,Pierre,PROPN,NNP,compound,Xxxxx,0.0
+Pierre Antoine Dusoulier,Antoine,3,1,7,Antoine,PROPN,NNP,compound,Xxxxx,0.0
+Pierre Antoine Dusoulier,Dusoulier,3,1,9,Dusoulier,PROPN,NNP,ROOT,Xxxxx,0.0
+Wayne Chang,Wayne,2,1,5,Wayne,PROPN,NNP,compound,Xxxxx,0.0
+Wayne Chang,Chang,2,1,5,Chang,PROPN,NNP,ROOT,Xxxxx,0.0
+Joe Fairless,Joe,2,1,3,Joe,PROPN,NNP,compound,Xxx,0.0
+Joe Fairless,Fairless,2,1,8,Fairless,PROPN,NNP,ROOT,Xxxxx,0.0
+Alan Safahi,Alan,2,1,4,Alan,PROPN,NNP,compound,Xxxx,0.0
+Alan Safahi,Safahi,2,1,6,Safahi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi HK 26 Mei 2022 keluaran angka Hongkong,Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 26 Mei 2022 keluaran angka Hongkong,HK,8,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Prediksi HK 26 Mei 2022 keluaran angka Hongkong,26,8,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi HK 26 Mei 2022 keluaran angka Hongkong,Mei,8,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi HK 26 Mei 2022 keluaran angka Hongkong,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi HK 26 Mei 2022 keluaran angka Hongkong,keluaran,8,1,8,keluaran,NOUN,NN,nsubj,xxxx,0.0
+Prediksi HK 26 Mei 2022 keluaran angka Hongkong,angka,8,1,5,angka,VERB,VBD,ROOT,xxxx,0.0
+Prediksi HK 26 Mei 2022 keluaran angka Hongkong,Hongkong,8,1,8,Hongkong,PROPN,NNP,dobj,Xxxxx,0.0
+James C Dragon,James,3,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James C Dragon,C,3,1,1,C,PROPN,NNP,compound,X,0.0
+James C Dragon,Dragon,3,1,6,Dragon,PROPN,NNP,ROOT,Xxxxx,0.0
+Joel Lavine,Joel,2,1,4,Joel,PROPN,NNP,compound,Xxxx,0.0
+Joel Lavine,Lavine,2,1,6,Lavine,PROPN,NNP,ROOT,Xxxxx,0.0
+Will Smith,Will,2,1,4,Will,PROPN,NNP,compound,Xxxx,0.0
+Will Smith,Smith,2,1,5,Smith,PROPN,NNP,ROOT,Xxxxx,0.0
+Georgios D. Pantzis,Georgios,3,1,8,Georgios,PROPN,NNP,compound,Xxxxx,0.0
+Georgios D. Pantzis,D.,3,1,2,D.,PROPN,NNP,compound,X.,0.0
+Georgios D. Pantzis,Pantzis,3,1,7,Pantzis,PROPN,NNP,ROOT,Xxxxx,0.0
+Gigi Levy Weiss,Gigi,3,1,4,Gigi,PROPN,NNP,compound,Xxxx,0.0
+Gigi Levy Weiss,Levy,3,1,4,Levy,PROPN,NNP,compound,Xxxx,0.0
+Gigi Levy Weiss,Weiss,3,1,5,Weiss,PROPN,NNP,ROOT,Xxxxx,0.0
+Callum Negus-Fancey,Callum,2,1,6,Callum,PROPN,NNP,compound,Xxxxx,0.0
+Callum Negus-Fancey,Negus,2,1,5,Negus,PROPN,NNP,compound,Xxxxx,0.0
+Callum Negus-Fancey,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Callum Negus-Fancey,Fancey,2,1,6,Fancey,PROPN,NNP,ROOT,Xxxxx,0.0
+Kavan Choksi UAE,Kavan,3,2,5,Kavan,PROPN,NNP,compound,Xxxxx,0.0
+Kavan Choksi UAE,Choksi,3,2,6,Choksi,PROPN,NNP,compound,Xxxxx,0.0
+Kavan Choksi UAE,UAE,3,2,3,UAE,PROPN,NNP,ROOT,XXX,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Prediksi,15,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Keluaran,15,1,8,Keluaran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Toto,15,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Macau,15,1,5,Macau,PROPN,NNP,nsubj,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,7,15,1,1,7,NUM,CD,nummod,d,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Juni,15,1,4,Juni,PROPN,NNP,nmod,Xxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,2022,15,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Bocoran,15,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Togel,15,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Macau,15,1,5,Macau,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,–,15,1,1,–,PUNCT,:,punct,–,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,prediksi,15,1,8,prediksi,NOUN,NN,compound,xxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,Macau,15,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022 Bocoran Togel Macau – prediksi Toto Macau terjitu,terjitu,15,1,7,terjitu,ADJ,JJ,ROOT,xxxx,0.0
+M. Marc Abreu,M.,3,1,2,M.,PROPN,NNP,compound,X.,0.0
+M. Marc Abreu,Marc,3,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+M. Marc Abreu,Abreu,3,1,5,Abreu,PROPN,NNP,ROOT,Xxxxx,0.0
+Max Mullen,Max,2,1,3,Max,PROPN,NNP,compound,Xxx,0.0
+Max Mullen,Mullen,2,1,6,Mullen,PROPN,NNP,ROOT,Xxxxx,0.0
+Sue Gove,Sue,2,1,3,Sue,PROPN,NNP,compound,Xxx,0.0
+Sue Gove,Gove,2,1,4,Gove,PROPN,NNP,ROOT,Xxxx,0.0
+Aakrit Vaish,Aakrit,2,1,6,Aakrit,PROPN,NNP,compound,Xxxxx,0.0
+Aakrit Vaish,Vaish,2,1,5,Vaish,PROPN,NNP,ROOT,Xxxxx,0.0
+Assaf Wand,Assaf,2,1,5,Assaf,PROPN,NNP,compound,Xxxxx,0.0
+Assaf Wand,Wand,2,1,4,Wand,PROPN,NNP,ROOT,Xxxx,0.0
+Gary Wang,Gary,2,1,4,Gary,PROPN,NNP,compound,Xxxx,0.0
+Gary Wang,Wang,2,1,4,Wang,PROPN,NNP,ROOT,Xxxx,0.0
+Christopher Sanchez,Christopher,2,1,11,Christopher,PROPN,NNP,compound,Xxxxx,0.0
+Christopher Sanchez,Sanchez,2,1,7,Sanchez,PROPN,NNP,ROOT,Xxxxx,0.0
+Rory McIlroy,Rory,2,1,4,Rory,PROPN,NNP,compound,Xxxx,0.0
+Rory McIlroy,McIlroy,2,1,7,McIlroy,PROPN,NNP,ROOT,XxXxxxx,0.0
+Jake Paul,Jake,2,1,4,Jake,PROPN,NNP,compound,Xxxx,0.0
+Jake Paul,Paul,2,1,4,Paul,PROPN,NNP,ROOT,Xxxx,0.0
+Chen Goldberg,Chen,2,1,4,Chen,PROPN,NNP,compound,Xxxx,0.0
+Chen Goldberg,Goldberg,2,1,8,Goldberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Markus Villig,Markus,2,1,6,Markus,PROPN,NNP,compound,Xxxxx,0.0
+Markus Villig,Villig,2,1,6,Villig,PROPN,NNP,ROOT,Xxxxx,0.0
+Prashant Pitti,Prashant,2,1,8,Prashant,PROPN,NNP,compound,Xxxxx,0.0
+Prashant Pitti,Pitti,2,1,5,Pitti,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi HK 31 Mei 2022 Bocoran Togel Hongkong,Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 31 Mei 2022 Bocoran Togel Hongkong,HK,8,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Prediksi HK 31 Mei 2022 Bocoran Togel Hongkong,31,8,1,2,31,NUM,CD,nummod,dd,0.0
+Prediksi HK 31 Mei 2022 Bocoran Togel Hongkong,Mei,8,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi HK 31 Mei 2022 Bocoran Togel Hongkong,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi HK 31 Mei 2022 Bocoran Togel Hongkong,Bocoran,8,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 31 Mei 2022 Bocoran Togel Hongkong,Togel,8,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 31 Mei 2022 Bocoran Togel Hongkong,Hongkong,8,1,8,Hongkong,PROPN,NNP,ROOT,Xxxxx,0.0
+Kyle Vogt,Kyle,2,1,4,Kyle,PROPN,NNP,compound,Xxxx,0.0
+Kyle Vogt,Vogt,2,1,4,Vogt,PROPN,NNP,ROOT,Xxxx,0.0
+Arjun Sethi,Arjun,2,1,5,Arjun,PROPN,NNP,compound,Xxxxx,0.0
+Arjun Sethi,Sethi,2,1,5,Sethi,PROPN,NNP,ROOT,Xxxxx,0.0
+Illia Polosukhin,Illia,2,1,5,Illia,PROPN,NNP,compound,Xxxxx,0.0
+Illia Polosukhin,Polosukhin,2,1,10,Polosukhin,PROPN,NNP,ROOT,Xxxxx,0.0
+Stephen Ehrlich,Stephen,2,1,7,Stephen,PROPN,NNP,compound,Xxxxx,0.0
+Stephen Ehrlich,Ehrlich,2,1,7,Ehrlich,PROPN,NNP,ROOT,Xxxxx,0.0
+Ed Baker,Ed,2,1,2,Ed,PROPN,NNP,compound,Xx,0.0
+Ed Baker,Baker,2,1,5,Baker,PROPN,NNP,ROOT,Xxxxx,0.0
+Patrick McCreesh,Patrick,2,1,7,Patrick,PROPN,NNP,compound,Xxxxx,0.0
+Patrick McCreesh,McCreesh,2,1,8,McCreesh,PROPN,NNP,ROOT,XxXxxxx,0.0
+Jeff Lawson,Jeff,2,1,4,Jeff,PROPN,NNP,compound,Xxxx,0.0
+Jeff Lawson,Lawson,2,1,6,Lawson,PROPN,NNP,ROOT,Xxxxx,0.0
+Kevin Ryan,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Ryan,Ryan,2,1,4,Ryan,PROPN,NNP,ROOT,Xxxx,0.0
+Roland Navarro de Ros,Roland,4,1,6,Roland,PROPN,NNP,compound,Xxxxx,0.0
+Roland Navarro de Ros,Navarro,4,1,7,Navarro,PROPN,NNP,nmod,Xxxxx,0.0
+Roland Navarro de Ros,de,4,1,2,de,ADP,IN,nmod,xx,0.0
+Roland Navarro de Ros,Ros,4,1,3,Ros,PROPN,NNP,ROOT,Xxx,0.0
+Thomas Dohmke,Thomas,2,1,6,Thomas,PROPN,NNP,compound,Xxxxx,0.0
+Thomas Dohmke,Dohmke,2,1,6,Dohmke,PROPN,NNP,ROOT,Xxxxx,0.0
+Rex Tibbens,Rex,2,1,3,Rex,PROPN,NNP,compound,Xxx,0.0
+Rex Tibbens,Tibbens,2,1,7,Tibbens,PROPN,NNP,ROOT,Xxxxx,0.0
+Eric Persson,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Persson,Persson,2,1,7,Persson,PROPN,NNP,ROOT,Xxxxx,0.0
+Austin Rotter,Austin,2,1,6,Austin,PROPN,NNP,compound,Xxxxx,0.0
+Austin Rotter,Rotter,2,1,6,Rotter,PROPN,NNP,ROOT,Xxxxx,0.0
+Ron Book,Ron,2,1,3,Ron,PROPN,NNP,compound,Xxx,0.0
+Ron Book,Book,2,1,4,Book,PROPN,NNP,ROOT,Xxxx,0.0
+Lucas Cranach,Lucas,2,1,5,Lucas,PROPN,NNP,compound,Xxxxx,0.0
+Lucas Cranach,Cranach,2,1,7,Cranach,PROPN,NNP,ROOT,Xxxxx,0.0
+Fadlo Touma,Fadlo,2,2,5,Fadlo,PROPN,NNP,compound,Xxxxx,0.0
+Fadlo Touma,Touma,2,2,5,Touma,PROPN,NNP,ROOT,Xxxxx,0.0
+Oriana Zerbini,Oriana,2,1,6,Oriana,PROPN,NNP,compound,Xxxxx,0.0
+Oriana Zerbini,Zerbini,2,1,7,Zerbini,PROPN,NNP,ROOT,Xxxxx,0.0
+Emad Mostaque,Emad,2,1,4,Emad,PROPN,NNP,compound,Xxxx,0.0
+Emad Mostaque,Mostaque,2,1,8,Mostaque,PROPN,NNP,ROOT,Xxxxx,0.0
+Brian Sheth,Brian,2,1,5,Brian,PROPN,NNP,compound,Xxxxx,0.0
+Brian Sheth,Sheth,2,1,5,Sheth,PROPN,NNP,ROOT,Xxxxx,0.0
+Oskar Hartmann,Oskar,2,1,5,Oskar,PROPN,NNP,compound,Xxxxx,0.0
+Oskar Hartmann,Hartmann,2,1,8,Hartmann,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,Prediksi,10,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,Togel,10,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,Macau,10,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,Sabtu,10,1,5,Sabtu,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,11,10,1,2,11,NUM,CD,nummod,dd,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,Juni,10,1,4,Juni,PROPN,NNP,nmod,Xxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,Syair,10,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,Toto,10,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022 Syair Toto Macau,Macau,10,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Chad Price,Chad,2,1,4,Chad,PROPN,NNP,compound,Xxxx,0.0
+Chad Price,Price,2,1,5,Price,PROPN,NNP,ROOT,Xxxxx,0.0
+Bhavik Koladiya,Bhavik,2,1,6,Bhavik,PROPN,NNP,compound,Xxxxx,0.0
+Bhavik Koladiya,Koladiya,2,1,8,Koladiya,PROPN,NNP,ROOT,Xxxxx,0.0
+Noah Katz,Noah,2,1,4,Noah,PROPN,NNP,compound,Xxxx,0.0
+Noah Katz,Katz,2,1,4,Katz,PROPN,NNP,ROOT,Xxxx,0.0
+Dr. Kami Hoss,Dr.,3,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Kami Hoss,Kami,3,1,4,Kami,PROPN,NNP,compound,Xxxx,0.0
+Dr. Kami Hoss,Hoss,3,1,4,Hoss,PROPN,NNP,ROOT,Xxxx,0.0
+Leonid Radvinsky,Leonid,2,1,6,Leonid,PROPN,NNP,compound,Xxxxx,0.0
+Leonid Radvinsky,Radvinsky,2,1,9,Radvinsky,PROPN,NNP,ROOT,Xxxxx,0.0
+Rajesh Sawhney,Rajesh,2,1,6,Rajesh,PROPN,NNP,compound,Xxxxx,0.0
+Rajesh Sawhney,Sawhney,2,1,7,Sawhney,PROPN,NNP,ROOT,Xxxxx,0.0
+Tim Draper,Tim,2,1,3,Tim,PROPN,NNP,compound,Xxx,0.0
+Tim Draper,Draper,2,1,6,Draper,PROPN,NNP,ROOT,Xxxxx,0.0
+Pieter Levels,Pieter,2,1,6,Pieter,PROPN,NNP,compound,Xxxxx,0.0
+Pieter Levels,Levels,2,1,6,Levels,PROPN,NNP,ROOT,Xxxxx,0.0
+Ronn Torossian,Ronn,2,1,4,Ronn,PROPN,NNP,compound,Xxxx,0.0
+Ronn Torossian,Torossian,2,1,9,torossian,NOUN,NN,ROOT,Xxxxx,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",Prediksi,10,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",Togel,10,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",HK,10,1,2,HK,PROPN,NNP,compound,XX,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",Sabtu,10,1,5,Sabtu,PROPN,NNP,nmod,Xxxxx,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",4,10,1,1,4,NUM,CD,nummod,d,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",Juni,10,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",Bocoran,10,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",Angka,10,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",Jitu,10,1,4,Jitu,PROPN,NNP,ROOT,Xxxx,0.0
+"Prediksi Togel HK Sabtu 4 Juni 2022 Bocoran Angka Jitu,",",",10,1,1,",",PUNCT,",",punct,",",0.0
+Taavet Hinrikus,Taavet,2,1,6,Taavet,PROPN,NNP,compound,Xxxxx,0.0
+Taavet Hinrikus,Hinrikus,2,1,8,Hinrikus,PROPN,NNP,ROOT,Xxxxx,0.0
+Henry Ward,Henry,2,1,5,Henry,PROPN,NNP,compound,Xxxxx,0.0
+Henry Ward,Ward,2,1,4,Ward,PROPN,NNP,ROOT,Xxxx,0.0
+Shashvat Nakrani,Shashvat,2,1,8,Shashvat,PROPN,NNP,compound,Xxxxx,0.0
+Shashvat Nakrani,Nakrani,2,1,7,Nakrani,PROPN,NNP,ROOT,Xxxxx,0.0
+Ratan Tata,Ratan,2,1,5,Ratan,PROPN,NNP,compound,Xxxxx,0.0
+Ratan Tata,Tata,2,1,4,Tata,PROPN,NNP,ROOT,Xxxx,0.0
+Jeremy Berman Put-in-Bay,Jeremy,3,1,6,Jeremy,PROPN,NNP,compound,Xxxxx,0.0
+Jeremy Berman Put-in-Bay,Berman,3,1,6,Berman,PROPN,NNP,nsubj,Xxxxx,0.0
+Jeremy Berman Put-in-Bay,Put,3,1,3,Put,PROPN,NNP,ROOT,Xxx,0.0
+Jeremy Berman Put-in-Bay,-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+Jeremy Berman Put-in-Bay,in,3,1,2,in,ADP,IN,prep,xx,0.0
+Jeremy Berman Put-in-Bay,Bay,3,1,3,Bay,PROPN,NNP,pobj,Xxx,0.0
+Bocoran Jitu Macau prediksi toto uvsorb.org,Bocoran,6,1,7,bocoran,ADJ,JJ,compound,Xxxxx,0.0
+Bocoran Jitu Macau prediksi toto uvsorb.org,Jitu,6,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu Macau prediksi toto uvsorb.org,Macau,6,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu Macau prediksi toto uvsorb.org,prediksi,6,1,8,prediksi,NOUN,NN,compound,xxxx,0.0
+Bocoran Jitu Macau prediksi toto uvsorb.org,toto,6,1,4,toto,PROPN,NNP,ROOT,xxxx,0.0
+Bocoran Jitu Macau prediksi toto uvsorb.org,uvsorb.org,6,1,10,uvsorb.org,PROPN,NNP,appos,xxxx.xxx,0.0
+Tristan Walker,Tristan,2,1,7,Tristan,PROPN,NNP,compound,Xxxxx,0.0
+Tristan Walker,Walker,2,1,6,Walker,PROPN,NNP,ROOT,Xxxxx,0.0
+Mohit Kamboj Bharatiya,Mohit,3,1,5,mohit,NOUN,NN,compound,Xxxxx,0.0
+Mohit Kamboj Bharatiya,Kamboj,3,1,6,Kamboj,PROPN,NNP,compound,Xxxxx,0.0
+Mohit Kamboj Bharatiya,Bharatiya,3,1,9,Bharatiya,PROPN,NNP,ROOT,Xxxxx,0.0
+Somdutta Singh,Somdutta,2,1,8,Somdutta,PROPN,NNP,compound,Xxxxx,0.0
+Somdutta Singh,Singh,2,1,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+Sai Srinivas Kiran G,Sai,4,1,3,Sai,PROPN,NNP,compound,Xxx,0.0
+Sai Srinivas Kiran G,Srinivas,4,1,8,Srinivas,PROPN,NNP,nsubj,Xxxxx,0.0
+Sai Srinivas Kiran G,Kiran,4,1,5,Kiran,PROPN,NNP,compound,Xxxxx,0.0
+Sai Srinivas Kiran G,G,4,1,1,G,PROPN,NNP,ROOT,X,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,Prediksi,9,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,Togel,9,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,HK,9,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,29,9,1,2,29,NUM,CD,nummod,dd,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,Mei,9,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,2022,9,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,Bocoran,9,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,Jitu,9,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel HK 29 Mei 2022 Bocoran Jitu HK,HK,9,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+William Tunstall-Pedoe,William,2,1,7,William,PROPN,NNP,compound,Xxxxx,0.0
+William Tunstall-Pedoe,Tunstall,2,1,8,Tunstall,PROPN,NNP,compound,Xxxxx,0.0
+William Tunstall-Pedoe,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+William Tunstall-Pedoe,Pedoe,2,1,5,Pedoe,PROPN,NNP,ROOT,Xxxxx,0.0
+Nitin Saluja,Nitin,2,1,5,Nitin,PROPN,NNP,compound,Xxxxx,0.0
+Nitin Saluja,Saluja,2,1,6,Saluja,PROPN,NNP,ROOT,Xxxxx,0.0
+Bipin C. Shah,Bipin,3,1,5,Bipin,PROPN,NNP,compound,Xxxxx,0.0
+Bipin C. Shah,C.,3,1,2,C.,PROPN,NNP,compound,X.,0.0
+Bipin C. Shah,Shah,3,1,4,Shah,PROPN,NNP,ROOT,Xxxx,0.0
+Oren Zeev,Oren,2,1,4,Oren,PROPN,NNP,compound,Xxxx,0.0
+Oren Zeev,Zeev,2,1,4,Zeev,PROPN,NNP,ROOT,Xxxx,0.0
+Gary Vaynerchuk,Gary,2,1,4,Gary,PROPN,NNP,compound,Xxxx,0.0
+Gary Vaynerchuk,Vaynerchuk,2,1,10,Vaynerchuk,PROPN,NNP,ROOT,Xxxxx,0.0
+Lisa Gokongwei,Lisa,2,1,4,Lisa,PROPN,NNP,compound,Xxxx,0.0
+Lisa Gokongwei,Gokongwei,2,1,9,Gokongwei,PROPN,NNP,ROOT,Xxxxx,0.0
+Nir Zuk,Nir,2,1,3,Nir,PROPN,NNP,compound,Xxx,0.0
+Nir Zuk,Zuk,2,1,3,Zuk,PROPN,NNP,ROOT,Xxx,0.0
+Lauren DeLuca,Lauren,2,1,6,Lauren,PROPN,NNP,compound,Xxxxx,0.0
+Lauren DeLuca,DeLuca,2,1,6,DeLuca,PROPN,NNP,ROOT,XxXxxx,0.0
+Andrew Marks,Andrew,2,1,6,Andrew,PROPN,NNP,compound,Xxxxx,0.0
+Andrew Marks,Marks,2,1,5,Marks,PROPN,NNP,ROOT,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,100,11,1,3,100,NUM,CD,nummod,ddd,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Tafsir,11,1,6,Tafsir,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Mimpi,11,1,5,Mimpi,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Togel,11,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,2D,11,1,2,2D,PROPN,NNP,compound,dX,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Bergambar,11,1,9,Bergambar,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Erek,11,1,4,Erek,PROPN,NNP,compound,Xxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,-,11,1,1,-,PUNCT,HYPH,punct,-,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Sydney,11,1,6,Sydney,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,HK,11,1,2,HK,PROPN,NNP,compound,XX,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,SGP,11,1,3,SGP,PROPN,NNP,compound,XXX,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Ball,11,1,4,Ball,PROPN,NNP,compound,Xxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Itu,11,1,3,Itu,PROPN,NNP,compound,Xxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek Sydney HK SGP Ball-Itu-Bola,Bola,11,1,4,Bola,PROPN,NNP,ROOT,Xxxx,0.0
+George Ruan,George,2,1,6,George,PROPN,NNP,compound,Xxxxx,0.0
+George Ruan,Ruan,2,1,4,Ruan,PROPN,NNP,ROOT,Xxxx,0.0
+Sherri Douville,Sherri,2,1,6,Sherri,PROPN,NNP,compound,Xxxxx,0.0
+Sherri Douville,Douville,2,1,8,Douville,PROPN,NNP,ROOT,Xxxxx,0.0
+Matt Bellamy,Matt,2,1,4,Matt,PROPN,NNP,compound,Xxxx,0.0
+Matt Bellamy,Bellamy,2,1,7,Bellamy,PROPN,NNP,ROOT,Xxxxx,0.0
+Thomas Vu,Thomas,2,1,6,Thomas,PROPN,NNP,compound,Xxxxx,0.0
+Thomas Vu,Vu,2,1,2,Vu,PROPN,NNP,ROOT,Xx,0.0
+Michael Hartnett,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Hartnett,Hartnett,2,1,8,Hartnett,PROPN,NNP,ROOT,Xxxxx,0.0
+Forrest Li,Forrest,2,1,7,Forrest,PROPN,NNP,compound,Xxxxx,0.0
+Forrest Li,Li,2,1,2,Li,PROPN,NNP,ROOT,Xx,0.0
+Kalyan Krishnamurthy,Kalyan,2,1,6,kalyan,ADJ,JJ,amod,Xxxxx,0.0
+Kalyan Krishnamurthy,Krishnamurthy,2,1,13,Krishnamurthy,PROPN,NNP,ROOT,Xxxxx,0.0
+Romain Afflelou,Romain,2,1,6,Romain,PROPN,NNP,compound,Xxxxx,0.0
+Romain Afflelou,Afflelou,2,1,8,Afflelou,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,Prediksi,11,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,Togel,11,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,HK,11,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,9,11,1,1,9,NUM,CD,nummod,d,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,Juni,11,1,4,Juni,PROPN,NNP,nmod,Xxxx,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,2022,11,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,Kode,11,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,Syair,11,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,togel,11,1,5,togel,NOUN,NN,compound,xxxx,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,Hongkong,11,1,8,Hongkong,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 9 Juni 2022 Kode Syair togel Hongkong Kamis,Kamis,11,1,5,Kamis,PROPN,NNP,ROOT,Xxxxx,0.0
+Felix Jahn,Felix,2,1,5,Felix,PROPN,NNP,compound,Xxxxx,0.0
+Felix Jahn,Jahn,2,1,4,Jahn,PROPN,NNP,ROOT,Xxxx,0.0
+Igor Tulchinsky,Igor,2,1,4,Igor,PROPN,NNP,compound,Xxxx,0.0
+Igor Tulchinsky,Tulchinsky,2,1,10,Tulchinsky,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi SGP 26 Mei 2022 Bocoran Togel Singapore,Prediksi,8,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi SGP 26 Mei 2022 Bocoran Togel Singapore,SGP,8,1,3,SGP,PROPN,NNP,nmod,XXX,0.0
+Prediksi SGP 26 Mei 2022 Bocoran Togel Singapore,26,8,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi SGP 26 Mei 2022 Bocoran Togel Singapore,Mei,8,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi SGP 26 Mei 2022 Bocoran Togel Singapore,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi SGP 26 Mei 2022 Bocoran Togel Singapore,Bocoran,8,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi SGP 26 Mei 2022 Bocoran Togel Singapore,Togel,8,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi SGP 26 Mei 2022 Bocoran Togel Singapore,Singapore,8,1,9,Singapore,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK 11 Mei 2022 bocoranjitu.org,Prediksi,7,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK 11 Mei 2022 bocoranjitu.org,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 11 Mei 2022 bocoranjitu.org,HK,7,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Togel HK 11 Mei 2022 bocoranjitu.org,11,7,1,2,11,NUM,CD,appos,dd,0.0
+Prediksi Togel HK 11 Mei 2022 bocoranjitu.org,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Togel HK 11 Mei 2022 bocoranjitu.org,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK 11 Mei 2022 bocoranjitu.org,bocoranjitu.org,7,1,15,bocoranjitu.org,X,ADD,appos,xxxx.xxx,0.0
+Paul Froio Massachusetts,Paul,3,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Froio Massachusetts,Froio,3,1,5,Froio,PROPN,NNP,compound,Xxxxx,0.0
+Paul Froio Massachusetts,Massachusetts,3,1,13,Massachusetts,PROPN,NNP,ROOT,Xxxxx,0.0
+Eric Ries,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Ries,Ries,2,1,4,Ries,PROPN,NNP,ROOT,Xxxx,0.0
+Nicole Cadoret,Nicole,2,1,6,Nicole,PROPN,NNP,compound,Xxxxx,0.0
+Nicole Cadoret,Cadoret,2,1,7,Cadoret,PROPN,NNP,ROOT,Xxxxx,0.0
+Arjun Purkayastha,Arjun,2,1,5,Arjun,PROPN,NNP,compound,Xxxxx,0.0
+Arjun Purkayastha,Purkayastha,2,1,11,Purkayastha,PROPN,NNP,ROOT,Xxxxx,0.0
+Chris Dixon,Chris,2,1,5,Chris,PROPN,NNP,compound,Xxxxx,0.0
+Chris Dixon,Dixon,2,1,5,Dixon,PROPN,NNP,ROOT,Xxxxx,0.0
+Kathleen Breitman,Kathleen,2,1,8,Kathleen,PROPN,NNP,compound,Xxxxx,0.0
+Kathleen Breitman,Breitman,2,1,8,Breitman,PROPN,NNP,ROOT,Xxxxx,0.0
+Akshay Kothari,Akshay,2,1,6,Akshay,PROPN,NNP,compound,Xxxxx,0.0
+Akshay Kothari,Kothari,2,1,7,Kothari,PROPN,NNP,ROOT,Xxxxx,0.0
+Austin Geidt,Austin,2,1,6,Austin,PROPN,NNP,compound,Xxxxx,0.0
+Austin Geidt,Geidt,2,1,5,Geidt,PROPN,NNP,ROOT,Xxxxx,0.0
+Solomon Hykes,Solomon,2,1,7,Solomon,PROPN,NNP,compound,Xxxxx,0.0
+Solomon Hykes,Hykes,2,1,5,Hykes,PROPN,NNPS,ROOT,Xxxxx,0.0
+Rafael Melo,Rafael,2,1,6,Rafael,PROPN,NNP,compound,Xxxxx,0.0
+Rafael Melo,Melo,2,1,4,Melo,PROPN,NNP,ROOT,Xxxx,0.0
+Mikhail Kokorich,Mikhail,2,1,7,Mikhail,PROPN,NNP,compound,Xxxxx,0.0
+Mikhail Kokorich,Kokorich,2,1,8,Kokorich,PROPN,NNP,ROOT,Xxxxx,0.0
+Masayoshi Son,Masayoshi,2,1,9,Masayoshi,PROPN,NNP,compound,Xxxxx,0.0
+Masayoshi Son,Son,2,1,3,Son,PROPN,NNP,ROOT,Xxx,0.0
+Liz Young,Liz,2,1,3,Liz,PROPN,NNP,compound,Xxx,0.0
+Liz Young,Young,2,1,5,Young,PROPN,NNP,ROOT,Xxxxx,0.0
+Alex Fieldcamp,Alex,2,1,4,Alex,PROPN,NNP,compound,Xxxx,0.0
+Alex Fieldcamp,Fieldcamp,2,1,9,Fieldcamp,PROPN,NNP,ROOT,Xxxxx,0.0
+Guy Podjarny,Guy,2,1,3,Guy,PROPN,NNP,compound,Xxx,0.0
+Guy Podjarny,Podjarny,2,1,8,Podjarny,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,Prediksi,10,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,TOTO,10,1,4,TOTO,PROPN,NNP,compound,XXXX,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,Macau,10,1,5,Macau,PROPN,NNP,nsubj,Xxxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,Jumat,10,1,5,Jumat,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,3,10,1,1,3,NUM,CD,cc,d,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,Juni,10,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,Bocoran,10,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,Jitu,10,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022 Bocoran Jitu Macau,Macau,10,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Mike Bjorkman,Mike,2,1,4,Mike,PROPN,NNP,compound,Xxxx,0.0
+Mike Bjorkman,Bjorkman,2,1,8,Bjorkman,PROPN,NNP,ROOT,Xxxxx,0.0
+Ali Ata,Ali,2,1,3,Ali,PROPN,NNP,compound,Xxx,0.0
+Ali Ata,Ata,2,1,3,Ata,PROPN,NNP,ROOT,Xxx,0.0
+Archana Priyadarshini,Archana,2,1,7,Archana,PROPN,NNP,compound,Xxxxx,0.0
+Archana Priyadarshini,Priyadarshini,2,1,13,Priyadarshini,PROPN,NNP,ROOT,Xxxxx,0.0
+Ryan Reynolds,Ryan,2,1,4,Ryan,PROPN,NNP,compound,Xxxx,0.0
+Ryan Reynolds,Reynolds,2,1,8,Reynolds,PROPN,NNP,ROOT,Xxxxx,0.0
+Kavan Choksi Japan,Kavan,3,2,5,Kavan,PROPN,NNP,compound,Xxxxx,0.0
+Kavan Choksi Japan,Choksi,3,2,6,Choksi,PROPN,NNP,compound,Xxxxx,0.0
+Kavan Choksi Japan,Japan,3,2,5,Japan,PROPN,NNP,ROOT,Xxxxx,0.0
+Lizzie Chapman,Lizzie,2,1,6,Lizzie,PROPN,NNP,compound,Xxxxx,0.0
+Lizzie Chapman,Chapman,2,1,7,Chapman,PROPN,NNP,ROOT,Xxxxx,0.0
+David Baszucki,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Baszucki,Baszucki,2,1,8,Baszucki,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi HK 24 Mei 2022 Syair HK bocoranjitu.org,Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 24 Mei 2022 Syair HK bocoranjitu.org,HK,8,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Prediksi HK 24 Mei 2022 Syair HK bocoranjitu.org,24,8,1,2,24,NUM,CD,nummod,dd,0.0
+Prediksi HK 24 Mei 2022 Syair HK bocoranjitu.org,Mei,8,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi HK 24 Mei 2022 Syair HK bocoranjitu.org,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi HK 24 Mei 2022 Syair HK bocoranjitu.org,Syair,8,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 24 Mei 2022 Syair HK bocoranjitu.org,HK,8,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi HK 24 Mei 2022 Syair HK bocoranjitu.org,bocoranjitu.org,8,1,15,bocoranjitu.org,NOUN,NN,ROOT,xxxx.xxx,0.0
+Nikil Viswanathan,Nikil,2,1,5,Nikil,PROPN,NNP,compound,Xxxxx,0.0
+Nikil Viswanathan,Viswanathan,2,1,11,Viswanathan,PROPN,NNP,ROOT,Xxxxx,0.0
+Greg Solano,Greg,2,1,4,Greg,PROPN,NNP,compound,Xxxx,0.0
+Greg Solano,Solano,2,1,6,Solano,PROPN,NNP,ROOT,Xxxxx,0.0
+Parker Conrad,Parker,2,1,6,Parker,PROPN,NNP,compound,Xxxxx,0.0
+Parker Conrad,Conrad,2,1,6,Conrad,PROPN,NNP,ROOT,Xxxxx,0.0
+Benjamin Ling,Benjamin,2,1,8,Benjamin,PROPN,NNP,compound,Xxxxx,0.0
+Benjamin Ling,Ling,2,1,4,Ling,PROPN,NNP,ROOT,Xxxx,0.0
+Dick Costolo,Dick,2,1,4,Dick,PROPN,NNP,compound,Xxxx,0.0
+Dick Costolo,Costolo,2,1,7,Costolo,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,Prediksi,9,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,Togel,9,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,HK,9,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,Jumat,9,1,5,Jumat,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,3,9,1,1,3,NUM,CD,nummod,d,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,Juni,9,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,2022,9,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,BocoranJitu.org,9,1,15,BocoranJitu.org,PROPN,NNP,compound,XxxxxXxxx.xxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022 BocoranJitu.org HK,HK,9,1,2,HK,PROPN,NNP,appos,XX,0.0
+Vivekananda Hallekere,Vivekananda,2,1,11,Vivekananda,PROPN,NNP,compound,Xxxxx,0.0
+Vivekananda Hallekere,Hallekere,2,1,9,Hallekere,PROPN,NNP,ROOT,Xxxxx,0.0
+Terrence Rohan,Terrence,2,1,8,Terrence,PROPN,NNP,compound,Xxxxx,0.0
+Terrence Rohan,Rohan,2,1,5,Rohan,PROPN,NNP,ROOT,Xxxxx,0.0
+Michael Seibel,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Seibel,Seibel,2,1,6,Seibel,PROPN,NNP,ROOT,Xxxxx,0.0
+Michael Brian Cotter,Michael,3,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Brian Cotter,Brian,3,1,5,Brian,PROPN,NNP,compound,Xxxxx,0.0
+Michael Brian Cotter,Cotter,3,1,6,Cotter,PROPN,NNP,ROOT,Xxxxx,0.0
+Matthew Prince,Matthew,2,1,7,Matthew,PROPN,NNP,compound,Xxxxx,0.0
+Matthew Prince,Prince,2,1,6,Prince,PROPN,NNP,ROOT,Xxxxx,0.0
+David Bonderman,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Bonderman,Bonderman,2,1,9,Bonderman,PROPN,NNP,ROOT,Xxxxx,0.0
+Sebastian Dobrincu,Sebastian,2,1,9,Sebastian,PROPN,NNP,compound,Xxxxx,0.0
+Sebastian Dobrincu,Dobrincu,2,1,8,Dobrincu,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,Prediksi,10,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,Togel,10,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,HK,10,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,27,10,1,2,27,NUM,CD,nummod,dd,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,Mei,10,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,Kode,10,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,Syair,10,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,Hongkong,10,1,8,Hongkong,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel HK 27 Mei 2022 Kode Syair Hongkong uvsorb.org,uvsorb.org,10,1,10,uvsorb.org,NOUN,NN,appos,xxxx.xxx,0.0
+Suresh Chukkapalli,Suresh,2,1,6,Suresh,PROPN,NNP,compound,Xxxxx,0.0
+Suresh Chukkapalli,Chukkapalli,2,1,11,Chukkapalli,PROPN,NNP,ROOT,Xxxxx,0.0
+Ashish Sharma,Ashish,2,1,6,Ashish,PROPN,NNP,compound,Xxxxx,0.0
+Ashish Sharma,Sharma,2,1,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Yvonne Ho,Yvonne,2,1,6,Yvonne,PROPN,NNP,compound,Xxxxx,0.0
+Yvonne Ho,Ho,2,1,2,Ho,PROPN,NNP,ROOT,Xx,0.0
+Pankaj Agarwal,Pankaj,2,1,6,Pankaj,PROPN,NNP,compound,Xxxxx,0.0
+Pankaj Agarwal,Agarwal,2,1,7,Agarwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Data Keluaran Sydney bocoranjitu.org,Data,4,1,4,Data,PROPN,NNP,compound,Xxxx,0.0
+Data Keluaran Sydney bocoranjitu.org,Keluaran,4,1,8,Keluaran,PROPN,NNP,compound,Xxxxx,0.0
+Data Keluaran Sydney bocoranjitu.org,Sydney,4,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Data Keluaran Sydney bocoranjitu.org,bocoranjitu.org,4,1,15,bocoranjitu.org,NOUN,NN,punct,xxxx.xxx,0.0
+Mat Megens,Mat,2,1,3,Mat,PROPN,NNP,compound,Xxx,0.0
+Mat Megens,Megens,2,1,6,megen,NOUN,NNS,ROOT,Xxxxx,0.0
+Ankit Bhati,Ankit,2,1,5,Ankit,PROPN,NNP,compound,Xxxxx,0.0
+Ankit Bhati,Bhati,2,1,5,Bhati,PROPN,NNP,ROOT,Xxxxx,0.0
+Daniel Klibanoff,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Daniel Klibanoff,Klibanoff,2,1,9,Klibanoff,PROPN,NNP,ROOT,Xxxxx,0.0
+Nikita Bier,Nikita,2,1,6,Nikita,PROPN,NNP,compound,Xxxxx,0.0
+Nikita Bier,Bier,2,1,4,Bier,PROPN,NNP,ROOT,Xxxx,0.0
+Jenny Lefcourt,Jenny,2,1,5,Jenny,PROPN,NNP,compound,Xxxxx,0.0
+Jenny Lefcourt,Lefcourt,2,1,8,Lefcourt,PROPN,NNP,ROOT,Xxxxx,0.0
+Albinder Dhindsa,Albinder,2,1,8,albinder,NUM,CD,nummod,Xxxxx,0.0
+Albinder Dhindsa,Dhindsa,2,1,7,Dhindsa,PROPN,NNP,ROOT,Xxxxx,0.0
+Syair Sydney Tercepat,Syair,3,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Syair Sydney Tercepat,Sydney,3,1,6,Sydney,PROPN,NNP,compound,Xxxxx,0.0
+Syair Sydney Tercepat,Tercepat,3,1,8,Tercepat,PROPN,NNP,ROOT,Xxxxx,0.0
+Pankaj Chaddah,Pankaj,2,1,6,Pankaj,PROPN,NNP,compound,Xxxxx,0.0
+Pankaj Chaddah,Chaddah,2,1,7,Chaddah,PROPN,NNP,ROOT,Xxxxx,0.0
+Matt Mullenweg,Matt,2,1,4,Matt,PROPN,NNP,compound,Xxxx,0.0
+Matt Mullenweg,Mullenweg,2,1,9,Mullenweg,PROPN,NNP,ROOT,Xxxxx,0.0
+Joseph DiMenna,Joseph,2,1,6,Joseph,PROPN,NNP,compound,Xxxxx,0.0
+Joseph DiMenna,DiMenna,2,1,7,DiMenna,PROPN,NNP,ROOT,XxXxxxx,0.0
+Doaa Dashoush,Doaa,2,1,4,Doaa,PROPN,NNP,compound,Xxxx,0.0
+Doaa Dashoush,Dashoush,2,1,8,Dashoush,PROPN,NNP,ROOT,Xxxxx,0.0
+Mark Cuban,Mark,2,1,4,Mark,PROPN,NNP,compound,Xxxx,0.0
+Mark Cuban,Cuban,2,1,5,Cuban,PROPN,NNP,ROOT,Xxxxx,0.0
+Benny Schnaider,Benny,2,1,5,Benny,PROPN,NNP,compound,Xxxxx,0.0
+Benny Schnaider,Schnaider,2,1,9,Schnaider,PROPN,NNP,ROOT,Xxxxx,0.0
+John Doerr,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Doerr,Doerr,2,1,5,Doerr,PROPN,NNP,ROOT,Xxxxx,0.0
+Manuel Paolo Villar,Manuel,3,1,6,Manuel,PROPN,NNP,compound,Xxxxx,0.0
+Manuel Paolo Villar,Paolo,3,1,5,Paolo,PROPN,NNP,compound,Xxxxx,0.0
+Manuel Paolo Villar,Villar,3,1,6,Villar,PROPN,NNP,ROOT,Xxxxx,0.0
+Darcy Stacom,Darcy,2,1,5,Darcy,PROPN,NNP,compound,Xxxxx,0.0
+Darcy Stacom,Stacom,2,1,6,Stacom,PROPN,NNP,ROOT,Xxxxx,0.0
+Tanuj Shori,Tanuj,2,1,5,Tanuj,PROPN,NNP,compound,Xxxxx,0.0
+Tanuj Shori,Shori,2,1,5,Shori,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi SGP 29 Mei 2022 Bocoran Jitu SGP,Prediksi,8,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi SGP 29 Mei 2022 Bocoran Jitu SGP,SGP,8,1,3,SGP,PROPN,NNP,nmod,XXX,0.0
+Prediksi SGP 29 Mei 2022 Bocoran Jitu SGP,29,8,1,2,29,NUM,CD,nummod,dd,0.0
+Prediksi SGP 29 Mei 2022 Bocoran Jitu SGP,Mei,8,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi SGP 29 Mei 2022 Bocoran Jitu SGP,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi SGP 29 Mei 2022 Bocoran Jitu SGP,Bocoran,8,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi SGP 29 Mei 2022 Bocoran Jitu SGP,Jitu,8,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi SGP 29 Mei 2022 Bocoran Jitu SGP,SGP,8,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Suneel Sarfraz Munj,Suneel,3,1,6,Suneel,PROPN,NNP,compound,Xxxxx,0.0
+Suneel Sarfraz Munj,Sarfraz,3,1,7,Sarfraz,PROPN,NNP,compound,Xxxxx,0.0
+Suneel Sarfraz Munj,Munj,3,1,4,Munj,PROPN,NNP,ROOT,Xxxx,0.0
+Prateek Jain,Prateek,2,1,7,Prateek,PROPN,NNP,compound,Xxxxx,0.0
+Prateek Jain,Jain,2,1,4,Jain,PROPN,NNP,ROOT,Xxxx,0.0
+Johan HAJJI,Johan,2,1,5,Johan,PROPN,NNP,ROOT,Xxxxx,0.0
+Johan HAJJI,HAJJI,2,1,5,HAJJI,VERB,VBD,appos,XXXX,0.0
+Paul Favret,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Favret,Favret,2,1,6,Favret,PROPN,NNP,ROOT,Xxxxx,0.0
+John Curtius,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Curtius,Curtius,2,1,7,Curtius,PROPN,NNP,ROOT,Xxxxx,0.0
+Paul Singer,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Singer,Singer,2,1,6,Singer,PROPN,NNP,ROOT,Xxxxx,0.0
+Dharmesh Shah,Dharmesh,2,1,8,Dharmesh,PROPN,NNP,compound,Xxxxx,0.0
+Dharmesh Shah,Shah,2,1,4,Shah,PROPN,NNP,ROOT,Xxxx,0.0
+Joe McCann,Joe,2,1,3,Joe,PROPN,NNP,compound,Xxx,0.0
+Joe McCann,McCann,2,1,6,McCann,PROPN,NNP,ROOT,XxXxxx,0.0
+Eric Yuan,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Yuan,Yuan,2,1,4,Yuan,PROPN,NNP,ROOT,Xxxx,0.0
+Evan Luthra,Evan,2,1,4,Evan,PROPN,NNP,compound,Xxxx,0.0
+Evan Luthra,Luthra,2,1,6,Luthra,PROPN,NNP,ROOT,Xxxxx,0.0
+Anshuman Singh,Anshuman,2,1,8,Anshuman,PROPN,NNP,compound,Xxxxx,0.0
+Anshuman Singh,Singh,2,1,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+Tareq Amin,Tareq,2,1,5,Tareq,PROPN,NNP,compound,Xxxxx,0.0
+Tareq Amin,Amin,2,1,4,Amin,PROPN,NNP,ROOT,Xxxx,0.0
+Noah Kagan,Noah,2,1,4,Noah,PROPN,NNP,compound,Xxxx,0.0
+Noah Kagan,Kagan,2,1,5,Kagan,PROPN,NNP,ROOT,Xxxxx,0.0
+Maximilian Bittner,Maximilian,2,1,10,Maximilian,PROPN,NNP,compound,Xxxxx,0.0
+Maximilian Bittner,Bittner,2,1,7,Bittner,PROPN,NNP,ROOT,Xxxxx,0.0
+Muhammad Babangida,Muhammad,2,1,8,Muhammad,PROPN,NNP,compound,Xxxxx,0.0
+Muhammad Babangida,Babangida,2,1,9,Babangida,PROPN,NNP,ROOT,Xxxxx,0.0
+Abel Makkonen Tesfaye,Abel,3,1,4,Abel,PROPN,NNP,compound,Xxxx,0.0
+Abel Makkonen Tesfaye,Makkonen,3,1,8,Makkonen,PROPN,NNP,compound,Xxxxx,0.0
+Abel Makkonen Tesfaye,Tesfaye,3,1,7,Tesfaye,PROPN,NNP,ROOT,Xxxxx,0.0
+Timo Rein,Timo,2,1,4,Timo,PROPN,NNP,compound,Xxxx,0.0
+Timo Rein,Rein,2,1,4,Rein,PROPN,NNP,ROOT,Xxxx,0.0
+David Holz,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Holz,Holz,2,1,4,Holz,PROPN,NNP,ROOT,Xxxx,0.0
+Michael Stoppelman,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Stoppelman,Stoppelman,2,1,10,Stoppelman,PROPN,NNP,ROOT,Xxxxx,0.0
+Haroldo Jacobovicz,Haroldo,2,1,7,Haroldo,PROPN,NNP,compound,Xxxxx,0.0
+Haroldo Jacobovicz,Jacobovicz,2,1,10,Jacobovicz,PROPN,NNP,ROOT,Xxxxx,0.0
+"Fady Hannah-Shmouni, MD FRCPC",Fady,4,1,4,Fady,PROPN,NNP,compound,Xxxx,0.0
+"Fady Hannah-Shmouni, MD FRCPC",Hannah,4,1,6,Hannah,PROPN,NNP,compound,Xxxxx,0.0
+"Fady Hannah-Shmouni, MD FRCPC",-,4,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Fady Hannah-Shmouni, MD FRCPC",Shmouni,4,1,7,Shmouni,PROPN,NNP,ROOT,Xxxxx,0.0
+"Fady Hannah-Shmouni, MD FRCPC",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Fady Hannah-Shmouni, MD FRCPC",MD,4,1,2,MD,PROPN,NNP,compound,XX,0.0
+"Fady Hannah-Shmouni, MD FRCPC",FRCPC,4,1,5,FRCPC,PROPN,NNP,appos,XXXX,0.0
+Ayman Sadiq,Ayman,2,1,5,Ayman,PROPN,NNP,compound,Xxxxx,0.0
+Ayman Sadiq,Sadiq,2,1,5,Sadiq,PROPN,NNP,ROOT,Xxxxx,0.0
+Joseph Alagna,Joseph,2,1,6,Joseph,PROPN,NNP,compound,Xxxxx,0.0
+Joseph Alagna,Alagna,2,1,6,Alagna,PROPN,NNP,ROOT,Xxxxx,0.0
+Edgard Corona,Edgard,2,1,6,Edgard,PROPN,NNP,compound,Xxxxx,0.0
+Edgard Corona,Corona,2,1,6,Corona,PROPN,NNP,ROOT,Xxxxx,0.0
+Byju Raveendran,Byju,2,1,4,Byju,PROPN,NNP,compound,Xxxx,0.0
+Byju Raveendran,Raveendran,2,1,10,Raveendran,PROPN,NNP,ROOT,Xxxxx,0.0
+Caroline Ellison,Caroline,2,1,8,Caroline,PROPN,NNP,compound,Xxxxx,0.0
+Caroline Ellison,Ellison,2,1,7,Ellison,PROPN,NNP,ROOT,Xxxxx,0.0
+C. C. Wei,C.,3,1,2,C.,PROPN,NNP,compound,X.,0.0
+C. C. Wei,Wei,3,1,3,Wei,PROPN,NNP,ROOT,Xxx,0.0
+Sumit Shah,Sumit,2,1,5,Sumit,PROPN,NNP,compound,Xxxxx,0.0
+Sumit Shah,Shah,2,1,4,Shah,PROPN,NNP,ROOT,Xxxx,0.0
+Hercy Chang,Hercy,2,1,5,Hercy,PROPN,NNP,compound,Xxxxx,0.0
+Hercy Chang,Chang,2,1,5,Chang,PROPN,NNP,ROOT,Xxxxx,0.0
+Neal Wu,Neal,2,1,4,Neal,PROPN,NNP,compound,Xxxx,0.0
+Neal Wu,Wu,2,1,2,Wu,PROPN,NNP,ROOT,Xx,0.0
+Eddy Lu,Eddy,2,1,4,Eddy,PROPN,NNP,compound,Xxxx,0.0
+Eddy Lu,Lu,2,1,2,Lu,PROPN,NNP,ROOT,Xx,0.0
+Aubrey Graham (Drake),Aubrey,3,1,6,Aubrey,PROPN,NNP,compound,Xxxxx,0.0
+Aubrey Graham (Drake),Graham,3,1,6,Graham,PROPN,NNP,ROOT,Xxxxx,0.0
+Aubrey Graham (Drake),(,3,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Aubrey Graham (Drake),Drake,3,1,5,Drake,PROPN,NNP,appos,Xxxxx,0.0
+Aubrey Graham (Drake),),3,1,1,),PUNCT,-RRB-,punct,),0.0
+Ankur Warikoo,Ankur,2,1,5,Ankur,PROPN,NNP,compound,Xxxxx,0.0
+Ankur Warikoo,Warikoo,2,1,7,Warikoo,PROPN,NNP,ROOT,Xxxxx,0.0
+Daniel Ek,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Daniel Ek,Ek,2,1,2,Ek,PROPN,NNP,ROOT,Xx,0.0
+Bing Chen,Bing,2,1,4,Bing,PROPN,NNP,compound,Xxxx,0.0
+Bing Chen,Chen,2,1,4,Chen,PROPN,NNP,ROOT,Xxxx,0.0
+Laura Behrens Wu,Laura,3,1,5,Laura,PROPN,NNP,compound,Xxxxx,0.0
+Laura Behrens Wu,Behrens,3,1,7,Behrens,PROPN,NNP,compound,Xxxxx,0.0
+Laura Behrens Wu,Wu,3,1,2,Wu,PROPN,NNP,ROOT,Xx,0.0
+Cory Levy,Cory,2,1,4,Cory,PROPN,NNP,compound,Xxxx,0.0
+Cory Levy,Levy,2,1,4,Levy,PROPN,NNP,ROOT,Xxxx,0.0
+Aiden Pleterski,Aiden,2,1,5,Aiden,PROPN,NNP,compound,Xxxxx,0.0
+Aiden Pleterski,Pleterski,2,1,9,Pleterski,PROPN,NNP,ROOT,Xxxxx,0.0
+Greg Kidd,Greg,2,1,4,Greg,PROPN,NNP,compound,Xxxx,0.0
+Greg Kidd,Kidd,2,1,4,Kidd,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,Prediksi,9,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,Togel,9,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,Sydney,9,1,6,Sydney,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,11,9,1,2,11,NUM,CD,nummod,dd,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,Juni,9,1,4,Juni,PROPN,NNP,nmod,Xxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,2022,9,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,Syair,9,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,Sdy,9,1,3,Sdy,PROPN,NNP,compound,Xxx,0.0
+Prediksi Togel Sydney 11 Juni 2022 Syair Sdy Sabtu,Sabtu,9,1,5,Sabtu,PROPN,NNP,ROOT,Xxxxx,0.0
+Cynthia Petion,Cynthia,2,1,7,Cynthia,PROPN,NNP,compound,Xxxxx,0.0
+Cynthia Petion,Petion,2,1,6,Petion,PROPN,NNP,ROOT,Xxxxx,0.0
+Rajesh Mane,Rajesh,2,1,6,Rajesh,PROPN,NNP,compound,Xxxxx,0.0
+Rajesh Mane,Mane,2,1,4,Mane,PROPN,NNP,ROOT,Xxxx,0.0
+Aaqib Gadit,Aaqib,2,1,5,Aaqib,PROPN,NNP,compound,Xxxxx,0.0
+Aaqib Gadit,Gadit,2,1,5,Gadit,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Prediksi,11,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Syair,11,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Sdy,11,1,3,Sdy,PROPN,NNP,compound,Xxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Jumat,11,1,5,Jumat,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,20,11,1,2,20,NUM,CD,nummod,dd,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Mei,11,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,2022,11,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Bocoran,11,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Angka,11,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Main,11,1,4,Main,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022 Bocoran Angka Main Sydney,Sydney,11,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Jeff Zheng,Jeff,2,1,4,Jeff,PROPN,NNP,compound,Xxxx,0.0
+Jeff Zheng,Zheng,2,1,5,Zheng,PROPN,NNP,ROOT,Xxxxx,0.0
+Michael Bitensky,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Bitensky,Bitensky,2,1,8,Bitensky,PROPN,NNP,ROOT,Xxxxx,0.0
+Stuart Lewis,Stuart,2,1,6,Stuart,PROPN,NNP,compound,Xxxxx,0.0
+Stuart Lewis,Lewis,2,1,5,Lewis,PROPN,NNP,ROOT,Xxxxx,0.0
+Peter Thiel,Peter,2,1,5,Peter,PROPN,NNP,compound,Xxxxx,0.0
+Peter Thiel,Thiel,2,1,5,Thiel,PROPN,NNP,ROOT,Xxxxx,0.0
+Amit Singhal,Amit,2,1,4,Amit,PROPN,NNP,compound,Xxxx,0.0
+Amit Singhal,Singhal,2,1,7,Singhal,PROPN,NNP,ROOT,Xxxxx,0.0
+Biz Stone,Biz,2,1,3,Biz,PROPN,NNP,compound,Xxx,0.0
+Biz Stone,Stone,2,1,5,Stone,PROPN,NNP,ROOT,Xxxxx,0.0
+Sherwin Gandhi,Sherwin,2,1,7,Sherwin,PROPN,NNP,compound,Xxxxx,0.0
+Sherwin Gandhi,Gandhi,2,1,6,Gandhi,PROPN,NNP,ROOT,Xxxxx,0.0
+Ilkka Paananen,Ilkka,2,1,5,Ilkka,PROPN,NNP,compound,Xxxxx,0.0
+Ilkka Paananen,Paananen,2,1,8,paananen,NOUN,NN,ROOT,Xxxxx,0.0
+Kaisa Aierken,Kaisa,2,1,5,Kaisa,PROPN,NNP,compound,Xxxxx,0.0
+Kaisa Aierken,Aierken,2,1,7,Aierken,PROPN,NNP,ROOT,Xxxxx,0.0
+J. Bryan Scott,J.,3,1,2,J.,PROPN,NNP,compound,X.,0.0
+J. Bryan Scott,Bryan,3,1,5,Bryan,PROPN,NNP,compound,Xxxxx,0.0
+J. Bryan Scott,Scott,3,1,5,Scott,PROPN,NNP,ROOT,Xxxxx,0.0
+Marek Sala,Marek,2,1,5,Marek,PROPN,NNP,compound,Xxxxx,0.0
+Marek Sala,Sala,2,1,4,Sala,PROPN,NNP,ROOT,Xxxx,0.0
+AmirHossein Cheraghi,AmirHossein,2,1,11,AmirHossein,PROPN,NNP,compound,XxxxXxxxx,0.0
+AmirHossein Cheraghi,Cheraghi,2,1,8,Cheraghi,PROPN,NNP,ROOT,Xxxxx,0.0
+Dheeraj Jain,Dheeraj,2,1,7,Dheeraj,PROPN,NNP,compound,Xxxxx,0.0
+Dheeraj Jain,Jain,2,1,4,Jain,PROPN,NNP,ROOT,Xxxx,0.0
+Philipp Kloeckner,Philipp,2,1,7,Philipp,PROPN,NNP,compound,Xxxxx,0.0
+Philipp Kloeckner,Kloeckner,2,1,9,Kloeckner,PROPN,NNP,ROOT,Xxxxx,0.0
+Rajan Anandan,Rajan,2,1,5,Rajan,PROPN,NNP,compound,Xxxxx,0.0
+Rajan Anandan,Anandan,2,1,7,Anandan,PROPN,NNP,ROOT,Xxxxx,0.0
+Vijay Shekhar Sharma,Vijay,3,1,5,Vijay,PROPN,NNP,compound,Xxxxx,0.0
+Vijay Shekhar Sharma,Shekhar,3,1,7,Shekhar,PROPN,NNP,compound,Xxxxx,0.0
+Vijay Shekhar Sharma,Sharma,3,1,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Susan Wojcicki,Susan,2,1,5,Susan,PROPN,NNP,compound,Xxxxx,0.0
+Susan Wojcicki,Wojcicki,2,1,8,Wojcicki,PROPN,NNP,ROOT,Xxxxx,0.0
+Ben Lamm,Ben,2,1,3,Ben,PROPN,NNP,compound,Xxx,0.0
+Ben Lamm,Lamm,2,1,4,Lamm,PROPN,NNP,ROOT,Xxxx,0.0
+Stephen Curry,Stephen,2,1,7,Stephen,PROPN,NNP,compound,Xxxxx,0.0
+Stephen Curry,Curry,2,1,5,Curry,PROPN,NNP,ROOT,Xxxxx,0.0
+Bill Ready,Bill,2,1,4,Bill,PROPN,NNP,compound,Xxxx,0.0
+Bill Ready,Ready,2,1,5,Ready,PROPN,NNP,ROOT,Xxxxx,0.0
+Tim Cook,Tim,2,1,3,Tim,PROPN,NNP,compound,Xxx,0.0
+Tim Cook,Cook,2,1,4,Cook,PROPN,NNP,ROOT,Xxxx,0.0
+Shou Zi Chew,Shou,3,1,4,Shou,PROPN,NNP,compound,Xxxx,0.0
+Shou Zi Chew,Zi,3,1,2,Zi,PROPN,NNP,compound,Xx,0.0
+Shou Zi Chew,Chew,3,1,4,Chew,PROPN,NNP,ROOT,Xxxx,0.0
+Baron Davis,Baron,2,1,5,Baron,PROPN,NNP,compound,Xxxxx,0.0
+Baron Davis,Davis,2,1,5,Davis,PROPN,NNP,ROOT,Xxxxx,0.0
+Bruce Strebinger,Bruce,2,1,5,Bruce,PROPN,NNP,compound,Xxxxx,0.0
+Bruce Strebinger,Strebinger,2,1,10,Strebinger,PROPN,NNP,ROOT,Xxxxx,0.0
+Maria Raga,Maria,2,1,5,Maria,PROPN,NNP,compound,Xxxxx,0.0
+Maria Raga,Raga,2,1,4,Raga,PROPN,NNP,ROOT,Xxxx,0.0
+Jai Malik,Jai,2,1,3,Jai,PROPN,NNP,compound,Xxx,0.0
+Jai Malik,Malik,2,1,5,Malik,PROPN,NNP,ROOT,Xxxxx,0.0
+Marcus Lim,Marcus,2,1,6,Marcus,PROPN,NNP,compound,Xxxxx,0.0
+Marcus Lim,Lim,2,1,3,Lim,PROPN,NNP,ROOT,Xxx,0.0
+Gokul Rajaram,Gokul,2,1,5,Gokul,PROPN,NNP,compound,Xxxxx,0.0
+Gokul Rajaram,Rajaram,2,1,7,Rajaram,PROPN,NNP,ROOT,Xxxxx,0.0
+Robert Testagrossa,Robert,2,1,6,Robert,PROPN,NNP,compound,Xxxxx,0.0
+Robert Testagrossa,Testagrossa,2,1,11,Testagrossa,PROPN,NNP,ROOT,Xxxxx,0.0
+Julia Hartz,Julia,2,1,5,Julia,PROPN,NNP,compound,Xxxxx,0.0
+Julia Hartz,Hartz,2,1,5,Hartz,PROPN,NNP,ROOT,Xxxxx,0.0
+Mudassir Sheikha,Mudassir,2,1,8,Mudassir,PROPN,NNP,compound,Xxxxx,0.0
+Mudassir Sheikha,Sheikha,2,1,7,Sheikha,PROPN,NNP,ROOT,Xxxxx,0.0
+Anuj Srivastava,Anuj,2,1,4,Anuj,PROPN,NNP,compound,Xxxx,0.0
+Anuj Srivastava,Srivastava,2,1,10,Srivastava,PROPN,NNP,ROOT,Xxxxx,0.0
+David Johnston CFO,David,3,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Johnston CFO,Johnston,3,1,8,Johnston,PROPN,NNP,compound,Xxxxx,0.0
+David Johnston CFO,CFO,3,1,3,CFO,PROPN,NNP,ROOT,XXX,0.0
+Mohit Gulati,Mohit,2,1,5,Mohit,PROPN,NNP,compound,Xxxxx,0.0
+Mohit Gulati,Gulati,2,1,6,Gulati,PROPN,NNP,ROOT,Xxxxx,0.0
+Angie You,Angie,2,1,5,angie,NOUN,NN,compound,Xxxxx,0.0
+Angie You,You,2,1,3,you,PRON,PRP,ROOT,Xxx,0.0
+Graydon Hoare,Graydon,2,1,7,Graydon,PROPN,NNP,compound,Xxxxx,0.0
+Graydon Hoare,Hoare,2,1,5,Hoare,PROPN,NNP,ROOT,Xxxxx,0.0
+Shreekant Patil,Shreekant,2,1,9,Shreekant,PROPN,NNP,compound,Xxxxx,0.0
+Shreekant Patil,Patil,2,1,5,Patil,PROPN,NNP,ROOT,Xxxxx,0.0
+Arjun Vaidya,Arjun,2,1,5,Arjun,PROPN,NNP,compound,Xxxxx,0.0
+Arjun Vaidya,Vaidya,2,1,6,Vaidya,PROPN,NNP,ROOT,Xxxxx,0.0
+Kara Hurst,Kara,2,1,4,Kara,PROPN,NNP,compound,Xxxx,0.0
+Kara Hurst,Hurst,2,1,5,Hurst,PROPN,NNP,ROOT,Xxxxx,0.0
+Jeff Seibert,Jeff,2,1,4,Jeff,PROPN,NNP,compound,Xxxx,0.0
+Jeff Seibert,Seibert,2,1,7,Seibert,PROPN,NNP,ROOT,Xxxxx,0.0
+Alexander Edward Chesterman,Alexander,3,1,9,Alexander,PROPN,NNP,compound,Xxxxx,0.0
+Alexander Edward Chesterman,Edward,3,1,6,Edward,PROPN,NNP,compound,Xxxxx,0.0
+Alexander Edward Chesterman,Chesterman,3,1,10,Chesterman,PROPN,NNP,ROOT,Xxxxx,0.0
+Austen Allred,Austen,2,1,6,Austen,PROPN,NNP,compound,Xxxxx,0.0
+Austen Allred,Allred,2,1,6,allre,VERB,VBD,ROOT,Xxxxx,0.0
+Mohammed Jameel KBE,Mohammed,3,1,8,Mohammed,PROPN,NNP,compound,Xxxxx,0.0
+Mohammed Jameel KBE,Jameel,3,1,6,Jameel,PROPN,NNP,compound,Xxxxx,0.0
+Mohammed Jameel KBE,KBE,3,1,3,KBE,PROPN,NNP,ROOT,XXX,0.0
+Richard Branson,Richard,2,1,7,Richard,PROPN,NNP,compound,Xxxxx,0.0
+Richard Branson,Branson,2,1,7,Branson,PROPN,NNP,ROOT,Xxxxx,0.0
+Girish Mathrubootham,Girish,2,1,6,Girish,PROPN,NNP,compound,Xxxxx,0.0
+Girish Mathrubootham,Mathrubootham,2,1,13,Mathrubootham,PROPN,NNP,ROOT,Xxxxx,0.0
+Mahdi Raza,Mahdi,2,1,5,Mahdi,PROPN,NNP,compound,Xxxxx,0.0
+Mahdi Raza,Raza,2,1,4,Raza,PROPN,NNP,ROOT,Xxxx,0.0
+Shaan Puri,Shaan,2,1,5,Shaan,PROPN,NNP,compound,Xxxxx,0.0
+Shaan Puri,Puri,2,1,4,Puri,PROPN,NNP,ROOT,Xxxx,0.0
+William D King,William,3,1,7,William,PROPN,NNP,compound,Xxxxx,0.0
+William D King,D,3,1,1,D,PROPN,NNP,compound,X,0.0
+William D King,King,3,1,4,King,PROPN,NNP,ROOT,Xxxx,0.0
+James Mitchell,James,2,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James Mitchell,Mitchell,2,1,8,Mitchell,PROPN,NNP,ROOT,Xxxxx,0.0
+Yi He,Yi,2,1,2,Yi,PROPN,NNP,compound,Xx,0.0
+Yi He,He,2,1,2,he,PRON,PRP,ROOT,Xx,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,Forum,9,1,5,Forum,PROPN,NNP,compound,Xxxxx,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,Prediksi,9,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,Togel,9,1,5,Togel,PROPN,NNP,nsubj,Xxxxx,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,live,9,1,4,live,VERB,VBP,ROOT,xxxx,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,macau,9,1,5,macau,PROPN,NNP,compound,xxxx,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,HK,9,1,2,HK,PROPN,NNP,compound,XX,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,SGP,9,1,3,SGP,PROPN,NNP,compound,XXX,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,SYDNEY,9,1,6,SYDNEY,PROPN,NNP,dobj,XXXX,0.0
+Forum Prediksi Togel live macau HK SGP SYDNEY prediksitogelhk.one,prediksitogelhk.one,9,1,19,prediksitogelhk.one,X,ADD,punct,xxxx.xxx,0.0
+Danilo Diaz Granados,Danilo,3,1,6,Danilo,PROPN,NNP,compound,Xxxxx,0.0
+Danilo Diaz Granados,Diaz,3,1,4,Diaz,PROPN,NNP,compound,Xxxx,0.0
+Danilo Diaz Granados,Granados,3,1,8,Granados,PROPN,NNPS,ROOT,Xxxxx,0.0
+Lim Boon Hong,Lim,3,1,3,Lim,PROPN,NNP,compound,Xxx,0.0
+Lim Boon Hong,Boon,3,1,4,Boon,PROPN,NNP,compound,Xxxx,0.0
+Lim Boon Hong,Hong,3,1,4,Hong,PROPN,NNP,ROOT,Xxxx,0.0
+Mark Cohen,Mark,2,1,4,Mark,PROPN,NNP,compound,Xxxx,0.0
+Mark Cohen,Cohen,2,1,5,Cohen,PROPN,NNP,ROOT,Xxxxx,0.0
+Patrick Pichette,Patrick,2,1,7,Patrick,PROPN,NNP,compound,Xxxxx,0.0
+Patrick Pichette,Pichette,2,1,8,Pichette,PROPN,NNP,ROOT,Xxxxx,0.0
+Nihal Mehta,Nihal,2,1,5,Nihal,PROPN,NNP,compound,Xxxxx,0.0
+Nihal Mehta,Mehta,2,1,5,Mehta,PROPN,NNP,ROOT,Xxxxx,0.0
+Andrew Chen,Andrew,2,1,6,Andrew,PROPN,NNP,compound,Xxxxx,0.0
+Andrew Chen,Chen,2,1,4,Chen,PROPN,NNP,ROOT,Xxxx,0.0
+Kanat Sultanbekov,Kanat,2,1,5,Kanat,PROPN,NNP,compound,Xxxxx,0.0
+Kanat Sultanbekov,Sultanbekov,2,1,11,Sultanbekov,PROPN,NNP,ROOT,Xxxxx,0.0
+Packy McCormick,Packy,2,1,5,Packy,PROPN,NNP,compound,Xxxxx,0.0
+Packy McCormick,McCormick,2,1,9,McCormick,PROPN,NNP,ROOT,XxXxxxx,0.0
+Abdulhamid Al Omar,Abdulhamid,3,1,10,Abdulhamid,PROPN,NNP,compound,Xxxxx,0.0
+Abdulhamid Al Omar,Al,3,1,2,Al,PROPN,NNP,compound,Xx,0.0
+Abdulhamid Al Omar,Omar,3,1,4,Omar,PROPN,NNP,ROOT,Xxxx,0.0
+Ashvin Chadha,Ashvin,2,1,6,Ashvin,PROPN,NNP,compound,Xxxxx,0.0
+Ashvin Chadha,Chadha,2,1,6,Chadha,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair HK 11 Mei 2022 Bocoranjitu.org,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 11 Mei 2022 Bocoranjitu.org,Syair,7,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 11 Mei 2022 Bocoranjitu.org,HK,7,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Prediksi Syair HK 11 Mei 2022 Bocoranjitu.org,11,7,1,2,11,NUM,CD,nummod,dd,0.0
+Prediksi Syair HK 11 Mei 2022 Bocoranjitu.org,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Syair HK 11 Mei 2022 Bocoranjitu.org,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Syair HK 11 Mei 2022 Bocoranjitu.org,Bocoranjitu.org,7,1,15,Bocoranjitu.org,PROPN,NNP,ROOT,Xxxxx.xxx,0.0
+Azor Barros,Azor,2,1,4,Azor,PROPN,NNP,compound,Xxxx,0.0
+Azor Barros,Barros,2,1,6,Barros,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022 bocoranjitu.org,Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022 bocoranjitu.org,Syair,8,1,5,Syair,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022 bocoranjitu.org,Togel,8,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022 bocoranjitu.org,HK,8,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Syair Togel HK 12 Mei 2022 bocoranjitu.org,12,8,1,2,12,NUM,CD,nummod,dd,0.0
+Prediksi Syair Togel HK 12 Mei 2022 bocoranjitu.org,Mei,8,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022 bocoranjitu.org,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Syair Togel HK 12 Mei 2022 bocoranjitu.org,bocoranjitu.org,8,1,15,bocoranjitu.org,X,ADD,appos,xxxx.xxx,0.0
+soi cầu 247 rồng bạch kim,soi,6,1,3,soi,PROPN,NNP,ROOT,xxx,0.0
+soi cầu 247 rồng bạch kim,cầu,6,1,3,cầu,NOUN,NN,dobj,xxx,0.0
+soi cầu 247 rồng bạch kim,247,6,1,3,247,NUM,CD,nummod,ddd,0.0
+soi cầu 247 rồng bạch kim,rồng,6,1,4,rồng,PROPN,NNP,compound,xxxx,0.0
+soi cầu 247 rồng bạch kim,bạch,6,1,4,bạch,NOUN,NNS,compound,xxxx,0.0
+soi cầu 247 rồng bạch kim,kim,6,1,3,kim,X,FW,npadvmod,xxx,0.0
+Lukasz Gadowski,Lukasz,2,1,6,Lukasz,PROPN,NNP,compound,Xxxxx,0.0
+Lukasz Gadowski,Gadowski,2,1,8,Gadowski,PROPN,NNP,ROOT,Xxxxx,0.0
+Jared Leto,Jared,2,1,5,Jared,PROPN,NNP,compound,Xxxxx,0.0
+Jared Leto,Leto,2,1,4,Leto,PROPN,NNP,ROOT,Xxxx,0.0
+カヴァン チョクシ,カヴァン,2,2,4,カヴァン,PROPN,NNP,compound,xxxx,0.0
+カヴァン チョクシ,チョクシ,2,2,4,チョクシ,PROPN,NNP,ROOT,xxxx,0.0
+Gabriel Weinberg,Gabriel,2,1,7,Gabriel,PROPN,NNP,compound,Xxxxx,0.0
+Gabriel Weinberg,Weinberg,2,1,8,Weinberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Matt Brezina,Matt,2,1,4,Matt,PROPN,NNP,compound,Xxxx,0.0
+Matt Brezina,Brezina,2,1,7,Brezina,PROPN,NNP,ROOT,Xxxxx,0.0
+Sophia Bendz,Sophia,2,1,6,Sophia,PROPN,NNP,compound,Xxxxx,0.0
+Sophia Bendz,Bendz,2,1,5,Bendz,PROPN,NNP,ROOT,Xxxxx,0.0
+Olivier Pomel,Olivier,2,1,7,Olivier,PROPN,NNP,compound,Xxxxx,0.0
+Olivier Pomel,Pomel,2,1,5,Pomel,PROPN,NNP,ROOT,Xxxxx,0.0
+Logan Paul,Logan,2,1,5,Logan,PROPN,NNP,compound,Xxxxx,0.0
+Logan Paul,Paul,2,1,4,Paul,PROPN,NNP,ROOT,Xxxx,0.0
+Gabriel Calatrava,Gabriel,2,1,7,Gabriel,PROPN,NNP,compound,Xxxxx,0.0
+Gabriel Calatrava,Calatrava,2,1,9,Calatrava,PROPN,NNP,ROOT,Xxxxx,0.0
+Sasha Ivanov,Sasha,2,1,5,Sasha,PROPN,NNP,compound,Xxxxx,0.0
+Sasha Ivanov,Ivanov,2,1,6,Ivanov,PROPN,NNP,ROOT,Xxxxx,0.0
+Mario Götze,Mario,2,1,5,Mario,PROPN,NNP,compound,Xxxxx,0.0
+Mario Götze,Götze,2,1,5,Götze,PROPN,NNP,ROOT,Xxxxx,0.0
+Alexandre Yazdi,Alexandre,2,1,9,alexandre,NOUN,NN,compound,Xxxxx,0.0
+Alexandre Yazdi,Yazdi,2,1,5,Yazdi,PROPN,NNP,ROOT,Xxxxx,0.0
+Andre Iguodala,Andre,2,1,5,Andre,PROPN,NNP,compound,Xxxxx,0.0
+Andre Iguodala,Iguodala,2,1,8,Iguodala,PROPN,NNP,ROOT,Xxxxx,0.0
+Max-Josef Meier,Max,2,1,3,Max,PROPN,NNP,compound,Xxx,0.0
+Max-Josef Meier,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Max-Josef Meier,Josef,2,1,5,Josef,PROPN,NNP,compound,Xxxxx,0.0
+Max-Josef Meier,Meier,2,1,5,Meier,PROPN,NNP,ROOT,Xxxxx,0.0
+Adam Weiss,Adam,2,1,4,Adam,PROPN,NNP,compound,Xxxx,0.0
+Adam Weiss,Weiss,2,1,5,Weiss,PROPN,NNP,ROOT,Xxxxx,0.0
+Nirav Tolia,Nirav,2,1,5,Nirav,PROPN,NNP,compound,Xxxxx,0.0
+Nirav Tolia,Tolia,2,1,5,Tolia,PROPN,NNP,ROOT,Xxxxx,0.0
+Tom Stafford,Tom,2,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom Stafford,Stafford,2,1,8,Stafford,PROPN,NNP,ROOT,Xxxxx,0.0
+Julian Teicke,Julian,2,1,6,julian,ADJ,JJ,amod,Xxxxx,0.0
+Julian Teicke,Teicke,2,1,6,Teicke,PROPN,NNP,ROOT,Xxxxx,0.0
+Leonardo DiCaprio,Leonardo,2,1,8,Leonardo,PROPN,NNP,compound,Xxxxx,0.0
+Leonardo DiCaprio,DiCaprio,2,1,8,DiCaprio,PROPN,NNP,ROOT,XxXxxxx,0.0
+Florian Hagenbuch,Florian,2,1,7,florian,ADJ,JJ,amod,Xxxxx,0.0
+Florian Hagenbuch,Hagenbuch,2,1,9,Hagenbuch,PROPN,NNP,ROOT,Xxxxx,0.0
+Erik Voorhees,Erik,2,1,4,Erik,PROPN,NNP,compound,Xxxx,0.0
+Erik Voorhees,Voorhees,2,1,8,Voorhees,PROPN,NNPS,ROOT,Xxxxx,0.0
+Glenda Victorio,Glenda,2,1,6,Glenda,PROPN,NNP,compound,Xxxxx,0.0
+Glenda Victorio,Victorio,2,1,8,Victorio,PROPN,NNP,ROOT,Xxxxx,0.0
+Nicolas Kokkalis,Nicolas,2,1,7,Nicolas,PROPN,NNP,compound,Xxxxx,0.0
+Nicolas Kokkalis,Kokkalis,2,1,8,Kokkalis,PROPN,NNP,ROOT,Xxxxx,0.0
+Bijan Sabet,Bijan,2,1,5,Bijan,PROPN,NNP,compound,Xxxxx,0.0
+Bijan Sabet,Sabet,2,1,5,Sabet,PROPN,NNP,ROOT,Xxxxx,0.0
+Jayesh Parekh,Jayesh,2,1,6,Jayesh,PROPN,NNP,compound,Xxxxx,0.0
+Jayesh Parekh,Parekh,2,1,6,Parekh,PROPN,NNP,ROOT,Xxxxx,0.0
+LeBron James,LeBron,2,1,6,LeBron,PROPN,NNP,compound,XxXxxx,0.0
+LeBron James,James,2,1,5,James,PROPN,NNP,ROOT,Xxxxx,0.0
+Peter Smith,Peter,2,1,5,Peter,PROPN,NNP,compound,Xxxxx,0.0
+Peter Smith,Smith,2,1,5,Smith,PROPN,NNP,ROOT,Xxxxx,0.0
+Dan Sparks,Dan,2,1,3,Dan,PROPN,NNP,compound,Xxx,0.0
+Dan Sparks,Sparks,2,1,6,Sparks,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr. Cuyler Goodwin,Dr.,3,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Cuyler Goodwin,Cuyler,3,1,6,Cuyler,PROPN,NNP,compound,Xxxxx,0.0
+Dr. Cuyler Goodwin,Goodwin,3,1,7,Goodwin,PROPN,NNP,ROOT,Xxxxx,0.0
+Yousef Al-Obaidly,Yousef,2,1,6,Yousef,PROPN,NNP,compound,Xxxxx,0.0
+Yousef Al-Obaidly,Al,2,1,2,Al,PROPN,NNP,compound,Xx,0.0
+Yousef Al-Obaidly,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Yousef Al-Obaidly,Obaidly,2,1,7,obaidly,ADV,RB,ROOT,Xxxxx,0.0
+Eric Ingram,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Ingram,Ingram,2,1,6,Ingram,PROPN,NNP,ROOT,Xxxxx,0.0
+Sean Rad,Sean,2,1,4,Sean,PROPN,NNP,compound,Xxxx,0.0
+Sean Rad,Rad,2,1,3,Rad,PROPN,NNP,ROOT,Xxx,0.0
+Hassan Jameel,Hassan,2,1,6,Hassan,PROPN,NNP,compound,Xxxxx,0.0
+Hassan Jameel,Jameel,2,1,6,Jameel,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,Prediksi,10,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,Syair,10,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,Togel,10,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,HK,10,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,18,10,1,2,18,NUM,CD,nummod,dd,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,Mei,10,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,Bocoran,10,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,Angka,10,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022 Bocoran Angka Jitu,Jitu,10,1,4,Jitu,PROPN,NNP,ROOT,Xxxx,0.0
+James Park,James,2,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James Park,Park,2,1,4,Park,PROPN,NNP,ROOT,Xxxx,0.0
+Suresh Sambandam,Suresh,2,1,6,Suresh,PROPN,NNP,compound,Xxxxx,0.0
+Suresh Sambandam,Sambandam,2,1,9,Sambandam,PROPN,NNP,ROOT,Xxxxx,0.0
+Jason Lemkin,Jason,2,1,5,Jason,PROPN,NNP,compound,Xxxxx,0.0
+Jason Lemkin,Lemkin,2,1,6,Lemkin,PROPN,NNP,ROOT,Xxxxx,0.0
+Eric Garrett,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Garrett,Garrett,2,1,7,Garrett,PROPN,NNP,ROOT,Xxxxx,0.0
+Jared Eigerman,Jared,2,1,5,Jared,PROPN,NNP,compound,Xxxxx,0.0
+Jared Eigerman,Eigerman,2,1,8,Eigerman,PROPN,NNP,ROOT,Xxxxx,0.0
+Marc Bhargava,Marc,2,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+Marc Bhargava,Bhargava,2,1,8,Bhargava,PROPN,NNP,ROOT,Xxxxx,0.0
+Alexander Rugaev,Alexander,2,1,9,Alexander,PROPN,NNP,compound,Xxxxx,0.0
+Alexander Rugaev,Rugaev,2,1,6,Rugaev,PROPN,NNP,ROOT,Xxxxx,0.0
+Zach Weinberg,Zach,2,1,4,Zach,PROPN,NNP,compound,Xxxx,0.0
+Zach Weinberg,Weinberg,2,1,8,Weinberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Bill Smith,Bill,2,1,4,Bill,PROPN,NNP,compound,Xxxx,0.0
+Bill Smith,Smith,2,1,5,Smith,PROPN,NNP,ROOT,Xxxxx,0.0
+Roy Oron,Roy,2,1,3,Roy,PROPN,NNP,compound,Xxx,0.0
+Roy Oron,Oron,2,1,4,Oron,PROPN,NNP,ROOT,Xxxx,0.0
+Adam Weitsman,Adam,2,1,4,Adam,PROPN,NNP,compound,Xxxx,0.0
+Adam Weitsman,Weitsman,2,1,8,Weitsman,PROPN,NNP,ROOT,Xxxxx,0.0
+Turner Novak,Turner,2,1,6,Turner,PROPN,NNP,compound,Xxxxx,0.0
+Turner Novak,Novak,2,1,5,Novak,PROPN,NNP,ROOT,Xxxxx,0.0
+Antonio Gracias,Antonio,2,1,7,Antonio,PROPN,NNP,compound,Xxxxx,0.0
+Antonio Gracias,Gracias,2,1,7,Gracias,PROPN,NNP,ROOT,Xxxxx,0.0
+Matt Robinson,Matt,2,1,4,Matt,PROPN,NNP,compound,Xxxx,0.0
+Matt Robinson,Robinson,2,1,8,Robinson,PROPN,NNP,ROOT,Xxxxx,0.0
+Kavita Gupta,Kavita,2,1,6,Kavita,PROPN,NNP,compound,Xxxxx,0.0
+Kavita Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Sudheer CS,Sudheer,2,1,7,sudheer,NOUN,NN,compound,Xxxxx,0.0
+Sudheer CS,CS,2,1,2,cs,NOUN,NN,ROOT,XX,0.0
+Anthony P Mack,Anthony,3,1,7,Anthony,PROPN,NNP,compound,Xxxxx,0.0
+Anthony P Mack,P,3,1,1,P,PROPN,NNP,compound,X,0.0
+Anthony P Mack,Mack,3,1,4,Mack,PROPN,NNP,ROOT,Xxxx,0.0
+Mukesh Bansal,Mukesh,2,1,6,Mukesh,PROPN,NNP,compound,Xxxxx,0.0
+Mukesh Bansal,Bansal,2,1,6,Bansal,PROPN,NNP,ROOT,Xxxxx,0.0
+Govind Singh,Govind,2,1,6,Govind,PROPN,NNP,compound,Xxxxx,0.0
+Govind Singh,Singh,2,1,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+Joshua Browder,Joshua,2,1,6,Joshua,PROPN,NNP,compound,Xxxxx,0.0
+Joshua Browder,Browder,2,1,7,Browder,PROPN,NNP,ROOT,Xxxxx,0.0
+Harjeet Taggar,Harjeet,2,1,7,Harjeet,PROPN,NNP,compound,Xxxxx,0.0
+Harjeet Taggar,Taggar,2,1,6,Taggar,PROPN,NNP,ROOT,Xxxxx,0.0
+Calvin Broadus,Calvin,2,1,6,Calvin,PROPN,NNP,compound,Xxxxx,0.0
+Calvin Broadus,Broadus,2,1,7,Broadus,PROPN,NNP,ROOT,Xxxxx,0.0
+Jager McConnell,Jager,2,1,5,Jager,PROPN,NNP,compound,Xxxxx,0.0
+Jager McConnell,McConnell,2,1,9,McConnell,PROPN,NNP,ROOT,XxXxxxx,0.0
+Pat Mazza,Pat,2,1,3,Pat,PROPN,NNP,compound,Xxx,0.0
+Pat Mazza,Mazza,2,1,5,Mazza,PROPN,NNP,ROOT,Xxxxx,0.0
+Do Kwon,Do,2,1,2,do,VERB,VB,ROOT,Xx,0.0
+Do Kwon,Kwon,2,1,4,Kwon,PROPN,NNP,nsubj,Xxxx,0.0
+Bashar Hamood,Bashar,2,1,6,Bashar,PROPN,NNP,compound,Xxxxx,0.0
+Bashar Hamood,Hamood,2,1,6,Hamood,PROPN,NNP,ROOT,Xxxxx,0.0
+Dan Romero,Dan,2,1,3,Dan,PROPN,NNP,compound,Xxx,0.0
+Dan Romero,Romero,2,1,6,Romero,PROPN,NNP,ROOT,Xxxxx,0.0
+Aidan Sowa,Aidan,2,1,5,Aidan,PROPN,NNP,compound,Xxxxx,0.0
+Aidan Sowa,Sowa,2,1,4,Sowa,PROPN,NNP,ROOT,Xxxx,0.0
+Todd Boehly,Todd,2,1,4,Todd,PROPN,NNP,ROOT,Xxxx,0.0
+Todd Boehly,Boehly,2,1,6,boehly,ADV,RB,advmod,Xxxxx,0.0
+Bradley Horowitz,Bradley,2,1,7,Bradley,PROPN,NNP,compound,Xxxxx,0.0
+Bradley Horowitz,Horowitz,2,1,8,Horowitz,PROPN,NNP,ROOT,Xxxxx,0.0
+Matthew Iovane,Matthew,2,1,7,Matthew,PROPN,NNP,compound,Xxxxx,0.0
+Matthew Iovane,Iovane,2,1,6,Iovane,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr David Greene Arizona,Dr,4,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr David Greene Arizona,David,4,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+Dr David Greene Arizona,Greene,4,1,6,Greene,PROPN,NNP,compound,Xxxxx,0.0
+Dr David Greene Arizona,Arizona,4,1,7,Arizona,PROPN,NNP,ROOT,Xxxxx,0.0
+Raj Gokal,Raj,2,1,3,raj,ADV,RB,advmod,Xxx,0.0
+Raj Gokal,Gokal,2,1,5,Gokal,PROPN,NNP,ROOT,Xxxxx,0.0
+Unal Patel,Unal,2,1,4,Unal,PROPN,NNP,compound,Xxxx,0.0
+Unal Patel,Patel,2,1,5,Patel,PROPN,NNP,ROOT,Xxxxx,0.0
+Kathryn Haun,Kathryn,2,1,7,Kathryn,PROPN,NNP,compound,Xxxxx,0.0
+Kathryn Haun,Haun,2,1,4,Haun,PROPN,NNP,ROOT,Xxxx,0.0
+David O. Sacks,David,3,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David O. Sacks,O.,3,1,2,O.,PROPN,NNP,compound,X.,0.0
+David O. Sacks,Sacks,3,1,5,Sacks,PROPN,NNP,ROOT,Xxxxx,0.0
+John Legend,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Legend,Legend,2,1,6,Legend,PROPN,NNP,ROOT,Xxxxx,0.0
+Aronjol Rosenthal,Aronjol,2,1,7,Aronjol,PROPN,NNP,compound,Xxxxx,0.0
+Aronjol Rosenthal,Rosenthal,2,1,9,Rosenthal,PROPN,NNP,ROOT,Xxxxx,0.0
+John Kobs,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Kobs,Kobs,2,1,4,Kobs,PROPN,NNP,ROOT,Xxxx,0.0
+Bocoran Jitu prediksi angka,Bocoran,4,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu prediksi angka,Jitu,4,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu prediksi angka,prediksi,4,1,8,prediksi,NOUN,NN,nsubj,xxxx,0.0
+Bocoran Jitu prediksi angka,angka,4,1,5,angka,VERB,VBD,ROOT,xxxx,0.0
+Jeff Horing,Jeff,2,1,4,Jeff,PROPN,NNP,compound,Xxxx,0.0
+Jeff Horing,Horing,2,1,6,Horing,PROPN,NNP,ROOT,Xxxxx,0.0
+Marc Weinstein,Marc,2,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+Marc Weinstein,Weinstein,2,1,9,Weinstein,PROPN,NNP,ROOT,Xxxxx,0.0
+Kushal Karwa,Kushal,2,1,6,Kushal,PROPN,NNP,compound,Xxxxx,0.0
+Kushal Karwa,Karwa,2,1,5,Karwa,NOUN,NNS,ROOT,Xxxxx,0.0
+Daniel Shin,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Daniel Shin,Shin,2,1,4,Shin,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,Prediksi,11,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,Togel,11,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,Sdy,11,1,3,Sdy,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,Jumat,11,1,5,Jumat,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,3,11,1,1,3,NUM,CD,nummod,d,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,Juni,11,1,4,Juni,PROPN,NNP,nmod,Xxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,2022,11,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,bocoran,11,1,7,bocoran,PROPN,NNP,compound,xxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,jitu,11,1,4,jitu,PROPN,NNP,compound,xxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,org,11,1,3,org,PROPN,NNP,compound,xxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022 bocoran jitu org sydney,sydney,11,1,6,sydney,PROPN,NNP,appos,xxxx,0.0
+Mayank Kumar,Mayank,2,1,6,Mayank,PROPN,NNP,compound,Xxxxx,0.0
+Mayank Kumar,Kumar,2,1,5,Kumar,PROPN,NNP,ROOT,Xxxxx,0.0
+Alexander James Raymond,Alexander,3,1,9,Alexander,PROPN,NNP,compound,Xxxxx,0.0
+Alexander James Raymond,James,3,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+Alexander James Raymond,Raymond,3,1,7,Raymond,PROPN,NNP,ROOT,Xxxxx,0.0
+Shafiqur Rahman Sabbir,Shafiqur,3,1,8,shafiqur,VERB,VB,ROOT,Xxxxx,0.0
+Shafiqur Rahman Sabbir,Rahman,3,1,6,Rahman,PROPN,NNP,compound,Xxxxx,0.0
+Shafiqur Rahman Sabbir,Sabbir,3,1,6,Sabbir,PROPN,NNP,dobj,Xxxxx,0.0
+Dr Juli Mazi ND,Dr,4,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Juli Mazi ND,Juli,4,1,4,Juli,PROPN,NNP,compound,Xxxx,0.0
+Dr Juli Mazi ND,Mazi,4,1,4,Mazi,PROPN,NNP,compound,Xxxx,0.0
+Dr Juli Mazi ND,ND,4,1,2,ND,PROPN,NNP,ROOT,XX,0.0
+Tom Gonser,Tom,2,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom Gonser,Gonser,2,1,6,Gonser,PROPN,NNP,ROOT,Xxxxx,0.0
+Marc Lore,Marc,2,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+Marc Lore,Lore,2,1,4,Lore,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,Prediksi,11,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,Togel,11,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,SGP,11,1,3,SGP,PROPN,NNP,compound,XXX,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,Kamis,11,1,5,Kamis,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,26,11,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,Mei,11,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,2022,11,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,Kode,11,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,Syair,11,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,Singapore,11,1,9,Singapore,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022 Kode Syair Singapore uvsorb.org,uvsorb.org,11,1,10,uvsorb.org,NOUN,NN,appos,xxxx.xxx,0.0
+Wylie Aronow,Wylie,2,1,5,Wylie,PROPN,NNP,compound,Xxxxx,0.0
+Wylie Aronow,Aronow,2,1,6,Aronow,PROPN,NNP,ROOT,Xxxxx,0.0
+Sachin Bansal,Sachin,2,1,6,Sachin,PROPN,NNP,compound,Xxxxx,0.0
+Sachin Bansal,Bansal,2,1,6,Bansal,PROPN,NNP,ROOT,Xxxxx,0.0
+Christian Dumontet,Christian,2,1,9,Christian,PROPN,NNP,compound,Xxxxx,0.0
+Christian Dumontet,Dumontet,2,1,8,Dumontet,PROPN,NNP,ROOT,Xxxxx,0.0
+Mike Mayes Jr.,Mike,3,1,4,Mike,PROPN,NNP,compound,Xxxx,0.0
+Mike Mayes Jr.,Mayes,3,1,5,Mayes,PROPN,NNP,compound,Xxxxx,0.0
+Mike Mayes Jr.,Jr.,3,1,3,Jr.,PROPN,NNP,ROOT,Xx.,0.0
+Nico Rosberg,Nico,2,1,4,Nico,PROPN,NNP,compound,Xxxx,0.0
+Nico Rosberg,Rosberg,2,1,7,Rosberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Blake Jorgensen,Blake,2,1,5,Blake,PROPN,NNP,compound,Xxxxx,0.0
+Blake Jorgensen,Jorgensen,2,1,9,Jorgensen,PROPN,NNP,ROOT,Xxxxx,0.0
+Christian Reber,Christian,2,1,9,christian,ADJ,JJ,amod,Xxxxx,0.0
+Christian Reber,Reber,2,1,5,Reber,PROPN,NNP,ROOT,Xxxxx,0.0
+Philippe Teixeira da Mota,Philippe,4,1,8,Philippe,PROPN,NNP,compound,Xxxxx,0.0
+Philippe Teixeira da Mota,Teixeira,4,1,8,Teixeira,PROPN,NNP,compound,Xxxxx,0.0
+Philippe Teixeira da Mota,da,4,1,2,da,PROPN,NNP,compound,xx,0.0
+Philippe Teixeira da Mota,Mota,4,1,4,Mota,PROPN,NNP,ROOT,Xxxx,0.0
+George Kurtz,George,2,1,6,George,PROPN,NNP,compound,Xxxxx,0.0
+George Kurtz,Kurtz,2,1,5,Kurtz,PROPN,NNP,ROOT,Xxxxx,0.0
+Cade Knudson Denver,Cade,3,1,4,Cade,PROPN,NNP,compound,Xxxx,0.0
+Cade Knudson Denver,Knudson,3,1,7,Knudson,PROPN,NNP,compound,Xxxxx,0.0
+Cade Knudson Denver,Denver,3,1,6,Denver,PROPN,NNP,ROOT,Xxxxx,0.0
+Vineeta Agarwala,Vineeta,2,1,7,Vineeta,PROPN,NNP,compound,Xxxxx,0.0
+Vineeta Agarwala,Agarwala,2,1,8,Agarwala,PROPN,NNP,ROOT,Xxxxx,0.0
+Ivan Zhao,Ivan,2,1,4,Ivan,PROPN,NNP,compound,Xxxx,0.0
+Ivan Zhao,Zhao,2,1,4,Zhao,PROPN,NNP,ROOT,Xxxx,0.0
+Clayton Morris,Clayton,2,1,7,Clayton,PROPN,NNP,compound,Xxxxx,0.0
+Clayton Morris,Morris,2,1,6,Morris,PROPN,NNP,ROOT,Xxxxx,0.0
+Arnav Kishore,Arnav,2,1,5,Arnav,PROPN,NNP,compound,Xxxxx,0.0
+Arnav Kishore,Kishore,2,1,7,Kishore,PROPN,NNP,ROOT,Xxxxx,0.0
+Avichal Garg,Avichal,2,1,7,Avichal,PROPN,NNP,compound,Xxxxx,0.0
+Avichal Garg,Garg,2,1,4,Garg,PROPN,NNP,ROOT,Xxxx,0.0
+Mostafa Kandil,Mostafa,2,1,7,Mostafa,PROPN,NNP,compound,Xxxxx,0.0
+Mostafa Kandil,Kandil,2,1,6,Kandil,PROPN,NNP,ROOT,Xxxxx,0.0
+Ryan Dawkins,Ryan,2,1,4,Ryan,PROPN,NNP,compound,Xxxx,0.0
+Ryan Dawkins,Dawkins,2,1,7,dawkin,NOUN,NNS,ROOT,Xxxxx,0.0
+Grant LaFontaine,Grant,2,1,5,Grant,PROPN,NNP,compound,Xxxxx,0.0
+Grant LaFontaine,LaFontaine,2,1,10,LaFontaine,PROPN,NNP,ROOT,XxXxxxx,0.0
+Alex Njui,Alex,2,1,4,Alex,PROPN,NNP,compound,Xxxx,0.0
+Alex Njui,Njui,2,1,4,Njui,PROPN,NNP,ROOT,Xxxx,0.0
+Brian David Crane,Brian,3,1,5,Brian,PROPN,NNP,compound,Xxxxx,0.0
+Brian David Crane,David,3,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+Brian David Crane,Crane,3,1,5,Crane,PROPN,NNP,ROOT,Xxxxx,0.0
+Scott O Hirsch,Scott,3,1,5,Scott,PROPN,NNP,compound,Xxxxx,0.0
+Scott O Hirsch,O,3,1,1,o,INTJ,UH,compound,X,0.0
+Scott O Hirsch,Hirsch,3,1,6,Hirsch,PROPN,NNP,ROOT,Xxxxx,0.0
+Kasper Rorsted,Kasper,2,1,6,Kasper,PROPN,NNP,compound,Xxxxx,0.0
+Kasper Rorsted,Rorsted,2,1,7,Rorsted,PROPN,NNP,ROOT,Xxxxx,0.0
+David and Daniil Liberman,David,4,1,5,David,PROPN,NNP,ROOT,Xxxxx,0.0
+David and Daniil Liberman,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+David and Daniil Liberman,Daniil,4,1,6,Daniil,PROPN,NNP,compound,Xxxxx,0.0
+David and Daniil Liberman,Liberman,4,1,8,Liberman,PROPN,NNP,conj,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,Prediksi,9,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,Togel,9,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,Sydney,9,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,2,9,1,1,2,NUM,CD,nummod,d,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,Juni,9,1,4,Juni,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,2022,9,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,Bocoran,9,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,Jitu,9,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022 Bocoran Jitu Sdy,Sdy,9,1,3,Sdy,PROPN,NNP,ROOT,Xxx,0.0
+Matt Goldberg,Matt,2,1,4,Matt,PROPN,NNP,compound,Xxxx,0.0
+Matt Goldberg,Goldberg,2,1,8,Goldberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Geoffrey Woo,Geoffrey,2,1,8,Geoffrey,PROPN,NNP,compound,Xxxxx,0.0
+Geoffrey Woo,Woo,2,1,3,Woo,PROPN,NNP,ROOT,Xxx,0.0
+Shan Krishnasamy,Shan,2,1,4,Shan,PROPN,NNP,compound,Xxxx,0.0
+Shan Krishnasamy,Krishnasamy,2,1,11,Krishnasamy,PROPN,NNP,ROOT,Xxxxx,0.0
+Yashish Dahiya,Yashish,2,1,7,Yashish,PROPN,NNP,compound,Xxxxx,0.0
+Yashish Dahiya,Dahiya,2,1,6,Dahiya,PROPN,NNP,ROOT,Xxxxx,0.0
+Markus Ament,Markus,2,1,6,Markus,PROPN,NNP,compound,Xxxxx,0.0
+Markus Ament,Ament,2,1,5,Ament,PROPN,NNP,ROOT,Xxxxx,0.0
+Andrew Robb,Andrew,2,1,6,Andrew,PROPN,NNP,compound,Xxxxx,0.0
+Andrew Robb,Robb,2,1,4,Robb,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,Prediksi,10,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,Sydney,10,1,6,Sydney,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,26,10,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,Mei,10,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,Bocoran,10,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,Syair,10,1,5,Syair,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,Togel,10,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,Sdy,10,1,3,Sdy,PROPN,NNP,appos,Xxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Togel Sdy uvsorb.org,uvsorb.org,10,1,10,uvsorb.org,NOUN,NN,appos,xxxx.xxx,0.0
+Rahul Mehta,Rahul,2,1,5,Rahul,PROPN,NNP,compound,Xxxxx,0.0
+Rahul Mehta,Mehta,2,1,5,Mehta,PROPN,NNP,ROOT,Xxxxx,0.0
+"Johann ""Hansi"" Hansmann",Johann,3,1,6,Johann,PROPN,NNP,nmod,Xxxxx,0.0
+"Johann ""Hansi"" Hansmann","""",3,1,1,"""",PUNCT,``,punct,"""",0.0
+"Johann ""Hansi"" Hansmann",Hansi,3,1,5,Hansi,PROPN,NNP,nmod,Xxxxx,0.0
+"Johann ""Hansi"" Hansmann","""",3,1,1,"""",PUNCT,'',punct,"""",0.0
+"Johann ""Hansi"" Hansmann",Hansmann,3,1,8,Hansmann,PROPN,NNP,ROOT,Xxxxx,0.0
+John McMahon,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John McMahon,McMahon,2,1,7,McMahon,PROPN,NNP,ROOT,XxXxxxx,0.0
+Monica Hyerim Lee,Monica,3,1,6,Monica,PROPN,NNP,compound,Xxxxx,0.0
+Monica Hyerim Lee,Hyerim,3,1,6,Hyerim,PROPN,NNP,compound,Xxxxx,0.0
+Monica Hyerim Lee,Lee,3,1,3,Lee,PROPN,NNP,ROOT,Xxx,0.0
+Carlos Hank Gonzalez,Carlos,3,1,6,Carlos,PROPN,NNP,compound,Xxxxx,0.0
+Carlos Hank Gonzalez,Hank,3,1,4,Hank,PROPN,NNP,compound,Xxxx,0.0
+Carlos Hank Gonzalez,Gonzalez,3,1,8,Gonzalez,PROPN,NNP,ROOT,Xxxxx,0.0
+Kevin Moore,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Moore,Moore,2,1,5,Moore,PROPN,NNP,ROOT,Xxxxx,0.0
+Redbot Security,Redbot,2,1,6,Redbot,PROPN,NNP,compound,Xxxxx,0.0
+Redbot Security,Security,2,1,8,Security,PROPN,NNP,ROOT,Xxxxx,0.0
+Roger Ehrenberg,Roger,2,1,5,Roger,PROPN,NNP,compound,Xxxxx,0.0
+Roger Ehrenberg,Ehrenberg,2,1,9,Ehrenberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Danita Doleman,Danita,2,1,6,Danita,PROPN,NNP,compound,Xxxxx,0.0
+Danita Doleman,Doleman,2,1,7,Doleman,PROPN,NNP,ROOT,Xxxxx,0.0
+Mike Harden,Mike,2,1,4,Mike,PROPN,NNP,compound,Xxxx,0.0
+Mike Harden,Harden,2,1,6,Harden,PROPN,NNP,ROOT,Xxxxx,0.0
+Angel Investor,Angel,2,1,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Angel Investor,Investor,2,1,8,Investor,PROPN,NNP,ROOT,Xxxxx,0.0
+Kevin Carter,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Carter,Carter,2,1,6,Carter,PROPN,NNP,ROOT,Xxxxx,0.0
+William Schantz,William,2,1,7,William,PROPN,NNP,compound,Xxxxx,0.0
+William Schantz,Schantz,2,1,7,Schantz,PROPN,NNP,ROOT,Xxxxx,0.0
+Sahil Lavingia,Sahil,2,1,5,Sahil,PROPN,NNP,compound,Xxxxx,0.0
+Sahil Lavingia,Lavingia,2,1,8,Lavingia,PROPN,NNP,ROOT,Xxxxx,0.0
+Anton Yudintsev,Anton,2,1,5,Anton,PROPN,NNP,compound,Xxxxx,0.0
+Anton Yudintsev,Yudintsev,2,1,9,Yudintsev,PROPN,NNP,ROOT,Xxxxx,0.0
+Dylan Taylor,Dylan,2,1,5,Dylan,PROPN,NNP,compound,Xxxxx,0.0
+Dylan Taylor,Taylor,2,1,6,Taylor,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022 gblovers.us,Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022 gblovers.us,Keluaran,8,1,8,Keluaran,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022 gblovers.us,Togel,8,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022 gblovers.us,Sydney,8,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022 gblovers.us,6,8,1,1,6,NUM,CD,appos,d,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022 gblovers.us,Juni,8,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022 gblovers.us,2022,8,1,4,2022,NUM,CD,compound,dddd,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022 gblovers.us,gblovers.us,8,1,11,gblovers.us,X,ADD,appos,xxxx.xx,0.0
+Roman Mikailov,Roman,2,1,5,roman,ADJ,JJ,amod,Xxxxx,0.0
+Roman Mikailov,Mikailov,2,1,8,Mikailov,PROPN,NNP,ROOT,Xxxxx,0.0
+Lip-Bu Tan,Lip,2,1,3,Lip,PROPN,NNP,compound,Xxx,0.0
+Lip-Bu Tan,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Lip-Bu Tan,Bu,2,1,2,Bu,PROPN,NNP,compound,Xx,0.0
+Lip-Bu Tan,Tan,2,1,3,Tan,PROPN,NNP,ROOT,Xxx,0.0
+"Soumay Gupta, FRM",Soumay,3,1,6,Soumay,PROPN,NNP,compound,Xxxxx,0.0
+"Soumay Gupta, FRM",Gupta,3,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+"Soumay Gupta, FRM",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Soumay Gupta, FRM",FRM,3,1,3,FRM,PROPN,NNP,npadvmod,XXX,0.0
+Edin Adilagic,Edin,2,1,4,Edin,PROPN,NNP,compound,Xxxx,0.0
+Edin Adilagic,Adilagic,2,1,8,Adilagic,PROPN,NNP,ROOT,Xxxxx,0.0
+Jacob Rothschild,Jacob,2,1,5,Jacob,PROPN,NNP,compound,Xxxxx,0.0
+Jacob Rothschild,Rothschild,2,1,10,Rothschild,PROPN,NNP,ROOT,Xxxxx,0.0
+Serghei Bulgac,Serghei,2,1,7,Serghei,PROPN,NNP,compound,Xxxxx,0.0
+Serghei Bulgac,Bulgac,2,1,6,Bulgac,PROPN,NNP,ROOT,Xxxxx,0.0
+Selin Sakarcan,Selin,2,1,5,Selin,PROPN,NNP,compound,Xxxxx,0.0
+Selin Sakarcan,Sakarcan,2,1,8,Sakarcan,PROPN,NNP,ROOT,Xxxxx,0.0
+Shana Fisher,Shana,2,1,5,Shana,PROPN,NNP,compound,Xxxxx,0.0
+Shana Fisher,Fisher,2,1,6,Fisher,PROPN,NNP,ROOT,Xxxxx,0.0
+Angelica Nwandu,Angelica,2,1,8,Angelica,PROPN,NNP,compound,Xxxxx,0.0
+Angelica Nwandu,Nwandu,2,1,6,Nwandu,PROPN,NNP,ROOT,Xxxxx,0.0
+Ira Bell,Ira,2,1,3,Ira,PROPN,NNP,compound,Xxx,0.0
+Ira Bell,Bell,2,1,4,Bell,PROPN,NNP,ROOT,Xxxx,0.0
+Ran Neuner,Ran,2,1,3,Ran,PROPN,NNP,compound,Xxx,0.0
+Ran Neuner,Neuner,2,1,6,Neuner,PROPN,NNP,ROOT,Xxxxx,0.0
+Imeila Fonua,Imeila,2,1,6,Imeila,PROPN,NNP,compound,Xxxxx,0.0
+Imeila Fonua,Fonua,2,1,5,Fonua,PROPN,NNP,ROOT,Xxxxx,0.0
+Hayden Wood,Hayden,2,1,6,Hayden,PROPN,NNP,compound,Xxxxx,0.0
+Hayden Wood,Wood,2,1,4,Wood,PROPN,NNP,ROOT,Xxxx,0.0
+Dr. David Greene R3 Stem Cell,Dr.,6,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. David Greene R3 Stem Cell,David,6,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+Dr. David Greene R3 Stem Cell,Greene,6,1,6,Greene,PROPN,NNP,nsubj,Xxxxx,0.0
+Dr. David Greene R3 Stem Cell,R3,6,1,2,r3,NOUN,NN,ROOT,Xd,0.0
+Dr. David Greene R3 Stem Cell,Stem,6,1,4,Stem,PROPN,NNP,compound,Xxxx,0.0
+Dr. David Greene R3 Stem Cell,Cell,6,1,4,Cell,PROPN,NNP,dobj,Xxxx,0.0
+Demis Hassabis,Demis,2,1,5,Demis,PROPN,NNP,compound,Xxxxx,0.0
+Demis Hassabis,Hassabis,2,1,8,Hassabis,PROPN,NNP,ROOT,Xxxxx,0.0
+Lee Linden,Lee,2,1,3,Lee,PROPN,NNP,compound,Xxx,0.0
+Lee Linden,Linden,2,1,6,Linden,PROPN,NNP,ROOT,Xxxxx,0.0
+Milad Alucozai,Milad,2,1,5,Milad,PROPN,NNP,compound,Xxxxx,0.0
+Milad Alucozai,Alucozai,2,1,8,Alucozai,PROPN,NNP,ROOT,Xxxxx,0.0
+Ritesh Agarwal,Ritesh,2,1,6,Ritesh,PROPN,NNP,compound,Xxxxx,0.0
+Ritesh Agarwal,Agarwal,2,1,7,Agarwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Howard Lindzon,Howard,2,1,6,Howard,PROPN,NNP,compound,Xxxxx,0.0
+Howard Lindzon,Lindzon,2,1,7,Lindzon,PROPN,NNP,ROOT,Xxxxx,0.0
+Julius Göllner,Julius,2,1,6,Julius,PROPN,NNP,compound,Xxxxx,0.0
+Julius Göllner,Göllner,2,1,7,Göllner,PROPN,NNP,ROOT,Xxxxx,0.0
+Elia Montanari,Elia,2,1,4,Elia,PROPN,NNP,compound,Xxxx,0.0
+Elia Montanari,Montanari,2,1,9,Montanari,PROPN,NNP,ROOT,Xxxxx,0.0
+Liang Xinjun,Liang,2,1,5,Liang,PROPN,NNP,compound,Xxxxx,0.0
+Liang Xinjun,Xinjun,2,1,6,Xinjun,PROPN,NNP,ROOT,Xxxxx,0.0
+Sumit Gupta,Sumit,2,1,5,Sumit,PROPN,NNP,compound,Xxxxx,0.0
+Sumit Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Paul Graham,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Graham,Graham,2,1,6,Graham,PROPN,NNP,ROOT,Xxxxx,0.0
+Zach Coelius,Zach,2,1,4,Zach,PROPN,NNP,compound,Xxxx,0.0
+Zach Coelius,Coelius,2,1,7,Coelius,PROPN,NNP,ROOT,Xxxxx,0.0
+Amir Haleem,Amir,2,1,4,Amir,PROPN,NNP,compound,Xxxx,0.0
+Amir Haleem,Haleem,2,1,6,Haleem,PROPN,NNP,ROOT,Xxxxx,0.0
+Julio Herrera Velutini,Julio,3,1,5,Julio,PROPN,NNP,compound,Xxxxx,0.0
+Julio Herrera Velutini,Herrera,3,1,7,Herrera,PROPN,NNP,compound,Xxxxx,0.0
+Julio Herrera Velutini,Velutini,3,1,8,Velutini,PROPN,NNP,ROOT,Xxxxx,0.0
+Huascar Lopez,Huascar,2,1,7,Huascar,PROPN,NNP,compound,Xxxxx,0.0
+Huascar Lopez,Lopez,2,1,5,Lopez,PROPN,NNP,ROOT,Xxxxx,0.0
+John Henry Harris,John,3,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Henry Harris,Henry,3,1,5,Henry,PROPN,NNP,compound,Xxxxx,0.0
+John Henry Harris,Harris,3,1,6,Harris,PROPN,NNP,ROOT,Xxxxx,0.0
+Pawan Gupta,Pawan,2,1,5,Pawan,PROPN,NNP,compound,Xxxxx,0.0
+Pawan Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Augusto Marietti,Augusto,2,1,7,Augusto,PROPN,NNP,compound,Xxxxx,0.0
+Augusto Marietti,Marietti,2,1,8,Marietti,PROPN,NNP,ROOT,Xxxxx,0.0
+Jeffrey Huang,Jeffrey,2,1,7,Jeffrey,PROPN,NNP,compound,Xxxxx,0.0
+Jeffrey Huang,Huang,2,1,5,Huang,PROPN,NNP,ROOT,Xxxxx,0.0
+David Lee,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Lee,Lee,2,1,3,Lee,PROPN,NNP,ROOT,Xxx,0.0
+Scott Victor Gutierrez,Scott,3,1,5,Scott,PROPN,NNP,compound,Xxxxx,0.0
+Scott Victor Gutierrez,Victor,3,1,6,Victor,PROPN,NNP,compound,Xxxxx,0.0
+Scott Victor Gutierrez,Gutierrez,3,1,9,Gutierrez,PROPN,NNP,ROOT,Xxxxx,0.0
+Rajan Bajaj,Rajan,2,1,5,Rajan,PROPN,NNP,compound,Xxxxx,0.0
+Rajan Bajaj,Bajaj,2,1,5,Bajaj,PROPN,NNP,ROOT,Xxxxx,0.0
+Brian Pokorny,Brian,2,1,5,Brian,PROPN,NNP,compound,Xxxxx,0.0
+Brian Pokorny,Pokorny,2,1,7,Pokorny,PROPN,NNP,ROOT,Xxxxx,0.0
+JK Liu,JK,2,1,2,JK,PROPN,NNP,compound,XX,0.0
+JK Liu,Liu,2,1,3,Liu,PROPN,NNP,ROOT,Xxx,0.0
+David Schmidt,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Schmidt,Schmidt,2,1,7,Schmidt,PROPN,NNP,ROOT,Xxxxx,0.0
+Stuart Peterson,Stuart,2,1,6,Stuart,PROPN,NNP,compound,Xxxxx,0.0
+Stuart Peterson,Peterson,2,1,8,Peterson,PROPN,NNP,ROOT,Xxxxx,0.0
+Chow Shing Yuk,Chow,3,1,4,Chow,PROPN,NNP,compound,Xxxx,0.0
+Chow Shing Yuk,Shing,3,1,5,Shing,PROPN,NNP,compound,Xxxxx,0.0
+Chow Shing Yuk,Yuk,3,1,3,Yuk,PROPN,NNP,ROOT,Xxx,0.0
+Naomi Wolf,Naomi,2,1,5,Naomi,PROPN,NNP,compound,Xxxxx,0.0
+Naomi Wolf,Wolf,2,1,4,Wolf,PROPN,NNP,ROOT,Xxxx,0.0
+Max Altman,Max,2,1,3,Max,PROPN,NNP,compound,Xxx,0.0
+Max Altman,Altman,2,1,6,Altman,PROPN,NNP,ROOT,Xxxxx,0.0
+Vibhu Agarwal,Vibhu,2,1,5,Vibhu,PROPN,NNP,compound,Xxxxx,0.0
+Vibhu Agarwal,Agarwal,2,1,7,Agarwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Charles Michael Yim,Charles,3,1,7,Charles,PROPN,NNP,compound,Xxxxx,0.0
+Charles Michael Yim,Michael,3,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Charles Michael Yim,Yim,3,1,3,Yim,PROPN,NNP,ROOT,Xxx,0.0
+Kristiyan-Daniel Iliev,Kristiyan,2,1,9,Kristiyan,PROPN,NNP,compound,Xxxxx,0.0
+Kristiyan-Daniel Iliev,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Kristiyan-Daniel Iliev,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Kristiyan-Daniel Iliev,Iliev,2,1,5,Iliev,PROPN,NNP,ROOT,Xxxxx,0.0
+Danny Hadar,Danny,2,1,5,Danny,PROPN,NNP,compound,Xxxxx,0.0
+Danny Hadar,Hadar,2,1,5,Hadar,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Macau 29 Mei 2022 Bocoran Jitu Macau,Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Macau 29 Mei 2022 Bocoran Jitu Macau,Macau,8,1,5,Macau,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Macau 29 Mei 2022 Bocoran Jitu Macau,29,8,1,2,29,NUM,CD,nummod,dd,0.0
+Prediksi Macau 29 Mei 2022 Bocoran Jitu Macau,Mei,8,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Macau 29 Mei 2022 Bocoran Jitu Macau,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Macau 29 Mei 2022 Bocoran Jitu Macau,Bocoran,8,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Macau 29 Mei 2022 Bocoran Jitu Macau,Jitu,8,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Macau 29 Mei 2022 Bocoran Jitu Macau,Macau,8,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Meng Xiong Kuok,Meng,3,1,4,Meng,PROPN,NNP,compound,Xxxx,0.0
+Meng Xiong Kuok,Xiong,3,1,5,Xiong,PROPN,NNP,compound,Xxxxx,0.0
+Meng Xiong Kuok,Kuok,3,1,4,Kuok,PROPN,NNP,ROOT,Xxxx,0.0
+Yash Patel,Yash,2,1,4,Yash,PROPN,NNP,compound,Xxxx,0.0
+Yash Patel,Patel,2,1,5,Patel,PROPN,NNP,ROOT,Xxxxx,0.0
+Osman Kent,Osman,2,1,5,Osman,PROPN,NNP,compound,Xxxxx,0.0
+Osman Kent,Kent,2,1,4,Kent,PROPN,NNP,ROOT,Xxxx,0.0
+Abhishek Sharma,Abhishek,2,1,8,Abhishek,PROPN,NNP,compound,Xxxxx,0.0
+Abhishek Sharma,Sharma,2,1,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Mukesh Ambani,Mukesh,2,1,6,Mukesh,PROPN,NNP,compound,Xxxxx,0.0
+Mukesh Ambani,Ambani,2,1,6,Ambani,PROPN,NNP,ROOT,Xxxxx,0.0
+Shubham Singh,Shubham,2,1,7,Shubham,PROPN,NNP,compound,Xxxxx,0.0
+Shubham Singh,Singh,2,1,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+Blake Scholl,Blake,2,1,5,Blake,PROPN,NNP,compound,Xxxxx,0.0
+Blake Scholl,Scholl,2,1,6,Scholl,PROPN,NNP,ROOT,Xxxxx,0.0
+Matteo Franceschetti,Matteo,2,1,6,Matteo,PROPN,NNP,compound,Xxxxx,0.0
+Matteo Franceschetti,Franceschetti,2,1,13,Franceschetti,PROPN,NNP,ROOT,Xxxxx,0.0
+Jason Zeng,Jason,2,1,5,Jason,PROPN,NNP,compound,Xxxxx,0.0
+Jason Zeng,Zeng,2,1,4,Zeng,PROPN,NNP,ROOT,Xxxx,0.0
+Rinat Akhmetov,Rinat,2,1,5,Rinat,PROPN,NNP,compound,Xxxxx,0.0
+Rinat Akhmetov,Akhmetov,2,1,8,Akhmetov,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022 bocoranjitu.org,Prediksi,8,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022 bocoranjitu.org,Togel,8,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022 bocoranjitu.org,Sydney,8,1,6,Sydney,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022 bocoranjitu.org,Sabtu,8,1,5,Sabtu,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022 bocoranjitu.org,4,8,1,1,4,NUM,CD,nummod,d,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022 bocoranjitu.org,Juni,8,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022 bocoranjitu.org,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022 bocoranjitu.org,bocoranjitu.org,8,1,15,bocoranjitu.org,X,ADD,appos,xxxx.xxx,0.0
+Salman Fazlur Rahman,Salman,3,1,6,Salman,PROPN,NNP,compound,Xxxxx,0.0
+Salman Fazlur Rahman,Fazlur,3,1,6,Fazlur,PROPN,NNP,compound,Xxxxx,0.0
+Salman Fazlur Rahman,Rahman,3,1,6,Rahman,PROPN,NNP,ROOT,Xxxxx,0.0
+Vince Iannello,Vince,2,1,5,Vince,PROPN,NNP,compound,Xxxxx,0.0
+Vince Iannello,Iannello,2,1,8,Iannello,PROPN,NNP,ROOT,Xxxxx,0.0
+Michael Sassano,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Sassano,Sassano,2,1,7,Sassano,PROPN,NNP,ROOT,Xxxxx,0.0
+David Rubenstein,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Rubenstein,Rubenstein,2,1,10,Rubenstein,PROPN,NNP,ROOT,Xxxxx,0.0
+Payal Kadakia,Payal,2,1,5,Payal,PROPN,NNP,compound,Xxxxx,0.0
+Payal Kadakia,Kadakia,2,1,7,Kadakia,PROPN,NNP,ROOT,Xxxxx,0.0
+Punk 6529,Punk,2,1,4,punk,NOUN,NN,ROOT,Xxxx,0.0
+Punk 6529,6529,2,1,4,6529,NUM,CD,nummod,dddd,0.0
+Ravi Thakran,Ravi,2,1,4,Ravi,PROPN,NNP,compound,Xxxx,0.0
+Ravi Thakran,Thakran,2,1,7,Thakran,PROPN,NNP,ROOT,Xxxxx,0.0
+Jesse Levinson,Jesse,2,1,5,Jesse,PROPN,NNP,compound,Xxxxx,0.0
+Jesse Levinson,Levinson,2,1,8,Levinson,PROPN,NNP,ROOT,Xxxxx,0.0
+Benoit Lam,Benoit,2,1,6,Benoit,PROPN,NNP,compound,Xxxxx,0.0
+Benoit Lam,Lam,2,1,3,Lam,PROPN,NNP,ROOT,Xxx,0.0
+Jefferson Chen,Jefferson,2,1,9,Jefferson,PROPN,NNP,compound,Xxxxx,0.0
+Jefferson Chen,Chen,2,1,4,Chen,PROPN,NNP,ROOT,Xxxx,0.0
+Bill Gurley,Bill,2,1,4,Bill,PROPN,NNP,compound,Xxxx,0.0
+Bill Gurley,Gurley,2,1,6,Gurley,PROPN,NNP,ROOT,Xxxxx,0.0
+Eric Glyman,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Glyman,Glyman,2,1,6,Glyman,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney Hari Ini,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Hari Ini,Togel,5,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Hari Ini,Sydney,5,1,6,Sydney,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Hari Ini,Hari,5,1,4,Hari,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel Sydney Hari Ini,Ini,5,1,3,Ini,PROPN,NNP,ROOT,Xxx,0.0
+Victor Dahdaleh,Victor,2,1,6,Victor,PROPN,NNP,compound,Xxxxx,0.0
+Victor Dahdaleh,Dahdaleh,2,1,8,Dahdaleh,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,Prediksi,9,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,Togel,9,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,Sydney,9,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,24,9,1,2,24,NUM,CD,nummod,dd,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,Mei,9,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,2022,9,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,Syair,9,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,Sdy,9,1,3,Sdy,PROPN,NNP,compound,Xxx,0.0
+Prediksi Togel Sydney 24 Mei 2022 Syair Sdy Bocoranjitu.org,Bocoranjitu.org,9,1,15,Bocoranjitu.org,PROPN,NNP,ROOT,Xxxxx.xxx,0.0
+Eugen von Rubinberg,Eugen,3,1,5,eugen,NOUN,NN,compound,Xxxxx,0.0
+Eugen von Rubinberg,von,3,1,3,von,PROPN,NNP,compound,xxx,0.0
+Eugen von Rubinberg,Rubinberg,3,1,9,Rubinberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Jefferson Osei,Jefferson,2,1,9,Jefferson,PROPN,NNP,compound,Xxxxx,0.0
+Jefferson Osei,Osei,2,1,4,Osei,PROPN,NNP,ROOT,Xxxx,0.0
+Bob van Dijk,Bob,3,1,3,Bob,PROPN,NNP,compound,Xxx,0.0
+Bob van Dijk,van,3,1,3,van,PROPN,NNP,compound,xxx,0.0
+Bob van Dijk,Dijk,3,1,4,Dijk,PROPN,NNP,ROOT,Xxxx,0.0
+Philip Bart Bruck Textiles,Philip,4,1,6,Philip,PROPN,NNP,compound,Xxxxx,0.0
+Philip Bart Bruck Textiles,Bart,4,1,4,Bart,PROPN,NNP,compound,Xxxx,0.0
+Philip Bart Bruck Textiles,Bruck,4,1,5,Bruck,PROPN,NNP,compound,Xxxxx,0.0
+Philip Bart Bruck Textiles,Textiles,4,1,8,Textiles,PROPN,NNPS,ROOT,Xxxxx,0.0
+Harry Stebbings,Harry,2,1,5,Harry,PROPN,NNP,compound,Xxxxx,0.0
+Harry Stebbings,Stebbings,2,1,9,Stebbings,PROPN,NNP,ROOT,Xxxxx,0.0
+Adam D’Angelo,Adam,2,1,4,Adam,PROPN,NNP,ROOT,Xxxx,0.0
+Adam D’Angelo,D’Angelo,2,1,8,d’angelo,X,ADD,appos,X’Xxxxx,0.0
+Jaja Liao,Jaja,2,1,4,Jaja,PROPN,NNP,compound,Xxxx,0.0
+Jaja Liao,Liao,2,1,4,Liao,PROPN,NNP,ROOT,Xxxx,0.0
+Alan Masarek,Alan,2,1,4,Alan,PROPN,NNP,compound,Xxxx,0.0
+Alan Masarek,Masarek,2,1,7,Masarek,PROPN,NNP,ROOT,Xxxxx,0.0
+Adam Ayers,Adam,2,1,4,Adam,PROPN,NNP,compound,Xxxx,0.0
+Adam Ayers,Ayers,2,1,5,Ayers,PROPN,NNP,ROOT,Xxxxx,0.0
+Binh Tran,Binh,2,1,4,Binh,PROPN,NNP,compound,Xxxx,0.0
+Binh Tran,Tran,2,1,4,Tran,PROPN,NNP,ROOT,Xxxx,0.0
+Paolo Ardoino,Paolo,2,1,5,Paolo,PROPN,NNP,compound,Xxxxx,0.0
+Paolo Ardoino,Ardoino,2,1,7,Ardoino,PROPN,NNP,ROOT,Xxxxx,0.0
+Marc Beardslee,Marc,2,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+Marc Beardslee,Beardslee,2,1,9,Beardslee,PROPN,NNP,ROOT,Xxxxx,0.0
+Hanif Bhatti,Hanif,2,1,5,Hanif,PROPN,NNP,compound,Xxxxx,0.0
+Hanif Bhatti,Bhatti,2,1,6,Bhatti,PROPN,NNP,ROOT,Xxxxx,0.0
+Egon Durban,Egon,2,1,4,Egon,PROPN,NNP,compound,Xxxx,0.0
+Egon Durban,Durban,2,1,6,Durban,PROPN,NNP,ROOT,Xxxxx,0.0
+Liu Jiang,Liu,2,1,3,Liu,PROPN,NNP,compound,Xxx,0.0
+Liu Jiang,Jiang,2,1,5,Jiang,PROPN,NNP,ROOT,Xxxxx,0.0
+Ahmed Nashaat Los Angeles,Ahmed,4,1,5,Ahmed,PROPN,NNP,compound,Xxxxx,0.0
+Ahmed Nashaat Los Angeles,Nashaat,4,1,7,Nashaat,PROPN,NNP,compound,Xxxxx,0.0
+Ahmed Nashaat Los Angeles,Los,4,1,3,Los,PROPN,NNP,compound,Xxx,0.0
+Ahmed Nashaat Los Angeles,Angeles,4,1,7,Angeles,PROPN,NNP,ROOT,Xxxxx,0.0
+Tim Urban,Tim,2,1,3,Tim,PROPN,NNP,compound,Xxx,0.0
+Tim Urban,Urban,2,1,5,Urban,PROPN,NNP,ROOT,Xxxxx,0.0
+Ankita Vashistha,Ankita,2,1,6,Ankita,PROPN,NNP,compound,Xxxxx,0.0
+Ankita Vashistha,Vashistha,2,1,9,Vashistha,PROPN,NNP,ROOT,Xxxxx,0.0
+Esther Dyson,Esther,2,1,6,Esther,PROPN,NNP,compound,Xxxxx,0.0
+Esther Dyson,Dyson,2,1,5,Dyson,PROPN,NNP,ROOT,Xxxxx,0.0
+Vijay Talwar,Vijay,2,1,5,Vijay,PROPN,NNP,compound,Xxxxx,0.0
+Vijay Talwar,Talwar,2,1,6,Talwar,PROPN,NNP,ROOT,Xxxxx,0.0
+Peter Nelson,Peter,2,1,5,Peter,PROPN,NNP,compound,Xxxxx,0.0
+Peter Nelson,Nelson,2,1,6,Nelson,PROPN,NNP,ROOT,Xxxxx,0.0
+Kyle Cooke,Kyle,2,1,4,Kyle,PROPN,NNP,compound,Xxxx,0.0
+Kyle Cooke,Cooke,2,1,5,Cooke,PROPN,NNP,ROOT,Xxxxx,0.0
+Nischal Shetty,Nischal,2,1,7,Nischal,PROPN,NNP,compound,Xxxxx,0.0
+Nischal Shetty,Shetty,2,1,6,Shetty,PROPN,NNP,ROOT,Xxxxx,0.0
+Kristian Andersen,Kristian,2,1,8,Kristian,PROPN,NNP,compound,Xxxxx,0.0
+Kristian Andersen,Andersen,2,1,8,Andersen,PROPN,NNP,ROOT,Xxxxx,0.0
+Mohammad Shaikh,Mohammad,2,1,8,Mohammad,PROPN,NNP,compound,Xxxxx,0.0
+Mohammad Shaikh,Shaikh,2,1,6,Shaikh,PROPN,NNP,ROOT,Xxxxx,0.0
+Revant Bhate,Revant,2,1,6,revant,ADJ,JJ,compound,Xxxxx,0.0
+Revant Bhate,Bhate,2,1,5,Bhate,PROPN,NNP,ROOT,Xxxxx,0.0
+Shailendra Singh,Shailendra,2,1,10,Shailendra,PROPN,NNP,compound,Xxxxx,0.0
+Shailendra Singh,Singh,2,1,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+Harshil Mathur,Harshil,2,1,7,Harshil,PROPN,NNP,compound,Xxxxx,0.0
+Harshil Mathur,Mathur,2,1,6,Mathur,PROPN,NNP,ROOT,Xxxxx,0.0
+Kyle Samani,Kyle,2,1,4,Kyle,PROPN,NNP,compound,Xxxx,0.0
+Kyle Samani,Samani,2,1,6,Samani,PROPN,NNP,ROOT,Xxxxx,0.0
+Pranav Arora,Pranav,2,1,6,Pranav,PROPN,NNP,compound,Xxxxx,0.0
+Pranav Arora,Arora,2,1,5,Arora,PROPN,NNP,ROOT,Xxxxx,0.0
+Teresa Fernandes,Teresa,2,1,6,Teresa,PROPN,NNP,compound,Xxxxx,0.0
+Teresa Fernandes,Fernandes,2,1,9,Fernandes,PROPN,NNP,ROOT,Xxxxx,0.0
+Nasser Al-Khelaifi,Nasser,2,1,6,Nasser,PROPN,NNP,compound,Xxxxx,0.0
+Nasser Al-Khelaifi,Al,2,1,2,Al,PROPN,NNP,compound,Xx,0.0
+Nasser Al-Khelaifi,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Nasser Al-Khelaifi,Khelaifi,2,1,8,Khelaifi,PROPN,NNP,ROOT,Xxxxx,0.0
+Jasper Lau,Jasper,2,1,6,Jasper,PROPN,NNP,compound,Xxxxx,0.0
+Jasper Lau,Lau,2,1,3,Lau,PROPN,NNP,ROOT,Xxx,0.0
+Jeff Braverman,Jeff,2,1,4,Jeff,PROPN,NNP,compound,Xxxx,0.0
+Jeff Braverman,Braverman,2,1,9,Braverman,PROPN,NNP,ROOT,Xxxxx,0.0
+Ronald Conway,Ronald,2,1,6,Ronald,PROPN,NNP,compound,Xxxxx,0.0
+Ronald Conway,Conway,2,1,6,Conway,PROPN,NNP,ROOT,Xxxxx,0.0
+Nkechi Iregbulem,Nkechi,2,1,6,Nkechi,PROPN,NNP,compound,Xxxxx,0.0
+Nkechi Iregbulem,Iregbulem,2,1,9,Iregbulem,PROPN,NNP,ROOT,Xxxxx,0.0
+Varun Berry,Varun,2,1,5,Varun,PROPN,NNP,compound,Xxxxx,0.0
+Varun Berry,Berry,2,1,5,Berry,PROPN,NNP,ROOT,Xxxxx,0.0
+Mike Novogratz,Mike,2,1,4,Mike,PROPN,NNP,compound,Xxxx,0.0
+Mike Novogratz,Novogratz,2,1,9,Novogratz,PROPN,NNP,ROOT,Xxxxx,0.0
+Mahin Gupta,Mahin,2,1,5,Mahin,PROPN,NNP,compound,Xxxxx,0.0
+Mahin Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Jack Brody,Jack,2,1,4,Jack,PROPN,NNP,compound,Xxxx,0.0
+Jack Brody,Brody,2,1,5,Brody,PROPN,NNP,ROOT,Xxxxx,0.0
+Sundeep Ahuja,Sundeep,2,1,7,Sundeep,PROPN,NNP,compound,Xxxxx,0.0
+Sundeep Ahuja,Ahuja,2,1,5,Ahuja,PROPN,NNP,ROOT,Xxxxx,0.0
+Kyle Porter,Kyle,2,1,4,Kyle,PROPN,NNP,compound,Xxxx,0.0
+Kyle Porter,Porter,2,1,6,Porter,PROPN,NNP,ROOT,Xxxxx,0.0
+Ajit Mohan,Ajit,2,1,4,Ajit,PROPN,NNP,compound,Xxxx,0.0
+Ajit Mohan,Mohan,2,1,5,Mohan,PROPN,NNP,ROOT,Xxxxx,0.0
+Henry Agallar,Henry,2,1,5,Henry,PROPN,NNP,compound,Xxxxx,0.0
+Henry Agallar,Agallar,2,1,7,Agallar,PROPN,NNP,ROOT,Xxxxx,0.0
+Dennis W. Haggerty Jr.,Dennis,4,1,6,Dennis,PROPN,NNP,compound,Xxxxx,0.0
+Dennis W. Haggerty Jr.,W.,4,1,2,W.,PROPN,NNP,compound,X.,0.0
+Dennis W. Haggerty Jr.,Haggerty,4,1,8,Haggerty,PROPN,NNP,compound,Xxxxx,0.0
+Dennis W. Haggerty Jr.,Jr.,4,1,3,Jr.,PROPN,NNP,ROOT,Xx.,0.0
+Saeed Amidi,Saeed,2,1,5,Saeed,PROPN,NNP,compound,Xxxxx,0.0
+Saeed Amidi,Amidi,2,1,5,Amidi,PROPN,NNP,ROOT,Xxxxx,0.0
+Dom Lucre,Dom,2,1,3,Dom,PROPN,NNP,compound,Xxx,0.0
+Dom Lucre,Lucre,2,1,5,Lucre,PROPN,NNP,ROOT,Xxxxx,0.0
+Frank Zweegers,Frank,2,1,5,Frank,PROPN,NNP,compound,Xxxxx,0.0
+Frank Zweegers,Zweegers,2,1,8,Zweegers,PROPN,NNP,ROOT,Xxxxx,0.0
+Eric Cheng,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Cheng,Cheng,2,1,5,Cheng,PROPN,NNP,ROOT,Xxxxx,0.0
+Pavel Radaev,Pavel,2,1,5,Pavel,PROPN,NNP,compound,Xxxxx,0.0
+Pavel Radaev,Radaev,2,1,6,Radaev,PROPN,NNP,ROOT,Xxxxx,0.0
+Akash Garg,Akash,2,1,5,Akash,PROPN,NNP,compound,Xxxxx,0.0
+Akash Garg,Garg,2,1,4,Garg,PROPN,NNP,ROOT,Xxxx,0.0
+Fumitoshi Tawara,Fumitoshi,2,1,9,Fumitoshi,PROPN,NNP,compound,Xxxxx,0.0
+Fumitoshi Tawara,Tawara,2,1,6,Tawara,PROPN,NNP,ROOT,Xxxxx,0.0
+Joshua Kushner,Joshua,2,1,6,Joshua,PROPN,NNP,compound,Xxxxx,0.0
+Joshua Kushner,Kushner,2,1,7,Kushner,PROPN,NNP,ROOT,Xxxxx,0.0
+Suji Yan,Suji,2,1,4,Suji,PROPN,NNP,compound,Xxxx,0.0
+Suji Yan,Yan,2,1,3,Yan,PROPN,NNP,ROOT,Xxx,0.0
+K. V. Satish,K.,3,1,2,K.,PROPN,NNP,compound,X.,0.0
+K. V. Satish,V.,3,1,2,V.,PROPN,NNP,compound,X.,0.0
+K. V. Satish,Satish,3,1,6,Satish,PROPN,NNP,ROOT,Xxxxx,0.0
+Olivier Chastan,Olivier,2,1,7,Olivier,PROPN,NNP,compound,Xxxxx,0.0
+Olivier Chastan,Chastan,2,1,7,Chastan,PROPN,NNP,ROOT,Xxxxx,0.0
+Brian Dinning,Brian,2,1,5,Brian,PROPN,NNP,compound,Xxxxx,0.0
+Brian Dinning,Dinning,2,1,7,Dinning,PROPN,NNP,ROOT,Xxxxx,0.0
+Anthony Casalena,Anthony,2,1,7,Anthony,PROPN,NNP,compound,Xxxxx,0.0
+Anthony Casalena,Casalena,2,1,8,Casalena,PROPN,NNP,ROOT,Xxxxx,0.0
+Andy Palmer,Andy,2,1,4,Andy,PROPN,NNP,compound,Xxxx,0.0
+Andy Palmer,Palmer,2,1,6,Palmer,PROPN,NNP,ROOT,Xxxxx,0.0
+Ian Hogarth,Ian,2,1,3,Ian,PROPN,NNP,compound,Xxx,0.0
+Ian Hogarth,Hogarth,2,1,7,Hogarth,PROPN,NNP,ROOT,Xxxxx,0.0
+Vanessa Stuhr Ellegaard,Vanessa,3,1,7,Vanessa,PROPN,NNP,compound,Xxxxx,0.0
+Vanessa Stuhr Ellegaard,Stuhr,3,1,5,Stuhr,PROPN,NNP,compound,Xxxxx,0.0
+Vanessa Stuhr Ellegaard,Ellegaard,3,1,9,Ellegaard,PROPN,NNP,ROOT,Xxxxx,0.0
+Sam Williams,Sam,2,1,3,Sam,PROPN,NNP,compound,Xxx,0.0
+Sam Williams,Williams,2,1,8,Williams,PROPN,NNP,ROOT,Xxxxx,0.0
+Michele Faissola,Michele,2,1,7,Michele,PROPN,NNP,compound,Xxxxx,0.0
+Michele Faissola,Faissola,2,1,8,Faissola,PROPN,NNP,ROOT,Xxxxx,0.0
+Anupam Mittal,Anupam,2,1,6,Anupam,PROPN,NNP,compound,Xxxxx,0.0
+Anupam Mittal,Mittal,2,1,6,Mittal,PROPN,NNP,ROOT,Xxxxx,0.0
+Jon Cheney,Jon,2,1,3,Jon,PROPN,NNP,compound,Xxx,0.0
+Jon Cheney,Cheney,2,1,6,Cheney,PROPN,NNP,ROOT,Xxxxx,0.0
+Christian Calderon,Christian,2,1,9,Christian,PROPN,NNP,compound,Xxxxx,0.0
+Christian Calderon,Calderon,2,1,8,Calderon,PROPN,NNP,ROOT,Xxxxx,0.0
+Vasanth Kamath,Vasanth,2,1,7,Vasanth,PROPN,NNP,compound,Xxxxx,0.0
+Vasanth Kamath,Kamath,2,1,6,Kamath,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr Biswaroop Roy Chowdhury,Dr,4,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Biswaroop Roy Chowdhury,Biswaroop,4,1,9,Biswaroop,PROPN,NNP,compound,Xxxxx,0.0
+Dr Biswaroop Roy Chowdhury,Roy,4,1,3,Roy,PROPN,NNP,compound,Xxx,0.0
+Dr Biswaroop Roy Chowdhury,Chowdhury,4,1,9,Chowdhury,PROPN,NNP,ROOT,Xxxxx,0.0
+Tony Staffieri,Tony,2,1,4,Tony,PROPN,NNP,compound,Xxxx,0.0
+Tony Staffieri,Staffieri,2,1,9,Staffieri,PROPN,NNP,ROOT,Xxxxx,0.0
+Robert Downey Jr.,Robert,3,1,6,Robert,PROPN,NNP,compound,Xxxxx,0.0
+Robert Downey Jr.,Downey,3,1,6,Downey,PROPN,NNP,compound,Xxxxx,0.0
+Robert Downey Jr.,Jr.,3,1,3,Jr.,PROPN,NNP,ROOT,Xx.,0.0
+Mike Lichtie,Mike,2,1,4,Mike,PROPN,NNP,compound,Xxxx,0.0
+Mike Lichtie,Lichtie,2,1,7,Lichtie,PROPN,NNP,ROOT,Xxxxx,0.0
+Peter Carlsson,Peter,2,1,5,Peter,PROPN,NNP,compound,Xxxxx,0.0
+Peter Carlsson,Carlsson,2,1,8,Carlsson,PROPN,NNP,ROOT,Xxxxx,0.0
+Allen Wang,Allen,2,1,5,Allen,PROPN,NNP,compound,Xxxxx,0.0
+Allen Wang,Wang,2,1,4,Wang,PROPN,NNP,ROOT,Xxxx,0.0
+Elon Musk,Elon,2,1,4,Elon,PROPN,NNP,compound,Xxxx,0.0
+Elon Musk,Musk,2,1,4,Musk,PROPN,NNP,ROOT,Xxxx,0.0
+Nat Turner,Nat,2,1,3,Nat,PROPN,NNP,compound,Xxx,0.0
+Nat Turner,Turner,2,1,6,Turner,PROPN,NNP,ROOT,Xxxxx,0.0
+Oscar Salazar,Oscar,2,1,5,Oscar,PROPN,NNP,compound,Xxxxx,0.0
+Oscar Salazar,Salazar,2,1,7,Salazar,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,Prediksi,11,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,Togel,11,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,HK,11,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,Kamis,11,1,5,Kamis,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,26,11,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,Mei,11,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,2022,11,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,kode,11,1,4,kode,PROPN,NNP,compound,xxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,syair,11,1,5,syair,PROPN,NNP,compound,xxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,hongkong,11,1,8,hongkong,PROPN,NNP,appos,xxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022 kode syair hongkong uvsorb.org,uvsorb.org,11,1,10,uvsorb.org,PROPN,NNP,appos,xxxx.xxx,0.0
+Hugh Grosvenor,Hugh,2,1,4,Hugh,PROPN,NNP,compound,Xxxx,0.0
+Hugh Grosvenor,Grosvenor,2,1,9,Grosvenor,PROPN,NNP,ROOT,Xxxxx,0.0
+James Beshara,James,2,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James Beshara,Beshara,2,1,7,Beshara,PROPN,NNP,ROOT,Xxxxx,0.0
+Ryan Breslow,Ryan,2,1,4,Ryan,PROPN,NNP,compound,Xxxx,0.0
+Ryan Breslow,Breslow,2,1,7,Breslow,PROPN,NNP,ROOT,Xxxxx,0.0
+Sandeep Aggarwal,Sandeep,2,1,7,Sandeep,PROPN,NNP,compound,Xxxxx,0.0
+Sandeep Aggarwal,Aggarwal,2,1,8,Aggarwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Krish Subramanian,Krish,2,1,5,Krish,PROPN,NNP,compound,Xxxxx,0.0
+Krish Subramanian,Subramanian,2,1,11,Subramanian,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Sdy,Prediksi,8,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Sdy,Sydney,8,1,6,Sydney,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Sdy,26,8,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Sdy,Mei,8,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Sdy,2022,8,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Sdy,Bocoran,8,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Sdy,Syair,8,1,5,Syair,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022 Bocoran Syair Sdy,Sdy,8,1,3,Sdy,PROPN,NNP,appos,Xxx,0.0
+Patrick Bet-David,Patrick,2,1,7,Patrick,PROPN,NNP,compound,Xxxxx,0.0
+Patrick Bet-David,Bet,2,1,3,Bet,PROPN,NNP,compound,Xxx,0.0
+Patrick Bet-David,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Patrick Bet-David,David,2,1,5,David,PROPN,NNP,ROOT,Xxxxx,0.0
+Dave McClure,Dave,2,1,4,Dave,PROPN,NNP,compound,Xxxx,0.0
+Dave McClure,McClure,2,1,7,McClure,PROPN,NNP,ROOT,XxXxxxx,0.0
+Desiree Peterkin Bell,Desiree,3,1,7,Desiree,PROPN,NNP,compound,Xxxxx,0.0
+Desiree Peterkin Bell,Peterkin,3,1,8,Peterkin,PROPN,NNP,compound,Xxxxx,0.0
+Desiree Peterkin Bell,Bell,3,1,4,Bell,PROPN,NNP,ROOT,Xxxx,0.0
+Lin Han,Lin,2,1,3,Lin,PROPN,NNP,compound,Xxx,0.0
+Lin Han,Han,2,1,3,Han,PROPN,NNP,ROOT,Xxx,0.0
+Michael Hsu,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Hsu,Hsu,2,1,3,Hsu,PROPN,NNP,ROOT,Xxx,0.0
+Abe Burns,Abe,2,1,3,Abe,PROPN,NNP,compound,Xxx,0.0
+Abe Burns,Burns,2,1,5,Burns,PROPN,NNP,ROOT,Xxxxx,0.0
+Sandeep Jain,Sandeep,2,1,7,Sandeep,PROPN,NNP,compound,Xxxxx,0.0
+Sandeep Jain,Jain,2,1,4,Jain,PROPN,NNP,ROOT,Xxxx,0.0
+Fritz Lanman,Fritz,2,1,5,Fritz,PROPN,NNP,compound,Xxxxx,0.0
+Fritz Lanman,Lanman,2,1,6,Lanman,PROPN,NNP,ROOT,Xxxxx,0.0
+Ronald Huang,Ronald,2,1,6,Ronald,PROPN,NNP,compound,Xxxxx,0.0
+Ronald Huang,Huang,2,1,5,Huang,PROPN,NNP,ROOT,Xxxxx,0.0
+Akash Gupta,Akash,2,1,5,Akash,PROPN,NNP,compound,Xxxxx,0.0
+Akash Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Jason Robins,Jason,2,1,5,Jason,PROPN,NNP,compound,Xxxxx,0.0
+Jason Robins,Robins,2,1,6,Robins,PROPN,NNP,ROOT,Xxxxx,0.0
+Jason McGowan,Jason,2,1,5,Jason,PROPN,NNP,compound,Xxxxx,0.0
+Jason McGowan,McGowan,2,1,7,McGowan,PROPN,NNP,ROOT,XxXxxxx,0.0
+Jay Parikh,Jay,2,1,3,Jay,PROPN,NNP,compound,Xxx,0.0
+Jay Parikh,Parikh,2,1,6,Parikh,PROPN,NNP,ROOT,Xxxxx,0.0
+Ryan Hoover,Ryan,2,1,4,Ryan,PROPN,NNP,compound,Xxxx,0.0
+Ryan Hoover,Hoover,2,1,6,Hoover,PROPN,NNP,ROOT,Xxxxx,0.0
+Sagar Daryani,Sagar,2,1,5,Sagar,PROPN,NNP,compound,Xxxxx,0.0
+Sagar Daryani,Daryani,2,1,7,Daryani,PROPN,NNP,ROOT,Xxxxx,0.0
+Nik Sharma,Nik,2,1,3,Nik,PROPN,NNP,compound,Xxx,0.0
+Nik Sharma,Sharma,2,1,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Willy Arifin,Willy,2,1,5,Willy,PROPN,NNP,compound,Xxxxx,0.0
+Willy Arifin,Arifin,2,1,6,Arifin,PROPN,NNP,ROOT,Xxxxx,0.0
+Alex Ceballos,Alex,2,1,4,Alex,PROPN,NNP,compound,Xxxx,0.0
+Alex Ceballos,Ceballos,2,1,8,Ceballos,PROPN,NNP,ROOT,Xxxxx,0.0
+Diogo Mónica,Diogo,2,1,5,Diogo,PROPN,NNP,compound,Xxxxx,0.0
+Diogo Mónica,Mónica,2,1,6,Mónica,PROPN,NNP,ROOT,Xxxxx,0.0
+Bruno Faviero,Bruno,2,1,5,Bruno,PROPN,NNP,compound,Xxxxx,0.0
+Bruno Faviero,Faviero,2,1,7,Faviero,PROPN,NNP,ROOT,Xxxxx,0.0
+Roman Kirsch,Roman,2,1,5,Roman,PROPN,NNP,compound,Xxxxx,0.0
+Roman Kirsch,Kirsch,2,1,6,Kirsch,PROPN,NNP,ROOT,Xxxxx,0.0
+Joe Montana,Joe,2,1,3,Joe,PROPN,NNP,compound,Xxx,0.0
+Joe Montana,Montana,2,1,7,Montana,PROPN,NNP,ROOT,Xxxxx,0.0
+Danny Harris,Danny,2,1,5,Danny,PROPN,NNP,compound,Xxxxx,0.0
+Danny Harris,Harris,2,1,6,Harris,PROPN,NNP,ROOT,Xxxxx,0.0
+Geoff Ralston,Geoff,2,1,5,Geoff,PROPN,NNP,compound,Xxxxx,0.0
+Geoff Ralston,Ralston,2,1,7,Ralston,PROPN,NNP,ROOT,Xxxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Prediksi,15,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Toto,15,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Macau,15,1,5,Macau,PROPN,NNP,nmod,Xxxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Rabu,15,1,4,Rabu,PROPN,NNP,nmod,Xxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",8,15,1,1,8,NUM,CD,nummod,d,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Juni,15,1,4,Juni,PROPN,NNP,nmod,Xxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",2022,15,1,4,2022,NUM,CD,nummod,dddd,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Togel,15,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Macau,15,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Hari,15,1,4,Hari,PROPN,NNP,compound,Xxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",ini,15,1,3,ini,NOUN,NN,ROOT,xxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",",",15,1,1,",",PUNCT,",",punct,",",0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Angka,15,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Toto Macau Rabu 8 Juni 2022 Prediksi Togel Macau Hari ini, Angka Togel Master",Master,15,1,6,Master,PROPN,NNP,appos,Xxxxx,0.0
+Tarun Mehta,Tarun,2,1,5,Tarun,PROPN,NNP,compound,Xxxxx,0.0
+Tarun Mehta,Mehta,2,1,5,Mehta,PROPN,NNP,ROOT,Xxxxx,0.0
+Aadit Palicha,Aadit,2,1,5,Aadit,PROPN,NNP,compound,Xxxxx,0.0
+Aadit Palicha,Palicha,2,1,7,Palicha,PROPN,NNP,ROOT,Xxxxx,0.0
+P.N Vasudevan,P.N,2,1,3,P.N,PROPN,NNP,compound,X.X,0.0
+P.N Vasudevan,Vasudevan,2,1,9,Vasudevan,PROPN,NNP,ROOT,Xxxxx,0.0
+Barry McCarthy,Barry,2,1,5,Barry,PROPN,NNP,compound,Xxxxx,0.0
+Barry McCarthy,McCarthy,2,1,8,McCarthy,PROPN,NNP,ROOT,XxXxxxx,0.0
+Mr. M. Manal,Mr.,3,1,3,Mr.,PROPN,NNP,compound,Xx.,0.0
+Mr. M. Manal,M.,3,1,2,M.,PROPN,NNP,compound,X.,0.0
+Mr. M. Manal,Manal,3,1,5,Manal,PROPN,NNP,ROOT,Xxxxx,0.0
+Lynette Seah,Lynette,2,1,7,Lynette,PROPN,NNP,compound,Xxxxx,0.0
+Lynette Seah,Seah,2,1,4,Seah,PROPN,NNP,ROOT,Xxxx,0.0
+Zachary Smith,Zachary,2,1,7,Zachary,PROPN,NNP,compound,Xxxxx,0.0
+Zachary Smith,Smith,2,1,5,Smith,PROPN,NNP,ROOT,Xxxxx,0.0
+Robert Leshner,Robert,2,1,6,Robert,PROPN,NNP,compound,Xxxxx,0.0
+Robert Leshner,Leshner,2,1,7,Leshner,PROPN,NNP,ROOT,Xxxxx,0.0
+Don Ressler,Don,2,1,3,Don,PROPN,NNP,compound,Xxx,0.0
+Don Ressler,Ressler,2,1,7,Ressler,PROPN,NNP,ROOT,Xxxxx,0.0
+Spencer Steliga,Spencer,2,1,7,Spencer,PROPN,NNP,compound,Xxxxx,0.0
+Spencer Steliga,Steliga,2,1,7,Steliga,PROPN,NNP,ROOT,Xxxxx,0.0
+Gwynne Shotwell,Gwynne,2,1,6,Gwynne,PROPN,NNP,compound,Xxxxx,0.0
+Gwynne Shotwell,Shotwell,2,1,8,Shotwell,PROPN,NNP,ROOT,Xxxxx,0.0
+Jonathan Keidan,Jonathan,2,1,8,Jonathan,PROPN,NNP,compound,Xxxxx,0.0
+Jonathan Keidan,Keidan,2,1,6,Keidan,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr. Jacono A Jacono,Dr.,4,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Jacono A Jacono,Jacono,4,1,6,Jacono,PROPN,NNP,compound,Xxxxx,0.0
+Dr. Jacono A Jacono,A,4,1,1,A,PROPN,NNP,compound,X,0.0
+Dr. Jacono A Jacono,Jacono,4,1,6,Jacono,PROPN,NNP,ROOT,Xxxxx,0.0
+Pascal Gauthier,Pascal,2,1,6,Pascal,PROPN,NNP,compound,Xxxxx,0.0
+Pascal Gauthier,Gauthier,2,1,8,Gauthier,PROPN,NNP,ROOT,Xxxxx,0.0
+Buddy Shakhashir,Buddy,2,1,5,Buddy,PROPN,NNP,compound,Xxxxx,0.0
+Buddy Shakhashir,Shakhashir,2,1,10,Shakhashir,PROPN,NNP,ROOT,Xxxxx,0.0
+Oliver Jung,Oliver,2,1,6,Oliver,PROPN,NNP,compound,Xxxxx,0.0
+Oliver Jung,Jung,2,1,4,Jung,PROPN,NNP,ROOT,Xxxx,0.0
+Ram V Chary,Ram,3,1,3,ram,ADJ,JJ,compound,Xxx,0.0
+Ram V Chary,V,3,1,1,V,PROPN,NNP,compound,X,0.0
+Ram V Chary,Chary,3,1,5,Chary,PROPN,NNP,ROOT,Xxxxx,0.0
+Jehan Chu,Jehan,2,1,5,Jehan,PROPN,NNP,compound,Xxxxx,0.0
+Jehan Chu,Chu,2,1,3,Chu,PROPN,NNP,ROOT,Xxx,0.0
+Ari Ojalvo,Ari,2,1,3,Ari,PROPN,NNP,compound,Xxx,0.0
+Ari Ojalvo,Ojalvo,2,1,6,Ojalvo,PROPN,NNP,ROOT,Xxxxx,0.0
+Jacques Fu,Jacques,2,1,7,Jacques,PROPN,NNP,compound,Xxxxx,0.0
+Jacques Fu,Fu,2,1,2,Fu,PROPN,NNP,ROOT,Xx,0.0
+Abdulmuminu Yakubu Maishanu,Abdulmuminu,3,1,11,Abdulmuminu,PROPN,NNP,compound,Xxxxx,0.0
+Abdulmuminu Yakubu Maishanu,Yakubu,3,1,6,Yakubu,PROPN,NNP,compound,Xxxxx,0.0
+Abdulmuminu Yakubu Maishanu,Maishanu,3,1,8,Maishanu,PROPN,NNP,ROOT,Xxxxx,0.0
+Taner Aksoy,Taner,2,1,5,Taner,PROPN,NNP,compound,Xxxxx,0.0
+Taner Aksoy,Aksoy,2,1,5,Aksoy,PROPN,NNP,ROOT,Xxxxx,0.0
+Dong Nguyen,Dong,2,1,4,Dong,PROPN,NNP,compound,Xxxx,0.0
+Dong Nguyen,Nguyen,2,1,6,Nguyen,PROPN,NNP,ROOT,Xxxxx,0.0
+Jon Rothschild,Jon,2,1,3,Jon,PROPN,NNP,compound,Xxx,0.0
+Jon Rothschild,Rothschild,2,1,10,Rothschild,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr Khuong Nguyen,Dr,3,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Khuong Nguyen,Khuong,3,1,6,Khuong,PROPN,NNP,compound,Xxxxx,0.0
+Dr Khuong Nguyen,Nguyen,3,1,6,Nguyen,PROPN,NNP,ROOT,Xxxxx,0.0
+Umar Ashraf,Umar,2,1,4,Umar,PROPN,NNP,compound,Xxxx,0.0
+Umar Ashraf,Ashraf,2,1,6,Ashraf,PROPN,NNP,ROOT,Xxxxx,0.0
+Alberto Bazbaz Sacal,Alberto,3,1,7,Alberto,PROPN,NNP,compound,Xxxxx,0.0
+Alberto Bazbaz Sacal,Bazbaz,3,1,6,Bazbaz,PROPN,NNP,compound,Xxxxx,0.0
+Alberto Bazbaz Sacal,Sacal,3,1,5,Sacal,PROPN,NNP,ROOT,Xxxxx,0.0
+Victor Jacobsson,Victor,2,1,6,Victor,PROPN,NNP,compound,Xxxxx,0.0
+Victor Jacobsson,Jacobsson,2,1,9,Jacobsson,PROPN,NNP,ROOT,Xxxxx,0.0
+Mahavir Sharma,Mahavir,2,1,7,Mahavir,PROPN,NNP,compound,Xxxxx,0.0
+Mahavir Sharma,Sharma,2,1,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Ahmed Nashaat Dubai,Ahmed,3,1,5,Ahmed,PROPN,NNP,compound,Xxxxx,0.0
+Ahmed Nashaat Dubai,Nashaat,3,1,7,Nashaat,PROPN,NNP,compound,Xxxxx,0.0
+Ahmed Nashaat Dubai,Dubai,3,1,5,Dubai,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr Leonard Coldwell,Dr,3,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Leonard Coldwell,Leonard,3,1,7,Leonard,PROPN,NNP,compound,Xxxxx,0.0
+Dr Leonard Coldwell,Coldwell,3,1,8,Coldwell,PROPN,NNP,ROOT,Xxxxx,0.0
+Adam Ross,Adam,2,1,4,Adam,PROPN,NNP,compound,Xxxx,0.0
+Adam Ross,Ross,2,1,4,Ross,PROPN,NNP,ROOT,Xxxx,0.0
+Vivek Gupta,Vivek,2,1,5,Vivek,PROPN,NNP,compound,Xxxxx,0.0
+Vivek Gupta,Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+Vitalik Buterin,Vitalik,2,1,7,Vitalik,PROPN,NNP,compound,Xxxxx,0.0
+Vitalik Buterin,Buterin,2,1,7,Buterin,PROPN,NNP,ROOT,Xxxxx,0.0
+Michael Marks,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Marks,Marks,2,1,5,Marks,PROPN,NNP,ROOT,Xxxxx,0.0
+Danish Chaudhry,Danish,2,1,6,Danish,PROPN,NNP,compound,Xxxxx,0.0
+Danish Chaudhry,Chaudhry,2,1,8,Chaudhry,PROPN,NNP,ROOT,Xxxxx,0.0
+Brad Bao,Brad,2,1,4,Brad,PROPN,NNP,compound,Xxxx,0.0
+Brad Bao,Bao,2,1,3,Bao,PROPN,NNP,ROOT,Xxx,0.0
+Aya Spencer,Aya,2,1,3,Aya,PROPN,NNP,compound,Xxx,0.0
+Aya Spencer,Spencer,2,1,7,Spencer,PROPN,NNP,ROOT,Xxxxx,0.0
+Rohit Chennamaneni,Rohit,2,1,5,Rohit,PROPN,NNP,compound,Xxxxx,0.0
+Rohit Chennamaneni,Chennamaneni,2,1,12,Chennamaneni,PROPN,NNP,ROOT,Xxxxx,0.0
+Griffith Littlehale,Griffith,2,1,8,Griffith,PROPN,NNP,compound,Xxxxx,0.0
+Griffith Littlehale,Littlehale,2,1,10,Littlehale,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi HK 7 Mei 2022 Bocoranjitu,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 7 Mei 2022 Bocoranjitu,HK,6,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi HK 7 Mei 2022 Bocoranjitu,7,6,1,1,7,NUM,CD,compound,d,0.0
+Prediksi HK 7 Mei 2022 Bocoranjitu,Mei,6,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi HK 7 Mei 2022 Bocoranjitu,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi HK 7 Mei 2022 Bocoranjitu,Bocoranjitu,6,1,11,Bocoranjitu,PROPN,NNP,ROOT,Xxxxx,0.0
+Miten Sampat,Miten,2,1,5,Miten,PROPN,NNP,compound,Xxxxx,0.0
+Miten Sampat,Sampat,2,1,6,Sampat,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair HK 13 Mei 2022 bocoranjitu.org,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 13 Mei 2022 bocoranjitu.org,Syair,7,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 13 Mei 2022 bocoranjitu.org,HK,7,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi Syair HK 13 Mei 2022 bocoranjitu.org,13,7,1,2,13,NUM,CD,nummod,dd,0.0
+Prediksi Syair HK 13 Mei 2022 bocoranjitu.org,Mei,7,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi Syair HK 13 Mei 2022 bocoranjitu.org,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Syair HK 13 Mei 2022 bocoranjitu.org,bocoranjitu.org,7,1,15,bocoranjitu.org,X,ADD,appos,xxxx.xxx,0.0
+Yiting Liu,Yiting,2,1,6,Yiting,PROPN,NNP,compound,Xxxxx,0.0
+Yiting Liu,Liu,2,1,3,Liu,PROPN,NNP,ROOT,Xxx,0.0
+Anthony Keslinke,Anthony,2,1,7,Anthony,PROPN,NNP,compound,Xxxxx,0.0
+Anthony Keslinke,Keslinke,2,1,8,Keslinke,PROPN,NNP,ROOT,Xxxxx,0.0
+Declan Kelly,Declan,2,1,6,Declan,PROPN,NNP,compound,Xxxxx,0.0
+Declan Kelly,Kelly,2,1,5,Kelly,PROPN,NNP,ROOT,Xxxxx,0.0
+Kunal Puri,Kunal,2,1,5,Kunal,PROPN,NNP,compound,Xxxxx,0.0
+Kunal Puri,Puri,2,1,4,Puri,PROPN,NNP,ROOT,Xxxx,0.0
+Emily Chan,Emily,2,1,5,Emily,PROPN,NNP,compound,Xxxxx,0.0
+Emily Chan,Chan,2,1,4,Chan,PROPN,NNP,ROOT,Xxxx,0.0
+Eyal Gura,Eyal,2,1,4,Eyal,PROPN,NNP,compound,Xxxx,0.0
+Eyal Gura,Gura,2,1,4,Gura,PROPN,NNP,ROOT,Xxxx,0.0
+David K. Dingle,David,3,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David K. Dingle,K.,3,1,2,K.,PROPN,NNP,compound,X.,0.0
+David K. Dingle,Dingle,3,1,6,Dingle,PROPN,NNP,ROOT,Xxxxx,0.0
+Dattoli Cancer Center,Dattoli,3,1,7,Dattoli,PROPN,NNP,compound,Xxxxx,0.0
+Dattoli Cancer Center,Cancer,3,1,6,Cancer,PROPN,NNP,compound,Xxxxx,0.0
+Dattoli Cancer Center,Center,3,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Vinod R. Kaushik,Vinod,3,1,5,Vinod,PROPN,NNP,compound,Xxxxx,0.0
+Vinod R. Kaushik,R.,3,1,2,R.,PROPN,NNP,compound,X.,0.0
+Vinod R. Kaushik,Kaushik,3,1,7,Kaushik,PROPN,NNP,ROOT,Xxxxx,0.0
+Paul Delacourt,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Delacourt,Delacourt,2,1,9,Delacourt,PROPN,NNP,ROOT,Xxxxx,0.0
+Aria Campbell-Danesh,Aria,2,1,4,Aria,PROPN,NNP,compound,Xxxx,0.0
+Aria Campbell-Danesh,Campbell,2,1,8,Campbell,PROPN,NNP,compound,Xxxxx,0.0
+Aria Campbell-Danesh,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Aria Campbell-Danesh,Danesh,2,1,6,Danesh,PROPN,NNP,ROOT,Xxxxx,0.0
+Ian King Los Angeles,Ian,4,1,3,Ian,PROPN,NNP,compound,Xxx,0.0
+Ian King Los Angeles,King,4,1,4,King,PROPN,NNP,compound,Xxxx,0.0
+Ian King Los Angeles,Los,4,1,3,Los,PROPN,NNP,compound,Xxx,0.0
+Ian King Los Angeles,Angeles,4,1,7,Angeles,PROPN,NNP,ROOT,Xxxxx,0.0
+Ankush Gera,Ankush,2,1,6,Ankush,PROPN,NNP,compound,Xxxxx,0.0
+Ankush Gera,Gera,2,1,4,Gera,PROPN,NNP,ROOT,Xxxx,0.0
+Christopher Kirchner,Christopher,2,1,11,Christopher,PROPN,NNP,compound,Xxxxx,0.0
+Christopher Kirchner,Kirchner,2,1,8,Kirchner,PROPN,NNP,ROOT,Xxxxx,0.0
+Michael Saltzstein,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Saltzstein,Saltzstein,2,1,10,Saltzstein,PROPN,NNP,ROOT,Xxxxx,0.0
+Neeraj Khandelwal,Neeraj,2,1,6,Neeraj,PROPN,NNP,compound,Xxxxx,0.0
+Neeraj Khandelwal,Khandelwal,2,1,10,Khandelwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Jay Zaveri,Jay,2,1,3,Jay,PROPN,NNP,compound,Xxx,0.0
+Jay Zaveri,Zaveri,2,1,6,Zaveri,PROPN,NNP,ROOT,Xxxxx,0.0
+Tom X Lee,Tom,3,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom X Lee,X,3,1,1,X,PROPN,NNP,compound,X,0.0
+Tom X Lee,Lee,3,1,3,Lee,PROPN,NNP,ROOT,Xxx,0.0
+Karnika Yashwant,Karnika,2,1,7,Karnika,PROPN,NNP,compound,Xxxxx,0.0
+Karnika Yashwant,Yashwant,2,1,8,Yashwant,PROPN,NNP,ROOT,Xxxxx,0.0
+David J. Namdar,David,3,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David J. Namdar,J.,3,1,2,J.,PROPN,NNP,compound,X.,0.0
+David J. Namdar,Namdar,3,1,6,Namdar,PROPN,NNP,ROOT,Xxxxx,0.0
+Hemant Taneja,Hemant,2,1,6,Hemant,PROPN,NNP,compound,Xxxxx,0.0
+Hemant Taneja,Taneja,2,1,6,taneja,NOUN,NN,ROOT,Xxxxx,0.0
+Mike Cessario,Mike,2,1,4,Mike,PROPN,NNP,compound,Xxxx,0.0
+Mike Cessario,Cessario,2,1,8,Cessario,PROPN,NNP,ROOT,Xxxxx,0.0
+Anirudh Damani,Anirudh,2,1,7,Anirudh,PROPN,NNP,compound,Xxxxx,0.0
+Anirudh Damani,Damani,2,1,6,Damani,PROPN,NNP,ROOT,Xxxxx,0.0
+Jet Lee,Jet,2,1,3,Jet,PROPN,NNP,compound,Xxx,0.0
+Jet Lee,Lee,2,1,3,Lee,PROPN,NNP,ROOT,Xxx,0.0
+Arash Ferdowsi,Arash,2,1,5,arash,NOUN,NN,compound,Xxxxx,0.0
+Arash Ferdowsi,Ferdowsi,2,1,8,ferdowsi,NOUN,NN,ROOT,Xxxxx,0.0
+Login Daftar Prabu Jitu Link Alternatif,Login,6,1,5,Login,PROPN,NNP,compound,Xxxxx,0.0
+Login Daftar Prabu Jitu Link Alternatif,Daftar,6,1,6,Daftar,PROPN,NNP,compound,Xxxxx,0.0
+Login Daftar Prabu Jitu Link Alternatif,Prabu,6,1,5,Prabu,PROPN,NNP,compound,Xxxxx,0.0
+Login Daftar Prabu Jitu Link Alternatif,Jitu,6,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Login Daftar Prabu Jitu Link Alternatif,Link,6,1,4,Link,PROPN,NNP,compound,Xxxx,0.0
+Login Daftar Prabu Jitu Link Alternatif,Alternatif,6,1,10,Alternatif,PROPN,NNP,ROOT,Xxxxx,0.0
+Dale W. Wood,Dale,3,1,4,Dale,PROPN,NNP,compound,Xxxx,0.0
+Dale W. Wood,W.,3,1,2,W.,PROPN,NNP,compound,X.,0.0
+Dale W. Wood,Wood,3,1,4,Wood,PROPN,NNP,ROOT,Xxxx,0.0
+Prashant Malik,Prashant,2,1,8,Prashant,PROPN,NNP,compound,Xxxxx,0.0
+Prashant Malik,Malik,2,1,5,Malik,PROPN,NNP,ROOT,Xxxxx,0.0
+XXXXXXXXXXXXX XXXXXXXXXXXX,XXXXXXXXXXXXX,2,1,13,XXXXXXXXXXXXX,PROPN,NNP,compound,XXXX,0.0
+XXXXXXXXXXXXX XXXXXXXXXXXX,XXXXXXXXXXXX,2,1,12,XXXXXXXXXXXX,PROPN,NNP,ROOT,XXXX,0.0
+Jennifer Doudna,Jennifer,2,1,8,Jennifer,PROPN,NNP,compound,Xxxxx,0.0
+Jennifer Doudna,Doudna,2,1,6,Doudna,PROPN,NNP,ROOT,Xxxxx,0.0
+Changpeng Zhao,Changpeng,2,1,9,Changpeng,PROPN,NNP,compound,Xxxxx,0.0
+Changpeng Zhao,Zhao,2,1,4,Zhao,PROPN,NNP,ROOT,Xxxx,0.0
+Jeff Hoffmeister,Jeff,2,1,4,Jeff,PROPN,NNP,compound,Xxxx,0.0
+Jeff Hoffmeister,Hoffmeister,2,1,11,Hoffmeister,PROPN,NNP,ROOT,Xxxxx,0.0
+Robert Stevanovski,Robert,2,1,6,Robert,PROPN,NNP,compound,Xxxxx,0.0
+Robert Stevanovski,Stevanovski,2,1,11,Stevanovski,PROPN,NNP,ROOT,Xxxxx,0.0
+Henrich Blase,Henrich,2,1,7,Henrich,PROPN,NNP,compound,Xxxxx,0.0
+Henrich Blase,Blase,2,1,5,Blase,PROPN,NNP,ROOT,Xxxxx,0.0
+Joe Bae,Joe,2,1,3,Joe,PROPN,NNP,compound,Xxx,0.0
+Joe Bae,Bae,2,1,3,Bae,PROPN,NNP,ROOT,Xxx,0.0
+Samvit Ramadurgam,Samvit,2,1,6,Samvit,PROPN,NNP,compound,Xxxxx,0.0
+Samvit Ramadurgam,Ramadurgam,2,1,10,Ramadurgam,PROPN,NNP,ROOT,Xxxxx,0.0
+Amitava Saha,Amitava,2,1,7,Amitava,PROPN,NNP,compound,Xxxxx,0.0
+Amitava Saha,Saha,2,1,4,Saha,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,Prediksi,10,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,Syair,10,1,5,Syair,PROPN,NNP,nsubj,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,Togel,10,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,Sydney,10,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,14,10,1,2,14,NUM,CD,nummod,dd,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,Mei,10,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,Bocoran,10,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,Jitu,10,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022 Bocoran Jitu Sdy,Sdy,10,1,3,Sdy,PROPN,NNP,ROOT,Xxx,0.0
+Bhavish Aggarwal,Bhavish,2,1,7,bhavish,ADJ,JJ,amod,Xxxxx,0.0
+Bhavish Aggarwal,Aggarwal,2,1,8,Aggarwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK Hari Ini,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Hari Ini,Togel,5,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Hari Ini,HK,5,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi Togel HK Hari Ini,Hari,5,1,4,Hari,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Togel HK Hari Ini,Ini,5,1,3,Ini,PROPN,NNP,ROOT,Xxx,0.0
+Attilio Perna Review,Attilio,3,1,7,Attilio,PROPN,NNP,compound,Xxxxx,0.0
+Attilio Perna Review,Perna,3,1,5,Perna,PROPN,NNP,compound,Xxxxx,0.0
+Attilio Perna Review,Review,3,1,6,Review,PROPN,NNP,ROOT,Xxxxx,0.0
+Michael Karnjanaprakorn,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Karnjanaprakorn,Karnjanaprakorn,2,1,15,Karnjanaprakorn,PROPN,NNP,ROOT,Xxxxx,0.0
+Sameer Khan,Sameer,2,1,6,Sameer,PROPN,NNP,compound,Xxxxx,0.0
+Sameer Khan,Khan,2,1,4,Khan,PROPN,NNP,ROOT,Xxxx,0.0
+Jacques Etienne,Jacques,2,1,7,Jacques,PROPN,NNP,compound,Xxxxx,0.0
+Jacques Etienne,Etienne,2,1,7,Etienne,PROPN,NNP,ROOT,Xxxxx,0.0
+Bas Godska,Bas,2,1,3,Bas,PROPN,NNP,compound,Xxx,0.0
+Bas Godska,Godska,2,1,6,Godska,PROPN,NNP,ROOT,Xxxxx,0.0
+Shen Wei,Shen,2,1,4,Shen,PROPN,NNP,compound,Xxxx,0.0
+Shen Wei,Wei,2,1,3,Wei,PROPN,NNP,ROOT,Xxx,0.0
+Pierre Ingram,Pierre,2,1,6,Pierre,PROPN,NNP,compound,Xxxxx,0.0
+Pierre Ingram,Ingram,2,1,6,Ingram,PROPN,NNP,ROOT,Xxxxx,0.0
+Marco Zappacosta,Marco,2,1,5,Marco,PROPN,NNP,compound,Xxxxx,0.0
+Marco Zappacosta,Zappacosta,2,1,10,Zappacosta,PROPN,NNP,ROOT,Xxxxx,0.0
+Mohan Karuppiah,Mohan,2,1,5,Mohan,PROPN,NNP,compound,Xxxxx,0.0
+Mohan Karuppiah,Karuppiah,2,1,9,Karuppiah,PROPN,NNP,ROOT,Xxxxx,0.0
+Khalid Raza,Khalid,2,1,6,Khalid,PROPN,NNP,compound,Xxxxx,0.0
+Khalid Raza,Raza,2,1,4,Raza,PROPN,NNP,ROOT,Xxxx,0.0
+Sandeep Singhal,Sandeep,2,1,7,Sandeep,PROPN,NNP,compound,Xxxxx,0.0
+Sandeep Singhal,Singhal,2,1,7,Singhal,PROPN,NNP,ROOT,Xxxxx,0.0
+Tom Vice,Tom,2,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom Vice,Vice,2,1,4,Vice,PROPN,NNP,ROOT,Xxxx,0.0
+Arsen Tomsky,Arsen,2,1,5,Arsen,PROPN,NNP,compound,Xxxxx,0.0
+Arsen Tomsky,Tomsky,2,1,6,Tomsky,PROPN,NNP,ROOT,Xxxxx,0.0
+Ravish Naresh,Ravish,2,1,6,Ravish,PROPN,NNP,compound,Xxxxx,0.0
+Ravish Naresh,Naresh,2,1,6,Naresh,PROPN,NNP,ROOT,Xxxxx,0.0
+Cyrus Mistry,Cyrus,2,1,5,Cyrus,PROPN,NNP,compound,Xxxxx,0.0
+Cyrus Mistry,Mistry,2,1,6,Mistry,PROPN,NNP,ROOT,Xxxxx,0.0
+Ankiti Bose,Ankiti,2,1,6,Ankiti,PROPN,NNP,nsubj,Xxxxx,0.0
+Ankiti Bose,Bose,2,1,4,Bose,PROPN,NNP,ROOT,Xxxx,0.0
+Ankit Garg,Ankit,2,1,5,ankit,NOUN,NN,compound,Xxxxx,0.0
+Ankit Garg,Garg,2,1,4,Garg,PROPN,NNP,ROOT,Xxxx,0.0
+Junaid Wahedna,Junaid,2,1,6,Junaid,PROPN,NNP,compound,Xxxxx,0.0
+Junaid Wahedna,Wahedna,2,1,7,Wahedna,PROPN,NNP,ROOT,Xxxxx,0.0
+Matt Rogers,Matt,2,1,4,Matt,PROPN,NNP,compound,Xxxx,0.0
+Matt Rogers,Rogers,2,1,6,Rogers,PROPN,NNP,ROOT,Xxxxx,0.0
+Nino Jefferson Lim,Nino,3,1,4,Nino,PROPN,NNP,compound,Xxxx,0.0
+Nino Jefferson Lim,Jefferson,3,1,9,Jefferson,PROPN,NNP,compound,Xxxxx,0.0
+Nino Jefferson Lim,Lim,3,1,3,Lim,PROPN,NNP,ROOT,Xxx,0.0
+Dinesh Tadepalli,Dinesh,2,1,6,Dinesh,PROPN,NNP,compound,Xxxxx,0.0
+Dinesh Tadepalli,Tadepalli,2,1,9,Tadepalli,PROPN,NNP,ROOT,Xxxxx,0.0
+Mahdi Pourzaferani,Mahdi,2,1,5,Mahdi,PROPN,NNP,compound,Xxxxx,0.0
+Mahdi Pourzaferani,Pourzaferani,2,1,12,Pourzaferani,PROPN,NNP,ROOT,Xxxxx,0.0
+Adam Levinson,Adam,2,1,4,Adam,PROPN,NNP,compound,Xxxx,0.0
+Adam Levinson,Levinson,2,1,8,Levinson,PROPN,NNP,ROOT,Xxxxx,0.0
+Dan Brody,Dan,2,1,3,Dan,PROPN,NNP,compound,Xxx,0.0
+Dan Brody,Brody,2,1,5,Brody,PROPN,NNP,ROOT,Xxxxx,0.0
+Roger Pettingell,Roger,2,1,5,Roger,PROPN,NNP,compound,Xxxxx,0.0
+Roger Pettingell,Pettingell,2,1,10,Pettingell,PROPN,NNP,ROOT,Xxxxx,0.0
+Neil Malik,Neil,2,1,4,Neil,PROPN,NNP,compound,Xxxx,0.0
+Neil Malik,Malik,2,1,5,Malik,PROPN,NNP,ROOT,Xxxxx,0.0
+Andrew Wilkinson,Andrew,2,1,6,Andrew,PROPN,NNP,compound,Xxxxx,0.0
+Andrew Wilkinson,Wilkinson,2,1,9,Wilkinson,PROPN,NNP,ROOT,Xxxxx,0.0
+Vinny Lingham,Vinny,2,1,5,Vinny,PROPN,NNP,compound,Xxxxx,0.0
+Vinny Lingham,Lingham,2,1,7,Lingham,PROPN,NNP,ROOT,Xxxxx,0.0
+Luqman Adris,Luqman,2,1,6,Luqman,PROPN,NNP,compound,Xxxxx,0.0
+Luqman Adris,Adris,2,1,5,Adris,PROPN,NNP,ROOT,Xxxxx,0.0
+Raj Khosla,Raj,2,1,3,raj,ADV,RB,advmod,Xxx,0.0
+Raj Khosla,Khosla,2,1,6,khosla,ADJ,JJ,ROOT,Xxxxx,0.0
+Anand Chandrasekaran,Anand,2,1,5,Anand,PROPN,NNP,compound,Xxxxx,0.0
+Anand Chandrasekaran,Chandrasekaran,2,1,14,Chandrasekaran,PROPN,NNP,ROOT,Xxxxx,0.0
+Leanne Cushing,Leanne,2,1,6,Leanne,PROPN,NNP,compound,Xxxxx,0.0
+Leanne Cushing,Cushing,2,1,7,Cushing,PROPN,NNP,ROOT,Xxxxx,0.0
+Vineet Rao,Vineet,2,1,6,Vineet,PROPN,NNP,compound,Xxxxx,0.0
+Vineet Rao,Rao,2,1,3,Rao,PROPN,NNP,ROOT,Xxx,0.0
+Andreas Klinger,Andreas,2,1,7,Andreas,PROPN,NNP,compound,Xxxxx,0.0
+Andreas Klinger,Klinger,2,1,7,Klinger,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,Prediksi,10,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,Angka,10,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,Jitu,10,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,Sydney,10,1,6,Sydney,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,17,10,1,2,17,NUM,CD,nummod,dd,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,Mei,10,1,3,Mei,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,2022,10,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,Kode,10,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,syair,10,1,5,syair,NOUN,NN,nsubj,xxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022 Kode syair sdy,sdy,10,1,3,sdy,VERB,VBP,ROOT,xxx,0.0
+Ondrej Tomek,Ondrej,2,1,6,Ondrej,PROPN,NNP,compound,Xxxxx,0.0
+Ondrej Tomek,Tomek,2,1,5,Tomek,PROPN,NNP,ROOT,Xxxxx,0.0
+Kimbal Musk,Kimbal,2,1,6,Kimbal,PROPN,NNP,compound,Xxxxx,0.0
+Kimbal Musk,Musk,2,1,4,Musk,PROPN,NNP,ROOT,Xxxx,0.0
+William Hockey,William,2,1,7,William,PROPN,NNP,compound,Xxxxx,0.0
+William Hockey,Hockey,2,1,6,Hockey,PROPN,NNP,ROOT,Xxxxx,0.0
+Sam Parr,Sam,2,1,3,Sam,PROPN,NNP,compound,Xxx,0.0
+Sam Parr,Parr,2,1,4,Parr,PROPN,NNP,ROOT,Xxxx,0.0
+Kristo Kaarmann,Kristo,2,1,6,Kristo,PROPN,NNP,compound,Xxxxx,0.0
+Kristo Kaarmann,Kaarmann,2,1,8,Kaarmann,PROPN,NNP,ROOT,Xxxxx,0.0
+Mattia Astori,Mattia,2,1,6,Mattia,PROPN,NNP,compound,Xxxxx,0.0
+Mattia Astori,Astori,2,1,6,Astori,PROPN,NNP,ROOT,Xxxxx,0.0
+Faisal Sherjan,Faisal,2,1,6,Faisal,PROPN,NNP,compound,Xxxxx,0.0
+Faisal Sherjan,Sherjan,2,1,7,Sherjan,PROPN,NNP,ROOT,Xxxxx,0.0
+Pastor Tommie Harsley,Pastor,3,1,6,Pastor,PROPN,NNP,compound,Xxxxx,0.0
+Pastor Tommie Harsley,Tommie,3,1,6,Tommie,PROPN,NNP,compound,Xxxxx,0.0
+Pastor Tommie Harsley,Harsley,3,1,7,Harsley,PROPN,NNP,ROOT,Xxxxx,0.0
+John Burbank,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Burbank,Burbank,2,1,7,Burbank,PROPN,NNP,ROOT,Xxxxx,0.0
+Daniel Gendelman,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Daniel Gendelman,Gendelman,2,1,9,Gendelman,PROPN,NNP,ROOT,Xxxxx,0.0
+David Malcolm,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Malcolm,Malcolm,2,1,7,Malcolm,PROPN,NNP,ROOT,Xxxxx,0.0
+Vineeta Singh,Vineeta,2,1,7,Vineeta,PROPN,NNP,compound,Xxxxx,0.0
+Vineeta Singh,Singh,2,1,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+Jose Marin,Jose,2,1,4,Jose,PROPN,NNP,compound,Xxxx,0.0
+Jose Marin,Marin,2,1,5,Marin,PROPN,NNP,ROOT,Xxxxx,0.0
+Steven Rindner Bio,Steven,3,1,6,Steven,PROPN,NNP,compound,Xxxxx,0.0
+Steven Rindner Bio,Rindner,3,1,7,Rindner,PROPN,NNP,compound,Xxxxx,0.0
+Steven Rindner Bio,Bio,3,1,3,Bio,PROPN,NNP,ROOT,Xxx,0.0
+C.W Park,C.W,2,1,3,C.W,PROPN,NNP,compound,X.X,0.0
+C.W Park,Park,2,1,4,Park,PROPN,NNP,ROOT,Xxxx,0.0
+Kevin Ulrich,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Ulrich,Ulrich,2,1,6,Ulrich,PROPN,NNP,ROOT,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya Daftar sbobet88,Situs,8,1,5,Situs,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya Daftar sbobet88,Link,8,1,4,Link,PROPN,NNP,compound,Xxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya Daftar sbobet88,Alternatif,8,1,10,Alternatif,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya Daftar sbobet88,Sbobet,8,1,6,Sbobet,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya Daftar sbobet88,Indonesia,8,1,9,Indonesia,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya Daftar sbobet88,Terpercaya,8,1,10,Terpercaya,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya Daftar sbobet88,Daftar,8,1,6,Daftar,PROPN,NNP,nsubj,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya Daftar sbobet88,sbobet88,8,1,8,sbobet88,NOUN,NN,ROOT,xxxxdd,0.0
+Nick Green,Nick,2,1,4,Nick,PROPN,NNP,compound,Xxxx,0.0
+Nick Green,Green,2,1,5,Green,PROPN,NNP,ROOT,Xxxxx,0.0
+Philip Henkin,Philip,2,1,6,Philip,PROPN,NNP,compound,Xxxxx,0.0
+Philip Henkin,Henkin,2,1,6,Henkin,PROPN,NNP,ROOT,Xxxxx,0.0
+Puneet Agarwal,Puneet,2,1,6,Puneet,PROPN,NNP,compound,Xxxxx,0.0
+Puneet Agarwal,Agarwal,2,1,7,Agarwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Damien Guermonprez,Damien,2,1,6,Damien,PROPN,NNP,compound,Xxxxx,0.0
+Damien Guermonprez,Guermonprez,2,1,11,Guermonprez,PROPN,NNP,ROOT,Xxxxx,0.0
+David Helgason,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Helgason,Helgason,2,1,8,Helgason,PROPN,NNP,ROOT,Xxxxx,0.0
+Sulay Lavsi,Sulay,2,1,5,Sulay,PROPN,NNP,compound,Xxxxx,0.0
+Sulay Lavsi,Lavsi,2,1,5,Lavsi,PROPN,NNP,ROOT,Xxxxx,0.0
+Krishnan Menon,Krishnan,2,1,8,Krishnan,PROPN,NNP,compound,Xxxxx,0.0
+Krishnan Menon,Menon,2,1,5,Menon,PROPN,NNP,ROOT,Xxxxx,0.0
+Antoine Martin,Antoine,2,1,7,Antoine,PROPN,NNP,compound,Xxxxx,0.0
+Antoine Martin,Martin,2,1,6,Martin,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr. Jennifer Bracey,Dr.,3,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Jennifer Bracey,Jennifer,3,1,8,Jennifer,PROPN,NNP,compound,Xxxxx,0.0
+Dr. Jennifer Bracey,Bracey,3,1,6,Bracey,PROPN,NNP,ROOT,Xxxxx,0.0
+Garrett Camp,Garrett,2,1,7,Garrett,PROPN,NNP,compound,Xxxxx,0.0
+Garrett Camp,Camp,2,1,4,Camp,PROPN,NNP,ROOT,Xxxx,0.0
+Sebastian Siemiatkowski,Sebastian,2,1,9,Sebastian,PROPN,NNP,compound,Xxxxx,0.0
+Sebastian Siemiatkowski,Siemiatkowski,2,1,13,Siemiatkowski,PROPN,NNP,ROOT,Xxxxx,0.0
+Sam Lessin,Sam,2,1,3,Sam,PROPN,NNP,compound,Xxx,0.0
+Sam Lessin,Lessin,2,1,6,Lessin,PROPN,NNP,ROOT,Xxxxx,0.0
+Scott Banister,Scott,2,1,5,Scott,PROPN,NNP,compound,Xxxxx,0.0
+Scott Banister,Banister,2,1,8,Banister,PROPN,NNP,ROOT,Xxxxx,0.0
+Eric Moskow,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Moskow,Moskow,2,1,6,Moskow,PROPN,NNP,ROOT,Xxxxx,0.0
+Jim Feldkamp,Jim,2,1,3,Jim,PROPN,NNP,compound,Xxx,0.0
+Jim Feldkamp,Feldkamp,2,1,8,Feldkamp,PROPN,NNP,ROOT,Xxxxx,0.0
+Ajeet Khurana,Ajeet,2,1,5,ajeet,VERB,VB,compound,Xxxxx,0.0
+Ajeet Khurana,Khurana,2,1,7,Khurana,PROPN,NNP,ROOT,Xxxxx,0.0
+Carson R Cook,Carson,3,1,6,Carson,PROPN,NNP,compound,Xxxxx,0.0
+Carson R Cook,R,3,1,1,R,PROPN,NNP,compound,X,0.0
+Carson R Cook,Cook,3,1,4,Cook,PROPN,NNP,ROOT,Xxxx,0.0
+Toby Shannan,Toby,2,1,4,Toby,PROPN,NNP,compound,Xxxx,0.0
+Toby Shannan,Shannan,2,1,7,Shannan,PROPN,NNP,ROOT,Xxxxx,0.0
+Hironari Ohshiro,Hironari,2,1,8,Hironari,PROPN,NNP,compound,Xxxxx,0.0
+Hironari Ohshiro,Ohshiro,2,1,7,Ohshiro,PROPN,NNP,ROOT,Xxxxx,0.0
+Live Draw Macau Tercepat,Live,4,1,4,live,VERB,VB,amod,Xxxx,0.0
+Live Draw Macau Tercepat,Draw,4,1,4,draw,VERB,VB,compound,Xxxx,0.0
+Live Draw Macau Tercepat,Macau,4,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+Live Draw Macau Tercepat,Tercepat,4,1,8,Tercepat,PROPN,NNP,ROOT,Xxxxx,0.0
+Cyan Banister,Cyan,2,1,4,Cyan,PROPN,NNP,compound,Xxxx,0.0
+Cyan Banister,Banister,2,1,8,Banister,PROPN,NNP,ROOT,Xxxxx,0.0
+V. Jagannathan,V.,2,1,2,V.,PROPN,NNP,compound,X.,0.0
+V. Jagannathan,Jagannathan,2,1,11,Jagannathan,PROPN,NNP,ROOT,Xxxxx,0.0
+William Bao Bean,William,3,1,7,William,PROPN,NNP,compound,Xxxxx,0.0
+William Bao Bean,Bao,3,1,3,Bao,PROPN,NNP,compound,Xxx,0.0
+William Bao Bean,Bean,3,1,4,Bean,PROPN,NNP,ROOT,Xxxx,0.0
+Dhruv Agarwala,Dhruv,2,1,5,Dhruv,PROPN,NNP,compound,Xxxxx,0.0
+Dhruv Agarwala,Agarwala,2,1,8,Agarwala,PROPN,NNP,ROOT,Xxxxx,0.0
+Paul Veradittakit,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Veradittakit,Veradittakit,2,1,12,Veradittakit,PROPN,NNP,ROOT,Xxxxx,0.0
+Damany Weir,Damany,2,1,6,Damany,PROPN,NNP,compound,Xxxxx,0.0
+Damany Weir,Weir,2,1,4,Weir,PROPN,NNP,ROOT,Xxxx,0.0
+Juan Benet,Juan,2,1,4,Juan,PROPN,NNP,compound,Xxxx,0.0
+Juan Benet,Benet,2,1,5,Benet,PROPN,NNP,ROOT,Xxxxx,0.0
+Ravi Garikipati,Ravi,2,1,4,Ravi,PROPN,NNP,compound,Xxxx,0.0
+Ravi Garikipati,Garikipati,2,1,10,Garikipati,PROPN,NNP,ROOT,Xxxxx,0.0
+Nicolas Julia,Nicolas,2,1,7,Nicolas,PROPN,NNP,compound,Xxxxx,0.0
+Nicolas Julia,Julia,2,1,5,Julia,PROPN,NNP,ROOT,Xxxxx,0.0
+Sergey Brin,Sergey,2,1,6,Sergey,PROPN,NNP,compound,Xxxxx,0.0
+Sergey Brin,Brin,2,1,4,Brin,PROPN,NNP,ROOT,Xxxx,0.0
+Cooper Turley,Cooper,2,1,6,Cooper,PROPN,NNP,compound,Xxxxx,0.0
+Cooper Turley,Turley,2,1,6,Turley,PROPN,NNP,ROOT,Xxxxx,0.0
+Elizabeth Stark,Elizabeth,2,1,9,Elizabeth,PROPN,NNP,compound,Xxxxx,0.0
+Elizabeth Stark,Stark,2,1,5,Stark,PROPN,NNP,ROOT,Xxxxx,0.0
+David Limp,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Limp,Limp,2,1,4,Limp,PROPN,NNP,ROOT,Xxxx,0.0
+Guy Oseary,Guy,2,1,3,Guy,PROPN,NNP,compound,Xxx,0.0
+Guy Oseary,Oseary,2,1,6,Oseary,PROPN,NNP,ROOT,Xxxxx,0.0
+David Schwartz,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David Schwartz,Schwartz,2,1,8,Schwartz,PROPN,NNP,ROOT,Xxxxx,0.0
+Alon Cohen,Alon,2,1,4,Alon,PROPN,NNP,compound,Xxxx,0.0
+Alon Cohen,Cohen,2,1,5,Cohen,PROPN,NNP,ROOT,Xxxxx,0.0
+Simon Squibb,Simon,2,1,5,Simon,PROPN,NNP,compound,Xxxxx,0.0
+Simon Squibb,Squibb,2,1,6,Squibb,PROPN,NNP,ROOT,Xxxxx,0.0
+Shrishti Sahu,Shrishti,2,1,8,Shrishti,PROPN,NNP,compound,Xxxxx,0.0
+Shrishti Sahu,Sahu,2,1,4,Sahu,PROPN,NNP,ROOT,Xxxx,0.0
+Ronny Shibley,Ronny,2,1,5,Ronny,PROPN,NNP,compound,Xxxxx,0.0
+Ronny Shibley,Shibley,2,1,7,Shibley,PROPN,NNP,ROOT,Xxxxx,0.0
+Max Levchin,Max,2,1,3,Max,PROPN,NNP,compound,Xxx,0.0
+Max Levchin,Levchin,2,1,7,Levchin,PROPN,NNP,ROOT,Xxxxx,0.0
+Renat Fatkhullin,Renat,2,1,5,renat,NOUN,NN,compound,Xxxxx,0.0
+Renat Fatkhullin,Fatkhullin,2,1,10,Fatkhullin,PROPN,NNP,ROOT,Xxxxx,0.0
+Wei Guo,Wei,2,1,3,Wei,PROPN,NNP,compound,Xxx,0.0
+Wei Guo,Guo,2,1,3,Guo,PROPN,NNP,ROOT,Xxx,0.0
+Jeff Sagansky,Jeff,2,1,4,Jeff,PROPN,NNP,compound,Xxxx,0.0
+Jeff Sagansky,Sagansky,2,1,8,Sagansky,PROPN,NNP,ROOT,Xxxxx,0.0
+Oliver Samwer,Oliver,2,1,6,Oliver,PROPN,NNP,compound,Xxxxx,0.0
+Oliver Samwer,Samwer,2,1,6,Samwer,PROPN,NNP,ROOT,Xxxxx,0.0
+Adam Nash,Adam,2,1,4,Adam,PROPN,NNP,compound,Xxxx,0.0
+Adam Nash,Nash,2,1,4,Nash,PROPN,NNP,ROOT,Xxxx,0.0
+Sarah Swartz,Sarah,2,1,5,Sarah,PROPN,NNP,compound,Xxxxx,0.0
+Sarah Swartz,Swartz,2,1,6,Swartz,PROPN,NNP,ROOT,Xxxxx,0.0
+Richard Bernardino,Richard,2,1,7,Richard,PROPN,NNP,compound,Xxxxx,0.0
+Richard Bernardino,Bernardino,2,1,10,Bernardino,PROPN,NNP,ROOT,Xxxxx,0.0
+James Pallotta,James,2,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James Pallotta,Pallotta,2,1,8,Pallotta,PROPN,NNP,ROOT,Xxxxx,0.0
+Udi Mokady,Udi,2,1,3,Udi,PROPN,NNP,compound,Xxx,0.0
+Udi Mokady,Mokady,2,1,6,Mokady,PROPN,NNP,ROOT,Xxxxx,0.0
+Jimmy Lustig,Jimmy,2,1,5,Jimmy,PROPN,NNP,compound,Xxxxx,0.0
+Jimmy Lustig,Lustig,2,1,6,Lustig,PROPN,NNP,ROOT,Xxxxx,0.0
+Raghunath Subramanian,Raghunath,2,1,9,Raghunath,PROPN,NNP,compound,Xxxxx,0.0
+Raghunath Subramanian,Subramanian,2,1,11,Subramanian,PROPN,NNP,ROOT,Xxxxx,0.0
+Eric Caballero,Eric,2,1,4,Eric,PROPN,NNP,compound,Xxxx,0.0
+Eric Caballero,Caballero,2,1,9,Caballero,PROPN,NNP,ROOT,Xxxxx,0.0
+Gabi Lewis,Gabi,2,1,4,Gabi,PROPN,NNP,compound,Xxxx,0.0
+Gabi Lewis,Lewis,2,1,5,Lewis,PROPN,NNP,ROOT,Xxxxx,0.0
+Christian Vollmann,Christian,2,1,9,Christian,PROPN,NNP,amod,Xxxxx,0.0
+Christian Vollmann,Vollmann,2,1,8,Vollmann,PROPN,NNP,ROOT,Xxxxx,0.0
+Julian Shapiro,Julian,2,1,6,julian,ADJ,JJ,amod,Xxxxx,0.0
+Julian Shapiro,Shapiro,2,1,7,Shapiro,PROPN,NNP,ROOT,Xxxxx,0.0

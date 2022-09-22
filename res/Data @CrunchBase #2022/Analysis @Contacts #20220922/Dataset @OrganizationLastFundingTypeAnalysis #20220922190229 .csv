@@ -1,0 +1,12 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Initial Coin Offering,Initial,3,912,7,initial,ADJ,JJ,amod,Xxxxx,0.0
+Initial Coin Offering,Coin,3,912,4,Coin,PROPN,NNP,compound,Xxxx,0.0
+Initial Coin Offering,Offering,3,912,8,offering,NOUN,NN,ROOT,Xxxxx,0.0
+Post-IPO Equity,Post,2,71,4,Post,PROPN,NNP,compound,Xxxx,0.0
+Post-IPO Equity,-,2,71,1,-,PROPN,NNP,compound,-,0.0
+Post-IPO Equity,IPO,2,71,3,IPO,PROPN,NNP,compound,XXX,0.0
+Post-IPO Equity,Equity,2,71,6,Equity,PROPN,NNP,ROOT,Xxxxx,0.0
+Post-IPO Debt,Post,2,17,4,Post,PROPN,NNP,compound,Xxxx,0.0
+Post-IPO Debt,-,2,17,1,-,PROPN,NNP,amod,-,0.0
+Post-IPO Debt,IPO,2,17,3,ipo,NOUN,NN,compound,XXX,0.0
+Post-IPO Debt,Debt,2,17,4,debt,NOUN,NN,ROOT,Xxxx,0.0

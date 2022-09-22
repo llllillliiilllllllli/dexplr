@@ -1,0 +1,3 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Made Acquisitions,Made,2,1000,4,make,VERB,VBD,ROOT,Xxxx,0.0
+Made Acquisitions,Acquisitions,2,1000,12,acquisition,NOUN,NNS,dobj,Xxxxx,0.0

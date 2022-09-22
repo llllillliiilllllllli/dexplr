@@ -1,0 +1,1520 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Managing Partner,Managing,2,16,8,manage,VERB,VBG,compound,Xxxxx,0.0
+Managing Partner,Partner,2,16,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+Partner,Partner,1,11,7,partner,NOUN,NN,ROOT,Xxxxx,0.0
+"Lecturer, Departments of Statistics and Computer Science",Lecturer,7,1,8,Lecturer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Lecturer, Departments of Statistics and Computer Science",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Lecturer, Departments of Statistics and Computer Science",Departments,7,1,11,department,NOUN,NNS,appos,Xxxxx,0.0
+"Lecturer, Departments of Statistics and Computer Science",of,7,1,2,of,ADP,IN,prep,xx,0.0
+"Lecturer, Departments of Statistics and Computer Science",Statistics,7,1,10,Statistics,PROPN,NNPS,nmod,Xxxxx,0.0
+"Lecturer, Departments of Statistics and Computer Science",and,7,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Lecturer, Departments of Statistics and Computer Science",Computer,7,1,8,Computer,PROPN,NNP,compound,Xxxxx,0.0
+"Lecturer, Departments of Statistics and Computer Science",Science,7,1,7,Science,PROPN,NNP,pobj,Xxxxx,0.0
+Co-Founder,Co,1,45,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-Founder,-,1,45,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder,Founder,1,45,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+Founder and Chairman Of The Board,Founder,6,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and Chairman Of The Board,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and Chairman Of The Board,Chairman,6,1,8,Chairman,PROPN,NNP,conj,Xxxxx,0.0
+Founder and Chairman Of The Board,Of,6,1,2,of,ADP,IN,prep,Xx,0.0
+Founder and Chairman Of The Board,The,6,1,3,the,DET,DT,det,Xxx,0.0
+Founder and Chairman Of The Board,Board,6,1,5,Board,PROPN,NNP,pobj,Xxxxx,0.0
+Advisor,Advisor,1,2,7,Advisor,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Chief Executive Officer,Founder,5,6,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Chief Executive Officer,&,5,6,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Chief Executive Officer,amp,5,6,3,amp,NOUN,NN,conj,xxx,0.0
+Founder &amp; Chief Executive Officer,;,5,6,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Chief Executive Officer,Chief,5,6,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Chief Executive Officer,Executive,5,6,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Chief Executive Officer,Officer,5,6,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder &amp; Chairman,Co,3,3,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Chairman,-,3,3,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Chairman,Founder,3,3,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Chairman,&,3,3,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Chairman,amp,3,3,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Chairman,;,3,3,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Chairman,Chairman,3,3,8,chairman,NOUN,NN,appos,Xxxxx,0.0
+Co Founder &amp; CMO,Co,4,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co Founder &amp; CMO,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co Founder &amp; CMO,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Co Founder &amp; CMO,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co Founder &amp; CMO,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Co Founder &amp; CMO,CMO,4,1,3,CMO,PROPN,NNP,appos,XXX,0.0
+Co-Founder &amp; CEO,Co,3,32,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; CEO,-,3,32,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; CEO,Founder,3,32,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; CEO,&,3,32,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; CEO,amp,3,32,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-Founder &amp; CEO,;,3,32,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; CEO,CEO,3,32,3,ceo,NOUN,NN,appos,XXX,0.0
+Founding Team &amp; VP of Partnerships,Founding,6,1,8,found,VERB,VBG,ROOT,Xxxxx,0.0
+Founding Team &amp; VP of Partnerships,Team,6,1,4,Team,PROPN,NNP,dobj,Xxxx,0.0
+Founding Team &amp; VP of Partnerships,&,6,1,1,&,CCONJ,CC,cc,&,0.0
+Founding Team &amp; VP of Partnerships,amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founding Team &amp; VP of Partnerships,;,6,1,1,;,PUNCT,:,punct,;,0.0
+Founding Team &amp; VP of Partnerships,VP,6,1,2,VP,PROPN,NNP,npadvmod,XX,0.0
+Founding Team &amp; VP of Partnerships,of,6,1,2,of,ADP,IN,prep,xx,0.0
+Founding Team &amp; VP of Partnerships,Partnerships,6,1,12,partnership,NOUN,NNS,pobj,Xxxxx,0.0
+"CTO, COO &amp; Co-Founder",CTO,4,1,3,CTO,PROPN,NNP,ROOT,XXX,0.0
+"CTO, COO &amp; Co-Founder",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"CTO, COO &amp; Co-Founder",COO,4,1,3,COO,PROPN,NNP,conj,XXX,0.0
+"CTO, COO &amp; Co-Founder",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"CTO, COO &amp; Co-Founder",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"CTO, COO &amp; Co-Founder",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"CTO, COO &amp; Co-Founder",Co,4,1,2,Co,PROPN,NNP,appos,Xx,0.0
+"CTO, COO &amp; Co-Founder",-,4,1,1,-,PROPN,NNP,conj,-,0.0
+"CTO, COO &amp; Co-Founder",Founder,4,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+Founder and CEO,Founder,3,37,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and CEO,and,3,37,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and CEO,CEO,3,37,3,ceo,NOUN,NN,conj,XXX,0.0
+CEO and Co-Founder,CEO,3,6,3,ceo,NOUN,NN,ROOT,XXX,0.0
+CEO and Co-Founder,and,3,6,3,and,CCONJ,CC,cc,xxx,0.0
+CEO and Co-Founder,Co,3,6,2,Co,PROPN,NNP,conj,Xx,0.0
+CEO and Co-Founder,-,3,6,1,-,PROPN,NNP,conj,-,0.0
+CEO and Co-Founder,Founder,3,6,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+Founder and President,Founder,3,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+Founder and President,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and President,President,3,1,9,President,PROPN,NNP,conj,Xxxxx,0.0
+Founder and Group CEO,Founder,4,1,7,Founder,PROPN,NNP,nmod,Xxxxx,0.0
+Founder and Group CEO,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and Group CEO,Group,4,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+Founder and Group CEO,CEO,4,1,3,CEO,PROPN,NNP,ROOT,XXX,0.0
+Founder &amp; General Partner,Founder,4,3,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; General Partner,&,4,3,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; General Partner,amp,4,3,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; General Partner,;,4,3,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; General Partner,General,4,3,7,General,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; General Partner,Partner,4,3,7,Partner,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and CEO,Co,3,15,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder and CEO,-,3,15,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder and CEO,Founder,3,15,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder and CEO,and,3,15,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and CEO,CEO,3,15,3,ceo,NOUN,NN,conj,XXX,0.0
+Cofounder,Cofounder,1,2,9,cofounder,NOUN,NN,ROOT,Xxxxx,0.0
+Founder,Founder,1,50,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Chief,9,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Product,9,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Officer,9,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Executive,9,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Vice,9,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",President,9,1,9,President,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",-,9,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Creative,9,1,8,Creative,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Cloud,9,1,5,Cloud,PROPN,NNP,appos,Xxxxx,0.0
+CEO and Co-founder,CEO,3,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+CEO and Co-founder,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+CEO and Co-founder,Co,3,1,2,co,NOUN,NN,conj,Xx,0.0
+CEO and Co-founder,-,3,1,1,-,NOUN,NN,conj,-,0.0
+CEO and Co-founder,founder,3,1,7,founder,NOUN,NN,conj,xxxx,0.0
+Founder &amp; CEO,Founder,3,58,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; CEO,&,3,58,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; CEO,amp,3,58,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; CEO,;,3,58,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; CEO,CEO,3,58,3,ceo,NOUN,NN,appos,XXX,0.0
+CEO&amp; founder,CEO&amp,2,1,7,ceo&amp,NOUN,NN,ROOT,XXX&xxx,0.0
+CEO&amp; founder,;,2,1,1,;,PUNCT,:,punct,;,0.0
+CEO&amp; founder,founder,2,1,7,founder,NOUN,NN,appos,xxxx,0.0
+"Founder, President &amp; CEO",Founder,4,2,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, President &amp; CEO",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Founder, President &amp; CEO",President,4,2,9,President,PROPN,NNP,appos,Xxxxx,0.0
+"Founder, President &amp; CEO",&,4,2,1,&,CCONJ,CC,cc,&,0.0
+"Founder, President &amp; CEO",amp,4,2,3,amp,PROPN,NNP,conj,xxx,0.0
+"Founder, President &amp; CEO",;,4,2,1,;,PUNCT,:,punct,;,0.0
+"Founder, President &amp; CEO",CEO,4,2,3,ceo,NOUN,NN,appos,XXX,0.0
+Chief Strategy Officer,Chief,3,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Strategy Officer,Strategy,3,1,8,Strategy,PROPN,NNP,compound,Xxxxx,0.0
+Chief Strategy Officer,Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Founder, CEO",Founder,2,3,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, CEO",",",2,3,1,",",PUNCT,",",punct,",",0.0
+"Founder, CEO",CEO,2,3,3,ceo,NOUN,NN,appos,XXX,0.0
+Chief Executive Officer,Chief,3,18,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Executive Officer,Executive,3,18,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Chief Executive Officer,Officer,3,18,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+General Manager &amp; Vice President,General,5,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General Manager &amp; Vice President,Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+General Manager &amp; Vice President,&,5,1,1,&,CCONJ,CC,cc,&,0.0
+General Manager &amp; Vice President,amp,5,1,3,amp,PROPN,NNP,conj,xxx,0.0
+General Manager &amp; Vice President,;,5,1,1,;,PUNCT,:,punct,;,0.0
+General Manager &amp; Vice President,Vice,5,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+General Manager &amp; Vice President,President,5,1,9,President,PROPN,NNP,appos,Xxxxx,0.0
+"Founder, Chief Dad and Get Stuff Done Officer",Founder,8,1,7,founder,NOUN,NN,nsubj,Xxxxx,0.0
+"Founder, Chief Dad and Get Stuff Done Officer",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, Chief Dad and Get Stuff Done Officer",Chief,8,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Founder, Chief Dad and Get Stuff Done Officer",Dad,8,1,3,Dad,PROPN,NNP,appos,Xxx,0.0
+"Founder, Chief Dad and Get Stuff Done Officer",and,8,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, Chief Dad and Get Stuff Done Officer",Get,8,1,3,get,VERB,VB,acl,Xxx,0.0
+"Founder, Chief Dad and Get Stuff Done Officer",Stuff,8,1,5,stuff,NOUN,NN,dobj,Xxxxx,0.0
+"Founder, Chief Dad and Get Stuff Done Officer",Done,8,1,4,do,VERB,VBN,ROOT,Xxxx,0.0
+"Founder, Chief Dad and Get Stuff Done Officer",Officer,8,1,7,officer,NOUN,NN,dobj,Xxxxx,0.0
+Chief Marketing Officer,Chief,3,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Marketing Officer,Marketing,3,1,9,Marketing,PROPN,NNP,compound,Xxxxx,0.0
+Chief Marketing Officer,Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+CEO &amp; Founder,CEO,3,10,3,CEO,PROPN,NNP,ROOT,XXX,0.0
+CEO &amp; Founder,&,3,10,1,&,CCONJ,CC,cc,&,0.0
+CEO &amp; Founder,amp,3,10,3,amp,PROPN,NNP,conj,xxx,0.0
+CEO &amp; Founder,;,3,10,1,;,PUNCT,:,punct,;,0.0
+CEO &amp; Founder,Founder,3,10,7,founder,NOUN,NN,appos,Xxxxx,0.0
+CO-FOUNDER &amp; EXECUTIVE CHAIRMAN,CO,4,1,2,CO,PROPN,NNP,compound,XX,0.0
+CO-FOUNDER &amp; EXECUTIVE CHAIRMAN,-,4,1,1,-,PROPN,NNP,compound,-,0.0
+CO-FOUNDER &amp; EXECUTIVE CHAIRMAN,FOUNDER,4,1,7,FOUNDER,PROPN,NNP,ROOT,XXXX,0.0
+CO-FOUNDER &amp; EXECUTIVE CHAIRMAN,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+CO-FOUNDER &amp; EXECUTIVE CHAIRMAN,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+CO-FOUNDER &amp; EXECUTIVE CHAIRMAN,;,4,1,1,;,PUNCT,:,punct,;,0.0
+CO-FOUNDER &amp; EXECUTIVE CHAIRMAN,EXECUTIVE,4,1,9,EXECUTIVE,PROPN,NNP,compound,XXXX,0.0
+CO-FOUNDER &amp; EXECUTIVE CHAIRMAN,CHAIRMAN,4,1,8,CHAIRMAN,PROPN,NNP,appos,XXXX,0.0
+Socio,Socio,1,1,5,socio,NOUN,NN,ROOT,Xxxxx,0.0
+Co-Founder and President,Co,3,2,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder and President,-,3,2,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder and President,Founder,3,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder and President,and,3,2,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and President,President,3,2,9,President,PROPN,NNP,conj,Xxxxx,0.0
+Global Head of Christie’s Ventures,Global,5,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Global Head of Christie’s Ventures,Head,5,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Global Head of Christie’s Ventures,of,5,1,2,of,ADP,IN,prep,xx,0.0
+Global Head of Christie’s Ventures,Christie,5,1,8,Christie,PROPN,NNP,pobj,Xxxxx,0.0
+Global Head of Christie’s Ventures,’s,5,1,2,’s,PART,POS,punct,’x,0.0
+Global Head of Christie’s Ventures,Ventures,5,1,8,venture,NOUN,NNS,appos,Xxxxx,0.0
+Founding Partner,Founding,2,5,8,found,VERB,VBG,compound,Xxxxx,0.0
+Founding Partner,Partner,2,5,7,partner,NOUN,NN,ROOT,Xxxxx,0.0
+President &amp; CEO,President,3,7,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+President &amp; CEO,&,3,7,1,&,CCONJ,CC,cc,&,0.0
+President &amp; CEO,amp,3,7,3,amp,PROPN,NNP,conj,xxx,0.0
+President &amp; CEO,;,3,7,1,;,PUNCT,:,punct,;,0.0
+President &amp; CEO,CEO,3,7,3,ceo,NOUN,NN,appos,XXX,0.0
+Co-Founder and COO,Co,3,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder and COO,-,3,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder and COO,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder and COO,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and COO,COO,3,1,3,COO,PROPN,NNP,conj,XXX,0.0
+Venture Partner,Venture,2,3,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Venture Partner,Partner,2,3,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",Trending,10,1,8,trend,VERB,VBG,ROOT,Xxxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",News,10,1,4,News,PROPN,NNP,compound,Xxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",Reporter,10,1,8,reporter,NOUN,NN,nmod,Xxxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",-,10,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",Consumer,10,1,8,Consumer,PROPN,NNP,dobj,Xxxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",",",10,1,1,",",PUNCT,",",punct,",",0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",Retail,10,1,6,Retail,PROPN,NNP,conj,Xxxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",Food,10,1,4,Food,PROPN,NNP,conj,Xxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",Fashion,10,1,7,Fashion,PROPN,NNP,conj,Xxxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",Luxury,10,1,6,Luxury,PROPN,NNP,conj,Xxxxx,0.0
+"Trending News Reporter - Consumer, Retail, Food, Fashion, Luxury, Media",Media,10,1,5,medium,NOUN,NNS,conj,Xxxxx,0.0
+Cofounder &amp; CFO,Cofounder,3,1,9,Cofounder,PROPN,NNP,ROOT,Xxxxx,0.0
+Cofounder &amp; CFO,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Cofounder &amp; CFO,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Cofounder &amp; CFO,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Cofounder &amp; CFO,CFO,3,1,3,CFO,PROPN,NNP,appos,XXX,0.0
+Product Manager,Product,2,1,7,product,NOUN,NN,compound,Xxxxx,0.0
+Product Manager,Manager,2,1,7,manager,NOUN,NN,ROOT,Xxxxx,0.0
+"GVP, Trade &amp; Financial Services",GVP,5,1,3,GVP,PROPN,NNP,ROOT,XXX,0.0
+"GVP, Trade &amp; Financial Services",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"GVP, Trade &amp; Financial Services",Trade,5,1,5,Trade,PROPN,NNP,conj,Xxxxx,0.0
+"GVP, Trade &amp; Financial Services",&,5,1,1,&,CCONJ,CC,cc,&,0.0
+"GVP, Trade &amp; Financial Services",amp,5,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"GVP, Trade &amp; Financial Services",;,5,1,1,;,PUNCT,:,punct,;,0.0
+"GVP, Trade &amp; Financial Services",Financial,5,1,9,Financial,PROPN,NNP,compound,Xxxxx,0.0
+"GVP, Trade &amp; Financial Services",Services,5,1,8,Services,PROPN,NNPS,appos,Xxxxx,0.0
+Co- Founder,Co-,2,1,3,Co-,PROPN,NNP,compound,Xx-,0.0
+Co- Founder,Founder,2,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+General Counsel,General,2,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General Counsel,Counsel,2,1,7,Counsel,PROPN,NNP,ROOT,Xxxxx,0.0
+"Founder, CEO and Chief Inventor",Founder,5,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, CEO and Chief Inventor",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, CEO and Chief Inventor",CEO,5,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Founder, CEO and Chief Inventor",and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, CEO and Chief Inventor",Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Founder, CEO and Chief Inventor",Inventor,5,1,8,Inventor,PROPN,NNP,conj,Xxxxx,0.0
+"CEO, Founder",CEO,2,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, Founder",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"CEO, Founder",Founder,2,1,7,Founder,PROPN,NNP,npadvmod,Xxxxx,0.0
+VP of Strategic Program Development,VP,5,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+VP of Strategic Program Development,of,5,1,2,of,ADP,IN,prep,xx,0.0
+VP of Strategic Program Development,Strategic,5,1,9,Strategic,PROPN,NNP,compound,Xxxxx,0.0
+VP of Strategic Program Development,Program,5,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+VP of Strategic Program Development,Development,5,1,11,Development,PROPN,NNP,pobj,Xxxxx,0.0
+Co-Founder &amp; Chief Executive Officer,Co,5,6,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Chief Executive Officer,-,5,6,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Chief Executive Officer,Founder,5,6,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Chief Executive Officer,&,5,6,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Chief Executive Officer,amp,5,6,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Chief Executive Officer,;,5,6,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Chief Executive Officer,Chief,5,6,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; Chief Executive Officer,Executive,5,6,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; Chief Executive Officer,Officer,5,6,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,Co,8,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,-,8,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,Founder,8,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,&,8,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,amp,8,1,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,;,8,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,Managing,8,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,Partner,8,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,at,8,1,2,at,ADP,IN,prep,xx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,Clearlake,8,1,9,Clearlake,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,Capital,8,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; Managing Partner at Clearlake Capital Group,Group,8,1,5,Group,PROPN,NNP,pobj,Xxxxx,0.0
+Managing Partner and Founder,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Managing Partner and Founder,Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing Partner and Founder,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Managing Partner and Founder,Founder,4,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"CEO, Director and Founder",CEO,4,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, Director and Founder",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"CEO, Director and Founder",Director,4,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"CEO, Director and Founder",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"CEO, Director and Founder",Founder,4,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+MD &amp; Co-Founder,MD,3,1,2,MD,PROPN,NNP,ROOT,XX,0.0
+MD &amp; Co-Founder,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+MD &amp; Co-Founder,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+MD &amp; Co-Founder,;,3,1,1,;,PUNCT,:,punct,;,0.0
+MD &amp; Co-Founder,Co,3,1,2,Co,PROPN,NNP,appos,Xx,0.0
+MD &amp; Co-Founder,-,3,1,1,-,PROPN,NNP,conj,-,0.0
+MD &amp; Co-Founder,Founder,3,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+Co-Founder &amp; General Partner,Co,4,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; General Partner,-,4,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; General Partner,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; General Partner,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; General Partner,amp,4,1,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; General Partner,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; General Partner,General,4,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; General Partner,Partner,4,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, India",Partner,2,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, India",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, India",India,2,1,5,India,PROPN,NNP,appos,Xxxxx,0.0
+Chief Operating Officer,Chief,3,2,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Operating Officer,Operating,3,2,9,Operating,PROPN,NNP,compound,Xxxxx,0.0
+Chief Operating Officer,Officer,3,2,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; CTO,Co,3,6,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; CTO,-,3,6,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; CTO,Founder,3,6,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; CTO,&,3,6,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; CTO,amp,3,6,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; CTO,;,3,6,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; CTO,CTO,3,6,3,CTO,PROPN,NNP,appos,XXX,0.0
+"CEO, Chairman, and Owner",CEO,4,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, Chairman, and Owner",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"CEO, Chairman, and Owner",Chairman,4,1,8,Chairman,PROPN,NNP,appos,Xxxxx,0.0
+"CEO, Chairman, and Owner",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"CEO, Chairman, and Owner",Owner,4,1,5,Owner,PROPN,NNP,conj,Xxxxx,0.0
+General Partner,General,2,15,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General Partner,Partner,2,15,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Founder, Trustee and Pro-Vice-Chancellor",Founder,4,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, Trustee and Pro-Vice-Chancellor",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, Trustee and Pro-Vice-Chancellor",Trustee,4,1,7,Trustee,PROPN,NNP,conj,Xxxxx,0.0
+"Founder, Trustee and Pro-Vice-Chancellor",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, Trustee and Pro-Vice-Chancellor",Pro,4,1,3,pro,ADJ,JJ,amod,Xxx,0.0
+"Founder, Trustee and Pro-Vice-Chancellor",-,4,1,1,-,ADJ,JJ,amod,-,0.0
+"Founder, Trustee and Pro-Vice-Chancellor",Vice,4,1,4,vice,ADJ,JJ,amod,Xxxx,0.0
+"Founder, Trustee and Pro-Vice-Chancellor",-,4,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Founder, Trustee and Pro-Vice-Chancellor",Chancellor,4,1,10,chancellor,NOUN,NN,conj,Xxxxx,0.0
+"CEO, Co-Founder &amp; Managing Director",CEO,5,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, Co-Founder &amp; Managing Director",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"CEO, Co-Founder &amp; Managing Director",Co,5,1,2,Co,PROPN,NNP,appos,Xx,0.0
+"CEO, Co-Founder &amp; Managing Director",-,5,1,1,-,PROPN,NNP,compound,-,0.0
+"CEO, Co-Founder &amp; Managing Director",Founder,5,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"CEO, Co-Founder &amp; Managing Director",&,5,1,1,&,CCONJ,CC,cc,&,0.0
+"CEO, Co-Founder &amp; Managing Director",amp,5,1,3,amp,NOUN,NN,conj,xxx,0.0
+"CEO, Co-Founder &amp; Managing Director",;,5,1,1,;,PUNCT,:,punct,;,0.0
+"CEO, Co-Founder &amp; Managing Director",Managing,5,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"CEO, Co-Founder &amp; Managing Director",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+Associate II - Cloud Infrastructure Services,Associate,6,1,9,associate,ADJ,JJ,amod,Xxxxx,0.0
+Associate II - Cloud Infrastructure Services,II,6,1,2,II,PROPN,NNP,compound,XX,0.0
+Associate II - Cloud Infrastructure Services,-,6,1,1,-,PUNCT,HYPH,punct,-,0.0
+Associate II - Cloud Infrastructure Services,Cloud,6,1,5,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+Associate II - Cloud Infrastructure Services,Infrastructure,6,1,14,Infrastructure,PROPN,NNP,compound,Xxxxx,0.0
+Associate II - Cloud Infrastructure Services,Services,6,1,8,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+Founder &amp; COO,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; COO,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; COO,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; COO,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; COO,COO,3,1,3,COO,PROPN,NNP,appos,XXX,0.0
+"President, JioFiber, Business",President,3,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, JioFiber, Business",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"President, JioFiber, Business",JioFiber,3,1,8,JioFiber,PROPN,NNP,appos,XxxXxxxx,0.0
+"President, JioFiber, Business",Business,3,1,8,business,NOUN,NN,appos,Xxxxx,0.0
+Co-Founder &amp; Managing Partner,Co,4,2,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Managing Partner,-,4,2,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Managing Partner,Founder,4,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Managing Partner,&,4,2,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Managing Partner,amp,4,2,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Managing Partner,;,4,2,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Managing Partner,Managing,4,2,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; Managing Partner,Partner,4,2,7,Partner,PROPN,NNP,appos,Xxxxx,0.0
+"Co-Founder, CEO and Seed Investor",Co,5,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+"Co-Founder, CEO and Seed Investor",-,5,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, CEO and Seed Investor",Founder,5,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+"Co-Founder, CEO and Seed Investor",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, CEO and Seed Investor",CEO,5,1,3,CEO,PROPN,NNP,nmod,XXX,0.0
+"Co-Founder, CEO and Seed Investor",and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Co-Founder, CEO and Seed Investor",Seed,5,1,4,Seed,PROPN,NNP,conj,Xxxx,0.0
+"Co-Founder, CEO and Seed Investor",Investor,5,1,8,investor,NOUN,NN,appos,Xxxxx,0.0
+Co-Founder &amp; Chief product officer,Co,5,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Chief product officer,-,5,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Chief product officer,Founder,5,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Chief product officer,&,5,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Chief product officer,amp,5,1,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Chief product officer,;,5,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Chief product officer,Chief,5,1,5,chief,ADJ,JJ,amod,Xxxxx,0.0
+Co-Founder &amp; Chief product officer,product,5,1,7,product,NOUN,NN,compound,xxxx,0.0
+Co-Founder &amp; Chief product officer,officer,5,1,7,officer,NOUN,NN,appos,xxxx,0.0
+CEO and Founder,CEO,3,5,3,ceo,NOUN,NN,ROOT,XXX,0.0
+CEO and Founder,and,3,5,3,and,CCONJ,CC,cc,xxx,0.0
+CEO and Founder,Founder,3,5,7,founder,NOUN,NN,conj,Xxxxx,0.0
+Chief Operating Officer and Chief Financial Officer,Chief,7,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Operating Officer and Chief Financial Officer,Operating,7,1,9,Operating,PROPN,NNP,nmod,Xxxxx,0.0
+Chief Operating Officer and Chief Financial Officer,Officer,7,1,7,Officer,PROPN,NNP,nmod,Xxxxx,0.0
+Chief Operating Officer and Chief Financial Officer,and,7,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chief Operating Officer and Chief Financial Officer,Financial,7,1,9,Financial,PROPN,NNP,compound,Xxxxx,0.0
+Chief Operating Officer and Chief Financial Officer,Officer,7,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-chair,Co,1,1,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-chair,-,1,1,1,-,NOUN,NN,punct,-,0.0
+Co-chair,chair,1,1,5,chair,NOUN,NN,intj,xxxx,0.0
+Founder and Managing Partner,Founder,4,4,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and Managing Partner,and,4,4,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and Managing Partner,Managing,4,4,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Founder and Managing Partner,Partner,4,4,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+Corporate Vice-President of Azure Global,Corporate,5,1,9,corporate,ADJ,JJ,amod,Xxxxx,0.0
+Corporate Vice-President of Azure Global,Vice,5,1,4,Vice,PROPN,NNP,ROOT,Xxxx,0.0
+Corporate Vice-President of Azure Global,-,5,1,1,-,PROPN,NNP,punct,-,0.0
+Corporate Vice-President of Azure Global,President,5,1,9,President,PROPN,NNP,appos,Xxxxx,0.0
+Corporate Vice-President of Azure Global,of,5,1,2,of,ADP,IN,prep,xx,0.0
+Corporate Vice-President of Azure Global,Azure,5,1,5,Azure,PROPN,NNP,compound,Xxxxx,0.0
+Corporate Vice-President of Azure Global,Global,5,1,6,Global,PROPN,NNP,pobj,Xxxxx,0.0
+Vice President of International Business Development in Latin America,Vice,9,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+Vice President of International Business Development in Latin America,President,9,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+Vice President of International Business Development in Latin America,of,9,1,2,of,ADP,IN,prep,xx,0.0
+Vice President of International Business Development in Latin America,International,9,1,13,International,PROPN,NNP,compound,Xxxxx,0.0
+Vice President of International Business Development in Latin America,Business,9,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+Vice President of International Business Development in Latin America,Development,9,1,11,Development,PROPN,NNP,pobj,Xxxxx,0.0
+Vice President of International Business Development in Latin America,in,9,1,2,in,ADP,IN,prep,xx,0.0
+Vice President of International Business Development in Latin America,Latin,9,1,5,Latin,PROPN,NNP,compound,Xxxxx,0.0
+Vice President of International Business Development in Latin America,America,9,1,7,America,PROPN,NNP,pobj,Xxxxx,0.0
+Founder &amp; Partner,Founder,3,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Partner,&,3,2,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Partner,amp,3,2,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; Partner,;,3,2,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Partner,Partner,3,2,7,partner,NOUN,NN,appos,Xxxxx,0.0
+CEO,CEO,1,28,3,ceo,NOUN,NN,ROOT,XXX,0.0
+Founder &amp; Managing Partner,Founder,4,5,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Managing Partner,&,4,5,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Managing Partner,amp,4,5,3,amp,NOUN,NN,conj,xxx,0.0
+Founder &amp; Managing Partner,;,4,5,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Managing Partner,Managing,4,5,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Managing Partner,Partner,4,5,7,Partner,PROPN,NNP,appos,Xxxxx,0.0
+Co-founder and CEO,Co,3,5,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder and CEO,-,3,5,1,-,NOUN,NN,punct,-,0.0
+Co-founder and CEO,founder,3,5,7,founder,NOUN,NN,appos,xxxx,0.0
+Co-founder and CEO,and,3,5,3,and,CCONJ,CC,cc,xxx,0.0
+Co-founder and CEO,CEO,3,5,3,ceo,NOUN,NN,conj,XXX,0.0
+Investor &amp; Co-Founder,Investor,3,1,8,Investor,PROPN,NNP,ROOT,Xxxxx,0.0
+Investor &amp; Co-Founder,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Investor &amp; Co-Founder,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Investor &amp; Co-Founder,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Investor &amp; Co-Founder,Co,3,1,2,Co,PROPN,NNP,appos,Xx,0.0
+Investor &amp; Co-Founder,-,3,1,1,-,PROPN,NNP,conj,-,0.0
+Investor &amp; Co-Founder,Founder,3,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+Co-Founder And CEO,Co,3,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder And CEO,-,3,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder And CEO,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder And CEO,And,3,1,3,and,CCONJ,CC,cc,Xxx,0.0
+Co-Founder And CEO,CEO,3,1,3,ceo,NOUN,NN,conj,XXX,0.0
+Owner and Founder,Owner,3,1,5,Owner,PROPN,NNP,ROOT,Xxxxx,0.0
+Owner and Founder,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Owner and Founder,Founder,3,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+Co-founder,Co,1,3,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder,-,1,3,1,-,NOUN,NN,prep,-,0.0
+Co-founder,founder,1,3,7,founder,NOUN,NN,npadvmod,xxxx,0.0
+Co-Founder &amp; Managing Director,Co,4,2,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Managing Director,-,4,2,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Managing Director,Founder,4,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Managing Director,&,4,2,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Managing Director,amp,4,2,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Managing Director,;,4,2,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Managing Director,Managing,4,2,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; Managing Director,Director,4,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+CEO &amp; Co-Founder,CEO,3,6,3,CEO,PROPN,NNP,ROOT,XXX,0.0
+CEO &amp; Co-Founder,&,3,6,1,&,CCONJ,CC,cc,&,0.0
+CEO &amp; Co-Founder,amp,3,6,3,amp,PROPN,NNP,conj,xxx,0.0
+CEO &amp; Co-Founder,;,3,6,1,;,PUNCT,:,punct,;,0.0
+CEO &amp; Co-Founder,Co,3,6,2,Co,PROPN,NNP,appos,Xx,0.0
+CEO &amp; Co-Founder,-,3,6,1,-,PROPN,NNP,conj,-,0.0
+CEO &amp; Co-Founder,Founder,3,6,7,founder,NOUN,NN,appos,Xxxxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",TitleMember,11,1,11,TitleMember,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",of,11,1,2,of,ADP,IN,prep,xx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",the,11,1,3,the,DET,DT,det,xxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",Board,11,1,5,Board,PROPN,NNP,pobj,Xxxxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",Directors,11,1,9,Directors,PROPN,NNPS,pobj,Xxxxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",",",11,1,1,",",PUNCT,",",punct,",",0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",Chief,11,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",Operating,11,1,9,Operating,PROPN,NNP,compound,Xxxxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",Officer,11,1,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",&,11,1,1,&,CCONJ,CC,cc,&,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",amp,11,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",;,11,1,1,;,PUNCT,:,punct,;,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",Co,11,1,2,Co,PROPN,NNP,appos,Xx,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",-,11,1,1,-,PROPN,NNP,conj,-,0.0
+"TitleMember of the Board of Directors, Chief Operating Officer &amp; Co-Founder",Founder,11,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+Co-founder &amp; CEO,Co,3,13,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder &amp; CEO,-,3,13,1,-,NOUN,NN,npadvmod,-,0.0
+Co-founder &amp; CEO,founder,3,13,7,founder,NOUN,NN,appos,xxxx,0.0
+Co-founder &amp; CEO,&,3,13,1,&,CCONJ,CC,cc,&,0.0
+Co-founder &amp; CEO,amp,3,13,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-founder &amp; CEO,;,3,13,1,;,PUNCT,:,punct,;,0.0
+Co-founder &amp; CEO,CEO,3,13,3,ceo,NOUN,NN,npadvmod,XXX,0.0
+Founder and Chairman,Founder,3,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and Chairman,and,3,2,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and Chairman,Chairman,3,2,8,Chairman,PROPN,NNP,conj,Xxxxx,0.0
+Founder &amp; Managing Director,Founder,4,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Managing Director,&,4,2,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Managing Director,amp,4,2,3,amp,NOUN,NN,conj,xxx,0.0
+Founder &amp; Managing Director,;,4,2,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Managing Director,Managing,4,2,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Managing Director,Director,4,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+CEO / General Manager,CEO,4,1,3,ceo,NOUN,NN,nmod,XXX,0.0
+CEO / General Manager,/,4,1,1,/,SYM,SYM,punct,/,0.0
+CEO / General Manager,General,4,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+CEO / General Manager,Manager,4,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"CSO, Head of Scientific Research",CSO,5,1,3,CSO,PROPN,NNP,ROOT,XXX,0.0
+"CSO, Head of Scientific Research",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"CSO, Head of Scientific Research",Head,5,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"CSO, Head of Scientific Research",of,5,1,2,of,ADP,IN,prep,xx,0.0
+"CSO, Head of Scientific Research",Scientific,5,1,10,Scientific,PROPN,NNP,compound,Xxxxx,0.0
+"CSO, Head of Scientific Research",Research,5,1,8,Research,PROPN,NNP,pobj,Xxxxx,0.0
+Interim CEO,Interim,2,1,7,Interim,PROPN,NNP,compound,Xxxxx,0.0
+Interim CEO,CEO,2,1,3,CEO,PROPN,NNP,ROOT,XXX,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",Co,5,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",-,5,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",Founder,5,1,7,Founder,PROPN,NNP,nmod,Xxxxx,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, CEO, &amp; Executive Chairman",CEO,5,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",&,5,1,1,&,CCONJ,CC,cc,&,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",amp,5,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",;,5,1,1,;,PUNCT,:,punct,;,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",Executive,5,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, CEO, &amp; Executive Chairman",Chairman,5,1,8,Chairman,PROPN,NNP,appos,Xxxxx,0.0
+Strategy Consulting Team Lead,Strategy,4,1,8,Strategy,PROPN,NNP,compound,Xxxxx,0.0
+Strategy Consulting Team Lead,Consulting,4,1,10,Consulting,PROPN,NNP,compound,Xxxxx,0.0
+Strategy Consulting Team Lead,Team,4,1,4,Team,PROPN,NNP,compound,Xxxx,0.0
+Strategy Consulting Team Lead,Lead,4,1,4,Lead,PROPN,NNP,ROOT,Xxxx,0.0
+CEO &amp; Co-founder,CEO,3,2,3,CEO,PROPN,NNP,ROOT,XXX,0.0
+CEO &amp; Co-founder,&,3,2,1,&,CCONJ,CC,cc,&,0.0
+CEO &amp; Co-founder,amp,3,2,3,amp,PROPN,NNP,conj,xxx,0.0
+CEO &amp; Co-founder,;,3,2,1,;,PUNCT,:,punct,;,0.0
+CEO &amp; Co-founder,Co,3,2,2,co,NOUN,NN,appos,Xx,0.0
+CEO &amp; Co-founder,-,3,2,1,-,NOUN,NN,appos,-,0.0
+CEO &amp; Co-founder,founder,3,2,7,founder,NOUN,NN,appos,xxxx,0.0
+Cofounder @ EaseMyTrip.com,Cofounder,3,1,9,cofounder,NOUN,NN,ROOT,Xxxxx,0.0
+Cofounder @ EaseMyTrip.com,@,3,1,1,@,ADP,IN,prep,@,0.0
+Cofounder @ EaseMyTrip.com,EaseMyTrip.com,3,1,14,easemytrip.com,NUM,CD,pobj,XxxxXxXxxx.xxx,0.0
+"Co-Founder, President &amp; CTO",Co,4,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+"Co-Founder, President &amp; CTO",-,4,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, President &amp; CTO",Founder,4,1,7,Founder,PROPN,NNP,nmod,Xxxxx,0.0
+"Co-Founder, President &amp; CTO",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, President &amp; CTO",President,4,1,9,President,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, President &amp; CTO",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"Co-Founder, President &amp; CTO",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Co-Founder, President &amp; CTO",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"Co-Founder, President &amp; CTO",CTO,4,1,3,CTO,PROPN,NNP,appos,XXX,0.0
+Co-Founder &amp; Partner,Co,3,3,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Partner,-,3,3,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Partner,Founder,3,3,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Partner,&,3,3,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Partner,amp,3,3,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-Founder &amp; Partner,;,3,3,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Partner,Partner,3,3,7,partner,NOUN,NN,appos,Xxxxx,0.0
+CEO and Co Founder,CEO,4,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+CEO and Co Founder,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+CEO and Co Founder,Co,4,1,2,Co,PROPN,NNP,compound,Xx,0.0
+CEO and Co Founder,Founder,4,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+Managing Director,Managing,2,4,8,manage,VERB,VBG,compound,Xxxxx,0.0
+Managing Director,Director,2,4,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+President and Chief Executive Officer,President,5,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+President and Chief Executive Officer,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+President and Chief Executive Officer,Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+President and Chief Executive Officer,Executive,5,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+President and Chief Executive Officer,Officer,5,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+Owner,Owner,1,4,5,owner,NOUN,NN,ROOT,Xxxxx,0.0
+Founder&amp;President,Founder&amp;President,1,1,21,founder&amp;president,NOUN,NN,ROOT,Xxxxx&xxx;Xxxxx,0.0
+Co-Founder and Group Head of Product &amp; Technology,Co,8,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+Co-Founder and Group Head of Product &amp; Technology,-,8,1,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder and Group Head of Product &amp; Technology,Founder,8,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and Group Head of Product &amp; Technology,and,8,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and Group Head of Product &amp; Technology,Group,8,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder and Group Head of Product &amp; Technology,Head,8,1,4,Head,PROPN,NNP,conj,Xxxx,0.0
+Co-Founder and Group Head of Product &amp; Technology,of,8,1,2,of,ADP,IN,prep,xx,0.0
+Co-Founder and Group Head of Product &amp; Technology,Product,8,1,7,Product,PROPN,NNP,pobj,Xxxxx,0.0
+Co-Founder and Group Head of Product &amp; Technology,&,8,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder and Group Head of Product &amp; Technology,amp,8,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-Founder and Group Head of Product &amp; Technology,;,8,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder and Group Head of Product &amp; Technology,Technology,8,1,10,technology,NOUN,NN,npadvmod,Xxxxx,0.0
+Fellow,Fellow,1,1,6,fellow,VERB,VB,ROOT,Xxxxx,0.0
+"Founder, Chairman &amp; Chief Executive Officer",Founder,6,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, Chairman &amp; Chief Executive Officer",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, Chairman &amp; Chief Executive Officer",Chairman,6,1,8,Chairman,PROPN,NNP,appos,Xxxxx,0.0
+"Founder, Chairman &amp; Chief Executive Officer",&,6,1,1,&,CCONJ,CC,cc,&,0.0
+"Founder, Chairman &amp; Chief Executive Officer",amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Founder, Chairman &amp; Chief Executive Officer",;,6,1,1,;,PUNCT,:,punct,;,0.0
+"Founder, Chairman &amp; Chief Executive Officer",Chief,6,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Founder, Chairman &amp; Chief Executive Officer",Executive,6,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Founder, Chairman &amp; Chief Executive Officer",Officer,6,1,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+Chairman &amp; CEO,Chairman,3,4,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman &amp; CEO,&,3,4,1,&,CCONJ,CC,cc,&,0.0
+Chairman &amp; CEO,amp,3,4,3,amp,PROPN,NNP,conj,xxx,0.0
+Chairman &amp; CEO,;,3,4,1,;,PUNCT,:,punct,;,0.0
+Chairman &amp; CEO,CEO,3,4,3,ceo,NOUN,NN,appos,XXX,0.0
+Founder &amp; CTO,Founder,3,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; CTO,&,3,2,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; CTO,amp,3,2,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; CTO,;,3,2,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; CTO,CTO,3,2,3,CTO,PROPN,NNP,appos,XXX,0.0
+Co-Founder and Managing Partner,Co,4,2,2,Co,PROPN,NNP,ROOT,Xx,0.0
+Co-Founder and Managing Partner,-,4,2,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder and Managing Partner,Founder,4,2,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and Managing Partner,and,4,2,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and Managing Partner,Managing,4,2,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder and Managing Partner,Partner,4,2,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+Head of Franchise Development,Head,4,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Franchise Development,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Head of Franchise Development,Franchise,4,1,9,Franchise,PROPN,NNP,compound,Xxxxx,0.0
+Head of Franchise Development,Development,4,1,11,Development,PROPN,NNP,pobj,Xxxxx,0.0
+Chief Global Equity Strategist,Chief,4,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Global Equity Strategist,Global,4,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Chief Global Equity Strategist,Equity,4,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+Chief Global Equity Strategist,Strategist,4,1,10,Strategist,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman,Chairman,1,2,8,chairman,NOUN,NN,ROOT,Xxxxx,0.0
+Head of Design,Head,3,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Design,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Head of Design,Design,3,1,6,Design,PROPN,NNP,pobj,Xxxxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",Senior,12,1,6,senior,ADJ,JJ,amod,Xxxxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",Vice,12,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",President,12,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",-,12,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",eRB,12,1,3,eRB,PROPN,NNP,appos,xXX,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",(,12,1,1,(,PUNCT,-LRB-,punct,(,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",eCommerce,12,1,9,eCommerce,PROPN,NNP,appos,xXxxxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",",",12,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",Digital,12,1,7,Digital,PROPN,NNP,conj,Xxxxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",&,12,1,1,&,CCONJ,CC,cc,&,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",amp,12,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",;,12,1,1,;,PUNCT,:,punct,;,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",Ventures,12,1,8,Ventures,PROPN,NNPS,appos,Xxxxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",),12,1,1,),PUNCT,-RRB-,punct,),0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",Greater,12,1,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Vice President - eRB (eCommerce, Digital &amp; Ventures) &amp; Greater China",China,12,1,5,China,PROPN,NNP,appos,Xxxxx,0.0
+COO,COO,1,1,3,COO,PROPN,NNP,ROOT,XXX,0.0
+CFO and Co-founder,CFO,3,1,3,CFO,PROPN,NNP,ROOT,XXX,0.0
+CFO and Co-founder,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+CFO and Co-founder,Co,3,1,2,co,NOUN,NN,conj,Xx,0.0
+CFO and Co-founder,-,3,1,1,-,NOUN,NN,conj,-,0.0
+CFO and Co-founder,founder,3,1,7,founder,NOUN,NN,conj,xxxx,0.0
+Head of Investment Strategy,Head,4,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Investment Strategy,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Head of Investment Strategy,Investment,4,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Head of Investment Strategy,Strategy,4,1,8,Strategy,PROPN,NNP,pobj,Xxxxx,0.0
+Founder &amp; President,Founder,3,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; President,&,3,2,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; President,amp,3,2,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; President,;,3,2,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; President,President,3,2,9,President,PROPN,NNP,appos,Xxxxx,0.0
+General PArtner,General,2,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General PArtner,PArtner,2,1,7,PArtner,PROPN,NNP,ROOT,XXxxxx,0.0
+Chief Creative Officer,Chief,3,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Creative Officer,Creative,3,1,8,Creative,PROPN,NNP,amod,Xxxxx,0.0
+Chief Creative Officer,Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and General Partner,Founder,4,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and General Partner,and,4,2,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and General Partner,General,4,2,7,General,PROPN,NNP,compound,Xxxxx,0.0
+Founder and General Partner,Partner,4,2,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+Managing Partner &amp; Co-Founder,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Managing Partner &amp; Co-Founder,Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing Partner &amp; Co-Founder,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Managing Partner &amp; Co-Founder,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Managing Partner &amp; Co-Founder,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Managing Partner &amp; Co-Founder,Co,4,1,2,Co,PROPN,NNP,appos,Xx,0.0
+Managing Partner &amp; Co-Founder,-,4,1,1,-,PROPN,NNP,conj,-,0.0
+Managing Partner &amp; Co-Founder,Founder,4,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+Chief Executive Officer and Co-Founder,Chief,5,1,5,Chief,PROPN,NNP,nmod,Xxxxx,0.0
+Chief Executive Officer and Co-Founder,Executive,5,1,9,Executive,PROPN,NNP,nmod,Xxxxx,0.0
+Chief Executive Officer and Co-Founder,Officer,5,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+Chief Executive Officer and Co-Founder,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chief Executive Officer and Co-Founder,Co,5,1,2,Co,PROPN,NNP,conj,Xx,0.0
+Chief Executive Officer and Co-Founder,-,5,1,1,-,PROPN,NNP,conj,-,0.0
+Chief Executive Officer and Co-Founder,Founder,5,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Managing Director and Partner,Managing,4,1,8,manage,VERB,VBG,ROOT,Xxxxx,0.0
+Managing Director and Partner,Director,4,1,8,Director,PROPN,NNP,dobj,Xxxxx,0.0
+Managing Director and Partner,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Managing Director and Partner,Partner,4,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+Chairman and Founding Partner,Chairman,4,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman and Founding Partner,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chairman and Founding Partner,Founding,4,1,8,Founding,PROPN,NNP,compound,Xxxxx,0.0
+Chairman and Founding Partner,Partner,4,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"CTO, Co-Founder",CTO,2,1,3,CTO,PROPN,NNP,ROOT,XXX,0.0
+"CTO, Co-Founder",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"CTO, Co-Founder",Co,2,1,2,Co,PROPN,NNP,appos,Xx,0.0
+"CTO, Co-Founder",-,2,1,1,-,PROPN,NNP,conj,-,0.0
+"CTO, Co-Founder",Founder,2,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Chairman &amp; Founder,Chairman,3,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman &amp; Founder,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Chairman &amp; Founder,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Chairman &amp; Founder,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Chairman &amp; Founder,Founder,3,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+Founder and Chief Financial Officer,Founder,5,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and Chief Financial Officer,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and Chief Financial Officer,Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Founder and Chief Financial Officer,Financial,5,1,9,Financial,PROPN,NNP,compound,Xxxxx,0.0
+Founder and Chief Financial Officer,Officer,5,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+Co-founder &amp; CTO,Co,3,2,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder &amp; CTO,-,3,2,1,-,NOUN,NN,punct,-,0.0
+Co-founder &amp; CTO,founder,3,2,7,founder,NOUN,NN,appos,xxxx,0.0
+Co-founder &amp; CTO,&,3,2,1,&,CCONJ,CC,cc,&,0.0
+Co-founder &amp; CTO,amp,3,2,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-founder &amp; CTO,;,3,2,1,;,PUNCT,:,punct,;,0.0
+Co-founder &amp; CTO,CTO,3,2,3,CTO,PROPN,NNP,appos,XXX,0.0
+President and CEO,President,3,3,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+President and CEO,and,3,3,3,and,CCONJ,CC,cc,xxx,0.0
+President and CEO,CEO,3,3,3,ceo,NOUN,NN,conj,XXX,0.0
+Partner and Chairman,Partner,3,1,7,partner,NOUN,NN,ROOT,Xxxxx,0.0
+Partner and Chairman,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Partner and Chairman,Chairman,3,1,8,Chairman,PROPN,NNP,conj,Xxxxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,Chairman,10,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,and,10,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,Head,10,1,4,Head,PROPN,NNP,conj,Xxxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,of,10,1,2,of,ADP,IN,prep,xx,0.0
+Chairman and Head of New York City Capital Markets CBRE,New,10,1,3,New,PROPN,NNP,compound,Xxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,York,10,1,4,York,PROPN,NNP,compound,Xxxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,City,10,1,4,City,PROPN,NNP,compound,Xxxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,Capital,10,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,Markets,10,1,7,Markets,PROPN,NNP,compound,Xxxxx,0.0
+Chairman and Head of New York City Capital Markets CBRE,CBRE,10,1,4,CBRE,PROPN,NNP,pobj,XXXX,0.0
+Director,Director,1,1,8,director,NOUN,NN,ROOT,Xxxxx,0.0
+Physics Faculty in NEET UG and IIT JEE,Physics,8,1,7,Physics,PROPN,NNP,compound,Xxxxx,0.0
+Physics Faculty in NEET UG and IIT JEE,Faculty,8,1,7,Faculty,PROPN,NNP,ROOT,Xxxxx,0.0
+Physics Faculty in NEET UG and IIT JEE,in,8,1,2,in,ADP,IN,prep,xx,0.0
+Physics Faculty in NEET UG and IIT JEE,NEET,8,1,4,NEET,PROPN,NNP,compound,XXXX,0.0
+Physics Faculty in NEET UG and IIT JEE,UG,8,1,2,UG,PROPN,NNP,pobj,XX,0.0
+Physics Faculty in NEET UG and IIT JEE,and,8,1,3,and,CCONJ,CC,cc,xxx,0.0
+Physics Faculty in NEET UG and IIT JEE,IIT,8,1,3,IIT,PROPN,NNP,compound,XXX,0.0
+Physics Faculty in NEET UG and IIT JEE,JEE,8,1,3,JEE,PROPN,NNP,conj,XXX,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",Founder,9,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",President,9,1,9,President,PROPN,NNP,conj,Xxxxx,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",Co,9,1,2,Co,PROPN,NNP,compound,Xx,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",-,9,1,1,-,PROPN,NNP,amod,-,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",Chief,9,1,5,chief,ADJ,JJ,amod,Xxxxx,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",Executive,9,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",Officer,9,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",and,9,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",-,9,1,1,-,PROPN,NNP,compound,-,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",Chief,9,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Founder, President, Co-Chief Executive Officer, and Co-Chief Investment Officer",Investment,9,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Founder, CEO, and CIO",Founder,4,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, CEO, and CIO",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, CEO, and CIO",CEO,4,1,3,ceo,NOUN,NN,conj,XXX,0.0
+"Founder, CEO, and CIO",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, CEO, and CIO",CIO,4,1,3,CIO,PROPN,NNP,conj,XXX,0.0
+"Group Executive Vice President, Chief Architecture Officer",Group,7,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+"Group Executive Vice President, Chief Architecture Officer",Executive,7,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Group Executive Vice President, Chief Architecture Officer",Vice,7,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+"Group Executive Vice President, Chief Architecture Officer",President,7,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"Group Executive Vice President, Chief Architecture Officer",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Group Executive Vice President, Chief Architecture Officer",Chief,7,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Group Executive Vice President, Chief Architecture Officer",Architecture,7,1,12,Architecture,PROPN,NNP,compound,Xxxxx,0.0
+"Group Executive Vice President, Chief Architecture Officer",Officer,7,1,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+"Chief sumo, CEO &amp; Co-Founder",Chief,5,1,5,chief,ADJ,JJ,amod,Xxxxx,0.0
+"Chief sumo, CEO &amp; Co-Founder",sumo,5,1,4,sumo,ADJ,JJ,ROOT,xxxx,0.0
+"Chief sumo, CEO &amp; Co-Founder",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Chief sumo, CEO &amp; Co-Founder",CEO,5,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Chief sumo, CEO &amp; Co-Founder",&,5,1,1,&,CCONJ,CC,cc,&,0.0
+"Chief sumo, CEO &amp; Co-Founder",amp,5,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Chief sumo, CEO &amp; Co-Founder",;,5,1,1,;,PUNCT,:,punct,;,0.0
+"Chief sumo, CEO &amp; Co-Founder",Co,5,1,2,Co,PROPN,NNP,conj,Xx,0.0
+"Chief sumo, CEO &amp; Co-Founder",-,5,1,1,-,PROPN,NNP,conj,-,0.0
+"Chief sumo, CEO &amp; Co-Founder",Founder,5,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+Executive Director,Executive,2,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Executive Director,Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-CEO &amp; Trader,Co,3,1,2,co,ADJ,JJ,ROOT,Xx,0.0
+Co-CEO &amp; Trader,-,3,1,1,-,PROPN,NNP,ROOT,-,0.0
+Co-CEO &amp; Trader,CEO,3,1,3,CEO,PROPN,NNP,appos,XXX,0.0
+Co-CEO &amp; Trader,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Co-CEO &amp; Trader,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-CEO &amp; Trader,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Co-CEO &amp; Trader,Trader,3,1,6,trader,NOUN,NN,appos,Xxxxx,0.0
+Cofounder and Board Member,Cofounder,4,1,9,Cofounder,PROPN,NNP,nmod,Xxxxx,0.0
+Cofounder and Board Member,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Cofounder and Board Member,Board,4,1,5,Board,PROPN,NNP,conj,Xxxxx,0.0
+Cofounder and Board Member,Member,4,1,6,Member,PROPN,NNP,ROOT,Xxxxx,0.0
+"Co-Founder, Chairman &amp; CEO",Co,4,1,2,Co,PROPN,NNP,compound,Xx,0.0
+"Co-Founder, Chairman &amp; CEO",-,4,1,1,-,PROPN,NNP,compound,-,0.0
+"Co-Founder, Chairman &amp; CEO",Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+"Co-Founder, Chairman &amp; CEO",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Chairman &amp; CEO",Chairman,4,1,8,Chairman,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Chairman &amp; CEO",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"Co-Founder, Chairman &amp; CEO",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Co-Founder, Chairman &amp; CEO",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"Co-Founder, Chairman &amp; CEO",CEO,4,1,3,ceo,NOUN,NN,conj,XXX,0.0
+"Executive Chairman, CEO, Founder",Executive,4,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Executive Chairman, CEO, Founder",Chairman,4,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+"Executive Chairman, CEO, Founder",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Executive Chairman, CEO, Founder",CEO,4,1,3,CEO,PROPN,NNP,appos,XXX,0.0
+"Executive Chairman, CEO, Founder",Founder,4,1,7,Founder,PROPN,NNP,npadvmod,Xxxxx,0.0
+Founding Advisor,Founding,2,1,8,found,VERB,VBG,ROOT,Xxxxx,0.0
+Founding Advisor,Advisor,2,1,7,Advisor,PROPN,NNP,dobj,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer",Co,4,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+"Co-Founder, Chief Executive Officer",-,4,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, Chief Executive Officer",Founder,4,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Chief Executive Officer",Chief,4,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer",Executive,4,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer",Officer,4,1,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+Business Development Specialist,Business,3,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+Business Development Specialist,Development,3,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Business Development Specialist,Specialist,3,1,10,Specialist,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder and Director,Co,3,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder and Director,-,3,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder and Director,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder and Director,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and Director,Director,3,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+Co Founder &amp; CEO,Co,4,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co Founder &amp; CEO,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co Founder &amp; CEO,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Co Founder &amp; CEO,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co Founder &amp; CEO,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Co Founder &amp; CEO,CEO,4,1,3,ceo,NOUN,NN,appos,XXX,0.0
+Chief Risk Officer,Chief,3,1,5,chief,ADJ,JJ,compound,Xxxxx,0.0
+Chief Risk Officer,Risk,3,1,4,Risk,PROPN,NNP,compound,Xxxx,0.0
+Chief Risk Officer,Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+Advisor &amp; Angel Investor,Advisor,4,1,7,Advisor,PROPN,NNP,ROOT,Xxxxx,0.0
+Advisor &amp; Angel Investor,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Advisor &amp; Angel Investor,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Advisor &amp; Angel Investor,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Advisor &amp; Angel Investor,Angel,4,1,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Advisor &amp; Angel Investor,Investor,4,1,8,Investor,PROPN,NNP,appos,Xxxxx,0.0
+Co - founder &amp; CEO,Co,5,1,2,co,NOUN,NN,compound,Xx,0.0
+Co - founder &amp; CEO,-,5,1,1,-,PUNCT,HYPH,punct,-,0.0
+Co - founder &amp; CEO,founder,5,1,7,founder,NOUN,NN,ROOT,xxxx,0.0
+Co - founder &amp; CEO,&,5,1,1,&,CCONJ,CC,cc,&,0.0
+Co - founder &amp; CEO,amp,5,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co - founder &amp; CEO,;,5,1,1,;,PUNCT,:,punct,;,0.0
+Co - founder &amp; CEO,CEO,5,1,3,ceo,NOUN,NN,appos,XXX,0.0
+External Search Strategy Consultant,External,4,1,8,External,PROPN,NNP,compound,Xxxxx,0.0
+External Search Strategy Consultant,Search,4,1,6,Search,PROPN,NNP,compound,Xxxxx,0.0
+External Search Strategy Consultant,Strategy,4,1,8,Strategy,PROPN,NNP,compound,Xxxxx,0.0
+External Search Strategy Consultant,Consultant,4,1,10,consultant,NOUN,NN,ROOT,Xxxxx,0.0
+Managing Director and Chief Executive Officer,Managing,6,1,8,manage,VERB,VBG,compound,Xxxxx,0.0
+Managing Director and Chief Executive Officer,Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing Director and Chief Executive Officer,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Managing Director and Chief Executive Officer,Chief,6,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Managing Director and Chief Executive Officer,Executive,6,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Managing Director and Chief Executive Officer,Officer,6,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+Product and Business Helper,Product,4,1,7,product,NOUN,NN,nmod,Xxxxx,0.0
+Product and Business Helper,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Product and Business Helper,Business,4,1,8,Business,PROPN,NNP,conj,Xxxxx,0.0
+Product and Business Helper,Helper,4,1,6,helper,NOUN,NN,ROOT,Xxxxx,0.0
+Co-Founder &amp; President,Co,3,2,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; President,-,3,2,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; President,Founder,3,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; President,&,3,2,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; President,amp,3,2,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; President,;,3,2,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; President,President,3,2,9,President,PROPN,NNP,appos,Xxxxx,0.0
+Founding Managing General Partner,Founding,4,1,8,found,VERB,VBG,ROOT,Xxxxx,0.0
+Founding Managing General Partner,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Founding Managing General Partner,General,4,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+Founding Managing General Partner,Partner,4,1,7,Partner,PROPN,NNP,dobj,Xxxxx,0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",Vice,7,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",President,7,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",Amazon,7,1,6,Amazon,PROPN,NNP,appos,Xxxxx,0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",;,7,1,1,;,PUNCT,:,punct,;,0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",Head,7,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",of,7,1,2,of,ADP,IN,prep,xx,0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",Worldwide,7,1,9,Worldwide,PROPN,NNP,compound,Xxxxx,0.0
+"Vice President, Amazon; Head of Worldwide Sustainability",Sustainability,7,1,14,Sustainability,PROPN,NNP,pobj,Xxxxx,0.0
+Co-Founder &amp; Co-CEO,Co,3,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Co-CEO,-,3,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Co-CEO,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Co-CEO,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Co-CEO,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-Founder &amp; Co-CEO,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Co-CEO,Co,3,1,2,Co,PROPN,NNP,appos,Xx,0.0
+Co-Founder &amp; Co-CEO,-,3,1,1,-,PROPN,NNP,conj,-,0.0
+Co-Founder &amp; Co-CEO,CEO,3,1,3,ceo,NOUN,NN,appos,XXX,0.0
+"Senior Director of Product, Esports",Senior,5,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director of Product, Esports",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director of Product, Esports",of,5,1,2,of,ADP,IN,prep,xx,0.0
+"Senior Director of Product, Esports",Product,5,1,7,Product,PROPN,NNP,pobj,Xxxxx,0.0
+"Senior Director of Product, Esports",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Director of Product, Esports",Esports,5,1,7,Esports,PROPN,NNPS,appos,Xxxxx,0.0
+Chief Strategy Officer and Senior Executive Vice President,Chief,8,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Strategy Officer and Senior Executive Vice President,Strategy,8,1,8,Strategy,PROPN,NNP,compound,Xxxxx,0.0
+Chief Strategy Officer and Senior Executive Vice President,Officer,8,1,7,Officer,PROPN,NNP,nmod,Xxxxx,0.0
+Chief Strategy Officer and Senior Executive Vice President,and,8,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chief Strategy Officer and Senior Executive Vice President,Senior,8,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Chief Strategy Officer and Senior Executive Vice President,Executive,8,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Chief Strategy Officer and Senior Executive Vice President,Vice,8,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+Chief Strategy Officer and Senior Executive Vice President,President,8,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-founder and CMO,Co,3,1,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder and CMO,-,3,1,1,-,NOUN,NN,prep,-,0.0
+Co-founder and CMO,founder,3,1,7,founder,NOUN,NN,appos,xxxx,0.0
+Co-founder and CMO,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-founder and CMO,CMO,3,1,3,cmo,NOUN,NN,conj,XXX,0.0
+Founding General Partner,Founding,3,1,8,found,VERB,VBG,compound,Xxxxx,0.0
+Founding General Partner,General,3,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+Founding General Partner,Partner,3,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+Co Founder,Co,2,2,2,Co,PROPN,NNP,compound,Xx,0.0
+Co Founder,Founder,2,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Lead Singer - 30 Seconds to Mars,Lead,7,1,4,Lead,PROPN,NNP,compound,Xxxx,0.0
+Lead Singer - 30 Seconds to Mars,Singer,7,1,6,Singer,PROPN,NNP,ROOT,Xxxxx,0.0
+Lead Singer - 30 Seconds to Mars,-,7,1,1,-,PUNCT,:,punct,-,0.0
+Lead Singer - 30 Seconds to Mars,30,7,1,2,30,NUM,CD,nummod,dd,0.0
+Lead Singer - 30 Seconds to Mars,Seconds,7,1,7,Seconds,PROPN,NNPS,appos,Xxxxx,0.0
+Lead Singer - 30 Seconds to Mars,to,7,1,2,to,ADP,IN,prep,xx,0.0
+Lead Singer - 30 Seconds to Mars,Mars,7,1,4,Mars,PROPN,NNP,pobj,Xxxx,0.0
+Angel Investor,Angel,2,1,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Angel Investor,Investor,2,1,8,Investor,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder and Chief Design Officer,Co,5,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+Co-Founder and Chief Design Officer,-,5,1,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder and Chief Design Officer,Founder,5,1,7,Founder,PROPN,NNP,nmod,Xxxxx,0.0
+Co-Founder and Chief Design Officer,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and Chief Design Officer,Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder and Chief Design Officer,Design,5,1,6,Design,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder and Chief Design Officer,Officer,5,1,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+Professional NBA Basketball Player,Professional,4,1,12,professional,ADJ,JJ,compound,Xxxxx,0.0
+Professional NBA Basketball Player,NBA,4,1,3,NBA,PROPN,NNP,compound,XXX,0.0
+Professional NBA Basketball Player,Basketball,4,1,10,Basketball,PROPN,NNP,compound,Xxxxx,0.0
+Professional NBA Basketball Player,Player,4,1,6,Player,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Co-CEO,Founder,3,2,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Co-CEO,&,3,2,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Co-CEO,amp,3,2,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; Co-CEO,;,3,2,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Co-CEO,Co,3,2,2,Co,PROPN,NNP,appos,Xx,0.0
+Founder &amp; Co-CEO,-,3,2,1,-,PROPN,NNP,conj,-,0.0
+Founder &amp; Co-CEO,CEO,3,2,3,ceo,NOUN,NN,appos,XXX,0.0
+Co-Founder and General Partner,Co,4,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+Co-Founder and General Partner,-,4,1,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder and General Partner,Founder,4,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and General Partner,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and General Partner,General,4,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder and General Partner,Partner,4,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Basketball Player, Forward",Basketball,3,1,10,Basketball,PROPN,NNP,compound,Xxxxx,0.0
+"Basketball Player, Forward",Player,3,1,6,Player,PROPN,NNP,ROOT,Xxxxx,0.0
+"Basketball Player, Forward",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Basketball Player, Forward",Forward,3,1,7,Forward,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Founder ,CEO &amp; CIO",Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+"Founder ,CEO &amp; CIO",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Founder ,CEO &amp; CIO",CEO,4,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Founder ,CEO &amp; CIO",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"Founder ,CEO &amp; CIO",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Founder ,CEO &amp; CIO",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"Founder ,CEO &amp; CIO",CIO,4,1,3,CIO,PROPN,NNP,appos,XXX,0.0
+Deputy President and Vice Chairman,Deputy,5,1,6,Deputy,PROPN,NNP,compound,Xxxxx,0.0
+Deputy President and Vice Chairman,President,5,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+Deputy President and Vice Chairman,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Deputy President and Vice Chairman,Vice,5,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+Deputy President and Vice Chairman,Chairman,5,1,8,Chairman,PROPN,NNP,conj,Xxxxx,0.0
+"Trusted Advisor, Founder",Trusted,3,1,7,trust,VERB,VBN,amod,Xxxxx,0.0
+"Trusted Advisor, Founder",Advisor,3,1,7,Advisor,PROPN,NNP,ROOT,Xxxxx,0.0
+"Trusted Advisor, Founder",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Trusted Advisor, Founder",Founder,3,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Investor,Investor,1,1,8,investor,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, Principal",Founder,2,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, Principal",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, Principal",Principal,2,1,9,principal,NOUN,NN,appos,Xxxxx,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",Co,6,1,2,Co,PROPN,NNP,compound,Xx,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",-,6,1,1,-,PROPN,NNP,compound,-,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",Founder,6,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",Chief,6,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",Strategy,6,1,8,Strategy,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",Officer,6,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",&,6,1,1,&,CCONJ,CC,cc,&,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",;,6,1,1,;,PUNCT,:,punct,;,0.0
+"Co-Founder, Chief Strategy Officer &amp; Host",Host,6,1,4,host,NOUN,NN,conj,Xxxx,0.0
+Founding Chairman &amp; CEO,Founding,4,1,8,found,VERB,VBG,ROOT,Xxxxx,0.0
+Founding Chairman &amp; CEO,Chairman,4,1,8,Chairman,PROPN,NNP,dobj,Xxxxx,0.0
+Founding Chairman &amp; CEO,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Founding Chairman &amp; CEO,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founding Chairman &amp; CEO,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Founding Chairman &amp; CEO,CEO,4,1,3,ceo,NOUN,NN,npadvmod,XXX,0.0
+"Founder, CEO and W.I.P.",Founder,4,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, CEO and W.I.P.",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, CEO and W.I.P.",CEO,4,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Founder, CEO and W.I.P.",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, CEO and W.I.P.",W.I.P.,4,1,6,W.I.P.,PROPN,NNP,conj,X.X.X.,0.0
+MD &amp; CEO,MD,3,2,2,MD,PROPN,NNP,ROOT,XX,0.0
+MD &amp; CEO,&,3,2,1,&,CCONJ,CC,cc,&,0.0
+MD &amp; CEO,amp,3,2,3,amp,PROPN,NNP,conj,xxx,0.0
+MD &amp; CEO,;,3,2,1,;,PUNCT,:,punct,;,0.0
+MD &amp; CEO,CEO,3,2,3,ceo,NOUN,NN,appos,XXX,0.0
+Founder and Chief Executive Officer,Founder,5,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and Chief Executive Officer,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and Chief Executive Officer,Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Founder and Chief Executive Officer,Executive,5,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Founder and Chief Executive Officer,Officer,5,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+Group Partner,Group,2,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+Group Partner,Partner,2,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+General Partner and Founder,General,4,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General Partner and Founder,Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+General Partner and Founder,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+General Partner and Founder,Founder,4,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+Chairman and Chief Executive Officer,Chairman,5,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman and Chief Executive Officer,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chairman and Chief Executive Officer,Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chairman and Chief Executive Officer,Executive,5,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Chairman and Chief Executive Officer,Officer,5,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+VP Product,VP,2,1,2,VP,PROPN,NNP,compound,XX,0.0
+VP Product,Product,2,1,7,Product,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; COO,Co,3,3,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; COO,-,3,3,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; COO,Founder,3,3,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; COO,&,3,3,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; COO,amp,3,3,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; COO,;,3,3,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; COO,COO,3,3,3,COO,PROPN,NNP,appos,XXX,0.0
+President &amp; Co-Founder,President,3,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+President &amp; Co-Founder,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+President &amp; Co-Founder,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+President &amp; Co-Founder,;,3,1,1,;,PUNCT,:,punct,;,0.0
+President &amp; Co-Founder,Co,3,1,2,Co,PROPN,NNP,appos,Xx,0.0
+President &amp; Co-Founder,-,3,1,1,-,PROPN,NNP,conj,-,0.0
+President &amp; Co-Founder,Founder,3,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+"CEO, Founder &amp; Chairman",CEO,4,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, Founder &amp; Chairman",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"CEO, Founder &amp; Chairman",Founder,4,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"CEO, Founder &amp; Chairman",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"CEO, Founder &amp; Chairman",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"CEO, Founder &amp; Chairman",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"CEO, Founder &amp; Chairman",Chairman,4,1,8,chairman,NOUN,NN,appos,Xxxxx,0.0
+Head of Portfolio Development,Head,4,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Portfolio Development,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Head of Portfolio Development,Portfolio,4,1,9,Portfolio,PROPN,NNP,compound,Xxxxx,0.0
+Head of Portfolio Development,Development,4,1,11,Development,PROPN,NNP,pobj,Xxxxx,0.0
+Managing Director &amp; Co-Founder,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Managing Director &amp; Co-Founder,Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing Director &amp; Co-Founder,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Managing Director &amp; Co-Founder,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Managing Director &amp; Co-Founder,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Managing Director &amp; Co-Founder,Co,4,1,2,Co,PROPN,NNP,appos,Xx,0.0
+Managing Director &amp; Co-Founder,-,4,1,1,-,PROPN,NNP,conj,-,0.0
+Managing Director &amp; Co-Founder,Founder,4,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+Co-Founder &amp; MD,Co,3,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; MD,-,3,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; MD,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; MD,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; MD,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-Founder &amp; MD,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; MD,MD,3,1,2,MD,PROPN,NNP,appos,XX,0.0
+"Founder, Chairman, and CEO",Founder,4,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, Chairman, and CEO",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, Chairman, and CEO",Chairman,4,1,8,Chairman,PROPN,NNP,conj,Xxxxx,0.0
+"Founder, Chairman, and CEO",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, Chairman, and CEO",CEO,4,1,3,ceo,NOUN,NN,conj,XXX,0.0
+Chief Financial Officer,Chief,3,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Financial Officer,Financial,3,1,9,Financial,PROPN,NNP,compound,Xxxxx,0.0
+Chief Financial Officer,Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, CEO, and Founder",President,4,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, CEO, and Founder",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"President, CEO, and Founder",CEO,4,1,3,ceo,NOUN,NN,appos,XXX,0.0
+"President, CEO, and Founder",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"President, CEO, and Founder",Founder,4,1,7,founder,NOUN,NN,conj,Xxxxx,0.0
+"Co-founder, CEO",Co,2,1,2,co,NOUN,NN,ROOT,Xx,0.0
+"Co-founder, CEO",-,2,1,1,-,NOUN,NN,nmod,-,0.0
+"Co-founder, CEO",founder,2,1,7,founder,NOUN,NN,npadvmod,xxxx,0.0
+"Co-founder, CEO",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Co-founder, CEO",CEO,2,1,3,ceo,NOUN,NN,appos,XXX,0.0
+Founder + President,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder + President,+,3,1,1,+,CCONJ,CC,cc,+,0.0
+Founder + President,President,3,1,9,President,PROPN,NNP,conj,Xxxxx,0.0
+Co-founder &amp; Executive Chairman,Co,4,1,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder &amp; Executive Chairman,-,4,1,1,-,NOUN,NN,prep,-,0.0
+Co-founder &amp; Executive Chairman,founder,4,1,7,founder,NOUN,NN,appos,xxxx,0.0
+Co-founder &amp; Executive Chairman,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Co-founder &amp; Executive Chairman,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-founder &amp; Executive Chairman,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Co-founder &amp; Executive Chairman,Executive,4,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Co-founder &amp; Executive Chairman,Chairman,4,1,8,Chairman,PROPN,NNP,appos,Xxxxx,0.0
+Co-founder and CTO,Co,3,1,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder and CTO,-,3,1,1,-,NOUN,NN,punct,-,0.0
+Co-founder and CTO,founder,3,1,7,founder,NOUN,NN,appos,xxxx,0.0
+Co-founder and CTO,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-founder and CTO,CTO,3,1,3,CTO,PROPN,NNP,conj,XXX,0.0
+Board Member,Board,2,1,5,Board,PROPN,NNP,compound,Xxxxx,0.0
+Board Member,Member,2,1,6,Member,PROPN,NNP,ROOT,Xxxxx,0.0
+"Co-Founder, Partner &amp; Advisor",Co,4,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+"Co-Founder, Partner &amp; Advisor",-,4,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, Partner &amp; Advisor",Founder,4,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+"Co-Founder, Partner &amp; Advisor",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Partner &amp; Advisor",Partner,4,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Partner &amp; Advisor",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"Co-Founder, Partner &amp; Advisor",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Co-Founder, Partner &amp; Advisor",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"Co-Founder, Partner &amp; Advisor",Advisor,4,1,7,Advisor,PROPN,NNP,npadvmod,Xxxxx,0.0
+Founder &amp; CEO / Managing Director,Founder,6,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; CEO / Managing Director,&,6,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; CEO / Managing Director,amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; CEO / Managing Director,;,6,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; CEO / Managing Director,CEO,6,1,3,CEO,PROPN,NNP,nmod,XXX,0.0
+Founder &amp; CEO / Managing Director,/,6,1,1,/,SYM,SYM,punct,/,0.0
+Founder &amp; CEO / Managing Director,Managing,6,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; CEO / Managing Director,Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+Chairman of Board of Directors,Chairman,5,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman of Board of Directors,of,5,1,2,of,ADP,IN,prep,xx,0.0
+Chairman of Board of Directors,Board,5,1,5,Board,PROPN,NNP,pobj,Xxxxx,0.0
+Chairman of Board of Directors,Directors,5,1,9,Directors,PROPN,NNPS,pobj,Xxxxx,0.0
+President,President,1,3,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and Partner,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and Partner,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and Partner,Partner,3,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Founder, Chairman",Founder,2,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, Chairman",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, Chairman",Chairman,2,1,8,Chairman,PROPN,NNP,appos,Xxxxx,0.0
+CEO/Founder/Owner,CEO,1,1,3,CEO,PROPN,NNP,nmod,XXX,0.0
+CEO/Founder/Owner,/,1,1,1,/,SYM,SYM,punct,/,0.0
+CEO/Founder/Owner,Founder,1,1,7,Founder,PROPN,NNP,nmod,Xxxxx,0.0
+CEO/Founder/Owner,Owner,1,1,5,Owner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Founder, CEO &amp; Owner",Founder,4,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, CEO &amp; Owner",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, CEO &amp; Owner",CEO,4,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Founder, CEO &amp; Owner",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"Founder, CEO &amp; Owner",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Founder, CEO &amp; Owner",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"Founder, CEO &amp; Owner",Owner,4,1,5,Owner,PROPN,NNP,appos,Xxxxx,0.0
+Co-founder / CEO,Co,3,1,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder / CEO,-,3,1,1,-,NOUN,NN,npadvmod,-,0.0
+Co-founder / CEO,founder,3,1,7,founder,NOUN,NN,nmod,xxxx,0.0
+Co-founder / CEO,/,3,1,1,/,PUNCT,",",punct,/,0.0
+Co-founder / CEO,CEO,3,1,3,ceo,NOUN,NN,appos,XXX,0.0
+Head of Life Sciences,Head,4,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Life Sciences,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Head of Life Sciences,Life,4,1,4,Life,PROPN,NNP,pobj,Xxxx,0.0
+Head of Life Sciences,Sciences,4,1,8,Sciences,PROPN,NNPS,appos,Xxxxx,0.0
+Founder &amp; Group CEO,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Group CEO,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Group CEO,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; Group CEO,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Group CEO,Group,4,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Group CEO,CEO,4,1,3,CEO,PROPN,NNP,appos,XXX,0.0
+"Chairman, CEO &amp; Founder",Chairman,4,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chairman, CEO &amp; Founder",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Chairman, CEO &amp; Founder",CEO,4,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Chairman, CEO &amp; Founder",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"Chairman, CEO &amp; Founder",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Chairman, CEO &amp; Founder",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"Chairman, CEO &amp; Founder",Founder,4,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+"CEO &amp; President, Co-Founder",CEO,4,1,3,CEO,PROPN,NNP,ROOT,XXX,0.0
+"CEO &amp; President, Co-Founder",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"CEO &amp; President, Co-Founder",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"CEO &amp; President, Co-Founder",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"CEO &amp; President, Co-Founder",President,4,1,9,President,PROPN,NNP,conj,Xxxxx,0.0
+"CEO &amp; President, Co-Founder",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"CEO &amp; President, Co-Founder",Co,4,1,2,Co,PROPN,NNP,appos,Xx,0.0
+"CEO &amp; President, Co-Founder",-,4,1,1,-,PROPN,NNP,conj,-,0.0
+"CEO &amp; President, Co-Founder",Founder,4,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Chief Corp Development Officer,Chief,4,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Corp Development Officer,Corp,4,1,4,Corp,PROPN,NNP,compound,Xxxx,0.0
+Chief Corp Development Officer,Development,4,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Chief Corp Development Officer,Officer,4,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+Owner/Photographer,Owner,1,1,5,Owner,PROPN,NNP,nmod,Xxxxx,0.0
+Owner/Photographer,/,1,1,1,/,SYM,SYM,punct,/,0.0
+Owner/Photographer,Photographer,1,1,12,Photographer,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing General Partner and Founder,Managing,5,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Managing General Partner and Founder,General,5,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+Managing General Partner and Founder,Partner,5,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing General Partner and Founder,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Managing General Partner and Founder,Founder,5,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+Investor and Board Member,Investor,4,1,8,investor,NOUN,NN,nmod,Xxxxx,0.0
+Investor and Board Member,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Investor and Board Member,Board,4,1,5,Board,PROPN,NNP,conj,Xxxxx,0.0
+Investor and Board Member,Member,4,1,6,Member,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman and Managing Director,Chairman,4,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman and Managing Director,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chairman and Managing Director,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Chairman and Managing Director,Director,4,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Founder, President",Founder,2,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, President",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, President",President,2,1,9,President,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder &amp; Vice Chairman,Co,4,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Vice Chairman,-,4,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Vice Chairman,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Vice Chairman,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Vice Chairman,amp,4,1,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Vice Chairman,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Vice Chairman,Vice,4,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+Co-Founder &amp; Vice Chairman,Chairman,4,1,8,Chairman,PROPN,NNP,appos,Xxxxx,0.0
+Founder &amp; Executive Chairman,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Executive Chairman,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Executive Chairman,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; Executive Chairman,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Executive Chairman,Executive,4,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Executive Chairman,Chairman,4,1,8,Chairman,PROPN,NNP,appos,Xxxxx,0.0
+Managing Partner &amp; Chairman,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Managing Partner &amp; Chairman,Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing Partner &amp; Chairman,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Managing Partner &amp; Chairman,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Managing Partner &amp; Chairman,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Managing Partner &amp; Chairman,Chairman,4,1,8,chairman,NOUN,NN,appos,Xxxxx,0.0
+"Co-Founder, CEO",Co,2,1,2,Co,PROPN,NNP,compound,Xx,0.0
+"Co-Founder, CEO",-,2,1,1,-,PROPN,NNP,compound,-,0.0
+"Co-Founder, CEO",Founder,2,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+"Co-Founder, CEO",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, CEO",CEO,2,1,3,ceo,NOUN,NN,appos,XXX,0.0
+"Co-founding, director, co-owner, CEO",Co,4,1,2,co,NOUN,NN,amod,Xx,0.0
+"Co-founding, director, co-owner, CEO",-,4,1,1,-,NOUN,NN,amod,-,0.0
+"Co-founding, director, co-owner, CEO",founding,4,1,8,founding,ADJ,JJ,amod,xxxx,0.0
+"Co-founding, director, co-owner, CEO",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Co-founding, director, co-owner, CEO",director,4,1,8,director,NOUN,NN,ROOT,xxxx,0.0
+"Co-founding, director, co-owner, CEO",co,4,1,2,co,NOUN,NN,appos,xx,0.0
+"Co-founding, director, co-owner, CEO",-,4,1,1,-,NOUN,NN,appos,-,0.0
+"Co-founding, director, co-owner, CEO",owner,4,1,5,owner,NOUN,NN,conj,xxxx,0.0
+"Co-founding, director, co-owner, CEO",CEO,4,1,3,ceo,NOUN,NN,appos,XXX,0.0
+Chief executive officer and executive director,Chief,6,1,5,chief,ADJ,JJ,amod,Xxxxx,0.0
+Chief executive officer and executive director,executive,6,1,9,executive,ADJ,JJ,amod,xxxx,0.0
+Chief executive officer and executive director,officer,6,1,7,officer,NOUN,NN,ROOT,xxxx,0.0
+Chief executive officer and executive director,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chief executive officer and executive director,director,6,1,8,director,NOUN,NN,conj,xxxx,0.0
+"President, CEO and Board of Director",President,6,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, CEO and Board of Director",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"President, CEO and Board of Director",CEO,6,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"President, CEO and Board of Director",and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+"President, CEO and Board of Director",Board,6,1,5,Board,PROPN,NNP,conj,Xxxxx,0.0
+"President, CEO and Board of Director",of,6,1,2,of,ADP,IN,prep,xx,0.0
+"President, CEO and Board of Director",Director,6,1,8,Director,PROPN,NNP,pobj,Xxxxx,0.0
+"CTO, Founder",CTO,2,1,3,CTO,PROPN,NNP,ROOT,XXX,0.0
+"CTO, Founder",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"CTO, Founder",Founder,2,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+CTO,CTO,1,3,3,CTO,PROPN,NNP,ROOT,XXX,0.0
+co-CEO,co,1,1,2,co,NOUN,NN,ROOT,xx,0.0
+co-CEO,-,1,1,1,-,NOUN,NN,ROOT,-,0.0
+co-CEO,CEO,1,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+Partner and Co-founder,Partner,3,1,7,partner,NOUN,NN,ROOT,Xxxxx,0.0
+Partner and Co-founder,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Partner and Co-founder,Co,3,1,2,co,NOUN,NN,conj,Xx,0.0
+Partner and Co-founder,-,3,1,1,-,NOUN,NN,conj,-,0.0
+Partner and Co-founder,founder,3,1,7,founder,NOUN,NN,conj,xxxx,0.0
+"Co-Founder, Managing Partner",Co,3,1,2,co,NOUN,NN,ROOT,Xx,0.0
+"Co-Founder, Managing Partner",-,3,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, Managing Partner",Founder,3,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Managing Partner",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Managing Partner",Managing,3,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Managing Partner",Partner,3,1,7,Partner,PROPN,NNP,appos,Xxxxx,0.0
+Chairman and CEO,Chairman,3,3,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman and CEO,and,3,3,3,and,CCONJ,CC,cc,xxx,0.0
+Chairman and CEO,CEO,3,3,3,ceo,NOUN,NN,conj,XXX,0.0
+CEO and Owner at Nuts.com,CEO,5,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+CEO and Owner at Nuts.com,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+CEO and Owner at Nuts.com,Owner,5,1,5,Owner,PROPN,NNP,conj,Xxxxx,0.0
+CEO and Owner at Nuts.com,at,5,1,2,at,ADP,IN,prep,xx,0.0
+CEO and Owner at Nuts.com,Nuts.com,5,1,8,Nuts.com,PROPN,NNP,pobj,Xxxx.xxx,0.0
+Founder &amp; Co-Managing Partner,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Co-Managing Partner,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Co-Managing Partner,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; Co-Managing Partner,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Co-Managing Partner,Co,4,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Founder &amp; Co-Managing Partner,-,4,1,1,-,PROPN,NNP,compound,-,0.0
+Founder &amp; Co-Managing Partner,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Co-Managing Partner,Partner,4,1,7,Partner,PROPN,NNP,appos,Xxxxx,0.0
+Managing Director &amp; CEO,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Managing Director &amp; CEO,Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing Director &amp; CEO,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Managing Director &amp; CEO,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Managing Director &amp; CEO,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Managing Director &amp; CEO,CEO,4,1,3,ceo,NOUN,NN,appos,XXX,0.0
+"Founder, CEO and Chairman",Founder,4,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, CEO and Chairman",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, CEO and Chairman",CEO,4,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Founder, CEO and Chairman",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, CEO and Chairman",Chairman,4,1,8,chairman,NOUN,NN,conj,Xxxxx,0.0
+"Vice President &amp; Managing Director, Facebook India",Vice,7,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+"Vice President &amp; Managing Director, Facebook India",President,7,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"Vice President &amp; Managing Director, Facebook India",&,7,1,1,&,CCONJ,CC,cc,&,0.0
+"Vice President &amp; Managing Director, Facebook India",amp,7,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Vice President &amp; Managing Director, Facebook India",;,7,1,1,;,PUNCT,:,punct,;,0.0
+"Vice President &amp; Managing Director, Facebook India",Managing,7,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Vice President &amp; Managing Director, Facebook India",Director,7,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Vice President &amp; Managing Director, Facebook India",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Vice President &amp; Managing Director, Facebook India",Facebook,7,1,8,Facebook,PROPN,NNP,compound,Xxxxx,0.0
+"Vice President &amp; Managing Director, Facebook India",India,7,1,5,India,PROPN,NNP,appos,Xxxxx,0.0
+VP of Engineering,VP,3,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+VP of Engineering,of,3,1,2,of,ADP,IN,prep,xx,0.0
+VP of Engineering,Engineering,3,1,11,Engineering,PROPN,NNP,pobj,Xxxxx,0.0
+CEO/Founder,CEO,1,1,3,CEO,PROPN,NNP,nmod,XXX,0.0
+CEO/Founder,/,1,1,1,/,SYM,SYM,punct,/,0.0
+CEO/Founder,Founder,1,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+"Co-Founder, Product Architect and CEO",Co,5,1,2,co,NOUN,NN,ROOT,Xx,0.0
+"Co-Founder, Product Architect and CEO",-,5,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, Product Architect and CEO",Founder,5,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Product Architect and CEO",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Product Architect and CEO",Product,5,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Product Architect and CEO",Architect,5,1,9,Architect,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Product Architect and CEO",and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Co-Founder, Product Architect and CEO",CEO,5,1,3,ceo,NOUN,NN,conj,XXX,0.0
+Founder &amp; executive chairman,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; executive chairman,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; executive chairman,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; executive chairman,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; executive chairman,executive,4,1,9,executive,ADJ,JJ,amod,xxxx,0.0
+Founder &amp; executive chairman,chairman,4,1,8,chairman,NOUN,NN,appos,xxxx,0.0
+Senior Manager,Senior,2,1,6,senior,ADJ,JJ,amod,Xxxxx,0.0
+Senior Manager,Manager,2,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Chief Executive Officer,Co,3,1,2,co,ADJ,JJ,amod,Xx,0.0
+Co-Chief Executive Officer,-,3,1,1,-,PROPN,NNP,amod,-,0.0
+Co-Chief Executive Officer,Chief,3,1,5,chief,ADJ,JJ,amod,Xxxxx,0.0
+Co-Chief Executive Officer,Executive,3,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Co-Chief Executive Officer,Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Vice President, Worldwide Corporate Development",Vice,5,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+"Vice President, Worldwide Corporate Development",President,5,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"Vice President, Worldwide Corporate Development",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Vice President, Worldwide Corporate Development",Worldwide,5,1,9,Worldwide,PROPN,NNP,compound,Xxxxx,0.0
+"Vice President, Worldwide Corporate Development",Corporate,5,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"Vice President, Worldwide Corporate Development",Development,5,1,11,Development,PROPN,NNP,appos,Xxxxx,0.0
+Owner and CEO,Owner,3,1,5,Owner,PROPN,NNP,ROOT,Xxxxx,0.0
+Owner and CEO,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Owner and CEO,CEO,3,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+President and Partner,President,3,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+President and Partner,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+President and Partner,Partner,3,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Bare Metal",Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Bare Metal",Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Bare Metal",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Bare Metal",Bare,4,1,4,Bare,PROPN,NNP,compound,Xxxx,0.0
+"Managing Director, Bare Metal",Metal,4,1,5,Metal,PROPN,NNP,appos,Xxxxx,0.0
+Chairman/CEO,Chairman,1,1,8,Chairman,PROPN,NNP,nmod,Xxxxx,0.0
+Chairman/CEO,/,1,1,1,/,SYM,SYM,punct,/,0.0
+Chairman/CEO,CEO,1,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+Founder &amp; Chairman,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Chairman,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Chairman,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; Chairman,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Chairman,Chairman,3,1,8,chairman,NOUN,NN,appos,Xxxxx,0.0
+Sales,Sales,1,1,5,sale,NOUN,NNS,ROOT,Xxxxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,Jefe,13,1,4,Jefe,PROPN,NNP,compound,Xxxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,del,13,1,3,del,PROPN,NNP,compound,xxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,Centro,13,1,6,Centro,PROPN,NNP,nmod,Xxxxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,de,13,1,2,de,PROPN,NNP,compound,xx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,Investigación,13,1,13,Investigación,PROPN,NNP,compound,Xxxxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,y,13,1,1,y,PROPN,NNP,compound,x,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,Seguridad,13,1,9,Seguridad,PROPN,NNP,compound,Xxxxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,Nacional,13,1,8,Nacional,PROPN,NNP,ROOT,Xxxxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,(,13,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,Cisen,13,1,5,Cisen,PROPN,NNP,nmod,Xxxxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,),13,1,1,),PUNCT,-RRB-,punct,),0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,Ministerio,13,1,10,Ministerio,PROPN,NNP,compound,Xxxxx,0.0
+Jefe del Centro de Investigación y Seguridad Nacional (Cisen) del Ministerio del Interior,Interior,13,1,8,Interior,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder &amp; Owner,Co,3,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Owner,-,3,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Owner,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Owner,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Owner,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Co-Founder &amp; Owner,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Owner,Owner,3,1,5,Owner,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder &amp; Director,Co,3,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Director,-,3,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Director,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Director,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Director,amp,3,1,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Director,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Director,Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and Partner,Co,3,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+Co-Founder and Partner,-,3,1,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder and Partner,Founder,3,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and Partner,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and Partner,Partner,3,1,7,partner,NOUN,NN,conj,Xxxxx,0.0
+Founder &amp; Developer,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Developer,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Developer,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; Developer,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Developer,Developer,3,1,9,developer,NOUN,NN,appos,Xxxxx,0.0
+Founding Managing Partner,Founding,3,1,8,found,VERB,VBG,ROOT,Xxxxx,0.0
+Founding Managing Partner,Managing,3,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Founding Managing Partner,Partner,3,1,7,Partner,PROPN,NNP,dobj,Xxxxx,0.0
+Senior Analyst,Senior,2,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Analyst,Analyst,2,1,7,Analyst,PROPN,NNP,ROOT,Xxxxx,0.0
+Building CRED,Building,2,1,8,Building,PROPN,NNP,compound,Xxxxx,0.0
+Building CRED,CRED,2,1,4,CRED,PROPN,NNP,ROOT,XXXX,0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",Chief,7,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",Executive,7,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",Officer,7,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",P&amp;O,7,1,7,p&amp;o,NOUN,NN,compound,X&xxx;X,0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",Cruises,7,1,7,Cruises,PROPN,NNP,appos,Xxxxx,0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",(,7,1,1,(,PUNCT,-LRB-,punct,(,0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",UK,7,1,2,UK,PROPN,NNP,appos,XX,0.0
+"Chief Executive Officer , P&amp;O Cruises (UK)",),7,1,1,),PUNCT,-RRB-,punct,),0.0
+Founder/CEO,Founder,1,1,7,Founder,PROPN,NNP,nmod,Xxxxx,0.0
+Founder/CEO,/,1,1,1,/,SYM,SYM,punct,/,0.0
+Founder/CEO,CEO,1,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"Co-Founder, Chairman and CEO",Co,4,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+"Co-Founder, Chairman and CEO",-,4,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, Chairman and CEO",Founder,4,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Chairman and CEO",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Chairman and CEO",Chairman,4,1,8,Chairman,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Chairman and CEO",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Co-Founder, Chairman and CEO",CEO,4,1,3,ceo,NOUN,NN,conj,XXX,0.0
+"Partner &amp; Founder/Head, Discover",Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner &amp; Founder/Head, Discover",&,4,1,1,&,CCONJ,CC,cc,&,0.0
+"Partner &amp; Founder/Head, Discover",amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Partner &amp; Founder/Head, Discover",;,4,1,1,;,PUNCT,:,punct,;,0.0
+"Partner &amp; Founder/Head, Discover",Founder,4,1,7,Founder,PROPN,NNP,nmod,Xxxxx,0.0
+"Partner &amp; Founder/Head, Discover",/,4,1,1,/,SYM,SYM,punct,/,0.0
+"Partner &amp; Founder/Head, Discover",Head,4,1,4,Head,PROPN,NNP,conj,Xxxx,0.0
+"Partner &amp; Founder/Head, Discover",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Partner &amp; Founder/Head, Discover",Discover,4,1,8,Discover,PROPN,NNP,appos,Xxxxx,0.0
+CEO / Co-Founder,CEO,3,1,3,ceo,NOUN,NN,nmod,XXX,0.0
+CEO / Co-Founder,/,3,1,1,/,SYM,SYM,punct,/,0.0
+CEO / Co-Founder,Co,3,1,2,Co,PROPN,NNP,conj,Xx,0.0
+CEO / Co-Founder,-,3,1,1,-,PROPN,NNP,conj,-,0.0
+CEO / Co-Founder,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing Partner &amp; Director,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Managing Partner &amp; Director,Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+Managing Partner &amp; Director,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Managing Partner &amp; Director,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Managing Partner &amp; Director,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Managing Partner &amp; Director,Director,4,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and Co-Creator,Co,3,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+Co-Founder and Co-Creator,-,3,1,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder and Co-Creator,Founder,3,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and Co-Creator,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and Co-Creator,Co,3,1,2,Co,PROPN,NNP,conj,Xx,0.0
+Co-Founder and Co-Creator,-,3,1,1,-,PROPN,NNP,conj,-,0.0
+Co-Founder and Co-Creator,Creator,3,1,7,creator,NOUN,NN,conj,Xxxxx,0.0
+Chief Science Advisor,Chief,3,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Science Advisor,Science,3,1,7,Science,PROPN,NNP,compound,Xxxxx,0.0
+Chief Science Advisor,Advisor,3,1,7,Advisor,PROPN,NNP,ROOT,Xxxxx,0.0
+CFO,CFO,1,1,3,CFO,PROPN,NNP,ROOT,XXX,0.0
+"Co-Founder of ACN, Inc.",Co,4,1,2,co,NOUN,NN,ROOT,Xx,0.0
+"Co-Founder of ACN, Inc.",-,4,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder of ACN, Inc.",Founder,4,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+"Co-Founder of ACN, Inc.",of,4,1,2,of,ADP,IN,prep,xx,0.0
+"Co-Founder of ACN, Inc.",ACN,4,1,3,ACN,PROPN,NNP,pobj,XXX,0.0
+"Co-Founder of ACN, Inc.",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder of ACN, Inc.",Inc.,4,1,4,Inc.,PROPN,NNP,appos,Xxx.,0.0
+Co-President and Co-Chief Operating Officer,Co,5,1,2,co,ADJ,JJ,ROOT,Xx,0.0
+Co-President and Co-Chief Operating Officer,-,5,1,1,-,PROPN,NNP,punct,-,0.0
+Co-President and Co-Chief Operating Officer,President,5,1,9,President,PROPN,NNP,appos,Xxxxx,0.0
+Co-President and Co-Chief Operating Officer,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-President and Co-Chief Operating Officer,Co,5,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-President and Co-Chief Operating Officer,-,5,1,1,-,PROPN,NNP,compound,-,0.0
+Co-President and Co-Chief Operating Officer,Chief,5,1,5,chief,ADJ,JJ,amod,Xxxxx,0.0
+Co-President and Co-Chief Operating Officer,Operating,5,1,9,operate,VERB,VBG,compound,Xxxxx,0.0
+Co-President and Co-Chief Operating Officer,Officer,5,1,7,officer,NOUN,NN,conj,Xxxxx,0.0
+Co-founder and Managing Director,Co,4,1,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder and Managing Director,-,4,1,1,-,NOUN,NN,prep,-,0.0
+Co-founder and Managing Director,founder,4,1,7,founder,NOUN,NN,npadvmod,xxxx,0.0
+Co-founder and Managing Director,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-founder and Managing Director,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+Co-founder and Managing Director,Director,4,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+Associate,Associate,1,1,9,associate,VERB,VB,ROOT,Xxxxx,0.0
+Chief Spoon Seller &amp; Co-Founder,Chief,5,1,5,chief,ADJ,JJ,amod,Xxxxx,0.0
+Chief Spoon Seller &amp; Co-Founder,Spoon,5,1,5,Spoon,PROPN,NNP,compound,Xxxxx,0.0
+Chief Spoon Seller &amp; Co-Founder,Seller,5,1,6,Seller,PROPN,NNP,ROOT,Xxxxx,0.0
+Chief Spoon Seller &amp; Co-Founder,&,5,1,1,&,CCONJ,CC,cc,&,0.0
+Chief Spoon Seller &amp; Co-Founder,amp,5,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Chief Spoon Seller &amp; Co-Founder,;,5,1,1,;,PUNCT,:,punct,;,0.0
+Chief Spoon Seller &amp; Co-Founder,Co,5,1,2,Co,PROPN,NNP,appos,Xx,0.0
+Chief Spoon Seller &amp; Co-Founder,-,5,1,1,-,PROPN,NNP,conj,-,0.0
+Chief Spoon Seller &amp; Co-Founder,Founder,5,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+"Managing Director, Tencent Investments",Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Tencent Investments",Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Tencent Investments",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Tencent Investments",Tencent,4,1,7,Tencent,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Tencent Investments",Investments,4,1,11,Investments,PROPN,NNPS,appos,Xxxxx,0.0
+CEO and Managing Partner,CEO,4,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+CEO and Managing Partner,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+CEO and Managing Partner,Managing,4,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+CEO and Managing Partner,Partner,4,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",Co,7,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",-,7,1,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",Founder,7,1,7,Founder,PROPN,NNP,nmod,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",Chief,7,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",Executive,7,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",Officer,7,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",&,7,1,1,&,CCONJ,CC,cc,&,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",amp,7,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",;,7,1,1,;,PUNCT,:,punct,;,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",Board,7,1,5,Board,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Founder, Chief Executive Officer &amp; Board Member",Member,7,1,6,Member,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder &amp; Executive Chairman,Co,4,1,2,Co,PROPN,NNP,compound,Xx,0.0
+Co-Founder &amp; Executive Chairman,-,4,1,1,-,PROPN,NNP,compound,-,0.0
+Co-Founder &amp; Executive Chairman,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder &amp; Executive Chairman,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Co-Founder &amp; Executive Chairman,amp,4,1,3,amp,NOUN,NN,conj,xxx,0.0
+Co-Founder &amp; Executive Chairman,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Co-Founder &amp; Executive Chairman,Executive,4,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder &amp; Executive Chairman,Chairman,4,1,8,Chairman,PROPN,NNP,conj,Xxxxx,0.0
+Growth,Growth,1,1,6,growth,NOUN,NN,ROOT,Xxxxx,0.0
+Founder &amp; Chief Investment Officer,Founder,5,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Chief Investment Officer,&,5,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Chief Investment Officer,amp,5,1,3,amp,NOUN,NN,conj,xxx,0.0
+Founder &amp; Chief Investment Officer,;,5,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Chief Investment Officer,Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Chief Investment Officer,Investment,5,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Chief Investment Officer,Officer,5,1,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+Executive Chairman,Executive,2,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Executive Chairman,Chairman,2,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Board Member,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; Board Member,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; Board Member,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; Board Member,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; Board Member,Board,4,1,5,Board,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; Board Member,Member,4,1,6,Member,PROPN,NNP,appos,Xxxxx,0.0
+"Chief Executive Officer, Director",Chief,4,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Executive Officer, Director",Executive,4,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Executive Officer, Director",Officer,4,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Executive Officer, Director",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Executive Officer, Director",Director,4,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+Chief Support Officer,Chief,3,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Support Officer,Support,3,1,7,Support,PROPN,NNP,compound,Xxxxx,0.0
+Chief Support Officer,Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"General Partner, The Frontier",General,4,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+"General Partner, The Frontier",Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"General Partner, The Frontier",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"General Partner, The Frontier",The,4,1,3,the,DET,DT,det,Xxx,0.0
+"General Partner, The Frontier",Frontier,4,1,8,Frontier,PROPN,NNP,appos,Xxxxx,0.0
+Founder &amp;CEO,Founder,2,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp;CEO,&,2,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp;CEO,amp;CEO,2,1,7,amp;ceo,NOUN,NN,conj,xxx;XXX,0.0
+"Founder, CEO, and Engineer",Founder,4,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, CEO, and Engineer",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, CEO, and Engineer",CEO,4,1,3,ceo,NOUN,NN,conj,XXX,0.0
+"Founder, CEO, and Engineer",and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Founder, CEO, and Engineer",Engineer,4,1,8,Engineer,PROPN,NNP,conj,Xxxxx,0.0
+Cofounder and CEO,Cofounder,3,1,9,Cofounder,PROPN,NNP,ROOT,Xxxxx,0.0
+Cofounder and CEO,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Cofounder and CEO,CEO,3,1,3,CEO,PROPN,NNP,conj,XXX,0.0
+"Senior Vice President, Devices &amp; Services",Senior,6,1,6,senior,ADJ,JJ,amod,Xxxxx,0.0
+"Senior Vice President, Devices &amp; Services",Vice,6,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+"Senior Vice President, Devices &amp; Services",President,6,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Vice President, Devices &amp; Services",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Vice President, Devices &amp; Services",Devices,6,1,7,Devices,PROPN,NNPS,conj,Xxxxx,0.0
+"Senior Vice President, Devices &amp; Services",&,6,1,1,&,CCONJ,CC,cc,&,0.0
+"Senior Vice President, Devices &amp; Services",amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Senior Vice President, Devices &amp; Services",;,6,1,1,;,PUNCT,:,punct,;,0.0
+"Senior Vice President, Devices &amp; Services",Services,6,1,8,service,NOUN,NNS,appos,Xxxxx,0.0
+Chief Executive Officer and President,Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Executive Officer and President,Executive,5,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Chief Executive Officer and President,Officer,5,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+Chief Executive Officer and President,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chief Executive Officer and President,President,5,1,9,President,PROPN,NNP,conj,Xxxxx,0.0
+"Curator, Scientist, Software Developer",Curator,4,1,7,Curator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Curator, Scientist, Software Developer",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Curator, Scientist, Software Developer",Scientist,4,1,9,Scientist,PROPN,NNP,conj,Xxxxx,0.0
+"Curator, Scientist, Software Developer",Software,4,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Curator, Scientist, Software Developer",Developer,4,1,9,Developer,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and Chief Executive Officer,Co,5,1,2,Co,PROPN,NNP,ROOT,Xx,0.0
+Co-Founder and Chief Executive Officer,-,5,1,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder and Chief Executive Officer,Founder,5,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder and Chief Executive Officer,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Co-Founder and Chief Executive Officer,Chief,5,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder and Chief Executive Officer,Executive,5,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Co-Founder and Chief Executive Officer,Officer,5,1,7,Officer,PROPN,NNP,conj,Xxxxx,0.0
+"VP, Disney Movie Club",VP,4,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, Disney Movie Club",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"VP, Disney Movie Club",Disney,4,1,6,Disney,PROPN,NNP,compound,Xxxxx,0.0
+"VP, Disney Movie Club",Movie,4,1,5,Movie,PROPN,NNP,compound,Xxxxx,0.0
+"VP, Disney Movie Club",Club,4,1,4,Club,PROPN,NNP,appos,Xxxx,0.0
+Chairman Of The Board,Chairman,4,1,8,Chairman,PROPN,NNP,ROOT,Xxxxx,0.0
+Chairman Of The Board,Of,4,1,2,of,ADP,IN,prep,Xx,0.0
+Chairman Of The Board,The,4,1,3,the,DET,DT,det,Xxx,0.0
+Chairman Of The Board,Board,4,1,5,Board,PROPN,NNP,pobj,Xxxxx,0.0

@@ -1,0 +1,3 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Closed,Closed,1,13,6,close,VERB,VBN,ROOT,Xxxxx,0.0
+Active,Active,1,987,6,active,ADJ,JJ,ROOT,Xxxxx,0.0

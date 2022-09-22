@@ -1,0 +1,10 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Made Acquisitions,Made,2,155,4,make,VERB,VBD,ROOT,Xxxx,0.0
+Made Acquisitions,Acquisitions,2,155,12,acquisition,NOUN,NNS,dobj,Xxxxx,0.0
+"Made Acquisitions, Was Acquired",Made,4,8,4,Made,PROPN,NNP,advcl,Xxxx,0.0
+"Made Acquisitions, Was Acquired",Acquisitions,4,8,12,Acquisitions,PROPN,NNPS,dobj,Xxxxx,0.0
+"Made Acquisitions, Was Acquired",",",4,8,1,",",PUNCT,",",punct,",",0.0
+"Made Acquisitions, Was Acquired",Was,4,8,3,be,AUX,VBD,auxpass,Xxx,0.0
+"Made Acquisitions, Was Acquired",Acquired,4,8,8,acquire,VERB,VBN,ROOT,Xxxxx,0.0
+Was Acquired,Was,2,14,3,be,AUX,VBD,auxpass,Xxx,0.0
+Was Acquired,Acquired,2,14,8,acquire,VERB,VBN,ROOT,Xxxxx,0.0

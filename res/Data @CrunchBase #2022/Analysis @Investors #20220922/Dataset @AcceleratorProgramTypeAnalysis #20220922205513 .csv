@@ -1,0 +1,5 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+On-Site,On,1,47,2,on,ADP,IN,ROOT,Xx,0.0
+On-Site,-,1,47,1,-,PUNCT,HYPH,punct,-,0.0
+On-Site,Site,1,47,4,site,NOUN,NN,pobj,Xxxx,0.0
+Online,Online,1,20,6,online,ADJ,JJ,ROOT,Xxxxx,0.0

@@ -1,0 +1,1408 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+"Partner, Partner, Strategy",Partner,3,2,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Strategy",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Strategy",Partner,3,2,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Strategy",Strategy,3,2,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"Editor, Editor In Chief",Editor,4,2,6,editor,NOUN,NN,ROOT,Xxxxx,0.0
+"Editor, Editor In Chief",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Editor, Editor In Chief",Editor,4,2,6,Editor,PROPN,NNP,appos,Xxxxx,0.0
+"Editor, Editor In Chief",In,4,2,2,in,ADP,IN,prep,Xx,0.0
+"Editor, Editor In Chief",Chief,4,2,5,chief,NOUN,NN,pobj,Xxxxx,0.0
+CEO,CEO,1,54,3,ceo,NOUN,NN,ROOT,XXX,0.0
+Staff Associate,Staff,2,1,5,Staff,PROPN,NNP,compound,Xxxxx,0.0
+Staff Associate,Associate,2,1,9,Associate,PROPN,NNP,ROOT,Xxxxx,0.0
+Chief Of Staff,Chief,3,68,5,Chief,PROPN,NNP,ROOT,Xxxxx,0.0
+Chief Of Staff,Of,3,68,2,of,ADP,IN,prep,Xx,0.0
+Chief Of Staff,Staff,3,68,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+CMO,CMO,1,3,3,cmo,NOUN,NN,ROOT,XXX,0.0
+Data Scientist,Data,2,2,4,Data,PROPN,NNP,compound,Xxxx,0.0
+Data Scientist,Scientist,2,2,9,Scientist,PROPN,NNP,ROOT,Xxxxx,0.0
+"CIO, Information Officer",CIO,3,1,3,CIO,PROPN,NNP,ROOT,XXX,0.0
+"CIO, Information Officer",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"CIO, Information Officer",Information,3,1,11,Information,PROPN,NNP,compound,Xxxxx,0.0
+"CIO, Information Officer",Officer,3,1,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+Co-Founder,Co,1,5,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-Founder,-,1,5,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder,Founder,1,5,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+—,—,1,49,1,—,PUNCT,:,ROOT,—,0.0
+VP,VP,1,23,2,VP,PROPN,NNP,ROOT,XX,0.0
+Founder,Founder,1,14,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+Economist,Economist,1,2,9,economist,NOUN,NN,ROOT,Xxxxx,0.0
+CFO,CFO,1,5,3,CFO,PROPN,NNP,ROOT,XXX,0.0
+Scientist,Scientist,1,1,9,scientist,NOUN,NN,ROOT,Xxxxx,0.0
+"Sales Professional, Sales Professional, Finance",Sales,5,1,5,Sales,PROPN,NNP,compound,Xxxxx,0.0
+"Sales Professional, Sales Professional, Finance",Professional,5,1,12,Professional,PROPN,NNP,ROOT,Xxxxx,0.0
+"Sales Professional, Sales Professional, Finance",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Sales Professional, Sales Professional, Finance",Professional,5,1,12,Professional,PROPN,NNP,conj,Xxxxx,0.0
+"Sales Professional, Sales Professional, Finance",Finance,5,1,7,finance,NOUN,NN,appos,Xxxxx,0.0
+"Engineer, Software Engineer",Engineer,3,3,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Engineer, Software Engineer",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Engineer, Software Engineer",Software,3,3,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Engineer, Software Engineer",Engineer,3,3,8,Engineer,PROPN,NNP,appos,Xxxxx,0.0
+"Chief Of Staff, Senior Global Account Manager",Chief,7,1,5,Chief,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Of Staff, Senior Global Account Manager",Of,7,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Senior Global Account Manager",Staff,7,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Senior Global Account Manager",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Senior Global Account Manager",Senior,7,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Of Staff, Senior Global Account Manager",Global,7,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Of Staff, Senior Global Account Manager",Account,7,1,7,Account,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Of Staff, Senior Global Account Manager",Manager,7,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+Engineer,Engineer,1,5,8,engineer,NOUN,NN,ROOT,Xxxxx,0.0
+"Chief Of Staff, Senior Director, Senior Director, Engineering",Chief,8,1,5,Chief,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Of Staff, Senior Director, Senior Director, Engineering",Of,8,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Senior Director, Senior Director, Engineering",Staff,8,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Senior Director, Senior Director, Engineering",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Senior Director, Senior Director, Engineering",Senior,8,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Of Staff, Senior Director, Senior Director, Engineering",Director,8,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Of Staff, Senior Director, Senior Director, Engineering",Engineering,8,1,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"VP, VP, Government Affairs",VP,4,3,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Government Affairs",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Government Affairs",VP,4,3,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Government Affairs",Government,4,3,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"VP, VP, Government Affairs",Affairs,4,3,7,Affairs,PROPN,NNPS,appos,Xxxxx,0.0
+"Cloud Consultant, VP",Cloud,3,1,5,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+"Cloud Consultant, VP",Consultant,3,1,10,Consultant,PROPN,NNP,ROOT,Xxxxx,0.0
+"Cloud Consultant, VP",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Cloud Consultant, VP",VP,3,1,2,VP,PROPN,NNP,appos,XX,0.0
+"Engineer, Head of Sales, Head of Sales, Engineering",Engineer,8,1,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Engineer, Head of Sales, Head of Sales, Engineering",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Engineer, Head of Sales, Head of Sales, Engineering",Head,8,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Engineer, Head of Sales, Head of Sales, Engineering",of,8,1,2,of,ADP,IN,prep,xx,0.0
+"Engineer, Head of Sales, Head of Sales, Engineering",Sales,8,1,5,Sales,PROPN,NNP,pobj,Xxxxx,0.0
+"Engineer, Head of Sales, Head of Sales, Engineering",Engineering,8,1,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"CEO, Co-Founder, Founder",CEO,3,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, Co-Founder, Founder",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"CEO, Co-Founder, Founder",Co,3,1,2,Co,PROPN,NNP,appos,Xx,0.0
+"CEO, Co-Founder, Founder",-,3,1,1,-,PROPN,NNP,conj,-,0.0
+"CEO, Co-Founder, Founder",Founder,3,1,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"CEO, Co-Founder, Founder",Founder,3,1,7,founder,NOUN,NN,appos,Xxxxx,0.0
+"VP, VP, Product Management",VP,4,8,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Product Management",",",4,8,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Product Management",VP,4,8,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Product Management",Product,4,8,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"VP, VP, Product Management",Management,4,8,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Chief Engineer,Chief,2,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Engineer,Engineer,2,1,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, VP",President,2,11,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, VP",",",2,11,1,",",PUNCT,",",punct,",",0.0
+"President, VP",VP,2,11,2,VP,PROPN,NNP,appos,XX,0.0
+Head of Sales,Head,3,3,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Sales,of,3,3,2,of,ADP,IN,prep,xx,0.0
+Head of Sales,Sales,3,3,5,Sales,PROPN,NNPS,pobj,Xxxxx,0.0
+"Admin, Chief Of Staff",Admin,4,1,5,Admin,PROPN,NNP,ROOT,Xxxxx,0.0
+"Admin, Chief Of Staff",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Admin, Chief Of Staff",Chief,4,1,5,Chief,PROPN,NNP,appos,Xxxxx,0.0
+"Admin, Chief Of Staff",Of,4,1,2,of,ADP,IN,prep,Xx,0.0
+"Admin, Chief Of Staff",Staff,4,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+Advisor,Advisor,1,1,7,Advisor,PROPN,NNP,ROOT,Xxxxx,0.0
+Head of Ads,Head,3,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Ads,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Head of Ads,Ads,3,1,3,Ads,PROPN,NNPS,pobj,Xxx,0.0
+"VP, VP, Engineering",VP,3,12,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Engineering",",",3,12,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Engineering",VP,3,12,2,VP,PROPN,NNP,nmod,XX,0.0
+"VP, VP, Engineering",Engineering,3,12,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+Principal,Principal,1,1,9,principal,NOUN,NN,ROOT,Xxxxx,0.0
+Chairman,Chairman,1,1,8,chairman,NOUN,NN,ROOT,Xxxxx,0.0
+Diver,Diver,1,2,5,diver,NOUN,NN,ROOT,Xxxxx,0.0
+President,President,1,9,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+Chief Architect,Chief,2,10,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Architect,Architect,2,10,9,Architect,PROPN,NNP,ROOT,Xxxxx,0.0
+Head of UX,Head,3,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of UX,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Head of UX,UX,3,1,2,UX,PROPN,NNP,pobj,XX,0.0
+"VP, VP, Finance",VP,3,4,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Finance",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Finance",VP,3,4,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Finance",Finance,3,4,7,finance,NOUN,NN,appos,Xxxxx,0.0
+Partner,Partner,1,5,7,partner,NOUN,NN,ROOT,Xxxxx,0.0
+"President, President, Corporate Development, President, Partnerships",President,6,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, President, Corporate Development, President, Partnerships",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"President, President, Corporate Development, President, Partnerships",President,6,1,9,President,PROPN,NNP,appos,Xxxxx,0.0
+"President, President, Corporate Development, President, Partnerships",Corporate,6,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"President, President, Corporate Development, President, Partnerships",Development,6,1,11,Development,PROPN,NNP,conj,Xxxxx,0.0
+"President, President, Corporate Development, President, Partnerships",President,6,1,9,President,PROPN,NNP,conj,Xxxxx,0.0
+"President, President, Corporate Development, President, Partnerships",Partnerships,6,1,12,partnership,NOUN,NNS,appos,Xxxxx,0.0
+CTO,CTO,1,9,3,CTO,PROPN,NNP,ROOT,XXX,0.0
+"Admin, Admin, Engineering",Admin,3,1,5,Admin,PROPN,NNP,ROOT,Xxxxx,0.0
+"Admin, Admin, Engineering",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Admin, Admin, Engineering",Admin,3,1,5,Admin,PROPN,NNP,conj,Xxxxx,0.0
+"Admin, Admin, Engineering",Engineering,3,1,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"Co-Founder, Founder",Co,2,3,2,Co,PROPN,NNP,ROOT,Xx,0.0
+"Co-Founder, Founder",-,2,3,1,-,PROPN,NNP,punct,-,0.0
+"Co-Founder, Founder",Founder,2,3,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+"Co-Founder, Founder",",",2,3,1,",",PUNCT,",",punct,",",0.0
+"Co-Founder, Founder",Founder,2,3,7,founder,NOUN,NN,appos,Xxxxx,0.0
+"President, President, Human Resources, VP, VP, Human Resources",President,8,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, President, Human Resources, VP, VP, Human Resources",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"President, President, Human Resources, VP, VP, Human Resources",President,8,1,9,President,PROPN,NNP,appos,Xxxxx,0.0
+"President, President, Human Resources, VP, VP, Human Resources",Human,8,1,5,Human,PROPN,NNP,compound,Xxxxx,0.0
+"President, President, Human Resources, VP, VP, Human Resources",Resources,8,1,9,Resources,PROPN,NNP,conj,Xxxxx,0.0
+"President, President, Human Resources, VP, VP, Human Resources",VP,8,1,2,VP,PROPN,NNP,conj,XX,0.0
+"President, President, Human Resources, VP, VP, Human Resources",Resources,8,1,9,Resources,PROPN,NNPS,appos,Xxxxx,0.0
+Senior Business Partner,Senior,3,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Business Partner,Business,3,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+Senior Business Partner,Partner,3,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior VP, Senior VP, Product Management",Senior,6,1,6,senior,ADJ,JJ,amod,Xxxxx,0.0
+"Senior VP, Senior VP, Product Management",VP,6,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"Senior VP, Senior VP, Product Management",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Senior VP, Senior VP, Product Management",Senior,6,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior VP, Senior VP, Product Management",VP,6,1,2,VP,PROPN,NNP,appos,XX,0.0
+"Senior VP, Senior VP, Product Management",Product,6,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Senior VP, Senior VP, Product Management",Management,6,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Staff Program Manager,Staff,3,1,5,Staff,PROPN,NNP,compound,Xxxxx,0.0
+Staff Program Manager,Program,3,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+Staff Program Manager,Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"VP, VP, Operations",VP,3,2,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Operations",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Operations",VP,3,2,2,VP,PROPN,NNP,nmod,XX,0.0
+"VP, VP, Operations",Operations,3,2,10,Operations,PROPN,NNPS,appos,Xxxxx,0.0
+"Partner, Partner, Engineering",Partner,3,4,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Engineering",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Engineering",Partner,3,4,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Engineering",Engineering,3,4,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"President, President, Advertising",President,3,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, President, Advertising",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"President, President, Advertising",President,3,1,9,President,PROPN,NNP,appos,Xxxxx,0.0
+"President, President, Advertising",Advertising,3,1,11,advertising,NOUN,NN,appos,Xxxxx,0.0
+Sales Professional,Sales,2,1,5,Sales,PROPN,NNP,compound,Xxxxx,0.0
+Sales Professional,Professional,2,1,12,Professional,PROPN,NNP,ROOT,Xxxxx,0.0
+"VP, VP, Sales",VP,3,5,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Sales",",",3,5,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Sales",VP,3,5,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Sales",Sales,3,5,5,sale,NOUN,NNS,appos,Xxxxx,0.0
+"CFO, Financial Officer",CFO,3,2,3,CFO,PROPN,NNP,ROOT,XXX,0.0
+"CFO, Financial Officer",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"CFO, Financial Officer",Financial,3,2,9,Financial,PROPN,NNP,amod,Xxxxx,0.0
+"CFO, Financial Officer",Officer,3,2,7,Officer,PROPN,NNP,appos,Xxxxx,0.0
+"Head of Finance, Head of Finance, Strategy",Head,7,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Finance, Head of Finance, Strategy",of,7,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Finance, Head of Finance, Strategy",Finance,7,1,7,Finance,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Finance, Head of Finance, Strategy",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Finance, Head of Finance, Strategy",Head,7,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Finance, Head of Finance, Strategy",Strategy,7,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"Chief Of Staff, Technical Assistant",Chief,5,2,5,Chief,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Of Staff, Technical Assistant",Of,5,2,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Technical Assistant",Staff,5,2,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Technical Assistant",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Technical Assistant",Technical,5,2,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Of Staff, Technical Assistant",Assistant,5,2,9,Assistant,PROPN,NNP,appos,Xxxxx,0.0
+Vendor,Vendor,1,2,6,vendor,NOUN,NN,ROOT,Xxxxx,0.0
+"Senior President, Senior VP",Senior,4,3,6,senior,ADJ,JJ,amod,Xxxxx,0.0
+"Senior President, Senior VP",President,4,3,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior President, Senior VP",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"Senior President, Senior VP",Senior,4,3,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior President, Senior VP",VP,4,3,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Marketing, VP, Operations",VP,5,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Marketing, VP, Operations",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Marketing, VP, Operations",VP,5,1,2,VP,PROPN,NNP,conj,XX,0.0
+"VP, VP, Marketing, VP, Operations",Marketing,5,1,9,Marketing,PROPN,NNP,conj,Xxxxx,0.0
+"VP, VP, Marketing, VP, Operations",Operations,5,1,10,Operations,PROPN,NNPS,appos,Xxxxx,0.0
+"President, President, Sales",President,3,1,9,President,PROPN,NNP,ROOT,Xxxxx,0.0
+"President, President, Sales",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"President, President, Sales",President,3,1,9,President,PROPN,NNP,appos,Xxxxx,0.0
+"President, President, Sales",Sales,3,1,5,sale,NOUN,NNS,appos,Xxxxx,0.0
+"VP, VP, Engineering, VP, Hardware",VP,5,2,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Engineering, VP, Hardware",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Engineering, VP, Hardware",VP,5,2,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Engineering, VP, Hardware",Engineering,5,2,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"VP, VP, Engineering, VP, Hardware",VP,5,2,2,VP,PROPN,NNP,nmod,XX,0.0
+"VP, VP, Engineering, VP, Hardware",Hardware,5,2,8,Hardware,PROPN,NNP,appos,Xxxxx,0.0
+Test Architect,Test,2,1,4,test,NOUN,NN,compound,Xxxx,0.0
+Test Architect,Architect,2,1,9,architect,NOUN,NN,ROOT,Xxxxx,0.0
+"Business Partner, Partner, Partner, Operations, Partner, Strategy",Business,7,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+"Business Partner, Partner, Partner, Operations, Partner, Strategy",Partner,7,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Business Partner, Partner, Partner, Operations, Partner, Strategy",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Business Partner, Partner, Partner, Operations, Partner, Strategy",Partner,7,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Business Partner, Partner, Partner, Operations, Partner, Strategy",Operations,7,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Business Partner, Partner, Partner, Operations, Partner, Strategy",Strategy,7,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+Senior VP,Senior,2,3,6,senior,ADJ,JJ,amod,Xxxxx,0.0
+Senior VP,VP,2,3,2,VP,PROPN,NNP,ROOT,XX,0.0
+Director,Director,1,63,8,director,NOUN,NN,ROOT,Xxxxx,0.0
+Senior Technologist,Senior,2,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Technologist,Technologist,2,1,12,Technologist,PROPN,NNP,ROOT,Xxxxx,0.0
+"Head of Creative, Head of Creative, Program Management",Head,8,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Creative, Head of Creative, Program Management",of,8,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Creative, Head of Creative, Program Management",Creative,8,1,8,Creative,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Creative, Head of Creative, Program Management",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Creative, Head of Creative, Program Management",Head,8,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Creative, Head of Creative, Program Management",Program,8,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Head of Creative, Head of Creative, Program Management",Management,8,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Chief Estimator,Chief,2,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Estimator,Estimator,2,1,9,Estimator,PROPN,NNP,ROOT,Xxxxx,0.0
+Program Manager,Program,2,23,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+Program Manager,Manager,2,23,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"VP, VP, Customer Success",VP,4,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Customer Success",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Customer Success",VP,4,1,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Customer Success",Customer,4,1,8,Customer,PROPN,NNP,compound,Xxxxx,0.0
+"VP, VP, Customer Success",Success,4,1,7,Success,PROPN,NNP,appos,Xxxxx,0.0
+"Partner, Partner, Advertising",Partner,3,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Advertising",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Advertising",Partner,3,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Advertising",Advertising,3,1,11,advertising,NOUN,NN,appos,Xxxxx,0.0
+"Head of Strategy, Head of Strategy, Operations",Head,7,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Strategy, Head of Strategy, Operations",of,7,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Strategy, Head of Strategy, Operations",Strategy,7,1,8,Strategy,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Strategy, Head of Strategy, Operations",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Strategy, Head of Strategy, Operations",Head,7,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Strategy, Head of Strategy, Operations",Operations,7,1,10,Operations,PROPN,NNP,npadvmod,Xxxxx,0.0
+"VP, VP, Strategy",VP,3,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Strategy",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Strategy",VP,3,1,2,VP,PROPN,NNP,nmod,XX,0.0
+"VP, VP, Strategy",Strategy,3,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+Product Manager,Product,2,8,7,product,NOUN,NN,compound,Xxxxx,0.0
+Product Manager,Manager,2,8,7,manager,NOUN,NN,ROOT,Xxxxx,0.0
+"Partner, Partner, Marketing, Partner, Strategy",Partner,5,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Marketing, Partner, Strategy",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Marketing, Partner, Strategy",Partner,5,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Marketing, Partner, Strategy",Marketing,5,1,9,Marketing,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Marketing, Partner, Strategy",Strategy,5,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Operations, Director, Program Management",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Operations, Director, Program Management",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Operations, Director, Program Management",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Operations, Director, Program Management",Operations,6,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Operations, Director, Program Management",Program,6,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Operations, Director, Program Management",Management,6,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Head of Design,Head,3,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Design,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Head of Design,Design,3,1,6,Design,PROPN,NNP,pobj,Xxxxx,0.0
+Editor,Editor,1,1,6,editor,NOUN,NN,ROOT,Xxxxx,0.0
+"Head of Program Management, Head of Program Management, Analytics",Head,9,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Program Management, Head of Program Management, Analytics",of,9,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Program Management, Head of Program Management, Analytics",Program,9,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Head of Program Management, Head of Program Management, Analytics",Management,9,1,10,Management,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Program Management, Head of Program Management, Analytics",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Program Management, Head of Program Management, Analytics",Head,9,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Program Management, Head of Program Management, Analytics",Analytics,9,1,9,Analytics,PROPN,NNPS,appos,Xxxxx,0.0
+"Chief Of Staff, Owner, Owner, Manufacturing, Owner, Operations",Chief,8,1,5,Chief,PROPN,NNP,nmod,Xxxxx,0.0
+"Chief Of Staff, Owner, Owner, Manufacturing, Owner, Operations",Of,8,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Owner, Owner, Manufacturing, Owner, Operations",Staff,8,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Owner, Owner, Manufacturing, Owner, Operations",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Owner, Owner, Manufacturing, Owner, Operations",Owner,8,1,5,Owner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Of Staff, Owner, Owner, Manufacturing, Owner, Operations",Owner,8,1,5,Owner,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Of Staff, Owner, Owner, Manufacturing, Owner, Operations",Manufacturing,8,1,13,Manufacturing,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Of Staff, Owner, Owner, Manufacturing, Owner, Operations",Operations,8,1,10,Operations,PROPN,NNPS,conj,Xxxxx,0.0
+COO,COO,1,4,3,COO,PROPN,NNP,ROOT,XXX,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Chief,18,1,5,Chief,PROPN,NNP,nmod,Xxxxx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Of,18,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Staff,18,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",",",18,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Head,18,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",of,18,1,2,of,ADP,IN,prep,xx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Strategy,18,1,8,Strategy,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Advertising,18,1,11,Advertising,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Head,18,1,4,Head,PROPN,NNP,conj,Xxxx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Marketing,18,1,9,Marketing,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Of Staff, Head of Strategy, Head of Strategy, Advertising, Head of Strategy, Marketing, Head of Strategy, Operations",Operations,18,1,10,Operations,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Operations",Partner,3,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Operations",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Operations",Partner,3,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Operations",Operations,3,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Head of UX, Head of UX, Operations, Head of UX, Program Management",Head,12,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of UX, Head of UX, Operations, Head of UX, Program Management",of,12,1,2,of,ADP,IN,prep,xx,0.0
+"Head of UX, Head of UX, Operations, Head of UX, Program Management",UX,12,1,2,UX,PROPN,NNP,pobj,XX,0.0
+"Head of UX, Head of UX, Operations, Head of UX, Program Management",",",12,1,1,",",PUNCT,",",punct,",",0.0
+"Head of UX, Head of UX, Operations, Head of UX, Program Management",Head,12,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of UX, Head of UX, Operations, Head of UX, Program Management",Operations,12,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Head of UX, Head of UX, Operations, Head of UX, Program Management",Program,12,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Head of UX, Head of UX, Operations, Head of UX, Program Management",Management,12,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+"Chief Engineer, Engineer",Chief,3,4,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Engineer, Engineer",Engineer,3,4,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Engineer, Engineer",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Chief Engineer, Engineer",Engineer,3,4,8,Engineer,PROPN,NNP,appos,Xxxxx,0.0
+"CBO, Senior VP",CBO,3,1,3,CBO,PROPN,NNP,ROOT,XXX,0.0
+"CBO, Senior VP",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"CBO, Senior VP",Senior,3,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"CBO, Senior VP",VP,3,1,2,VP,PROPN,NNP,appos,XX,0.0
+Strategist,Strategist,1,1,10,strategist,NOUN,NN,ROOT,Xxxxx,0.0
+"Advisor, VP, VP, Product",Advisor,4,1,7,Advisor,PROPN,NNP,ROOT,Xxxxx,0.0
+"Advisor, VP, VP, Product",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Advisor, VP, VP, Product",VP,4,1,2,VP,PROPN,NNP,nmod,XX,0.0
+"Advisor, VP, VP, Product",Product,4,1,7,product,NOUN,NN,appos,Xxxxx,0.0
+"CTO, Founder",CTO,2,1,3,CTO,PROPN,NNP,ROOT,XXX,0.0
+"CTO, Founder",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"CTO, Founder",Founder,2,1,7,Founder,PROPN,NNP,appos,Xxxxx,0.0
+Development Engineer,Development,2,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Development Engineer,Engineer,2,1,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Head of Design, Head of Design, Hardware, VP",Head,8,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Design, Head of Design, Hardware, VP",of,8,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Design, Head of Design, Hardware, VP",Design,8,1,6,Design,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Design, Head of Design, Hardware, VP",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Design, Head of Design, Hardware, VP",Head,8,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Design, Head of Design, Hardware, VP",Hardware,8,1,8,Hardware,PROPN,NNP,appos,Xxxxx,0.0
+"Head of Design, Head of Design, Hardware, VP",VP,8,1,2,VP,PROPN,NNP,appos,XX,0.0
+"Director, Director, Business Development",Director,4,6,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Business Development",",",4,6,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Business Development",Director,4,6,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Business Development",Business,4,6,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Business Development",Development,4,6,11,Development,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Partnerships",Director,3,9,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Partnerships",",",3,9,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Partnerships",Director,3,9,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Partnerships",Partnerships,3,9,12,partnership,NOUN,NNS,appos,Xxxxx,0.0
+"Founder, Writer",Founder,2,1,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+"Founder, Writer",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, Writer",Writer,2,1,6,writer,NOUN,NN,appos,Xxxxx,0.0
+"Director, Director, Engineering",Director,3,49,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Engineering",",",3,49,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Engineering",Director,3,49,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Engineering",Engineering,3,49,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Creative",Director,3,13,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Creative",",",3,13,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Creative",Director,3,13,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Creative",Creative,3,13,8,Creative,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Operations",Director,3,11,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Operations",",",3,11,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Operations",Director,3,11,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Operations",Operations,3,11,10,Operations,PROPN,NNPS,appos,Xxxxx,0.0
+"Head of Creative, Head of Creative, Operations",Head,7,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Creative, Head of Creative, Operations",of,7,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Creative, Head of Creative, Operations",Creative,7,1,8,Creative,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Creative, Head of Creative, Operations",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Creative, Head of Creative, Operations",Head,7,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Creative, Head of Creative, Operations",Operations,7,1,10,Operations,PROPN,NNPS,npadvmod,Xxxxx,0.0
+"Director, Director, Sales",Director,3,5,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Sales",",",3,5,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Sales",Director,3,5,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Sales",Sales,3,5,5,sale,NOUN,NNS,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Professional Services",Managing,6,2,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Professional Services",Director,6,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Professional Services",",",6,2,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Professional Services",Director,6,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Professional Services",Professional,6,2,12,Professional,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Professional Services",Services,6,2,8,Services,PROPN,NNPS,appos,Xxxxx,0.0
+"Director, Director, Program Management",Director,4,5,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Program Management",",",4,5,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Program Management",Director,4,5,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Program Management",Program,4,5,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Program Management",Management,4,5,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Talent Director,Talent,2,1,6,talent,NOUN,NN,compound,Xxxxx,0.0
+Talent Director,Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Art",Senior,5,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Art",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Art",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Art",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Art",Art,5,1,3,art,NOUN,NN,appos,Xxx,0.0
+"Director, Director, User Experience",Director,4,11,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, User Experience",",",4,11,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, User Experience",Director,4,11,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, User Experience",User,4,11,4,User,PROPN,NNP,compound,Xxxx,0.0
+"Director, Director, User Experience",Experience,4,11,10,Experience,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Product Management",Director,4,16,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Product Management",",",4,16,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Product Management",Director,4,16,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Product Management",Product,4,16,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Product Management",Management,4,16,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Consultant,Consultant,1,1,10,consultant,NOUN,NN,ROOT,Xxxxx,0.0
+"Director, General Counsel, General Counsel, Compliance",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, General Counsel, General Counsel, Compliance",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, General Counsel, General Counsel, Compliance",General,6,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+"Director, General Counsel, General Counsel, Compliance",Counsel,6,1,7,Counsel,PROPN,NNP,appos,Xxxxx,0.0
+"Director, General Counsel, General Counsel, Compliance",Counsel,6,1,7,Counsel,PROPN,NNP,conj,Xxxxx,0.0
+"Director, General Counsel, General Counsel, Compliance",Compliance,6,1,10,compliance,NOUN,NN,npadvmod,Xxxxx,0.0
+"Director, Director, Audit, Director, Hardware, Director, Marketing",Director,7,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Audit, Director, Hardware, Director, Marketing",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Audit, Director, Hardware, Director, Marketing",Director,7,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Audit, Director, Hardware, Director, Marketing",Audit,7,1,5,Audit,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Audit, Director, Hardware, Director, Marketing",Director,7,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Audit, Director, Hardware, Director, Marketing",Hardware,7,1,8,Hardware,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Audit, Director, Hardware, Director, Marketing",Marketing,7,1,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+Managing Director,Managing,2,6,8,manage,VERB,VBG,compound,Xxxxx,0.0
+Managing Director,Director,2,6,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+Product Development Engineer,Product,3,1,7,product,NOUN,NN,compound,Xxxxx,0.0
+Product Development Engineer,Development,3,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Product Development Engineer,Engineer,3,1,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Finance",Director,3,6,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Finance",",",3,6,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Finance",Director,3,6,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Finance",Finance,3,6,7,finance,NOUN,NN,appos,Xxxxx,0.0
+"Treasurer, VP",Treasurer,2,1,9,Treasurer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Treasurer, VP",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Treasurer, VP",VP,2,1,2,VP,PROPN,NNP,appos,XX,0.0
+"Director, Director, Hardware, Director, Operations, Director, Strategy",Director,7,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Hardware, Director, Operations, Director, Strategy",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Hardware, Director, Operations, Director, Strategy",Director,7,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Hardware, Director, Operations, Director, Strategy",Hardware,7,1,8,Hardware,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Hardware, Director, Operations, Director, Strategy",Operations,7,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Hardware, Director, Operations, Director, Strategy",Strategy,7,1,8,Strategy,PROPN,NNP,conj,Xxxxx,0.0
+Senior Technical Director,Senior,3,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Technical Director,Technical,3,1,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+Senior Technical Director,Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Executive Director",Director,3,3,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Executive Director",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Director, Executive Director",Executive,3,3,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Executive Director",Director,3,3,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Product, Director, Sales, Director, Strategy",Director,7,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Product, Director, Sales, Director, Strategy",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Product, Director, Sales, Director, Strategy",Director,7,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Product, Director, Sales, Director, Strategy",Product,7,1,7,Product,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Product, Director, Sales, Director, Strategy",Sales,7,1,5,Sales,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Product, Director, Sales, Director, Strategy",Strategy,7,1,8,Strategy,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Sales, Managing Director, Strategy",Managing,8,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Sales, Managing Director, Strategy",Director,8,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Sales, Managing Director, Strategy",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Sales, Managing Director, Strategy",Director,8,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Sales, Managing Director, Strategy",Sales,8,1,5,Sales,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Sales, Managing Director, Strategy",Director,8,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Sales, Managing Director, Strategy",Strategy,8,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Analytics, Director, Engineering, Director, Hardware, Director, Manufacturing",Director,9,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Analytics, Director, Engineering, Director, Hardware, Director, Manufacturing",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Analytics, Director, Engineering, Director, Hardware, Director, Manufacturing",Director,9,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Analytics, Director, Engineering, Director, Hardware, Director, Manufacturing",Analytics,9,1,9,Analytics,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Analytics, Director, Engineering, Director, Hardware, Director, Manufacturing",Engineering,9,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Analytics, Director, Engineering, Director, Hardware, Director, Manufacturing",Hardware,9,1,8,Hardware,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Analytics, Director, Engineering, Director, Hardware, Director, Manufacturing",Manufacturing,9,1,13,manufacturing,NOUN,NN,appos,Xxxxx,0.0
+"Director, Director, People",Director,3,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, People",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, People",Director,3,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, People",People,3,2,6,People,NOUN,NNS,appos,Xxxxx,0.0
+"CEO, Founder",CEO,2,2,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, Founder",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"CEO, Founder",Founder,2,2,7,Founder,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Director, Director, Network, Director, Operations",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Network, Director, Operations",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Network, Director, Operations",Director,5,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Network, Director, Operations",Network,5,1,7,Network,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Network, Director, Operations",Operations,5,1,10,Operations,PROPN,NNPS,appos,Xxxxx,0.0
+Regional Director,Regional,2,1,8,Regional,PROPN,NNP,compound,Xxxxx,0.0
+Regional Director,Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Product",Director,3,3,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Product",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Product",Director,3,3,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Product",Product,3,3,7,product,NOUN,NN,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Product Management",Senior,6,5,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Product Management",Director,6,5,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Product Management",",",6,5,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Product Management",Director,6,5,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Product Management",Product,6,5,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Product Management",Management,6,5,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Marketing Officer,Marketing,2,1,9,marketing,NOUN,NN,compound,Xxxxx,0.0
+Marketing Officer,Officer,2,1,7,officer,NOUN,NN,ROOT,Xxxxx,0.0
+"Director, Director, Mergers/Acquisitions",Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Mergers/Acquisitions",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Mergers/Acquisitions",Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Mergers/Acquisitions",Mergers,3,1,7,Mergers,PROPN,NNP,nmod,Xxxxx,0.0
+"Director, Director, Mergers/Acquisitions",/,3,1,1,/,SYM,SYM,punct,/,0.0
+"Director, Director, Mergers/Acquisitions",Acquisitions,3,1,12,acquisition,NOUN,NNS,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Product Marketing",Senior,6,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Product Marketing",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Product Marketing",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Product Marketing",Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Product Marketing",Product,6,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Product Marketing",Marketing,6,1,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships",Managing,5,2,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships",Director,5,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Partnerships",Director,5,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships",Partnerships,5,2,12,partnership,NOUN,NNS,appos,Xxxxx,0.0
+"Director, Director, Marketing",Director,3,8,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Marketing",",",3,8,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Marketing",Director,3,8,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Marketing",Marketing,3,8,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+Marketing Professional,Marketing,2,1,9,Marketing,PROPN,NNP,compound,Xxxxx,0.0
+Marketing Professional,Professional,2,1,12,Professional,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Business Development, Director, Hardware",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Business Development, Director, Hardware",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Business Development, Director, Hardware",Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Business Development, Director, Hardware",Business,6,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Business Development, Director, Hardware",Development,6,1,11,Development,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Business Development, Director, Hardware",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Business Development, Director, Hardware",Hardware,6,1,8,Hardware,PROPN,NNP,appos,Xxxxx,0.0
+"Partner, Partner, Growth",Partner,3,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Growth",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Growth",Partner,3,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Growth",Growth,3,1,6,growth,NOUN,NN,appos,Xxxxx,0.0
+"Director, Director, Product, Director, Product Development",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Product, Director, Product Development",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Product, Director, Product Development",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Product, Director, Product Development",Product,6,1,7,Product,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Product, Director, Product Development",Product,6,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Product, Director, Product Development",Development,6,1,11,Development,PROPN,NNP,appos,Xxxxx,0.0
+Controller,Controller,1,2,10,Controller,PROPN,NNP,ROOT,Xxxxx,0.0
+"Developer, Director",Developer,2,2,9,developer,NOUN,NN,ROOT,Xxxxx,0.0
+"Developer, Director",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Developer, Director",Director,2,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+Executive VP,Executive,2,3,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+Executive VP,VP,2,3,2,VP,PROPN,NNP,ROOT,XX,0.0
+"Director, Director, Advertising",Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Advertising",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Advertising",Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Advertising",Advertising,3,1,11,advertising,NOUN,NN,appos,Xxxxx,0.0
+"Director, Director, Analytics, Director, Strategy, Marketing Professional",Director,7,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Analytics, Director, Strategy, Marketing Professional",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Analytics, Director, Strategy, Marketing Professional",Director,7,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Analytics, Director, Strategy, Marketing Professional",Analytics,7,1,9,Analytics,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Analytics, Director, Strategy, Marketing Professional",Strategy,7,1,8,Strategy,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Analytics, Director, Strategy, Marketing Professional",Marketing,7,1,9,Marketing,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Analytics, Director, Strategy, Marketing Professional",Professional,7,1,12,Professional,PROPN,NNP,appos,Xxxxx,0.0
+"CFO, Director",CFO,2,1,3,CFO,PROPN,NNP,ROOT,XXX,0.0
+"CFO, Director",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"CFO, Director",Director,2,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+Senior Director,Senior,2,6,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Director,Director,2,6,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+CRO,CRO,1,2,3,cro,NOUN,NN,ROOT,XXX,0.0
+"VP, VP, Marketing",VP,3,3,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Marketing",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Marketing",VP,3,3,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Marketing",Marketing,3,3,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+"Director, Director, Human Resources",Director,4,4,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Human Resources",",",4,4,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Human Resources",Director,4,4,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Human Resources",Human,4,4,5,Human,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Human Resources",Resources,4,4,9,Resources,PROPN,NNPS,appos,Xxxxx,0.0
+"Director, Principal Software Engineer",Director,4,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Principal Software Engineer",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Director, Principal Software Engineer",Principal,4,2,9,Principal,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Principal Software Engineer",Software,4,2,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Principal Software Engineer",Engineer,4,2,8,Engineer,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Engineering",Senior,5,6,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Engineering",Director,5,6,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Engineering",",",5,6,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Engineering",Director,5,6,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Engineering",Engineering,5,6,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Design",Director,3,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Design",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Design",Director,3,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Design",Design,3,2,6,design,NOUN,NN,appos,Xxxxx,0.0
+"Director, Managing Director",Director,3,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Managing Director",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Director, Managing Director",Managing,3,2,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Managing Director",Director,3,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Operations, Director, Strategy",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Operations, Director, Strategy",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Operations, Director, Strategy",Director,5,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Operations, Director, Strategy",Operations,5,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Operations, Director, Strategy",Strategy,5,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Engineering, Director, Operating",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Engineering, Director, Operating",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Engineering, Director, Operating",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Engineering, Director, Operating",Engineering,5,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Director, Operating",Director,5,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Director, Operating",Operating,5,1,9,operate,VERB,VBG,appos,Xxxxx,0.0
+Admin,Admin,1,3,5,admin,NOUN,NN,ROOT,Xxxxx,0.0
+"VP, VP, Analytics, VP, People",VP,5,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Analytics, VP, People",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Analytics, VP, People",VP,5,1,2,VP,PROPN,NNP,conj,XX,0.0
+"VP, VP, Analytics, VP, People",Analytics,5,1,9,Analytics,PROPN,NNP,conj,Xxxxx,0.0
+"VP, VP, Analytics, VP, People",People,5,1,6,People,NOUN,NNS,appos,Xxxxx,0.0
+Software Architect,Software,2,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+Software Architect,Architect,2,1,9,Architect,PROPN,NNP,ROOT,Xxxxx,0.0
+"CMO, Senior VP",CMO,3,1,3,CMO,PROPN,NNP,ROOT,XXX,0.0
+"CMO, Senior VP",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"CMO, Senior VP",Senior,3,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"CMO, Senior VP",VP,3,1,2,VP,PROPN,NNP,appos,XX,0.0
+"Partner, Partner, Sales",Partner,3,2,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Sales",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Sales",Partner,3,2,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Sales",Sales,3,2,5,sale,NOUN,NNS,appos,Xxxxx,0.0
+"Chief Of Staff, Program Manager",Chief,5,1,5,Chief,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Of Staff, Program Manager",Of,5,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Program Manager",Staff,5,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Program Manager",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Program Manager",Program,5,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Of Staff, Program Manager",Manager,5,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Analytics, Managing Director, Marketing",Managing,8,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Analytics, Managing Director, Marketing",Director,8,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Analytics, Managing Director, Marketing",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Analytics, Managing Director, Marketing",Director,8,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Analytics, Managing Director, Marketing",Analytics,8,1,9,Analytics,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Analytics, Managing Director, Marketing",Director,8,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Analytics, Managing Director, Marketing",Marketing,8,1,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+"Principal Engineer, Security Architect",Principal,4,1,9,Principal,PROPN,NNP,compound,Xxxxx,0.0
+"Principal Engineer, Security Architect",Engineer,4,1,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Principal Engineer, Security Architect",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Principal Engineer, Security Architect",Security,4,1,8,Security,PROPN,NNP,compound,Xxxxx,0.0
+"Principal Engineer, Security Architect",Architect,4,1,9,Architect,PROPN,NNP,appos,Xxxxx,0.0
+"Head of Production, Head of Production, Operations",Head,7,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Production, Head of Production, Operations",of,7,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Production, Head of Production, Operations",Production,7,1,10,Production,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Production, Head of Production, Operations",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Production, Head of Production, Operations",Head,7,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Production, Head of Production, Operations",Operations,7,1,10,operation,NOUN,NNS,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Communications, Managing Director, Marketing",Managing,8,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Communications, Managing Director, Marketing",Director,8,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Communications, Managing Director, Marketing",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Communications, Managing Director, Marketing",Director,8,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Communications, Managing Director, Marketing",Communications,8,1,14,Communications,PROPN,NNPS,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Communications, Managing Director, Marketing",Director,8,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Communications, Managing Director, Marketing",Marketing,8,1,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+Senior Principal Engineer,Senior,3,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Principal Engineer,Principal,3,1,9,Principal,PROPN,NNP,compound,Xxxxx,0.0
+Senior Principal Engineer,Engineer,3,1,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Design, Director, Product Management",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Design, Director, Product Management",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Design, Director, Product Management",Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Design, Director, Product Management",Design,6,1,6,Design,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Design, Director, Product Management",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Design, Director, Product Management",Product,6,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Design, Director, Product Management",Management,6,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+"Partner, Partner, Training",Partner,3,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Training",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Training",Partner,3,1,7,Partner,PROPN,NNP,appos,Xxxxx,0.0
+"Partner, Partner, Training",Training,3,1,8,training,NOUN,NN,appos,Xxxxx,0.0
+"Director, Director, Strategy",Director,3,4,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Strategy",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Strategy",Director,3,4,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Strategy",Strategy,3,4,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"Executive VP, Vendor",Executive,3,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Executive VP, Vendor",VP,3,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"Executive VP, Vendor",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Executive VP, Vendor",Vendor,3,1,6,Vendor,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Creative, Executive Creative Director",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Creative, Executive Creative Director",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Creative, Executive Creative Director",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Creative, Executive Creative Director",Creative,6,1,8,Creative,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Creative, Executive Creative Director",Executive,6,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Creative, Executive Creative Director",Creative,6,1,8,Creative,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Creative, Executive Creative Director",Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",Head,12,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",of,12,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",Marketing,12,1,9,Marketing,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",",",12,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",Head,12,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",Operations,12,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",Head,12,1,4,Head,PROPN,NNP,conj,Xxxx,0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",Program,12,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Head of Marketing, Head of Marketing, Operations, Head of Marketing, Program Management",Management,12,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Facilities",Director,3,3,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Facilities",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Facilities",Director,3,3,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Facilities",Facilities,3,3,10,facility,NOUN,NNS,appos,Xxxxx,0.0
+"Director, Director, Data Science",Director,4,3,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Data Science",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Data Science",Director,4,3,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Data Science",Data,4,3,4,Data,PROPN,NNP,compound,Xxxx,0.0
+"Director, Director, Data Science",Science,4,3,7,Science,PROPN,NNP,appos,Xxxxx,0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",Chief,14,1,5,Chief,PROPN,NNP,nmod,Xxxxx,0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",Of,14,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",Staff,14,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",",",14,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",Head,14,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",of,14,1,2,of,ADP,IN,prep,xx,0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",Product,14,1,7,Product,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",Compliance,14,1,10,Compliance,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Of Staff, Head of Product, Head of Product, Compliance, Head of Product, Engineering",Engineering,14,1,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+Head of Project Management,Head,4,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Project Management,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Head of Project Management,Project,4,1,7,Project,PROPN,NNP,compound,Xxxxx,0.0
+Head of Project Management,Management,4,1,10,Management,PROPN,NNP,pobj,Xxxxx,0.0
+"VP, VP, Communications",VP,3,2,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Communications",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Communications",VP,3,2,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Communications",Communications,3,2,14,Communications,PROPN,NNPS,appos,Xxxxx,0.0
+"Director, Director, Engineering, Director, Hardware",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Engineering, Director, Hardware",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Engineering, Director, Hardware",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Engineering, Director, Hardware",Engineering,5,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Director, Hardware",Director,5,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Director, Hardware",Hardware,5,1,8,Hardware,PROPN,NNP,appos,Xxxxx,0.0
+Building Engineer,Building,2,1,8,Building,PROPN,NNP,compound,Xxxxx,0.0
+Building Engineer,Engineer,2,1,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Marketing",Senior,5,2,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Marketing",Director,5,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Marketing",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Marketing",Director,5,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Marketing",Marketing,5,2,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+"Partner, Partner, Marketing",Partner,3,2,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Marketing",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Marketing",Partner,3,2,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Marketing",Marketing,3,2,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+Education Director,Education,2,1,9,Education,PROPN,NNP,compound,Xxxxx,0.0
+Education Director,Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Architect, Director",Architect,2,2,9,architect,NOUN,NN,ROOT,Xxxxx,0.0
+"Architect, Director",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Architect, Director",Director,2,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Product Development",Senior,6,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Product Development",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Product Development",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Product Development",Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Product Development",Product,6,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Product Development",Development,6,1,11,Development,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Publisher",Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Publisher",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Publisher",Publisher,2,1,9,Publisher,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Engineering, Scientist",Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Engineering, Scientist",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Engineering, Scientist",Director,4,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Scientist",Engineering,4,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Scientist",Scientist,4,1,9,Scientist,PROPN,NNP,appos,Xxxxx,0.0
+Developer,Developer,1,2,9,developer,NOUN,NN,ROOT,Xxxxx,0.0
+Deputy Director,Deputy,2,1,6,Deputy,PROPN,NNP,compound,Xxxxx,0.0
+Deputy Director,Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Strategy",Senior,5,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Strategy",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Strategy",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Strategy",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Strategy",Strategy,5,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+Supervisor,Supervisor,1,1,10,supervisor,NOUN,NN,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Analytics",Senior,5,2,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Analytics",Director,5,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Analytics",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Analytics",Director,5,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Analytics",Analytics,5,2,9,Analytics,PROPN,NNPS,conj,Xxxxx,0.0
+Athletic Director,Athletic,2,1,8,Athletic,PROPN,NNP,compound,Xxxxx,0.0
+Athletic Director,Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Business Architect, Product Owner",Business,4,1,8,business,NOUN,NN,compound,Xxxxx,0.0
+"Business Architect, Product Owner",Architect,4,1,9,Architect,PROPN,NNP,ROOT,Xxxxx,0.0
+"Business Architect, Product Owner",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Business Architect, Product Owner",Product,4,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Business Architect, Product Owner",Owner,4,1,5,Owner,PROPN,NNP,appos,Xxxxx,0.0
+"Partner, Partner, Operations, Partner, Strategy",Partner,5,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Operations, Partner, Strategy",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Operations, Partner, Strategy",Partner,5,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Operations, Partner, Strategy",Operations,5,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Operations, Partner, Strategy",Strategy,5,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"VP, VP, Marketing, VP, Sales",VP,5,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Marketing, VP, Sales",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Marketing, VP, Sales",VP,5,1,2,VP,PROPN,NNP,conj,XX,0.0
+"VP, VP, Marketing, VP, Sales",Marketing,5,1,9,Marketing,PROPN,NNP,conj,Xxxxx,0.0
+"VP, VP, Marketing, VP, Sales",Sales,5,1,5,sale,NOUN,NNS,appos,Xxxxx,0.0
+"Director, Director, Communications",Director,3,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Communications",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Communications",Director,3,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Communications",Communications,3,2,14,Communications,PROPN,NNP,appos,Xxxxx,0.0
+Security Architect,Security,2,1,8,security,NOUN,NN,compound,Xxxxx,0.0
+Security Architect,Architect,2,1,9,Architect,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships, Managing Director, Product",Managing,8,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships, Managing Director, Product",Director,8,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships, Managing Director, Product",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Partnerships, Managing Director, Product",Director,8,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships, Managing Director, Product",Partnerships,8,1,12,Partnerships,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships, Managing Director, Product",Director,8,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Partnerships, Managing Director, Product",Product,8,1,7,product,NOUN,NN,appos,Xxxxx,0.0
+"CTO, Senior Principal Engineer",CTO,4,1,3,CTO,PROPN,NNP,ROOT,XXX,0.0
+"CTO, Senior Principal Engineer",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"CTO, Senior Principal Engineer",Senior,4,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"CTO, Senior Principal Engineer",Principal,4,1,9,Principal,PROPN,NNP,compound,Xxxxx,0.0
+"CTO, Senior Principal Engineer",Engineer,4,1,8,Engineer,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Operations, Director, People",Director,5,4,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Operations, Director, People",",",5,4,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Operations, Director, People",Director,5,4,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Operations, Director, People",Operations,5,4,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Operations, Director, People",People,5,4,6,People,NOUN,NNS,conj,Xxxxx,0.0
+"Director, Director, Art",Director,3,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Art",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Art",Director,3,2,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Art",Art,3,2,3,art,NOUN,NN,appos,Xxx,0.0
+"CEO, President",CEO,2,2,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, President",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"CEO, President",President,2,2,9,President,PROPN,NNP,npadvmod,Xxxxx,0.0
+Senior Director Of Software Engineering,Senior,5,2,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Director Of Software Engineering,Director,5,2,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+Senior Director Of Software Engineering,Of,5,2,2,of,ADP,IN,prep,Xx,0.0
+Senior Director Of Software Engineering,Software,5,2,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+Senior Director Of Software Engineering,Engineering,5,2,11,Engineering,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Creative, Head of Creative, Strategy",Head,7,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Creative, Head of Creative, Strategy",of,7,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Creative, Head of Creative, Strategy",Creative,7,1,8,Creative,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Creative, Head of Creative, Strategy",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Creative, Head of Creative, Strategy",Head,7,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Creative, Head of Creative, Strategy",Strategy,7,1,8,strategy,NOUN,NN,npadvmod,Xxxxx,0.0
+"Director, Director, Hardware",Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Hardware",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Hardware",Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Hardware",Hardware,3,1,8,Hardware,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Chief Engineer, Chief Engineer, Manufacturing",Chief,5,2,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Engineer, Chief Engineer, Manufacturing",Engineer,5,2,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Engineer, Chief Engineer, Manufacturing",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Chief Engineer, Chief Engineer, Manufacturing",Engineer,5,2,8,Engineer,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Engineer, Chief Engineer, Manufacturing",Manufacturing,5,2,13,manufacturing,NOUN,NN,appos,Xxxxx,0.0
+Head of Program Management,Head,4,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Program Management,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Head of Program Management,Program,4,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+Head of Program Management,Management,4,1,10,Management,PROPN,NNP,pobj,Xxxxx,0.0
+"Director, Director, Advertising, Director, Engineering",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Advertising, Director, Engineering",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Advertising, Director, Engineering",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Advertising, Director, Engineering",Advertising,5,1,11,Advertising,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Advertising, Director, Engineering",Director,5,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Advertising, Director, Engineering",Engineering,5,1,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Broadcast, Managing Director, Partnerships",Managing,8,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Broadcast, Managing Director, Partnerships",Director,8,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Broadcast, Managing Director, Partnerships",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Broadcast, Managing Director, Partnerships",Director,8,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Broadcast, Managing Director, Partnerships",Broadcast,8,1,9,Broadcast,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Broadcast, Managing Director, Partnerships",Director,8,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Broadcast, Managing Director, Partnerships",Partnerships,8,1,12,partnership,NOUN,NNS,appos,Xxxxx,0.0
+"Director, Director, Advertising, Director, Product Management",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Advertising, Director, Product Management",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Advertising, Director, Product Management",Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Advertising, Director, Product Management",Advertising,6,1,11,Advertising,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Advertising, Director, Product Management",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Advertising, Director, Product Management",Product,6,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Advertising, Director, Product Management",Management,6,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Account Executive,Account,2,1,7,Account,PROPN,NNP,compound,Xxxxx,0.0
+Account Executive,Executive,2,1,9,Executive,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Diver",Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Diver",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Diver",Diver,2,1,5,Diver,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Creative",Managing,5,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Creative",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Creative",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Creative",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Creative",Creative,5,1,8,Creative,PROPN,NNP,appos,Xxxxx,0.0
+"Finance Officer, VP",Finance,3,1,7,Finance,PROPN,NNP,compound,Xxxxx,0.0
+"Finance Officer, VP",Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Finance Officer, VP",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Finance Officer, VP",VP,3,1,2,VP,PROPN,NNP,appos,XX,0.0
+"CEO, Director",CEO,2,1,3,ceo,NOUN,NN,ROOT,XXX,0.0
+"CEO, Director",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"CEO, Director",Director,2,1,8,Director,PROPN,NNP,npadvmod,Xxxxx,0.0
+"VP, VP, Operations, VP, Strategy",VP,5,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Operations, VP, Strategy",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Operations, VP, Strategy",VP,5,1,2,VP,PROPN,NNP,conj,XX,0.0
+"VP, VP, Operations, VP, Strategy",Operations,5,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"VP, VP, Operations, VP, Strategy",VP,5,1,2,VP,PROPN,NNP,nmod,XX,0.0
+"VP, VP, Operations, VP, Strategy",Strategy,5,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+Solution Architect,Solution,2,1,8,solution,NOUN,NN,compound,Xxxxx,0.0
+Solution Architect,Architect,2,1,9,architect,NOUN,NN,ROOT,Xxxxx,0.0
+"Director, Video Editor",Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Video Editor",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Video Editor",Video,3,1,5,Video,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Video Editor",Editor,3,1,6,Editor,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Project Lead",Director,3,1,8,director,NOUN,NN,ROOT,Xxxxx,0.0
+"Director, Project Lead",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Project Lead",Project,3,1,7,Project,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Project Lead",Lead,3,1,4,Lead,PROPN,NNP,appos,Xxxx,0.0
+Technical Director,Technical,2,1,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+Technical Director,Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Accounting, Director, Finance",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Accounting, Director, Finance",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Accounting, Director, Finance",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Accounting, Director, Finance",Accounting,5,1,10,Accounting,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Accounting, Director, Finance",Director,5,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Accounting, Director, Finance",Finance,5,1,7,finance,NOUN,NN,appos,Xxxxx,0.0
+Advocate,Advocate,1,1,8,advocate,VERB,VB,ROOT,Xxxxx,0.0
+"VP, VP, User Experience",VP,4,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, User Experience",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, User Experience",VP,4,1,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, User Experience",User,4,1,4,User,PROPN,NNP,compound,Xxxx,0.0
+"VP, VP, User Experience",Experience,4,1,10,Experience,PROPN,NNP,appos,Xxxxx,0.0
+"CFO, Controller",CFO,2,1,3,CFO,PROPN,NNP,ROOT,XXX,0.0
+"CFO, Controller",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"CFO, Controller",Controller,2,1,10,Controller,PROPN,NNP,appos,Xxxxx,0.0
+"Founder, Owner",Founder,2,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+"Founder, Owner",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Founder, Owner",Owner,2,1,5,Owner,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Manufacturing, Director, Strategy",Director,5,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Manufacturing, Director, Strategy",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Manufacturing, Director, Strategy",Director,5,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Manufacturing, Director, Strategy",Manufacturing,5,1,13,Manufacturing,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Manufacturing, Director, Strategy",Director,5,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Manufacturing, Director, Strategy",Strategy,5,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"Head of Product Management, Head of Product Management, Design",Head,9,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Product Management, Head of Product Management, Design",of,9,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Product Management, Head of Product Management, Design",Product,9,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Head of Product Management, Head of Product Management, Design",Management,9,1,10,Management,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Product Management, Head of Product Management, Design",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Product Management, Head of Product Management, Design",Head,9,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Product Management, Head of Product Management, Design",Design,9,1,6,design,NOUN,NN,appos,Xxxxx,0.0
+"Senior Director, Senior Director, Product, VP, VP, Product Management",Senior,9,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Product, VP, VP, Product Management",Director,9,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Director, Senior Director, Product, VP, VP, Product Management",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Director, Senior Director, Product, VP, VP, Product Management",Director,9,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Senior Director, Senior Director, Product, VP, VP, Product Management",Product,9,1,7,Product,PROPN,NNP,conj,Xxxxx,0.0
+"Senior Director, Senior Director, Product, VP, VP, Product Management",VP,9,1,2,VP,PROPN,NNP,conj,XX,0.0
+"Senior Director, Senior Director, Product, VP, VP, Product Management",Product,9,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Director, Senior Director, Product, VP, VP, Product Management",Management,9,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+"Chief Of Staff, Technical Advisor",Chief,5,1,5,Chief,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Of Staff, Technical Advisor",Of,5,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Technical Advisor",Staff,5,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Technical Advisor",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Technical Advisor",Technical,5,1,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Of Staff, Technical Advisor",Advisor,5,1,7,Advisor,PROPN,NNP,appos,Xxxxx,0.0
+"Head of Operations, Head of Operations, Design, Head of Operations, Program Management",Head,12,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+"Head of Operations, Head of Operations, Design, Head of Operations, Program Management",of,12,1,2,of,ADP,IN,prep,xx,0.0
+"Head of Operations, Head of Operations, Design, Head of Operations, Program Management",Operations,12,1,10,Operations,PROPN,NNP,pobj,Xxxxx,0.0
+"Head of Operations, Head of Operations, Design, Head of Operations, Program Management",",",12,1,1,",",PUNCT,",",punct,",",0.0
+"Head of Operations, Head of Operations, Design, Head of Operations, Program Management",Head,12,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Head of Operations, Head of Operations, Design, Head of Operations, Program Management",Design,12,1,6,Design,PROPN,NNP,conj,Xxxxx,0.0
+"Head of Operations, Head of Operations, Design, Head of Operations, Program Management",Program,12,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Head of Operations, Head of Operations, Design, Head of Operations, Program Management",Management,12,1,10,Management,PROPN,NNP,appos,Xxxxx,0.0
+Director Of Software Engineering,Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+Director Of Software Engineering,Of,4,1,2,of,ADP,IN,prep,Xx,0.0
+Director Of Software Engineering,Software,4,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+Director Of Software Engineering,Engineering,4,1,11,Engineering,PROPN,NNP,pobj,Xxxxx,0.0
+"Partner, Partner, Business Development",Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Business Development",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Business Development",Partner,4,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Business Development",Business,4,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+"Partner, Partner, Business Development",Development,4,1,11,Development,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Audit",Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Audit",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Audit",Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Audit",Audit,3,1,5,Audit,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Customer Success",Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Customer Success",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Customer Success",Director,4,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Customer Success",Customer,4,1,8,Customer,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Customer Success",Success,4,1,7,Success,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Head of Sales",Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Head of Sales",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Head of Sales",Head,4,1,4,Head,PROPN,NNP,appos,Xxxx,0.0
+"Director, Head of Sales",of,4,1,2,of,ADP,IN,prep,xx,0.0
+"Director, Head of Sales",Sales,4,1,5,Sales,PROPN,NNPS,pobj,Xxxxx,0.0
+"Director, Director, Insurance",Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Insurance",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Insurance",Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Insurance",Insurance,3,1,9,insurance,NOUN,NN,appos,Xxxxx,0.0
+"Director, Director, Engineering, Director, User Experience",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Engineering, Director, User Experience",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Engineering, Director, User Experience",Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Engineering, Director, User Experience",Engineering,6,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Director, User Experience",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Director, User Experience",User,6,1,4,User,PROPN,NNP,compound,Xxxx,0.0
+"Director, Director, Engineering, Director, User Experience",Experience,6,1,10,Experience,PROPN,NNP,appos,Xxxxx,0.0
+Head of Analytics,Head,3,1,4,Head,PROPN,NNP,ROOT,Xxxx,0.0
+Head of Analytics,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Head of Analytics,Analytics,3,1,9,Analytics,PROPN,NNPS,pobj,Xxxxx,0.0
+"Director, Director, Business Development, Director, Partnerships",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Business Development, Director, Partnerships",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Business Development, Director, Partnerships",Director,6,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Business Development, Director, Partnerships",Business,6,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Business Development, Director, Partnerships",Development,6,1,11,Development,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Business Development, Director, Partnerships",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Business Development, Director, Partnerships",Partnerships,6,1,12,partnership,NOUN,NNS,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",Managing,14,1,8,Managing,PROPN,NNP,compound,Xxxxx,0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",Director,14,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",",",14,1,1,",",PUNCT,",",punct,",",0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",Director,14,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",Operations,14,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",Director,14,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",Product,14,1,7,product,NOUN,NN,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",Sales,14,1,5,Sales,PROPN,NNP,conj,Xxxxx,0.0
+"Managing Director, Managing Director, Operations, Managing Director, Product, Managing Director, Sales, Managing Director, Strategy",Strategy,14,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+"VP, VP, Operations, VP, People",VP,5,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Operations, VP, People",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Operations, VP, People",VP,5,1,2,VP,PROPN,NNP,conj,XX,0.0
+"VP, VP, Operations, VP, People",Operations,5,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"VP, VP, Operations, VP, People",People,5,1,6,People,NOUN,NNS,appos,Xxxxx,0.0
+"Partner, Partner, Professional Services",Partner,4,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Professional Services",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Professional Services",Partner,4,1,7,Partner,PROPN,NNP,conj,Xxxxx,0.0
+"Partner, Partner, Professional Services",Professional,4,1,12,Professional,PROPN,NNP,compound,Xxxxx,0.0
+"Partner, Partner, Professional Services",Services,4,1,8,Services,PROPN,NNPS,appos,Xxxxx,0.0
+Chief Creative Officer,Chief,3,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+Chief Creative Officer,Creative,3,1,8,Creative,PROPN,NNP,amod,Xxxxx,0.0
+Chief Creative Officer,Officer,3,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief HR Officer, HR Officer",Chief,5,1,5,chief,ADJ,JJ,compound,Xxxxx,0.0
+"Chief HR Officer, HR Officer",HR,5,1,2,HR,PROPN,NNP,nmod,XX,0.0
+"Chief HR Officer, HR Officer",Officer,5,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief HR Officer, HR Officer",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Chief HR Officer, HR Officer",HR,5,1,2,HR,PROPN,NNP,compound,XX,0.0
+"Chief HR Officer, HR Officer",Officer,5,1,7,officer,NOUN,NN,appos,Xxxxx,0.0
+"Manager, Manager, Partnerships",Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Partnerships",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Partnerships",Manager,3,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Partnerships",Partnerships,3,1,12,partnership,NOUN,NNS,conj,Xxxxx,0.0
+"Team Manager, Team Manager, Sales",Team,5,1,4,Team,PROPN,NNP,compound,Xxxx,0.0
+"Team Manager, Team Manager, Sales",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Team Manager, Team Manager, Sales",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Team Manager, Team Manager, Sales",Manager,5,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Team Manager, Team Manager, Sales",Sales,5,1,5,sale,NOUN,NNS,appos,Xxxxx,0.0
+"Manager, Manager, Operations",Manager,3,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Operations",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Operations",Manager,3,2,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Operations",Operations,3,2,10,Operations,PROPN,NNPS,conj,Xxxxx,0.0
+"Manager, Program Manager",Manager,3,19,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Program Manager",",",3,19,1,",",PUNCT,",",punct,",",0.0
+"Manager, Program Manager",Program,3,19,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Program Manager",Manager,3,19,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, Product",Program,8,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, Product",Manager,8,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, Product",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Program Manager, Operations, Program Manager, Product",Manager,8,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, Product",Operations,8,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, Product",Product,8,1,7,product,NOUN,NN,conj,Xxxxx,0.0
+"Manager, Manager, Software Development",Manager,4,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Software Development",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Software Development",Manager,4,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Software Development",Software,4,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Software Development",Development,4,1,11,Development,PROPN,NNP,appos,Xxxxx,0.0
+Territory Sales Manager,Territory,3,1,9,Territory,PROPN,NNP,compound,Xxxxx,0.0
+Territory Sales Manager,Sales,3,1,5,Sales,PROPN,NNP,compound,Xxxxx,0.0
+Territory Sales Manager,Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Product Marketing",Manager,4,3,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Product Marketing",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Product Marketing",Manager,4,3,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Product Marketing",Product,4,3,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Product Marketing",Marketing,4,3,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+Manager,Manager,1,18,7,manager,NOUN,NN,ROOT,Xxxxx,0.0
+"Community Manager, Manager",Community,3,1,9,community,NOUN,NN,compound,Xxxxx,0.0
+"Community Manager, Manager",Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Community Manager, Manager",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Community Manager, Manager",Manager,3,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, User Experience, Manager, Manager, User Experience",Director,8,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, User Experience, Manager, Manager, User Experience",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, User Experience, Manager, Manager, User Experience",Director,8,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, User Experience, Manager, Manager, User Experience",User,8,1,4,User,PROPN,NNP,compound,Xxxx,0.0
+"Director, Director, User Experience, Manager, Manager, User Experience",Experience,8,1,10,Experience,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, User Experience, Manager, Manager, User Experience",Manager,8,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, User Experience, Manager, Manager, User Experience",Experience,8,1,10,Experience,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Growth",Manager,3,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Growth",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Growth",Manager,3,2,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Growth",Growth,3,2,6,growth,NOUN,NN,conj,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager",Manager,5,9,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager",",",5,9,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Product, Product Manager",Manager,5,9,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager",Product,5,9,7,product,NOUN,NN,conj,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager",Product,5,9,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager",Manager,5,9,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Program Manager, Program Manager, Network",Program,5,2,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Program Manager, Network",Manager,5,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Program Manager, Network",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Program Manager, Network",Manager,5,2,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Network",Network,5,2,7,Network,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Engineering",Manager,3,4,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Engineering",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Engineering",Manager,3,4,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Engineering",Engineering,3,4,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Consultant, Manager",Consultant,2,1,10,consultant,NOUN,NN,ROOT,Xxxxx,0.0
+"Consultant, Manager",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Consultant, Manager",Manager,2,1,7,manager,NOUN,NN,appos,Xxxxx,0.0
+"Manager, Manager, Business Development, Manager, Partnerships",Manager,6,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Business Development, Manager, Partnerships",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Business Development, Manager, Partnerships",Manager,6,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Business Development, Manager, Partnerships",Business,6,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Business Development, Manager, Partnerships",Development,6,1,11,Development,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Business Development, Manager, Partnerships",Partnerships,6,1,12,partnership,NOUN,NNS,conj,Xxxxx,0.0
+"Program Manager, Technical Program Manager",Program,5,13,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Technical Program Manager",Manager,5,13,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Technical Program Manager",",",5,13,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Technical Program Manager",Technical,5,13,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Technical Program Manager",Manager,5,13,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Engineering, Software Engineering Manager",Manager,6,3,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Engineering, Software Engineering Manager",",",6,3,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Engineering, Software Engineering Manager",Manager,6,3,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Engineering, Software Engineering Manager",Engineering,6,3,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Engineering, Software Engineering Manager",Software,6,3,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Engineering, Software Engineering Manager",Engineering,6,3,11,Engineering,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Engineering, Software Engineering Manager",Manager,6,3,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Manager, Senior Manager, Marketing, Senior Manager, Product, Senior Manager, Product Marketing",Senior,12,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Manager, Marketing, Senior Manager, Product, Senior Manager, Product Marketing",Manager,12,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Manager, Senior Manager, Marketing, Senior Manager, Product, Senior Manager, Product Marketing",",",12,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Manager, Senior Manager, Marketing, Senior Manager, Product, Senior Manager, Product Marketing",Manager,12,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Senior Manager, Senior Manager, Marketing, Senior Manager, Product, Senior Manager, Product Marketing",Marketing,12,1,9,Marketing,PROPN,NNP,conj,Xxxxx,0.0
+"Senior Manager, Senior Manager, Marketing, Senior Manager, Product, Senior Manager, Product Marketing",Product,12,1,7,product,NOUN,NN,conj,Xxxxx,0.0
+"Senior Manager, Senior Manager, Marketing, Senior Manager, Product, Senior Manager, Product Marketing",Product,12,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Manager, Marketing, Senior Manager, Product, Senior Manager, Product Marketing",Marketing,12,1,9,marketing,NOUN,NN,conj,Xxxxx,0.0
+"Manager, Project Manager",Manager,3,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Project Manager",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Manager, Project Manager",Project,3,2,7,Project,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Project Manager",Manager,3,2,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Human Resources",Manager,4,3,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Human Resources",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Human Resources",Manager,4,3,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Human Resources",Human,4,3,5,Human,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Human Resources",Resources,4,3,9,Resources,PROPN,NNPS,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Engineering",Program,5,2,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Program Manager, Engineering",Manager,5,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Program Manager, Engineering",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Program Manager, Engineering",Manager,5,2,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Program Manager, Program Manager, Engineering",Engineering,5,2,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Manager, Senior Manager, Engineering, Senior Manager, Professional Services",Senior,9,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Manager, Engineering, Senior Manager, Professional Services",Manager,9,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Manager, Senior Manager, Engineering, Senior Manager, Professional Services",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Manager, Senior Manager, Engineering, Senior Manager, Professional Services",Manager,9,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Senior Manager, Senior Manager, Engineering, Senior Manager, Professional Services",Engineering,9,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Senior Manager, Senior Manager, Engineering, Senior Manager, Professional Services",Professional,9,1,12,Professional,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Manager, Engineering, Senior Manager, Professional Services",Services,9,1,8,Services,PROPN,NNPS,conj,Xxxxx,0.0
+"Director, Director, Compliance",Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Compliance",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Compliance",Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Compliance",Compliance,3,1,10,compliance,NOUN,NN,appos,Xxxxx,0.0
+"Senior Manager, Senior Project Manager",Senior,5,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Project Manager",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Manager, Senior Project Manager",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Manager, Senior Project Manager",Project,5,1,7,Project,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Project Manager",Manager,5,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+Senior Technical Program Manager,Senior,4,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Technical Program Manager,Technical,4,1,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+Senior Technical Program Manager,Program,4,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+Senior Technical Program Manager,Manager,4,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Project Manager, Team Lead",Project,4,1,7,Project,PROPN,NNP,compound,Xxxxx,0.0
+"Project Manager, Team Lead",Manager,4,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Project Manager, Team Lead",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Project Manager, Team Lead",Team,4,1,4,Team,PROPN,NNP,compound,Xxxx,0.0
+"Project Manager, Team Lead",Lead,4,1,4,Lead,PROPN,NNP,appos,Xxxx,0.0
+"Director, Video Producer",Director,3,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Video Producer",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Video Producer",Video,3,1,5,Video,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Video Producer",Producer,3,1,8,Producer,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Engineering, Manager, User Experience",Manager,6,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Engineering, Manager, User Experience",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Engineering, Manager, User Experience",Manager,6,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Engineering, Manager, User Experience",Engineering,6,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Engineering, Manager, User Experience",User,6,1,4,User,PROPN,NNP,compound,Xxxx,0.0
+"Manager, Manager, Engineering, Manager, User Experience",Experience,6,1,10,Experience,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Marketing, Manager, Product, Manager, Product Marketing",Manager,8,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Marketing, Manager, Product, Manager, Product Marketing",",",8,2,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Marketing, Manager, Product, Manager, Product Marketing",Manager,8,2,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Marketing, Manager, Product, Manager, Product Marketing",Marketing,8,2,9,Marketing,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Marketing, Manager, Product, Manager, Product Marketing",Product,8,2,7,Product,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Marketing, Manager, Product, Manager, Product Marketing",Product,8,2,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Marketing, Manager, Product, Manager, Product Marketing",Marketing,8,2,9,marketing,NOUN,NN,appos,Xxxxx,0.0
+"Manager, Manager, Marketing",Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Marketing",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Marketing",Manager,3,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Marketing",Marketing,3,1,9,marketing,NOUN,NN,conj,Xxxxx,0.0
+"Senior Manager, Senior Program Manager",Senior,5,2,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Program Manager",Manager,5,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Manager, Senior Program Manager",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Senior Manager, Senior Program Manager",Program,5,2,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Program Manager",Manager,5,2,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+CCO,CCO,1,1,3,CCO,PROPN,NNP,ROOT,XXX,0.0
+"Manager, Manager, Business Development",Manager,4,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Business Development",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Business Development",Manager,4,2,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Business Development",Business,4,2,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Business Development",Development,4,2,11,Development,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Finance, Senior Manager, Senior Manager, Finance",Manager,8,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Finance, Senior Manager, Senior Manager, Finance",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Finance, Senior Manager, Senior Manager, Finance",Manager,8,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Finance, Senior Manager, Senior Manager, Finance",Finance,8,1,7,Finance,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Finance, Senior Manager, Senior Manager, Finance",Senior,8,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Finance, Senior Manager, Senior Manager, Finance",Finance,8,1,7,finance,NOUN,NN,conj,Xxxxx,0.0
+"Manager, Social Media Manager",Manager,4,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Social Media Manager",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Social Media Manager",Social,4,1,6,Social,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Social Media Manager",Media,4,1,5,Media,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Social Media Manager",Manager,4,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Staff Software Engineer, Technician",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Staff Software Engineer, Technician",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Staff Software Engineer, Technician",Staff,5,1,5,Staff,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Staff Software Engineer, Technician",Software,5,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Staff Software Engineer, Technician",Engineer,5,1,8,Engineer,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Staff Software Engineer, Technician",Technician,5,1,10,Technician,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, People, Manager, Production, Program Manager",Manager,7,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, People, Manager, Production, Program Manager",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, People, Manager, Production, Program Manager",Manager,7,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, People, Manager, Production, Program Manager",People,7,1,6,People,NOUN,NNS,conj,Xxxxx,0.0
+"Manager, Manager, People, Manager, Production, Program Manager",Production,7,1,10,production,NOUN,NN,conj,Xxxxx,0.0
+"Manager, Manager, People, Manager, Production, Program Manager",Program,7,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Technical Program Manager, Technical Program Manager, Medical",Manager,12,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Technical Program Manager, Technical Program Manager, Medical",",",12,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Product, Product Manager, Technical Program Manager, Technical Program Manager, Medical",Manager,12,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Technical Program Manager, Technical Program Manager, Medical",Product,12,1,7,product,NOUN,NN,conj,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Technical Program Manager, Technical Program Manager, Medical",Product,12,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Technical Program Manager, Technical Program Manager, Medical",Technical,12,1,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Technical Program Manager, Technical Program Manager, Medical",Program,12,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Technical Program Manager, Technical Program Manager, Medical",Medical,12,1,7,Medical,PROPN,NNP,appos,Xxxxx,0.0
+Software Engineering Manager,Software,3,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+Software Engineering Manager,Engineering,3,1,11,Engineering,PROPN,NNP,compound,Xxxxx,0.0
+Software Engineering Manager,Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Information Technology",Director,4,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Information Technology",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Information Technology",Director,4,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Information Technology",Information,4,1,11,Information,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Information Technology",Technology,4,1,10,Technology,PROPN,NNP,appos,Xxxxx,0.0
+"VP, VP, Recruiting",VP,3,1,2,VP,PROPN,NNP,ROOT,XX,0.0
+"VP, VP, Recruiting",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"VP, VP, Recruiting",VP,3,1,2,VP,PROPN,NNP,appos,XX,0.0
+"VP, VP, Recruiting",Recruiting,3,1,10,Recruiting,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Hardware, Manager, Operations",Manager,5,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Hardware, Manager, Operations",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Hardware, Manager, Operations",Manager,5,2,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Hardware, Manager, Operations",Hardware,5,2,8,Hardware,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Hardware, Manager, Operations",Operations,5,2,10,Operations,PROPN,NNPS,conj,Xxxxx,0.0
+Technical Program Manager,Technical,3,2,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+Technical Program Manager,Program,3,2,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+Technical Program Manager,Manager,3,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Senior Software Engineer",Manager,4,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Senior Software Engineer",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Senior Software Engineer",Senior,4,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Senior Software Engineer",Software,4,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Senior Software Engineer",Engineer,4,1,8,Engineer,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Technology Manager, Senior Technology Manager, Product",Senior,7,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Technology Manager, Senior Technology Manager, Product",Technology,7,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Technology Manager, Senior Technology Manager, Product",Manager,7,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Technology Manager, Senior Technology Manager, Product",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Technology Manager, Senior Technology Manager, Product",Manager,7,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Technology Manager, Senior Technology Manager, Product",Product,7,1,7,product,NOUN,NN,conj,Xxxxx,0.0
+"Advisor, Senior Program Manager",Advisor,4,1,7,Advisor,PROPN,NNP,ROOT,Xxxxx,0.0
+"Advisor, Senior Program Manager",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Advisor, Senior Program Manager",Senior,4,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Advisor, Senior Program Manager",Program,4,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Advisor, Senior Program Manager",Manager,4,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Engineering, Manager, Hardware",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Engineering, Manager, Hardware",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Engineering, Manager, Hardware",Manager,5,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Engineering, Manager, Hardware",Engineering,5,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Engineering, Manager, Hardware",Hardware,5,1,8,Hardware,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Technical Lead",Manager,3,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Technical Lead",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Manager, Technical Lead",Technical,3,2,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Technical Lead",Lead,3,2,4,Lead,PROPN,NNP,appos,Xxxx,0.0
+Senior Manager,Senior,2,1,6,senior,ADJ,JJ,amod,Xxxxx,0.0
+Senior Manager,Manager,2,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Manager, Senior Manager, Finance",Senior,5,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Senior Manager, Senior Manager, Finance",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Senior Manager, Senior Manager, Finance",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Senior Manager, Senior Manager, Finance",Manager,5,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Senior Manager, Senior Manager, Finance",Finance,5,1,7,finance,NOUN,NN,appos,Xxxxx,0.0
+"Manager, Manager, Design",Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Design",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Design",Manager,3,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Design",Design,3,1,6,design,NOUN,NN,conj,Xxxxx,0.0
+"Chief Of Staff, Manager, Manager, Operations, Manager, Product",Chief,8,1,5,Chief,PROPN,NNP,nmod,Xxxxx,0.0
+"Chief Of Staff, Manager, Manager, Operations, Manager, Product",Of,8,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Manager, Manager, Operations, Manager, Product",Staff,8,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Manager, Manager, Operations, Manager, Product",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Manager, Manager, Operations, Manager, Product",Manager,8,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Of Staff, Manager, Manager, Operations, Manager, Product",Manager,8,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Of Staff, Manager, Manager, Operations, Manager, Product",Operations,8,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Of Staff, Manager, Manager, Operations, Manager, Product",Product,8,1,7,product,NOUN,NN,conj,Xxxxx,0.0
+"Director, Director, Engineering, Manager, Manager, Engineering",Director,6,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Engineering, Manager, Manager, Engineering",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Engineering, Manager, Manager, Engineering",Director,6,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Manager, Manager, Engineering",Engineering,6,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Manager, Manager, Engineering",Manager,6,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Sales",Manager,3,4,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Sales",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Sales",Manager,3,4,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Sales",Sales,3,4,5,sale,NOUN,NNS,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, People, Program Manager, Training",Program,11,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, People, Program Manager, Training",Manager,11,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, People, Program Manager, Training",",",11,1,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Program Manager, Operations, Program Manager, People, Program Manager, Training",Manager,11,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, People, Program Manager, Training",Operations,11,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, People, Program Manager, Training",People,11,1,6,People,NOUN,NNS,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Operations, Program Manager, People, Program Manager, Training",Training,11,1,8,training,NOUN,NN,appos,Xxxxx,0.0
+"Manager, Manager, Strategy",Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Strategy",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Strategy",Manager,3,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Strategy",Strategy,3,1,8,Strategy,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Analytics",Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Analytics",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Analytics",Manager,3,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Analytics",Analytics,3,1,9,Analytics,PROPN,NNPS,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Strategy",Program,5,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Program Manager, Strategy",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Program Manager, Strategy",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Program Manager, Strategy",Manager,5,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Program Manager, Program Manager, Strategy",Strategy,5,1,8,Strategy,PROPN,NNP,appos,Xxxxx,0.0
+Owner,Owner,1,1,5,owner,NOUN,NN,ROOT,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Senior Manager, Senior Product Manager",Manager,10,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Senior Manager, Senior Product Manager",",",10,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Product, Product Manager, Senior Manager, Senior Product Manager",Manager,10,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Senior Manager, Senior Product Manager",Product,10,1,7,product,NOUN,NN,conj,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Senior Manager, Senior Product Manager",Product,10,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Senior Manager, Senior Product Manager",Senior,10,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Manager, Product, Product Manager, Senior Manager, Senior Product Manager",Manager,10,1,7,manager,NOUN,NN,conj,Xxxxx,0.0
+"Program Manager, Program Manager, Sales",Program,5,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Program Manager, Sales",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Program Manager, Sales",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Program Manager, Sales",Manager,5,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Program Manager, Program Manager, Sales",Sales,5,1,5,sale,NOUN,NNS,appos,Xxxxx,0.0
+"Architect, Architect, Strategy",Architect,3,1,9,architect,NOUN,NN,ROOT,Xxxxx,0.0
+"Architect, Architect, Strategy",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Architect, Architect, Strategy",Architect,3,1,9,Architect,PROPN,NNP,appos,Xxxxx,0.0
+"Architect, Architect, Strategy",Strategy,3,1,8,strategy,NOUN,NN,appos,Xxxxx,0.0
+Territory Manager,Territory,2,2,9,territory,NOUN,NN,compound,Xxxxx,0.0
+Territory Manager,Manager,2,2,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Ads Sales, Director",Ads,3,1,3,Ads,PROPN,NNP,compound,Xxx,0.0
+"Ads Sales, Director",Sales,3,1,5,Sales,PROPN,NNP,ROOT,Xxxxx,0.0
+"Ads Sales, Director",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Ads Sales, Director",Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Publisher",Manager,2,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Publisher",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Publisher",Publisher,2,1,9,publisher,NOUN,NN,appos,Xxxxx,0.0
+"Manager, Staff Software Engineer",Manager,4,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Staff Software Engineer",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Staff Software Engineer",Staff,4,1,5,Staff,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Staff Software Engineer",Software,4,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Manager, Staff Software Engineer",Engineer,4,1,8,Engineer,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Program Management, Senior Program Manager",Director,7,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Program Management, Senior Program Manager",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Program Management, Senior Program Manager",Director,7,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Program Management, Senior Program Manager",Program,7,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Program Management, Senior Program Manager",Management,7,1,10,Management,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Program Management, Senior Program Manager",Senior,7,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Program Management, Senior Program Manager",Manager,7,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Business Leader, Director",Business,3,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+"Business Leader, Director",Leader,3,1,6,Leader,PROPN,NNP,ROOT,Xxxxx,0.0
+"Business Leader, Director",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Business Leader, Director",Director,3,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Engineering, Senior Director, Senior Director, Engineering",Director,8,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Director, Engineering, Senior Director, Senior Director, Engineering",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Director, Engineering, Senior Director, Senior Director, Engineering",Director,8,1,8,Director,PROPN,NNP,appos,Xxxxx,0.0
+"Director, Director, Engineering, Senior Director, Senior Director, Engineering",Engineering,8,1,11,Engineering,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Senior Director, Senior Director, Engineering",Senior,8,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Director, Director, Engineering, Senior Director, Senior Director, Engineering",Director,8,1,8,Director,PROPN,NNP,conj,Xxxxx,0.0
+"Director, Director, Engineering, Senior Director, Senior Director, Engineering",Engineering,8,1,11,Engineering,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Operations, Manager, Sales, Manager, Strategy",Manager,7,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Operations, Manager, Sales, Manager, Strategy",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Operations, Manager, Sales, Manager, Strategy",Manager,7,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Operations, Manager, Sales, Manager, Strategy",Operations,7,1,10,Operations,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Operations, Manager, Sales, Manager, Strategy",Sales,7,1,5,Sales,PROPN,NNP,conj,Xxxxx,0.0
+"Manager, Manager, Operations, Manager, Sales, Manager, Strategy",Strategy,7,1,8,Strategy,PROPN,NNP,conj,Xxxxx,0.0
+Customer Success Manager,Customer,3,1,8,Customer,PROPN,NNP,compound,Xxxxx,0.0
+Customer Success Manager,Success,3,1,7,Success,PROPN,NNP,compound,Xxxxx,0.0
+Customer Success Manager,Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Program Manager, Finance",Program,5,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Program Manager, Finance",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Program Manager, Finance",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Program Manager, Finance",Manager,5,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Program Manager, Program Manager, Finance",Finance,5,1,7,finance,NOUN,NN,appos,Xxxxx,0.0
+Senior Software Engineering Manager,Senior,4,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+Senior Software Engineering Manager,Software,4,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+Senior Software Engineering Manager,Engineering,4,1,11,Engineering,PROPN,NNP,compound,Xxxxx,0.0
+Senior Software Engineering Manager,Manager,4,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+Digital Marketing Manager,Digital,3,1,7,Digital,PROPN,NNP,compound,Xxxxx,0.0
+Digital Marketing Manager,Marketing,3,1,9,Marketing,PROPN,NNP,compound,Xxxxx,0.0
+Digital Marketing Manager,Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Inventory, Program Manager",Inventory,3,1,9,inventory,NOUN,NN,ROOT,Xxxxx,0.0
+"Inventory, Program Manager",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Inventory, Program Manager",Program,3,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Inventory, Program Manager",Manager,3,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Program Manager, Senior Technical Program Manager, Technical Program Manager",Program,9,1,7,Program,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Senior Technical Program Manager, Technical Program Manager",Manager,9,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Program Manager, Senior Technical Program Manager, Technical Program Manager",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Program Manager, Senior Technical Program Manager, Technical Program Manager",Senior,9,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Senior Technical Program Manager, Technical Program Manager",Technical,9,1,9,Technical,PROPN,NNP,compound,Xxxxx,0.0
+"Program Manager, Senior Technical Program Manager, Technical Program Manager",Manager,9,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Program Manager, Senior Technical Program Manager, Technical Program Manager",Manager,9,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Chief Of Staff, Developer",Chief,4,1,5,Chief,PROPN,NNP,nmod,Xxxxx,0.0
+"Chief Of Staff, Developer",Of,4,1,2,of,ADP,IN,prep,Xx,0.0
+"Chief Of Staff, Developer",Staff,4,1,5,Staff,PROPN,NNP,pobj,Xxxxx,0.0
+"Chief Of Staff, Developer",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Of Staff, Developer",Developer,4,1,9,Developer,PROPN,NNP,ROOT,Xxxxx,0.0
+Research Manager,Research,2,1,8,Research,PROPN,NNP,compound,Xxxxx,0.0
+Research Manager,Manager,2,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Staff Manager, Staff Manager, User Experience",Staff,6,1,5,Staff,PROPN,NNP,compound,Xxxxx,0.0
+"Staff Manager, Staff Manager, User Experience",Manager,6,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Staff Manager, Staff Manager, User Experience",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Staff Manager, Staff Manager, User Experience",Manager,6,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Staff Manager, Staff Manager, User Experience",User,6,1,4,User,PROPN,NNP,compound,Xxxx,0.0
+"Staff Manager, Staff Manager, User Experience",Experience,6,1,10,Experience,PROPN,NNP,appos,Xxxxx,0.0
+"Partner, Partner, Product",Partner,3,1,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Partner, Partner, Product",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Partner, Partner, Product",Partner,3,1,7,Partner,PROPN,NNP,nmod,Xxxxx,0.0
+"Partner, Partner, Product",Product,3,1,7,product,NOUN,NN,appos,Xxxxx,0.0
+"Team Manager, Team Manager, Product",Team,5,1,4,Team,PROPN,NNP,compound,Xxxx,0.0
+"Team Manager, Team Manager, Product",Manager,5,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Team Manager, Team Manager, Product",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Team Manager, Team Manager, Product",Manager,5,1,7,Manager,PROPN,NNP,conj,Xxxxx,0.0
+"Team Manager, Team Manager, Product",Product,5,1,7,product,NOUN,NN,appos,Xxxxx,0.0
+Process Manager,Process,2,1,7,Process,PROPN,NNP,compound,Xxxxx,0.0
+Process Manager,Manager,2,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Staff Senior Software Engineer, Staff Senior Software Engineering Manager",Staff,9,1,5,Staff,PROPN,NNP,compound,Xxxxx,0.0
+"Staff Senior Software Engineer, Staff Senior Software Engineering Manager",Senior,9,1,6,Senior,PROPN,NNP,compound,Xxxxx,0.0
+"Staff Senior Software Engineer, Staff Senior Software Engineering Manager",Software,9,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+"Staff Senior Software Engineer, Staff Senior Software Engineering Manager",Engineer,9,1,8,Engineer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Staff Senior Software Engineer, Staff Senior Software Engineering Manager",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Staff Senior Software Engineer, Staff Senior Software Engineering Manager",Engineering,9,1,11,Engineering,PROPN,NNP,compound,Xxxxx,0.0
+"Staff Senior Software Engineer, Staff Senior Software Engineering Manager",Manager,9,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Producer, Studio Manager",Producer,3,1,8,producer,NOUN,NN,ROOT,Xxxxx,0.0
+"Producer, Studio Manager",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Producer, Studio Manager",Studio,3,1,6,Studio,PROPN,NNP,compound,Xxxxx,0.0
+"Producer, Studio Manager",Manager,3,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Facilities",Manager,3,1,7,Manager,PROPN,NNP,ROOT,Xxxxx,0.0
+"Manager, Manager, Facilities",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Manager, Manager, Facilities",Manager,3,1,7,Manager,PROPN,NNP,appos,Xxxxx,0.0
+"Manager, Manager, Facilities",Facilities,3,1,10,facility,NOUN,NNS,conj,Xxxxx,0.0
+"Director, Engineer",Director,2,1,8,Director,PROPN,NNP,ROOT,Xxxxx,0.0
+"Director, Engineer",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Director, Engineer",Engineer,2,1,8,Engineer,PROPN,NNP,appos,Xxxxx,0.0

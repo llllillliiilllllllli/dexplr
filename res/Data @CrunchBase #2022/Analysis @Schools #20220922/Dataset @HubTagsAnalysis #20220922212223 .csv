@@ -1,0 +1,13 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+"Crunchbase Venture Program, Exited Unicorn",Crunchbase,5,1,10,Crunchbase,PROPN,NNP,compound,Xxxxx,0.0
+"Crunchbase Venture Program, Exited Unicorn",Venture,5,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Crunchbase Venture Program, Exited Unicorn",Program,5,1,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Crunchbase Venture Program, Exited Unicorn",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Crunchbase Venture Program, Exited Unicorn",Exited,5,1,6,Exited,PROPN,NNP,compound,Xxxxx,0.0
+"Crunchbase Venture Program, Exited Unicorn",Unicorn,5,1,7,Unicorn,PROPN,NNP,appos,Xxxxx,0.0
+Pledge 1%,Pledge,2,2,6,pledge,NOUN,NN,ROOT,Xxxxx,0.0
+Pledge 1%,1,2,2,1,1,NUM,CD,nummod,d,0.0
+Pledge 1%,%,2,2,1,%,NOUN,NN,npadvmod,%,0.0
+Crunchbase Venture Program,Crunchbase,3,7,10,Crunchbase,PROPN,NNP,compound,Xxxxx,0.0
+Crunchbase Venture Program,Venture,3,7,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Crunchbase Venture Program,Program,3,7,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0

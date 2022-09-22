@@ -1,0 +1,1243 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Pareto Holdings,Pareto,2,3,6,Pareto,PROPN,NNP,compound,Xxxxx,0.0
+Pareto Holdings,Holdings,2,3,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+Stanford University,Stanford,2,1,8,Stanford,PROPN,NNP,compound,Xxxxx,0.0
+Stanford University,University,2,1,10,University,PROPN,NNP,ROOT,Xxxxx,0.0
+The Abrahamic Business Circle,The,4,1,3,the,DET,DT,det,Xxx,0.0
+The Abrahamic Business Circle,Abrahamic,4,1,9,Abrahamic,PROPN,NNP,compound,Xxxxx,0.0
+The Abrahamic Business Circle,Business,4,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+The Abrahamic Business Circle,Circle,4,1,6,Circle,PROPN,NNP,ROOT,Xxxxx,0.0
+Bear Robotics,Bear,2,1,4,Bear,PROPN,NNP,compound,Xxxx,0.0
+Bear Robotics,Robotics,2,1,8,Robotics,PROPN,NNPS,ROOT,Xxxxx,0.0
+THE ALPHS,THE,2,1,3,the,DET,DT,det,XXX,0.0
+THE ALPHS,ALPHS,2,1,5,alph,NOUN,NNS,ROOT,XXXX,0.0
+Hindustan PowerProjects Pvt. Ltd.,Hindustan,4,1,9,Hindustan,PROPN,NNP,compound,Xxxxx,0.0
+Hindustan PowerProjects Pvt. Ltd.,PowerProjects,4,1,13,PowerProjects,PROPN,NNP,compound,XxxxxXxxxx,0.0
+Hindustan PowerProjects Pvt. Ltd.,Pvt,4,1,3,Pvt,PROPN,NNP,poss,Xxx,0.0
+Hindustan PowerProjects Pvt. Ltd.,.,4,1,1,.,PUNCT,.,punct,.,0.0
+Hindustan PowerProjects Pvt. Ltd.,Ltd.,4,1,4,Ltd.,PROPN,NNP,ROOT,Xxx.,0.0
+boAt,boAt,1,2,4,boat,NOUN,NN,ROOT,xxXx,0.0
+166 2nd Financial Services,166,4,1,3,166,NUM,CD,nummod,ddd,0.0
+166 2nd Financial Services,2nd,4,1,3,2nd,PROPN,NNP,compound,dxx,0.0
+166 2nd Financial Services,Financial,4,1,9,Financial,PROPN,NNP,compound,Xxxxx,0.0
+166 2nd Financial Services,Services,4,1,8,Services,PROPN,NNPS,ROOT,Xxxxx,0.0
+OfBusiness,OfBusiness,1,2,10,ofbusiness,NOUN,NN,ROOT,XxXxxxx,0.0
+MainStreet,MainStreet,1,1,10,MainStreet,NOUN,NNS,ROOT,XxxxXxxxx,0.0
+OpenAI,OpenAI,1,1,6,openai,VERB,VB,ROOT,XxxxXX,0.0
+Livspace,Livspace,1,2,8,livspace,NOUN,NN,ROOT,Xxxxx,0.0
+Uni Cards,Uni,2,1,3,Uni,PROPN,NNP,compound,Xxx,0.0
+Uni Cards,Cards,2,1,5,Cards,PROPN,NNP,ROOT,Xxxxx,0.0
+BeReal.,BeReal,1,1,6,BeReal,PROPN,NNP,ROOT,XxXxxx,0.0
+BeReal.,.,1,1,1,.,PUNCT,.,punct,.,0.0
+Bombay Shaving Company,Bombay,3,1,6,Bombay,PROPN,NNP,compound,Xxxxx,0.0
+Bombay Shaving Company,Shaving,3,1,7,Shaving,PROPN,NNP,compound,Xxxxx,0.0
+Bombay Shaving Company,Company,3,1,7,Company,PROPN,NNP,ROOT,Xxxxx,0.0
+Perday,Perday,1,1,6,Perday,PROPN,NNP,ROOT,Xxxxx,0.0
+Bitkub Capital Group Holdings,Bitkub,4,1,6,Bitkub,PROPN,NNP,compound,Xxxxx,0.0
+Bitkub Capital Group Holdings,Capital,4,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Bitkub Capital Group Holdings,Group,4,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+Bitkub Capital Group Holdings,Holdings,4,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+CRED,CRED,1,2,4,cred,ADV,RB,ROOT,XXXX,0.0
+Streamlined Ventures,Streamlined,2,1,11,streamlined,ADJ,JJ,amod,Xxxxx,0.0
+Streamlined Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+HashCash Consultants,HashCash,2,1,8,HashCash,PROPN,NNP,compound,XxxxXxxx,0.0
+HashCash Consultants,Consultants,2,1,11,consultant,NOUN,NNS,ROOT,Xxxxx,0.0
+Marwari Catalysts,Marwari,2,1,7,Marwari,PROPN,NNP,compound,Xxxxx,0.0
+Marwari Catalysts,Catalysts,2,1,9,Catalysts,PROPN,NNPS,ROOT,Xxxxx,0.0
+Twitch,Twitch,1,2,6,twitch,VERB,VB,ROOT,Xxxxx,0.0
+Serena Williams Foundation,Serena,3,1,6,Serena,PROPN,NNP,compound,Xxxxx,0.0
+Serena Williams Foundation,Williams,3,1,8,Williams,PROPN,NNP,compound,Xxxxx,0.0
+Serena Williams Foundation,Foundation,3,1,10,Foundation,PROPN,NNP,ROOT,Xxxxx,0.0
+Adobe,Adobe,1,1,5,adobe,NOUN,NN,ROOT,Xxxxx,0.0
+Fractal,Fractal,1,1,7,fractal,NOUN,NN,ROOT,Xxxxx,0.0
+Lattice,Lattice,1,1,7,lattice,NOUN,NN,ROOT,Xxxxx,0.0
+Spinny,Spinny,1,1,6,spinny,ADJ,JJ,ROOT,Xxxxx,0.0
+Valyoo Technologies,Valyoo,2,1,6,Valyoo,PROPN,NNP,compound,Xxxxx,0.0
+Valyoo Technologies,Technologies,2,1,12,Technologies,PROPN,NNPS,ROOT,Xxxxx,0.0
+CP Ventures,CP,2,2,2,CP,PROPN,NNP,compound,XX,0.0
+CP Ventures,Ventures,2,2,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Cardone Capital,Cardone,2,1,7,Cardone,PROPN,NNP,compound,Xxxxx,0.0
+Cardone Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Seven Seven Six,Seven,3,1,5,seven,NUM,CD,compound,Xxxxx,0.0
+Seven Seven Six,Six,3,1,3,six,NUM,CD,ROOT,Xxx,0.0
+Polygon,Polygon,1,1,7,Polygon,PROPN,NNP,ROOT,Xxxxx,0.0
+Park+,Park+,1,1,5,park+,SPACE,_SP,ROOT,Xxxx+,0.0
+CoinShares,CoinShares,1,1,10,coinshare,NOUN,NNS,ROOT,XxxxXxxxx,0.0
+Bocazon.com,Bocazon.com,1,1,11,Bocazon.com,PROPN,NNP,ROOT,Xxxxx.xxx,0.0
+AudioEye,AudioEye,1,1,8,AudioEye,NOUN,NNS,ROOT,XxxxxXxx,0.0
+Identiv,Identiv,1,1,7,identiv,NOUN,NN,ROOT,Xxxxx,0.0
+Mamaearth,Mamaearth,1,1,9,mamaearth,VERB,VB,ROOT,Xxxxx,0.0
+FounderPool,FounderPool,1,1,11,founderpool,NOUN,NN,ROOT,XxxxxXxxx,0.0
+Aave,Aave,1,1,4,Aave,PROPN,NNP,ROOT,Xxxx,0.0
+xto10x Technologies,xto10x,2,1,6,xto10x,PUNCT,.,punct,xxxddx,0.0
+xto10x Technologies,Technologies,2,1,12,technology,NOUN,NNS,ROOT,Xxxxx,0.0
+Ambridge Capital,Ambridge,2,1,8,ambridge,ADJ,JJ,amod,Xxxxx,0.0
+Ambridge Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Saenz Valiente &amp; Asociados,Saenz,4,1,5,Saenz,PROPN,NNP,compound,Xxxxx,0.0
+Saenz Valiente &amp; Asociados,Valiente,4,1,8,Valiente,PROPN,NNP,ROOT,Xxxxx,0.0
+Saenz Valiente &amp; Asociados,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Saenz Valiente &amp; Asociados,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Saenz Valiente &amp; Asociados,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Saenz Valiente &amp; Asociados,Asociados,4,1,9,Asociados,PROPN,NNPS,appos,Xxxxx,0.0
+Celo,Celo,1,1,4,Celo,PROPN,NNP,ROOT,Xxxx,0.0
+Christie's,Christie,1,1,8,Christie,PROPN,NNP,ROOT,Xxxxx,0.0
+Christie's,'s,1,1,2,'s,PART,POS,case,'x,0.0
+Thirty Five Ventures,Thirty,3,1,6,thirty,NUM,CD,compound,Xxxxx,0.0
+Thirty Five Ventures,Five,3,1,4,Five,PROPN,NNP,compound,Xxxx,0.0
+Thirty Five Ventures,Ventures,3,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+AME Cloud Ventures,AME,3,1,3,AME,PROPN,NNP,compound,XXX,0.0
+AME Cloud Ventures,Cloud,3,1,5,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+AME Cloud Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Geek Ventures,Geek,2,1,4,Geek,PROPN,NNP,compound,Xxxx,0.0
+Geek Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Redfin,Redfin,1,1,6,redfin,NOUN,NN,ROOT,Xxxxx,0.0
+Pixowl,Pixowl,1,1,6,pixowl,VERB,VB,ROOT,Xxxxx,0.0
+Eventbrite,Eventbrite,1,2,10,eventbrite,NOUN,NN,ROOT,Xxxxx,0.0
+Greylock,Greylock,1,2,8,greylock,NOUN,NN,ROOT,Xxxxx,0.0
+Wealth Chain Capital,Wealth,3,1,6,Wealth,PROPN,NNP,compound,Xxxxx,0.0
+Wealth Chain Capital,Chain,3,1,5,Chain,PROPN,NNP,compound,Xxxxx,0.0
+Wealth Chain Capital,Capital,3,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Peanut,Peanut,1,1,6,peanut,NOUN,NN,ROOT,Xxxxx,0.0
+Bloomberg,Bloomberg,1,1,9,bloomberg,NOUN,NN,ROOT,Xxxxx,0.0
+AngelList Talent,AngelList,2,2,9,AngelList,PROPN,NNP,compound,XxxxxXxxx,0.0
+AngelList Talent,Talent,2,2,6,talent,NOUN,NN,ROOT,Xxxxx,0.0
+23andMe,23andMe,1,1,7,23andme,NOUN,NN,ROOT,ddxxxXx,0.0
+Coinbase,Coinbase,1,1,8,coinbase,NOUN,NN,ROOT,Xxxxx,0.0
+Flexport,Flexport,1,1,8,flexport,VERB,VB,ROOT,Xxxxx,0.0
+Gil Regev Communications,Gil,3,1,3,Gil,PROPN,NNP,compound,Xxx,0.0
+Gil Regev Communications,Regev,3,1,5,Regev,PROPN,NNP,compound,Xxxxx,0.0
+Gil Regev Communications,Communications,3,1,14,Communications,PROPN,NNP,ROOT,Xxxxx,0.0
+Arloid Automation,Arloid,2,1,6,Arloid,PROPN,NNP,compound,Xxxxx,0.0
+Arloid Automation,Automation,2,1,10,Automation,PROPN,NNP,ROOT,Xxxxx,0.0
+Udaan,Udaan,1,1,5,Udaan,PROPN,NNP,ROOT,Xxxxx,0.0
+Turion Space,Turion,2,1,6,Turion,PROPN,NNP,compound,Xxxxx,0.0
+Turion Space,Space,2,1,5,Space,PROPN,NNP,ROOT,Xxxxx,0.0
+Outrun Ventures,Outrun,2,1,6,Outrun,PROPN,NNP,compound,Xxxxx,0.0
+Outrun Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Ring,Ring,1,1,4,ring,NOUN,NN,ROOT,Xxxx,0.0
+Snapdeal,Snapdeal,1,1,8,snapdeal,ADJ,JJ,ROOT,Xxxxx,0.0
+Elvn,Elvn,1,1,4,elvn,NOUN,NN,ROOT,Xxxx,0.0
+Solana,Solana,1,2,6,Solana,PROPN,NNP,ROOT,Xxxxx,0.0
+Stake,Stake,1,1,5,stake,NOUN,NN,ROOT,Xxxxx,0.0
+Mercury,Mercury,1,1,7,mercury,NOUN,NN,ROOT,Xxxxx,0.0
+Tegro,Tegro,1,1,5,tegro,NOUN,NN,ROOT,Xxxxx,0.0
+Bloomreach,Bloomreach,1,1,10,Bloomreach,PROPN,NNP,ROOT,Xxxxx,0.0
+Delhivery,Delhivery,1,1,9,delhivery,NOUN,NN,ROOT,Xxxxx,0.0
+Clearlake Capital Group,Clearlake,3,1,9,Clearlake,PROPN,NNP,compound,Xxxxx,0.0
+Clearlake Capital Group,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Clearlake Capital Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Y Combinator,Y,2,4,1,Y,PROPN,NNP,compound,X,0.0
+Y Combinator,Combinator,2,4,10,combinator,NOUN,NN,ROOT,Xxxxx,0.0
+Synthetix,Synthetix,1,1,9,synthetix,NOUN,NN,ROOT,Xxxxx,0.0
+thortful,thortful,1,1,8,thortful,ADJ,JJ,ROOT,xxxx,0.0
+Palistar Capital,Palistar,2,2,8,Palistar,PROPN,NNP,compound,Xxxxx,0.0
+Palistar Capital,Capital,2,2,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Wadja,Wadja,1,1,5,Wadja,PROPN,NNP,ROOT,Xxxxx,0.0
+Repl.it,Repl.it,1,1,7,repl.it,VERB,VB,ROOT,Xxxx.xx,0.0
+BharatPe,BharatPe,1,4,8,bharatpe,ADJ,JJ,ROOT,XxxxxXx,0.0
+Andreessen Horowitz,Andreessen,2,4,10,Andreessen,PROPN,NNP,compound,Xxxxx,0.0
+Andreessen Horowitz,Horowitz,2,4,8,Horowitz,PROPN,NNP,ROOT,Xxxxx,0.0
+Zebec,Zebec,1,1,5,zebec,ADJ,JJ,ROOT,Xxxxx,0.0
+Stripe,Stripe,1,1,6,stripe,ADJ,JJ,ROOT,Xxxxx,0.0
+Lookout,Lookout,1,1,7,lookout,NOUN,NN,ROOT,Xxxxx,0.0
+Hughes Marino,Hughes,2,1,6,Hughes,PROPN,NNP,compound,Xxxxx,0.0
+Hughes Marino,Marino,2,1,6,Marino,PROPN,NNP,ROOT,Xxxxx,0.0
+Manhattan Venture Partners,Manhattan,3,1,9,Manhattan,PROPN,NNP,compound,Xxxxx,0.0
+Manhattan Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Manhattan Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Ashoka University,Ashoka,2,1,6,Ashoka,PROPN,NNP,compound,Xxxxx,0.0
+Ashoka University,University,2,1,10,University,PROPN,NNP,ROOT,Xxxxx,0.0
+Forward,Forward,1,1,7,forward,ADV,RB,ROOT,Xxxxx,0.0
+Indifi Technologies,Indifi,2,1,6,Indifi,PROPN,NNP,compound,Xxxxx,0.0
+Indifi Technologies,Technologies,2,1,12,Technologies,PROPN,NNP,ROOT,Xxxxx,0.0
+Pioneer,Pioneer,1,1,7,pioneer,NOUN,NN,ROOT,Xxxxx,0.0
+UST,UST,1,1,3,UST,PROPN,NNP,ROOT,XXX,0.0
+Reinvent Capital,Reinvent,2,1,8,Reinvent,PROPN,NNP,compound,Xxxxx,0.0
+Reinvent Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Hammer,Hammer,1,1,6,hammer,NOUN,NN,ROOT,Xxxxx,0.0
+DrinkPrime,DrinkPrime,1,1,10,drinkprime,NOUN,NN,ROOT,XxxxxXxxxx,0.0
+Reliance Jio,Reliance,2,1,8,Reliance,PROPN,NNP,compound,Xxxxx,0.0
+Reliance Jio,Jio,2,1,3,Jio,PROPN,NNP,ROOT,Xxx,0.0
+Angelus Capital,Angelus,2,1,7,Angelus,PROPN,NNP,compound,Xxxxx,0.0
+Angelus Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Shopify,Shopify,1,3,7,shopify,VERB,VB,ROOT,Xxxxx,0.0
+EarlyBirds,EarlyBirds,1,1,10,earlybird,NOUN,NNS,ROOT,XxxxxXxxxx,0.0
+L Catterton,L,2,1,1,L,PROPN,NNP,compound,X,0.0
+L Catterton,Catterton,2,1,9,Catterton,PROPN,NNP,ROOT,Xxxxx,0.0
+Treasure Data,Treasure,2,1,8,Treasure,PROPN,NNP,compound,Xxxxx,0.0
+Treasure Data,Data,2,1,4,Data,PROPN,NNP,ROOT,Xxxx,0.0
+FTX,FTX,1,2,3,ftx,NOUN,NN,ROOT,XXX,0.0
+bitsCrunch,bitsCrunch,1,1,10,bitscrunch,NOUN,NN,ROOT,xxxxXxxxx,0.0
+B12,B12,1,1,3,B12,PROPN,NNP,ROOT,Xdd,0.0
+HelloFresh,HelloFresh,1,1,10,HelloFresh,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Bill &amp; Melinda Gates Foundation,Bill,5,1,4,Bill,PROPN,NNP,ROOT,Xxxx,0.0
+Bill &amp; Melinda Gates Foundation,&,5,1,1,&,CCONJ,CC,cc,&,0.0
+Bill &amp; Melinda Gates Foundation,amp,5,1,3,amp,NOUN,NN,conj,xxx,0.0
+Bill &amp; Melinda Gates Foundation,;,5,1,1,;,PUNCT,:,punct,;,0.0
+Bill &amp; Melinda Gates Foundation,Melinda,5,1,7,Melinda,PROPN,NNP,compound,Xxxxx,0.0
+Bill &amp; Melinda Gates Foundation,Gates,5,1,5,Gates,PROPN,NNP,compound,Xxxxx,0.0
+Bill &amp; Melinda Gates Foundation,Foundation,5,1,10,Foundation,PROPN,NNP,appos,Xxxxx,0.0
+SHEIN,SHEIN,1,1,5,shein,VERB,VB,ROOT,XXXX,0.0
+Vercel,Vercel,1,1,6,Vercel,PROPN,NNP,ROOT,Xxxxx,0.0
+Initialized Capital,Initialized,2,1,11,Initialized,PROPN,NNP,amod,Xxxxx,0.0
+Initialized Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Nosh Technologies,Nosh,2,1,4,Nosh,PROPN,NNP,compound,Xxxx,0.0
+Nosh Technologies,Technologies,2,1,12,Technologies,PROPN,NNPS,ROOT,Xxxxx,0.0
+Microsoft,Microsoft,1,1,9,Microsoft,PROPN,NNP,ROOT,Xxxxx,0.0
+Light &amp; Wonder,Light,3,1,5,Light,PROPN,NNP,dep,Xxxxx,0.0
+Light &amp; Wonder,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Light &amp; Wonder,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Light &amp; Wonder,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Light &amp; Wonder,Wonder,3,1,6,wonder,VERB,VB,ROOT,Xxxxx,0.0
+BitWallet,BitWallet,1,1,9,bitwallet,NOUN,NN,ROOT,XxxXxxxx,0.0
+Legends Hospitality,Legends,2,1,7,legend,VERB,VBZ,compound,Xxxxx,0.0
+Legends Hospitality,Hospitality,2,1,11,Hospitality,PROPN,NNP,ROOT,Xxxxx,0.0
+Alpha Tribe Media,Alpha,3,1,5,Alpha,PROPN,NNP,compound,Xxxxx,0.0
+Alpha Tribe Media,Tribe,3,1,5,Tribe,PROPN,NNP,compound,Xxxxx,0.0
+Alpha Tribe Media,Media,3,1,5,medium,NOUN,NNS,ROOT,Xxxxx,0.0
+Yield Guild Games,Yield,3,1,5,yield,VERB,VB,compound,Xxxxx,0.0
+Yield Guild Games,Guild,3,1,5,Guild,PROPN,NNP,compound,Xxxxx,0.0
+Yield Guild Games,Games,3,1,5,Games,PROPN,NNPS,ROOT,Xxxxx,0.0
+Nothing,Nothing,1,1,7,nothing,PRON,NN,ROOT,Xxxxx,0.0
+medxm,medxm,1,1,5,medxm,PROPN,NNP,ROOT,xxxx,0.0
+Whiteboard Capital,Whiteboard,2,1,10,Whiteboard,PROPN,NNP,compound,Xxxxx,0.0
+Whiteboard Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Curefoods,Curefoods,1,1,9,curefood,NOUN,NNS,ROOT,Xxxxx,0.0
+Noon,Noon,1,1,4,noon,NOUN,NN,ROOT,Xxxx,0.0
+Rhodium,Rhodium,1,1,7,rhodium,NOUN,NN,ROOT,Xxxxx,0.0
+City Storage Systems,City,3,1,4,City,PROPN,NNP,compound,Xxxx,0.0
+City Storage Systems,Storage,3,1,7,Storage,PROPN,NNP,compound,Xxxxx,0.0
+City Storage Systems,Systems,3,1,7,Systems,PROPN,NNPS,ROOT,Xxxxx,0.0
+BrewDog,BrewDog,1,1,7,BrewDog,PROPN,NNP,ROOT,XxxxXxx,0.0
+Optimism,Optimism,1,1,8,optimism,NOUN,NN,ROOT,Xxxxx,0.0
+Sherpalo Ventures,Sherpalo,2,1,8,Sherpalo,PROPN,NNP,compound,Xxxxx,0.0
+Sherpalo Ventures,Ventures,2,1,8,Ventures,PROPN,NNP,ROOT,Xxxxx,0.0
+5ire,5ire,1,1,4,5ire,NOUN,NN,ROOT,dxxx,0.0
+Unacademy,Unacademy,1,2,9,unacademy,NOUN,NN,ROOT,Xxxxx,0.0
+Capital Group,Capital,2,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Capital Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Chapman Office,Chapman,2,1,7,Chapman,PROPN,NNP,compound,Xxxxx,0.0
+Chapman Office,Office,2,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+Buckley Ventures,Buckley,2,1,7,Buckley,PROPN,NNP,compound,Xxxxx,0.0
+Buckley Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Suryansh Contech Pvt Ltd,Suryansh,4,1,8,Suryansh,PROPN,NNP,compound,Xxxxx,0.0
+Suryansh Contech Pvt Ltd,Contech,4,1,7,Contech,PROPN,NNP,compound,Xxxxx,0.0
+Suryansh Contech Pvt Ltd,Pvt,4,1,3,Pvt,PROPN,NNP,compound,Xxx,0.0
+Suryansh Contech Pvt Ltd,Ltd,4,1,3,Ltd,PROPN,NNP,ROOT,Xxx,0.0
+CustEx,CustEx,1,1,6,custex,NOUN,NN,ROOT,XxxxXx,0.0
+Pavlok,Pavlok,1,1,6,Pavlok,PROPN,NNP,ROOT,Xxxxx,0.0
+K4 Global,K4,2,1,2,K4,PROPN,NNP,compound,Xd,0.0
+K4 Global,Global,2,1,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+Color,Color,1,1,5,color,NOUN,NN,ROOT,Xxxxx,0.0
+Marcy Venture Partners,Marcy,3,1,5,Marcy,PROPN,NNP,compound,Xxxxx,0.0
+Marcy Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Marcy Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Rappi,Rappi,1,1,5,Rappi,PROPN,NNP,ROOT,Xxxxx,0.0
+Pine Labs,Pine,2,1,4,Pine,PROPN,NNP,compound,Xxxx,0.0
+Pine Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Okta,Okta,1,1,4,okta,NOUN,NN,ROOT,Xxxx,0.0
+Zerodha,Zerodha,1,1,7,zerodha,NOUN,NN,ROOT,Xxxxx,0.0
+ChargeNet Stations,ChargeNet,2,1,9,ChargeNet,PROPN,NNP,compound,XxxxxXxx,0.0
+ChargeNet Stations,Stations,2,1,8,Stations,PROPN,NNPS,ROOT,Xxxxx,0.0
+Figma,Figma,1,1,5,Figma,PROPN,NNP,ROOT,Xxxxx,0.0
+Creative Artists Agency,Creative,3,1,8,creative,ADJ,JJ,amod,Xxxxx,0.0
+Creative Artists Agency,Artists,3,1,7,Artists,PROPN,NNP,compound,Xxxxx,0.0
+Creative Artists Agency,Agency,3,1,6,agency,NOUN,NN,ROOT,Xxxxx,0.0
+Fairplay,Fairplay,1,1,8,fairplay,NOUN,NN,ROOT,Xxxxx,0.0
+Google,Google,1,2,6,Google,PROPN,NNP,ROOT,Xxxxx,0.0
+Lowercase Capital,Lowercase,2,1,9,Lowercase,PROPN,NNP,compound,Xxxxx,0.0
+Lowercase Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Smarter,Smarter,1,1,7,smarter,VERB,VB,ROOT,Xxxxx,0.0
+Lucas Venture Group,Lucas,3,1,5,Lucas,PROPN,NNP,compound,Xxxxx,0.0
+Lucas Venture Group,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Lucas Venture Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+iBanFirst,iBanFirst,1,1,9,ibanfirst,NUM,CD,ROOT,xXxxXxxxx,0.0
+Digits,Digits,1,2,6,digit,NOUN,NNS,ROOT,Xxxxx,0.0
+Ashcroft Capital,Ashcroft,2,1,8,Ashcroft,PROPN,NNP,compound,Xxxxx,0.0
+Ashcroft Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Dreamers VC,Dreamers,2,1,8,dreamer,NOUN,NNS,compound,Xxxxx,0.0
+Dreamers VC,VC,2,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+OctaFX,OctaFX,1,1,6,OctaFX,NOUN,NNS,ROOT,XxxxXX,0.0
+NFX,NFX,1,1,3,nfx,NOUN,NN,ROOT,XXX,0.0
+Pollen,Pollen,1,1,6,pollen,NOUN,NN,ROOT,Xxxxx,0.0
+Brain Tunnelgenix Technologies,Brain,3,1,5,Brain,PROPN,NNP,compound,Xxxxx,0.0
+Brain Tunnelgenix Technologies,Tunnelgenix,3,1,11,Tunnelgenix,PROPN,NNP,compound,Xxxxx,0.0
+Brain Tunnelgenix Technologies,Technologies,3,1,12,Technologies,PROPN,NNPS,ROOT,Xxxxx,0.0
+Instacart,Instacart,1,1,9,instacart,ADJ,JJ,ROOT,Xxxxx,0.0
+Bed Bath &amp; Beyond,Bed,4,1,3,Bed,PROPN,NNP,compound,Xxx,0.0
+Bed Bath &amp; Beyond,Bath,4,1,4,Bath,PROPN,NNP,ROOT,Xxxx,0.0
+Bed Bath &amp; Beyond,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Bed Bath &amp; Beyond,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Bed Bath &amp; Beyond,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Bed Bath &amp; Beyond,Beyond,4,1,6,beyond,ADP,IN,appos,Xxxxx,0.0
+Jio Haptik,Jio,2,1,3,Jio,PROPN,NNP,compound,Xxx,0.0
+Jio Haptik,Haptik,2,1,6,Haptik,PROPN,NNP,ROOT,Xxxxx,0.0
+Hippo Insurance,Hippo,2,1,5,Hippo,PROPN,NNP,compound,Xxxxx,0.0
+Hippo Insurance,Insurance,2,1,9,Insurance,PROPN,NNP,ROOT,Xxxxx,0.0
+Emergent Line,Emergent,2,1,8,emergent,NOUN,NN,compound,Xxxxx,0.0
+Emergent Line,Line,2,1,4,line,NOUN,NN,ROOT,Xxxx,0.0
+TeamDom,TeamDom,1,1,7,teamdom,NOUN,NN,ROOT,XxxxXxx,0.0
+Wix,Wix,1,1,3,wix,VERB,VB,ROOT,Xxx,0.0
+Bolt,Bolt,1,2,4,bolt,NOUN,NN,ROOT,Xxxx,0.0
+EaseMyTrip.com,EaseMyTrip.com,1,1,14,easemytrip.com,NUM,CD,ROOT,XxxxXxXxxx.xxx,0.0
+Cruise,Cruise,1,1,6,cruise,NOUN,NN,ROOT,Xxxxx,0.0
+Tribe Capital,Tribe,2,1,5,Tribe,PROPN,NNP,compound,Xxxxx,0.0
+Tribe Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+NEAR Protocol,NEAR,2,1,4,near,ADP,IN,compound,XXXX,0.0
+NEAR Protocol,Protocol,2,1,8,Protocol,PROPN,NNP,ROOT,Xxxxx,0.0
+Voyager,Voyager,1,1,7,Voyager,PROPN,NNP,ROOT,Xxxxx,0.0
+AnyQuestion,AnyQuestion,1,1,11,anyquestion,NOUN,NN,ROOT,XxxXxxxx,0.0
+The Blackmore Group,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Blackmore Group,Blackmore,3,1,9,Blackmore,PROPN,NNP,compound,Xxxxx,0.0
+The Blackmore Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Twilio,Twilio,1,1,6,twilio,NOUN,NN,ROOT,Xxxxx,0.0
+AlleyCorp,AlleyCorp,1,1,9,AlleyCorp,PROPN,NNP,ROOT,XxxxxXxxx,0.0
+Kumu Holdings,Kumu,2,1,4,Kumu,PROPN,NNP,compound,Xxxx,0.0
+Kumu Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+GitHub,GitHub,1,1,6,github,NOUN,NN,ROOT,XxxXxx,0.0
+American Home Shield,American,3,1,8,American,PROPN,NNP,compound,Xxxxx,0.0
+American Home Shield,Home,3,1,4,Home,PROPN,NNP,compound,Xxxx,0.0
+American Home Shield,Shield,3,1,6,Shield,PROPN,NNP,ROOT,Xxxxx,0.0
+Maverick Gaming,Maverick,2,1,8,Maverick,PROPN,NNP,compound,Xxxxx,0.0
+Maverick Gaming,Gaming,2,1,6,Gaming,PROPN,NNP,ROOT,Xxxxx,0.0
+OneFootball,OneFootball,1,1,11,OneFootball,PROPN,NNP,ROOT,XxxXxxxx,0.0
+CROMSOURCE,CROMSOURCE,1,1,10,cromsource,NOUN,NN,ROOT,XXXX,0.0
+stability.ai,stability.ai,1,1,12,stability.ai,VERB,VB,ROOT,xxxx.xx,0.0
+The Sangreal Foundation,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Sangreal Foundation,Sangreal,3,1,8,Sangreal,PROPN,NNP,compound,Xxxxx,0.0
+The Sangreal Foundation,Foundation,3,1,10,Foundation,PROPN,NNP,ROOT,Xxxxx,0.0
+Hartmann Holdings,Hartmann,2,1,8,Hartmann,PROPN,NNP,compound,Xxxxx,0.0
+Hartmann Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mako Medical Laboratories,Mako,3,1,4,Mako,PROPN,NNP,compound,Xxxx,0.0
+Mako Medical Laboratories,Medical,3,1,7,Medical,PROPN,NNP,compound,Xxxxx,0.0
+Mako Medical Laboratories,Laboratories,3,1,12,Laboratories,PROPN,NNPS,ROOT,Xxxxx,0.0
+The Super Dentists,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Super Dentists,Super,3,1,5,Super,PROPN,NNP,compound,Xxxxx,0.0
+The Super Dentists,Dentists,3,1,8,dentist,NOUN,NNS,ROOT,Xxxxx,0.0
+InnerChef,InnerChef,1,1,9,innerchef,NOUN,NN,ROOT,XxxxxXxxx,0.0
+Draper Associates,Draper,2,1,6,draper,NOUN,NN,compound,Xxxxx,0.0
+Draper Associates,Associates,2,1,10,Associates,PROPN,NNPS,ROOT,Xxxxx,0.0
+Nomad List,Nomad,2,1,5,Nomad,PROPN,NNP,compound,Xxxxx,0.0
+Nomad List,List,2,1,4,List,PROPN,NNP,ROOT,Xxxx,0.0
+Wise,Wise,1,2,4,wise,ADJ,JJ,ROOT,Xxxx,0.0
+Carta,Carta,1,1,5,carta,NOUN,NN,ROOT,Xxxxx,0.0
+Tata Indicom,Tata,2,1,4,Tata,PROPN,NNP,compound,Xxxx,0.0
+Tata Indicom,Indicom,2,1,7,Indicom,PROPN,NNP,ROOT,Xxxxx,0.0
+Walker &amp; Company Brands,Walker,4,1,6,Walker,PROPN,NNP,ROOT,Xxxxx,0.0
+Walker &amp; Company Brands,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Walker &amp; Company Brands,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Walker &amp; Company Brands,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Walker &amp; Company Brands,Company,4,1,7,Company,PROPN,NNP,compound,Xxxxx,0.0
+Walker &amp; Company Brands,Brands,4,1,6,Brands,PROPN,NNP,appos,Xxxxx,0.0
+KBJ GROUP,KBJ,2,1,3,KBJ,PROPN,NNP,compound,XXX,0.0
+KBJ GROUP,GROUP,2,1,5,GROUP,PROPN,NNP,ROOT,XXXX,0.0
+Assiduus Global,Assiduus,2,1,8,Assiduus,PROPN,NNP,compound,Xxxxx,0.0
+Assiduus Global,Global,2,1,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+Mobile Premier League,Mobile,3,1,6,mobile,ADJ,JJ,amod,Xxxxx,0.0
+Mobile Premier League,Premier,3,1,7,Premier,PROPN,NNP,compound,Xxxxx,0.0
+Mobile Premier League,League,3,1,6,League,PROPN,NNP,ROOT,Xxxxx,0.0
+Creative Destruction Lab (CDL),Creative,4,1,8,creative,ADJ,JJ,amod,Xxxxx,0.0
+Creative Destruction Lab (CDL),Destruction,4,1,11,Destruction,PROPN,NNP,compound,Xxxxx,0.0
+Creative Destruction Lab (CDL),Lab,4,1,3,Lab,PROPN,NNP,ROOT,Xxx,0.0
+Creative Destruction Lab (CDL),(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Creative Destruction Lab (CDL),CDL,4,1,3,CDL,PROPN,NNP,appos,XXX,0.0
+Creative Destruction Lab (CDL),),4,1,1,),PUNCT,-RRB-,punct,),0.0
+Chaayos,Chaayos,1,1,7,chaayos,NOUN,NN,ROOT,Xxxxx,0.0
+JetPay,JetPay,1,1,6,jetpay,NOUN,NN,ROOT,XxxXxx,0.0
+Zeev Ventures,Zeev,2,1,4,Zeev,PROPN,NNP,compound,Xxxx,0.0
+Zeev Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+VaynerX,VaynerX,1,1,7,vaynerx,VERB,VB,ROOT,XxxxxX,0.0
+Summit Media,Summit,2,1,6,summit,NOUN,NN,compound,Xxxxx,0.0
+Summit Media,Media,2,1,5,medium,NOUN,NNS,ROOT,Xxxxx,0.0
+Palo Alto Networks,Palo,3,1,4,Palo,PROPN,NNP,compound,Xxxx,0.0
+Palo Alto Networks,Alto,3,1,4,Alto,PROPN,NNP,compound,Xxxx,0.0
+Palo Alto Networks,Networks,3,1,8,Networks,PROPN,NNPS,ROOT,Xxxxx,0.0
+Motivate Venture Capital,Motivate,3,1,8,Motivate,PROPN,NNP,compound,Xxxxx,0.0
+Motivate Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Motivate Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+TQ Ventures,TQ,2,1,2,TQ,PROPN,NNP,compound,XX,0.0
+TQ Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Honey,Honey,1,1,5,honey,NOUN,NN,ROOT,Xxxxx,0.0
+Medigram,Medigram,1,1,8,medigram,VERB,VB,ROOT,Xxxxx,0.0
+Riot Games,Riot,2,1,4,Riot,PROPN,NNP,compound,Xxxx,0.0
+Riot Games,Games,2,1,5,Games,PROPN,NNPS,ROOT,Xxxxx,0.0
+Merrill Lynch,Merrill,2,1,7,Merrill,PROPN,NNP,compound,Xxxxx,0.0
+Merrill Lynch,Lynch,2,1,5,Lynch,PROPN,NNP,ROOT,Xxxxx,0.0
+Garena Free Fire,Garena,3,1,6,Garena,PROPN,NNP,compound,Xxxxx,0.0
+Garena Free Fire,Free,3,1,4,Free,PROPN,NNP,compound,Xxxx,0.0
+Garena Free Fire,Fire,3,1,4,Fire,PROPN,NNP,ROOT,Xxxx,0.0
+Flipkart,Flipkart,1,1,8,flipkart,NOUN,NN,ROOT,Xxxxx,0.0
+Cosmo Connected,Cosmo,2,1,5,Cosmo,PROPN,NNP,compound,Xxxxx,0.0
+Cosmo Connected,Connected,2,1,9,Connected,PROPN,NNP,ROOT,Xxxxx,0.0
+McMakler,McMakler,1,1,8,McMakler,PROPN,NNP,ROOT,XxXxxxx,0.0
+WorldQuant,WorldQuant,1,1,10,WorldQuant,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Long-Term Stock Exchange,Long,3,1,4,long,ADJ,JJ,amod,Xxxx,0.0
+Long-Term Stock Exchange,-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+Long-Term Stock Exchange,Term,3,1,4,Term,PROPN,NNP,compound,Xxxx,0.0
+Long-Term Stock Exchange,Stock,3,1,5,Stock,PROPN,NNP,compound,Xxxxx,0.0
+Long-Term Stock Exchange,Exchange,3,1,8,Exchange,PROPN,NNP,ROOT,Xxxxx,0.0
+Lively,Lively,1,1,6,lively,ADJ,JJ,ROOT,Xxxxx,0.0
+Reckitt,Reckitt,1,1,7,reckitt,NOUN,NN,ROOT,Xxxxx,0.0
+Notion,Notion,1,2,6,notion,NOUN,NN,ROOT,Xxxxx,0.0
+Crypto.com,Crypto.com,1,1,10,Crypto.com,PROPN,NNP,ROOT,Xxxxx.xxx,0.0
+Destinus,Destinus,1,1,8,Destinus,PROPN,NNP,ROOT,Xxxxx,0.0
+SoftBank,SoftBank,1,1,8,softbank,NOUN,NN,ROOT,XxxxXxxx,0.0
+SoFi,SoFi,1,1,4,SoFi,PROPN,NNP,ROOT,XxXx,0.0
+Snyk,Snyk,1,1,4,snyk,NOUN,NN,ROOT,Xxxx,0.0
+PointOne Capital,PointOne,2,1,8,PointOne,PROPN,NNP,compound,XxxxxXxx,0.0
+PointOne Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+MNTN,MNTN,1,1,4,MNTN,PROPN,NNP,ROOT,XXXX,0.0
+ZestMoney,ZestMoney,1,1,9,zestmoney,NOUN,NN,ROOT,XxxxXxxxx,0.0
+Roblox,Roblox,1,1,6,roblox,NOUN,NN,ROOT,Xxxxx,0.0
+Alchemy,Alchemy,1,1,7,alchemy,ADJ,JJ,ROOT,Xxxxx,0.0
+Yuga Labs,Yuga,2,2,4,Yuga,PROPN,NNP,compound,Xxxx,0.0
+Yuga Labs,Labs,2,2,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Rippling,Rippling,1,1,8,ripple,VERB,VBG,ROOT,Xxxxx,0.0
+Bling Capital,Bling,2,1,5,Bling,PROPN,NNP,compound,Xxxxx,0.0
+Bling Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+01 Advisors,01,2,1,2,01,NUM,CD,nummod,dd,0.0
+01 Advisors,Advisors,2,1,8,advisor,NOUN,NNS,ROOT,Xxxxx,0.0
+Bounce,Bounce,1,1,6,bounce,NOUN,NN,ROOT,Xxxxx,0.0
+Cloudflare,Cloudflare,1,1,10,Cloudflare,PROPN,NNP,ROOT,Xxxxx,0.0
+TPG,TPG,1,1,3,tpg,NOUN,NN,ROOT,XXX,0.0
+Shop.io,Shop.io,1,1,7,Shop.io,PROPN,NNP,ROOT,Xxxx.xx,0.0
+Phoenix Group India,Phoenix,3,1,7,Phoenix,PROPN,NNP,compound,Xxxxx,0.0
+Phoenix Group India,Group,3,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+Phoenix Group India,India,3,1,5,India,PROPN,NNP,ROOT,Xxxxx,0.0
+InnoVen Capital,InnoVen,2,1,7,InnoVen,PROPN,NNP,compound,XxxxXxx,0.0
+InnoVen Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Linus Media Group,Linus,3,1,5,Linus,PROPN,NNP,compound,Xxxxx,0.0
+Linus Media Group,Media,3,1,5,Media,PROPN,NNP,compound,Xxxxx,0.0
+Linus Media Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Magnet Brains,Magnet,2,1,6,Magnet,PROPN,NNP,compound,Xxxxx,0.0
+Magnet Brains,Brains,2,1,6,Brains,PROPN,NNP,ROOT,Xxxxx,0.0
+HyperJar,HyperJar,1,1,8,HyperJar,PROPN,NNP,ROOT,XxxxxXxx,0.0
+Ola,Ola,1,2,3,Ola,PROPN,NNP,ROOT,Xxx,0.0
+Freestyle Capital,Freestyle,2,1,9,Freestyle,PROPN,NNP,compound,Xxxxx,0.0
+Freestyle Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+blinkit,blinkit,1,1,7,blinkit,VERB,VB,ROOT,xxxx,0.0
+Shyft,Shyft,1,1,5,Shyft,PROPN,NNP,ROOT,Xxxxx,0.0
+Automattic,Automattic,1,1,10,automattic,ADJ,JJ,ROOT,Xxxxx,0.0
+G|Fashion,G|Fashion,1,1,9,g|fashion,NOUN,NN,ROOT,X|Xxxxx,0.0
+Fireside,Fireside,1,1,8,fireside,NOUN,NN,ROOT,Xxxxx,0.0
+Salto,Salto,1,1,5,salto,NOUN,NN,ROOT,Xxxxx,0.0
+Kleiner Perkins,Kleiner,2,1,7,Kleiner,PROPN,NNP,nsubj,Xxxxx,0.0
+Kleiner Perkins,Perkins,2,1,7,perkin,VERB,VBZ,ROOT,Xxxxx,0.0
+Vista Land &amp; Lifescapes,Vista,4,1,5,Vista,PROPN,NNP,compound,Xxxxx,0.0
+Vista Land &amp; Lifescapes,Land,4,1,4,Land,PROPN,NNP,ROOT,Xxxx,0.0
+Vista Land &amp; Lifescapes,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Vista Land &amp; Lifescapes,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Vista Land &amp; Lifescapes,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Vista Land &amp; Lifescapes,Lifescapes,4,1,10,Lifescapes,PROPN,NNP,appos,Xxxxx,0.0
+CBRE,CBRE,1,1,4,CBRE,PROPN,NNP,ROOT,XXXX,0.0
+Square Yards,Square,2,1,6,Square,PROPN,NNP,compound,Xxxxx,0.0
+Square Yards,Yards,2,1,5,Yards,PROPN,NNP,ROOT,Xxxxx,0.0
+PakWheels.com,PakWheels.com,1,2,13,pakwheels.com,X,ADD,ROOT,XxxXxxxx.xxx,0.0
+W Management International,W,3,1,1,W,PROPN,NNP,compound,X,0.0
+W Management International,Management,3,1,10,Management,PROPN,NNP,compound,Xxxxx,0.0
+W Management International,International,3,1,13,International,PROPN,NNP,ROOT,Xxxxx,0.0
+Tiger Global Management,Tiger,3,1,5,Tiger,PROPN,NNP,compound,Xxxxx,0.0
+Tiger Global Management,Global,3,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Tiger Global Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Elliott Management,Elliott,2,1,7,Elliott,PROPN,NNP,compound,Xxxxx,0.0
+Elliott Management,Management,2,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+HubSpot,HubSpot,1,1,7,hubspot,NOUN,NN,ROOT,XxxXxxx,0.0
+Asymmetric,Asymmetric,1,1,10,asymmetric,NOUN,NN,ROOT,Xxxxx,0.0
+Zoom,Zoom,1,1,4,zoom,VERB,VB,ROOT,Xxxx,0.0
+EL Group International,EL,3,1,2,EL,PROPN,NNP,compound,XX,0.0
+EL Group International,Group,3,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+EL Group International,International,3,1,13,International,PROPN,NNP,ROOT,Xxxxx,0.0
+Scaler Academy,Scaler,2,1,6,Scaler,PROPN,NNP,compound,Xxxxx,0.0
+Scaler Academy,Academy,2,1,7,Academy,PROPN,NNP,ROOT,Xxxxx,0.0
+Rakuten,Rakuten,1,1,7,Rakuten,VERB,VBN,ROOT,Xxxxx,0.0
+AppSumo,AppSumo,1,1,7,AppSumo,PROPN,NNP,ROOT,XxxXxxx,0.0
+Vestiaire Collective,Vestiaire,2,1,9,Vestiaire,PROPN,NNP,compound,Xxxxx,0.0
+Vestiaire Collective,Collective,2,1,10,Collective,PROPN,NNP,ROOT,Xxxxx,0.0
+El-Amin International School,El,3,1,2,El,PROPN,NNP,compound,Xx,0.0
+El-Amin International School,-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+El-Amin International School,Amin,3,1,4,Amin,PROPN,NNP,compound,Xxxx,0.0
+El-Amin International School,International,3,1,13,International,PROPN,NNP,compound,Xxxxx,0.0
+El-Amin International School,School,3,1,6,School,PROPN,NNP,ROOT,Xxxxx,0.0
+Pipedrive,Pipedrive,1,1,9,pipedrive,VERB,VB,ROOT,Xxxxx,0.0
+Leap Motion,Leap,2,1,4,Leap,PROPN,NNP,compound,Xxxx,0.0
+Leap Motion,Motion,2,1,6,Motion,PROPN,NNP,ROOT,Xxxxx,0.0
+Arlequim Technologies,Arlequim,2,1,8,Arlequim,PROPN,NNP,compound,Xxxxx,0.0
+Arlequim Technologies,Technologies,2,1,12,Technologies,PROPN,NNPS,ROOT,Xxxxx,0.0
+10 Minute School,10,3,1,2,10,NUM,CD,nummod,dd,0.0
+10 Minute School,Minute,3,1,6,Minute,PROPN,NNP,compound,Xxxxx,0.0
+10 Minute School,School,3,1,6,School,PROPN,NNP,ROOT,Xxxxx,0.0
+Joseph Gunnar &amp; Co.,Joseph,4,1,6,Joseph,PROPN,NNP,compound,Xxxxx,0.0
+Joseph Gunnar &amp; Co.,Gunnar,4,1,6,Gunnar,PROPN,NNP,ROOT,Xxxxx,0.0
+Joseph Gunnar &amp; Co.,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Joseph Gunnar &amp; Co.,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Joseph Gunnar &amp; Co.,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Joseph Gunnar &amp; Co.,Co.,4,1,3,Co.,PROPN,NNP,appos,Xx.,0.0
+Smart Fit,Smart,2,1,5,Smart,PROPN,NNP,compound,Xxxxx,0.0
+Smart Fit,Fit,2,1,3,Fit,PROPN,NNP,ROOT,Xxx,0.0
+BYJU’S,BYJU,1,1,4,BYJU,PROPN,NNP,ROOT,XXXX,0.0
+BYJU’S,’S,1,1,2,’s,SPACE,_SP,case,’X,0.0
+Alameda Research,Alameda,2,1,7,Alameda,PROPN,NNP,compound,Xxxxx,0.0
+Alameda Research,Research,2,1,8,Research,PROPN,NNP,ROOT,Xxxxx,0.0
+Taiwan Semiconductor Manufacturing Company,Taiwan,4,1,6,Taiwan,PROPN,NNP,compound,Xxxxx,0.0
+Taiwan Semiconductor Manufacturing Company,Semiconductor,4,1,13,Semiconductor,PROPN,NNP,compound,Xxxxx,0.0
+Taiwan Semiconductor Manufacturing Company,Manufacturing,4,1,13,Manufacturing,PROPN,NNP,compound,Xxxxx,0.0
+Taiwan Semiconductor Manufacturing Company,Company,4,1,7,Company,PROPN,NNP,ROOT,Xxxxx,0.0
+Dukaan®,Dukaan,1,1,6,Dukaan,PROPN,NNP,compound,Xxxxx,0.0
+Dukaan®,®,1,1,1,®,NOUN,NN,ROOT,®,0.0
+LeetCode,LeetCode,1,1,8,LeetCode,PROPN,NNP,ROOT,XxxxXxxx,0.0
+Goat Group,Goat,2,1,4,Goat,PROPN,NNP,compound,Xxxx,0.0
+Goat Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+OVO Sound,OVO,2,1,3,OVO,PROPN,NNP,compound,XXX,0.0
+OVO Sound,Sound,2,1,5,Sound,PROPN,NNP,ROOT,Xxxxx,0.0
+nearbuy,nearbuy,1,1,7,nearbuy,NOUN,NN,ROOT,xxxx,0.0
+Spotify,Spotify,1,1,7,spotify,VERB,VB,ROOT,Xxxxx,0.0
+AU Holdings,AU,2,1,2,AU,PROPN,NNP,compound,XX,0.0
+AU Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+Shippo,Shippo,1,1,6,shippo,ADJ,JJ,ROOT,Xxxxx,0.0
+Humaning,Humaning,1,1,8,humaning,NOUN,NN,ROOT,Xxxxx,0.0
+GlobaliD,GlobaliD,1,1,8,GlobaliD,PROPN,NNP,ROOT,XxxxxX,0.0
+The Reverend CEO,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Reverend CEO,Reverend,3,1,8,Reverend,PROPN,NNP,compound,Xxxxx,0.0
+The Reverend CEO,CEO,3,1,3,CEO,PROPN,NNP,ROOT,XXX,0.0
+9Unicorns Accelerator Fund,9Unicorns,3,1,9,9unicorn,NOUN,NNS,ROOT,dXxxxx,0.0
+9Unicorns Accelerator Fund,Accelerator,3,1,11,Accelerator,PROPN,NNP,compound,Xxxxx,0.0
+9Unicorns Accelerator Fund,Fund,3,1,4,Fund,PROPN,NNP,npadvmod,Xxxx,0.0
+PureVPN,PureVPN,1,1,7,purevpn,VERB,VB,ROOT,XxxxXXX,0.0
+NewsBreak,NewsBreak,1,1,9,newsbreak,NOUN,NN,ROOT,XxxxXxxxx,0.0
+Goli Nutrition,Goli,2,1,4,Goli,PROPN,NNP,compound,Xxxx,0.0
+Goli Nutrition,Nutrition,2,1,9,Nutrition,PROPN,NNP,ROOT,Xxxxx,0.0
+Deutsche Bank,Deutsche,2,1,8,Deutsche,PROPN,NNP,compound,Xxxxx,0.0
+Deutsche Bank,Bank,2,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Founders Fund,Founders,2,1,8,Founders,PROPN,NNP,compound,Xxxxx,0.0
+Founders Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Mezi,Mezi,1,1,4,Mezi,PROPN,NNP,ROOT,Xxxx,0.0
+Jelly HQ,Jelly,2,1,5,Jelly,PROPN,NNP,compound,Xxxxx,0.0
+Jelly HQ,HQ,2,1,2,HQ,PROPN,NNP,ROOT,XX,0.0
+Supercell,Supercell,1,1,9,Supercell,PROPN,NNP,ROOT,Xxxxx,0.0
+Kavl Technology,Kavl,2,1,4,Kavl,PROPN,NNP,compound,Xxxx,0.0
+Kavl Technology,Technology,2,1,10,Technology,PROPN,NNP,ROOT,Xxxxx,0.0
+Opendoor,Opendoor,1,1,8,opendoor,ADV,RB,ROOT,Xxxxx,0.0
+Redcliffe Labs,Redcliffe,2,1,9,Redcliffe,PROPN,NNP,compound,Xxxxx,0.0
+Redcliffe Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Rocket Internet,Rocket,2,2,6,Rocket,PROPN,NNP,compound,Xxxxx,0.0
+Rocket Internet,Internet,2,2,8,Internet,PROPN,NNP,ROOT,Xxxxx,0.0
+Sequoia Capital India,Sequoia,3,1,7,Sequoia,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital India,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital India,India,3,1,5,India,PROPN,NNP,ROOT,Xxxxx,0.0
+Paytm,Paytm,1,1,5,paytm,VERB,VB,ROOT,Xxxxx,0.0
+YouTube,YouTube,1,1,7,youtube,NOUN,NN,ROOT,XxxXxxx,0.0
+Colossal Biosciences,Colossal,2,1,8,Colossal,PROPN,NNP,compound,Xxxxx,0.0
+Colossal Biosciences,Biosciences,2,1,11,Biosciences,PROPN,NNP,ROOT,Xxxxx,0.0
+SC30 Inc.,SC30,2,1,4,SC30,PROPN,NNP,compound,XXdd,0.0
+SC30 Inc.,Inc.,2,1,4,Inc.,PROPN,NNP,ROOT,Xxx.,0.0
+Pinterest,Pinterest,1,1,9,pinterest,X,FW,ROOT,Xxxxx,0.0
+Apple,Apple,1,2,5,apple,NOUN,NN,ROOT,Xxxxx,0.0
+TikTok,TikTok,1,1,6,tiktok,NOUN,NN,ROOT,XxxXxx,0.0
+Baron Davis Enterprises,Baron,3,1,5,Baron,PROPN,NNP,compound,Xxxxx,0.0
+Baron Davis Enterprises,Davis,3,1,5,Davis,PROPN,NNP,compound,Xxxxx,0.0
+Baron Davis Enterprises,Enterprises,3,1,11,Enterprises,PROPN,NNPS,ROOT,Xxxxx,0.0
+Depop,Depop,1,1,5,depop,NOUN,NN,ROOT,Xxxxx,0.0
+Countdown Capital,Countdown,2,1,9,Countdown,PROPN,NNP,compound,Xxxxx,0.0
+Countdown Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Zipmex,Zipmex,1,1,6,Zipmex,PROPN,NNP,ROOT,Xxxxx,0.0
+DoorDash,DoorDash,1,1,8,DoorDash,PROPN,NNP,ROOT,XxxxXxxx,0.0
+Flipkick of New York Limited Liability Company,Flipkick,7,1,8,Flipkick,PROPN,NNP,ROOT,Xxxxx,0.0
+Flipkick of New York Limited Liability Company,of,7,1,2,of,ADP,IN,prep,xx,0.0
+Flipkick of New York Limited Liability Company,New,7,1,3,New,PROPN,NNP,nmod,Xxx,0.0
+Flipkick of New York Limited Liability Company,York,7,1,4,York,PROPN,NNP,compound,Xxxx,0.0
+Flipkick of New York Limited Liability Company,Limited,7,1,7,Limited,PROPN,NNP,compound,Xxxxx,0.0
+Flipkick of New York Limited Liability Company,Liability,7,1,9,Liability,PROPN,NNP,compound,Xxxxx,0.0
+Flipkick of New York Limited Liability Company,Company,7,1,7,Company,PROPN,NNP,pobj,Xxxxx,0.0
+Careem,Careem,1,1,6,careem,NOUN,NN,ROOT,Xxxxx,0.0
+ITI Growth Opportunities Fund,ITI,4,1,3,ITI,PROPN,NNP,compound,XXX,0.0
+ITI Growth Opportunities Fund,Growth,4,1,6,Growth,PROPN,NNP,compound,Xxxxx,0.0
+ITI Growth Opportunities Fund,Opportunities,4,1,13,Opportunities,PROPN,NNPS,compound,Xxxxx,0.0
+ITI Growth Opportunities Fund,Fund,4,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Amunix,Amunix,1,1,6,Amunix,PROPN,NNP,ROOT,Xxxxx,0.0
+Paramount Enterprises,Paramount,2,1,9,Paramount,PROPN,NNP,compound,Xxxxx,0.0
+Paramount Enterprises,Enterprises,2,1,11,Enterprises,PROPN,NNPS,ROOT,Xxxxx,0.0
+Verinvest Corporation,Verinvest,2,1,9,Verinvest,PROPN,NNP,compound,Xxxxx,0.0
+Verinvest Corporation,Corporation,2,1,11,Corporation,PROPN,NNP,ROOT,Xxxxx,0.0
+Amazon,Amazon,1,3,6,Amazon,PROPN,NNP,ROOT,Xxxxx,0.0
+Cazoo,Cazoo,1,1,5,Cazoo,PROPN,NNP,ROOT,Xxxxx,0.0
+Lambda School,Lambda,2,1,6,Lambda,PROPN,NNP,compound,Xxxxx,0.0
+Lambda School,School,2,1,6,School,PROPN,NNP,ROOT,Xxxxx,0.0
+Virgin Group,Virgin,2,1,6,Virgin,PROPN,NNP,compound,Xxxxx,0.0
+Virgin Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Freshworks,Freshworks,1,2,10,freshwork,NOUN,NNS,ROOT,Xxxxx,0.0
+Tencent,Tencent,1,2,7,tencent,NOUN,NN,ROOT,Xxxxx,0.0
+Binance,Binance,1,1,7,Binance,PROPN,NNP,ROOT,Xxxxx,0.0
+Inovia Capital,Inovia,2,1,6,Inovia,PROPN,NNP,compound,Xxxxx,0.0
+Inovia Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Eniac Ventures,Eniac,2,1,5,Eniac,PROPN,NNP,compound,Xxxxx,0.0
+Eniac Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Not Boring,Not,2,1,3,not,PART,RB,neg,Xxx,0.0
+Not Boring,Boring,2,1,6,Boring,PROPN,NNP,ROOT,Xxxxx,0.0
+Talabat,Talabat,1,1,7,talabat,VERB,VB,ROOT,Xxxxx,0.0
+Anicut Capital,Anicut,2,1,6,Anicut,PROPN,NNP,compound,Xxxxx,0.0
+Anicut Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Team Global,Team,2,1,4,Team,PROPN,NNP,compound,Xxxx,0.0
+Team Global,Global,2,1,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+Interscope Records,Interscope,2,1,10,Interscope,PROPN,NNP,compound,Xxxxx,0.0
+Interscope Records,Records,2,1,7,Records,PROPN,NNPS,ROOT,Xxxxx,0.0
+DuckDuckGo,DuckDuckGo,1,1,10,duckduckgo,NOUN,NN,ROOT,XxxxXxxxXx,0.0
+Ford Street Ventures,Ford,3,1,4,Ford,PROPN,NNP,compound,Xxxx,0.0
+Ford Street Ventures,Street,3,1,6,Street,PROPN,NNP,compound,Xxxxx,0.0
+Ford Street Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Cherry Ventures,Cherry,2,1,6,Cherry,PROPN,NNP,compound,Xxxxx,0.0
+Cherry Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Datadog,Datadog,1,1,7,datadog,NOUN,NN,ROOT,Xxxxx,0.0
+The Field House,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Field House,Field,3,1,5,Field,PROPN,NNP,compound,Xxxxx,0.0
+The Field House,House,3,1,5,House,PROPN,NNP,ROOT,Xxxxx,0.0
+Waves Platform,Waves,2,1,5,wave,NOUN,NNS,compound,Xxxxx,0.0
+Waves Platform,Platform,2,1,8,platform,VERB,VBP,ROOT,Xxxxx,0.0
+Voodoo,Voodoo,1,1,6,Voodoo,PROPN,NNP,ROOT,Xxxxx,0.0
+Golden State Warriors,Golden,3,1,6,Golden,PROPN,NNP,compound,Xxxxx,0.0
+Golden State Warriors,State,3,1,5,State,PROPN,NNP,compound,Xxxxx,0.0
+Golden State Warriors,Warriors,3,1,8,warrior,NOUN,NNS,ROOT,Xxxxx,0.0
+FINN,FINN,1,1,4,finn,ADJ,JJ,ROOT,XXXX,0.0
+Keepsake Frames,Keepsake,2,1,8,Keepsake,PROPN,NNP,compound,Xxxxx,0.0
+Keepsake Frames,Frames,2,1,6,Frames,PROPN,NNPS,ROOT,Xxxxx,0.0
+DST Global,DST,2,2,3,DST,PROPN,NNP,compound,XXX,0.0
+DST Global,Global,2,2,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+wefox,wefox,1,1,5,wefox,PROPN,NNP,ROOT,xxxx,0.0
+Leonardo DiCaprio Foundation,Leonardo,3,1,8,Leonardo,PROPN,NNP,compound,Xxxxx,0.0
+Leonardo DiCaprio Foundation,DiCaprio,3,1,8,DiCaprio,PROPN,NNP,compound,XxXxxxx,0.0
+Leonardo DiCaprio Foundation,Foundation,3,1,10,Foundation,PROPN,NNP,ROOT,Xxxxx,0.0
+Loft,Loft,1,1,4,Loft,PROPN,NNP,ROOT,Xxxx,0.0
+ShapeShift,ShapeShift,1,1,10,ShapeShift,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Gameyola,Gameyola,1,1,8,gameyola,NOUN,NN,ROOT,Xxxxx,0.0
+Spark Capital,Spark,2,1,5,Spark,PROPN,NNP,compound,Xxxxx,0.0
+Spark Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Good Startup,Good,2,1,4,Good,PROPN,NNP,compound,Xxxx,0.0
+Good Startup,Startup,2,1,7,Startup,PROPN,NNP,ROOT,Xxxxx,0.0
+Los Angeles Lakers,Los,3,1,3,Los,PROPN,NNP,compound,Xxx,0.0
+Los Angeles Lakers,Angeles,3,1,7,Angeles,PROPN,NNP,compound,Xxxxx,0.0
+Los Angeles Lakers,Lakers,3,1,6,Lakers,PROPN,NNPS,ROOT,Xxxxx,0.0
+Blockchain.com,Blockchain.com,1,1,14,Blockchain.com,PROPN,NNP,ROOT,Xxxxx.xxx,0.0
+Shelter Growth Capital Partners,Shelter,4,1,7,Shelter,PROPN,NNP,compound,Xxxxx,0.0
+Shelter Growth Capital Partners,Growth,4,1,6,Growth,PROPN,NNP,compound,Xxxxx,0.0
+Shelter Growth Capital Partners,Capital,4,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Shelter Growth Capital Partners,Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+beIN MEDIA GROUP,beIN,3,1,4,bein,NOUN,NN,compound,xxXX,0.0
+beIN MEDIA GROUP,MEDIA,3,1,5,media,NOUN,NN,compound,XXXX,0.0
+beIN MEDIA GROUP,GROUP,3,1,5,group,NOUN,NN,ROOT,XXXX,0.0
+SCOUT,SCOUT,1,1,5,scout,NOUN,NN,ROOT,XXXX,0.0
+Abdul Latif Jameel,Abdul,3,1,5,Abdul,PROPN,NNP,compound,Xxxxx,0.0
+Abdul Latif Jameel,Latif,3,1,5,Latif,PROPN,NNP,compound,Xxxxx,0.0
+Abdul Latif Jameel,Jameel,3,1,6,Jameel,PROPN,NNP,ROOT,Xxxxx,0.0
+Fitbit,Fitbit,1,1,6,fitbit,NOUN,NN,ROOT,Xxxxx,0.0
+Kissflow,Kissflow,1,1,8,kissflow,VERB,VB,ROOT,Xxxxx,0.0
+SaaStr,SaaStr,1,1,6,SaaStr,NOUN,NNS,ROOT,XxxXxx,0.0
+AR Ventures FZE,AR,3,1,2,AR,PROPN,NNP,compound,XX,0.0
+AR Ventures FZE,Ventures,3,1,8,Ventures,PROPN,NNP,compound,Xxxxx,0.0
+AR Ventures FZE,FZE,3,1,3,FZE,PROPN,NNP,ROOT,XXX,0.0
+Operator Partners,Operator,2,2,8,Operator,PROPN,NNP,compound,Xxxxx,0.0
+Operator Partners,Partners,2,2,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Landing,Landing,1,1,7,land,VERB,VBG,ROOT,Xxxxx,0.0
+ITI Venture Capital Partners,ITI,4,1,3,ITI,PROPN,NNP,compound,XXX,0.0
+ITI Venture Capital Partners,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+ITI Venture Capital Partners,Capital,4,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+ITI Venture Capital Partners,Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Upstate Shredding - Weitsman Recycling,Upstate,5,1,7,Upstate,PROPN,NNP,compound,Xxxxx,0.0
+Upstate Shredding - Weitsman Recycling,Shredding,5,1,9,Shredding,PROPN,NNP,compound,Xxxxx,0.0
+Upstate Shredding - Weitsman Recycling,-,5,1,1,-,PUNCT,HYPH,punct,-,0.0
+Upstate Shredding - Weitsman Recycling,Weitsman,5,1,8,Weitsman,PROPN,NNP,compound,Xxxxx,0.0
+Upstate Shredding - Weitsman Recycling,Recycling,5,1,9,Recycling,PROPN,NNP,ROOT,Xxxxx,0.0
+Banana Capital,Banana,2,1,6,Banana,PROPN,NNP,compound,Xxxxx,0.0
+Banana Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Valor Equity Partners,Valor,3,1,5,Valor,PROPN,NNP,compound,Xxxxx,0.0
+Valor Equity Partners,Equity,3,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+Valor Equity Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Nested,Nested,1,1,6,nest,VERB,VBN,ROOT,Xxxxx,0.0
+Fintech.Tv,Fintech,1,1,7,Fintech,PROPN,NNP,ROOT,Xxxxx,0.0
+Fintech.Tv,.,1,1,1,.,PUNCT,.,punct,.,0.0
+Fintech.Tv,Tv,1,1,2,tv,NOUN,NN,ROOT,Xx,0.0
+Virpax Pharmaceuticals Inc.,Virpax,3,1,6,Virpax,PROPN,NNP,compound,Xxxxx,0.0
+Virpax Pharmaceuticals Inc.,Pharmaceuticals,3,1,15,Pharmaceuticals,PROPN,NNP,compound,Xxxxx,0.0
+Virpax Pharmaceuticals Inc.,Inc.,3,1,4,Inc.,PROPN,NNP,ROOT,Xxx.,0.0
+cure.fit,cure.fit,1,1,8,cure.fit,VERB,VB,ROOT,xxxx.xxx,0.0
+Utkarsh Small Finance Bank,Utkarsh,4,1,7,Utkarsh,PROPN,NNP,compound,Xxxxx,0.0
+Utkarsh Small Finance Bank,Small,4,1,5,Small,PROPN,NNP,compound,Xxxxx,0.0
+Utkarsh Small Finance Bank,Finance,4,1,7,Finance,PROPN,NNP,compound,Xxxxx,0.0
+Utkarsh Small Finance Bank,Bank,4,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+DoNotPay,DoNotPay,1,1,8,donotpay,NOUN,NN,ROOT,XxXxxXxx,0.0
+Casa Verde Capital,Casa,3,1,4,Casa,PROPN,NNP,compound,Xxxx,0.0
+Casa Verde Capital,Verde,3,1,5,Verde,PROPN,NNP,compound,Xxxxx,0.0
+Casa Verde Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Crunchbase,Crunchbase,1,1,10,crunchbase,NOUN,NN,ROOT,Xxxxx,0.0
+Terra,Terra,1,1,5,terra,NOUN,NN,ROOT,Xxxxx,0.0
+FasterCapital,FasterCapital,1,1,13,FasterCapital,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Eldridge,Eldridge,1,1,8,eldridge,VERB,VB,ROOT,Xxxxx,0.0
+Haun Ventures,Haun,2,1,4,haun,VERB,VB,ROOT,Xxxx,0.0
+Haun Ventures,Ventures,2,1,8,venture,NOUN,NNS,dobj,Xxxxx,0.0
+Craft Ventures,Craft,2,1,5,Craft,PROPN,NNP,compound,Xxxxx,0.0
+Craft Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Bungalow Clothing,Bungalow,2,1,8,Bungalow,PROPN,NNP,compound,Xxxxx,0.0
+Bungalow Clothing,Clothing,2,1,8,Clothing,PROPN,NNP,ROOT,Xxxxx,0.0
+General Genomics Inc.,General,3,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General Genomics Inc.,Genomics,3,1,8,Genomics,PROPN,NNP,compound,Xxxxx,0.0
+General Genomics Inc.,Inc.,3,1,4,Inc.,PROPN,NNP,ROOT,Xxx.,0.0
+Apartment List,Apartment,2,1,9,apartment,NOUN,NN,compound,Xxxxx,0.0
+Apartment List,List,2,1,4,List,PROPN,NNP,ROOT,Xxxx,0.0
+Insight Partners,Insight,2,1,7,Insight,PROPN,NNP,compound,Xxxxx,0.0
+Insight Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mechanism Capital,Mechanism,2,1,9,Mechanism,PROPN,NNP,compound,Xxxxx,0.0
+Mechanism Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+GoMechanic,GoMechanic,1,1,10,GoMechanic,PROPN,NNP,ROOT,XxXxxxx,0.0
+HOF Capital,HOF,2,1,3,HOF,PROPN,NNP,compound,XXX,0.0
+HOF Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+UpGrad,UpGrad,1,1,6,upgrad,NOUN,NN,ROOT,XxXxxx,0.0
+Daraz,Daraz,1,1,5,daraz,NOUN,NN,ROOT,Xxxxx,0.0
+DocuSign,DocuSign,1,1,8,docusign,NOUN,NN,ROOT,XxxxXxxx,0.0
+Wonder,Wonder,1,1,6,wonder,VERB,VB,ROOT,Xxxxx,0.0
+Chaitanya Rural Intermediation and Development Services,Chaitanya,6,1,9,Chaitanya,PROPN,NNP,compound,Xxxxx,0.0
+Chaitanya Rural Intermediation and Development Services,Rural,6,1,5,Rural,PROPN,NNP,compound,Xxxxx,0.0
+Chaitanya Rural Intermediation and Development Services,Intermediation,6,1,14,Intermediation,PROPN,NNP,ROOT,Xxxxx,0.0
+Chaitanya Rural Intermediation and Development Services,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Chaitanya Rural Intermediation and Development Services,Development,6,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Chaitanya Rural Intermediation and Development Services,Services,6,1,8,Services,PROPN,NNPS,conj,Xxxxx,0.0
+PayPal,PayPal,1,1,6,PayPal,PROPN,NNP,ROOT,XxxXxx,0.0
+Pitch,Pitch,1,1,5,pitch,NOUN,NN,ROOT,Xxxxx,0.0
+Hedosophia,Hedosophia,1,1,10,hedosophia,NOUN,NN,ROOT,Xxxxx,0.0
+CrowdStrike,CrowdStrike,1,1,11,CrowdStrike,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Boltt Sports Technologies,Boltt,3,1,5,Boltt,PROPN,NNP,compound,Xxxxx,0.0
+Boltt Sports Technologies,Sports,3,1,6,Sports,PROPN,NNPS,compound,Xxxxx,0.0
+Boltt Sports Technologies,Technologies,3,1,12,Technologies,PROPN,NNPS,ROOT,Xxxxx,0.0
+Electric Capital,Electric,2,1,8,Electric,PROPN,NNP,compound,Xxxxx,0.0
+Electric Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Swvl,Swvl,1,1,4,Swvl,NOUN,NNS,ROOT,Xxxx,0.0
+"Project Sport, LLC",Project,3,1,7,Project,PROPN,NNP,compound,Xxxxx,0.0
+"Project Sport, LLC",Sport,3,1,5,Sport,PROPN,NNP,ROOT,Xxxxx,0.0
+"Project Sport, LLC",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Project Sport, LLC",LLC,3,1,3,LLC,PROPN,NNP,appos,XXX,0.0
+Whatnot,Whatnot,1,1,7,whatnot,ADV,RB,ROOT,Xxxxx,0.0
+CallerSmart,CallerSmart,1,1,11,CallerSmart,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Media Direct,Media,2,1,5,Media,PROPN,NNP,compound,Xxxxx,0.0
+Media Direct,Direct,2,1,6,Direct,PROPN,NNP,ROOT,Xxxxx,0.0
+Adidas,Adidas,1,1,6,adida,NOUN,NNS,ROOT,Xxxxx,0.0
+Product Science,Product,2,1,7,product,NOUN,NN,compound,Xxxxx,0.0
+Product Science,Science,2,1,7,Science,PROPN,NNP,ROOT,Xxxxx,0.0
+Tripadvisor,Tripadvisor,1,1,11,tripadvisor,NOUN,NN,ROOT,Xxxxx,0.0
+Health Via Modern Nutrition,Health,4,1,6,health,NOUN,NN,compound,Xxxxx,0.0
+Health Via Modern Nutrition,Via,4,1,3,Via,PROPN,NNP,compound,Xxx,0.0
+Health Via Modern Nutrition,Modern,4,1,6,Modern,PROPN,NNP,compound,Xxxxx,0.0
+Health Via Modern Nutrition,Nutrition,4,1,9,Nutrition,PROPN,NNP,ROOT,Xxxxx,0.0
+PolicyBazaar,PolicyBazaar,1,1,12,PolicyBazaar,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Centrifuge,Centrifuge,1,1,10,centrifuge,NOUN,NN,ROOT,Xxxxx,0.0
+Farfetch,Farfetch,1,1,8,farfetch,VERB,VB,ROOT,Xxxxx,0.0
+whatchado,whatchado,1,1,9,whatchado,PROPN,NNP,ROOT,xxxx,0.0
+FrontRow Global,FrontRow,2,1,8,FrontRow,PROPN,NNP,compound,XxxxxXxx,0.0
+FrontRow Global,Global,2,1,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+Banorte,Banorte,1,1,7,banorte,NOUN,NN,ROOT,Xxxxx,0.0
+KRM Interests,KRM,2,1,3,KRM,PROPN,NNP,compound,XXX,0.0
+KRM Interests,Interests,2,1,9,Interests,PROPN,NNPS,ROOT,Xxxxx,0.0
+IA Ventures,IA,2,1,2,IA,PROPN,NNP,compound,XX,0.0
+IA Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+"Big Rock Partners, LLC",Big,4,1,3,Big,PROPN,NNP,compound,Xxx,0.0
+"Big Rock Partners, LLC",Rock,4,1,4,Rock,PROPN,NNP,compound,Xxxx,0.0
+"Big Rock Partners, LLC",Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+"Big Rock Partners, LLC",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Big Rock Partners, LLC",LLC,4,1,3,LLC,PROPN,NNP,npadvmod,XXX,0.0
+Gumroad,Gumroad,1,1,7,gumroad,NOUN,NN,ROOT,Xxxxx,0.0
+Gaijin Entertainment,Gaijin,2,1,6,Gaijin,PROPN,NNP,compound,Xxxxx,0.0
+Gaijin Entertainment,Entertainment,2,1,13,Entertainment,PROPN,NNP,ROOT,Xxxxx,0.0
+Voyager Space Holdings,Voyager,3,1,7,Voyager,PROPN,NNP,compound,Xxxxx,0.0
+Voyager Space Holdings,Space,3,1,5,Space,PROPN,NNP,compound,Xxxxx,0.0
+Voyager Space Holdings,Holdings,3,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+Hyperverse,Hyperverse,1,1,10,hyperverse,NOUN,NN,ROOT,Xxxxx,0.0
+Walden International,Walden,2,1,6,Walden,PROPN,NNP,compound,Xxxxx,0.0
+Walden International,International,2,1,13,International,PROPN,NNP,ROOT,Xxxxx,0.0
+WEICL Investments,WEICL,2,1,5,WEICL,PROPN,NNP,compound,XXXX,0.0
+WEICL Investments,Investments,2,1,11,investment,NOUN,NNS,ROOT,Xxxxx,0.0
+Mathquizily,Mathquizily,1,1,11,mathquizily,ADV,RB,ROOT,Xxxxx,0.0
+St. James's Place Wealth Management,St.,5,1,3,St.,PROPN,NNP,compound,Xx.,0.0
+St. James's Place Wealth Management,James,5,1,5,James,PROPN,NNP,poss,Xxxxx,0.0
+St. James's Place Wealth Management,'s,5,1,2,'s,PART,POS,case,'x,0.0
+St. James's Place Wealth Management,Place,5,1,5,Place,PROPN,NNP,compound,Xxxxx,0.0
+St. James's Place Wealth Management,Wealth,5,1,6,Wealth,PROPN,NNP,compound,Xxxxx,0.0
+St. James's Place Wealth Management,Management,5,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Digi Communications,Digi,2,1,4,Digi,PROPN,NNP,compound,Xxxx,0.0
+Digi Communications,Communications,2,1,14,Communications,PROPN,NNP,ROOT,Xxxxx,0.0
+Third Kind Venture Capital,Third,4,1,5,Third,PROPN,NNP,compound,Xxxxx,0.0
+Third Kind Venture Capital,Kind,4,1,4,Kind,PROPN,NNP,compound,Xxxx,0.0
+Third Kind Venture Capital,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Third Kind Venture Capital,Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+The Shade Room,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Shade Room,Shade,3,1,5,Shade,PROPN,NNP,compound,Xxxxx,0.0
+The Shade Room,Room,3,1,4,Room,PROPN,NNP,ROOT,Xxxx,0.0
+Space Elements,Space,2,1,5,space,NOUN,NN,compound,Xxxxx,0.0
+Space Elements,Elements,2,1,8,element,NOUN,NNS,ROOT,Xxxxx,0.0
+Onchain Capital (Pty) Ltd,Onchain,4,1,7,Onchain,PROPN,NNP,compound,Xxxxx,0.0
+Onchain Capital (Pty) Ltd,Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Onchain Capital (Pty) Ltd,(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Onchain Capital (Pty) Ltd,Pty,4,1,3,Pty,PROPN,NNP,nmod,Xxx,0.0
+Onchain Capital (Pty) Ltd,),4,1,1,),PUNCT,-RRB-,punct,),0.0
+Onchain Capital (Pty) Ltd,Ltd,4,1,3,ltd,NOUN,NN,appos,Xxx,0.0
+Bulb,Bulb,1,1,4,Bulb,PROPN,NNP,ROOT,Xxxx,0.0
+DeepMind,DeepMind,1,1,8,deepmind,NOUN,NN,ROOT,XxxxXxxx,0.0
+Quiet Capital,Quiet,2,1,5,quiet,ADJ,JJ,amod,Xxxxx,0.0
+Quiet Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+BoxOne Ventures,BoxOne,2,1,6,boxone,NUM,CD,nummod,XxxXxx,0.0
+BoxOne Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+OYO,OYO,1,1,3,oyo,NOUN,NN,ROOT,XXX,0.0
+Social Leverage,Social,2,1,6,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Leverage,Leverage,2,1,8,Leverage,PROPN,NNP,ROOT,Xxxxx,0.0
+ARRtist Summit,ARRtist,2,1,7,ARRtist,PROPN,NNP,compound,XXXxxxx,0.0
+ARRtist Summit,Summit,2,1,6,Summit,PROPN,NNP,ROOT,Xxxxx,0.0
+Fosun fashion group,Fosun,3,1,5,fosun,NOUN,NN,compound,Xxxxx,0.0
+Fosun fashion group,fashion,3,1,7,fashion,NOUN,NN,compound,xxxx,0.0
+Fosun fashion group,group,3,1,5,group,NOUN,NN,ROOT,xxxx,0.0
+CoinDCX,CoinDCX,1,2,7,coindcx,INTJ,UH,ROOT,XxxxXXX,0.0
+Coelius Capital,Coelius,2,1,7,Coelius,PROPN,NNP,compound,Xxxxx,0.0
+Coelius Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Helium,Helium,1,1,6,helium,NOUN,NN,ROOT,Xxxxx,0.0
+Britannia,Britannia,1,1,9,Britannia,PROPN,NNP,ROOT,Xxxxx,0.0
+Harbinger,Harbinger,1,1,9,Harbinger,PROPN,NNP,ROOT,Xxxxx,0.0
+Fashinza,Fashinza,1,2,8,fashinza,NOUN,NN,ROOT,Xxxxx,0.0
+Kong,Kong,1,1,4,kong,NOUN,NN,ROOT,Xxxx,0.0
+Cream Finance,Cream,2,1,5,Cream,PROPN,NNP,compound,Xxxxx,0.0
+Cream Finance,Finance,2,1,7,Finance,PROPN,NNP,ROOT,Xxxxx,0.0
+451 Media Group,451,3,1,3,451,NUM,CD,nummod,ddd,0.0
+451 Media Group,Media,3,1,5,medium,NOUN,NNS,compound,Xxxxx,0.0
+451 Media Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Snagit Photography,Snagit,2,1,6,Snagit,PROPN,NNP,compound,Xxxxx,0.0
+Snagit Photography,Photography,2,1,11,Photography,PROPN,NNP,ROOT,Xxxxx,0.0
+slice,slice,1,1,5,slice,NOUN,NN,ROOT,xxxx,0.0
+Insta360,Insta360,1,1,8,insta360,VERB,VB,ROOT,Xxxxxddd,0.0
+LifeWave Health,LifeWave,2,1,8,LifeWave,PROPN,NNP,compound,XxxxXxxx,0.0
+LifeWave Health,Health,2,1,6,Health,PROPN,NNP,ROOT,Xxxxx,0.0
+Artis Ventures (AV),Artis,3,1,5,Artis,PROPN,NNP,compound,Xxxxx,0.0
+Artis Ventures (AV),Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Artis Ventures (AV),(,3,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Artis Ventures (AV),AV,3,1,2,AV,PROPN,NNP,appos,XX,0.0
+Artis Ventures (AV),),3,1,1,),PUNCT,-RRB-,punct,),0.0
+Lalamove,Lalamove,1,1,8,lalamove,ADJ,JJ,ROOT,Xxxxx,0.0
+DailyClout,DailyClout,1,1,10,DailyClout,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Apollo Projects,Apollo,2,1,6,Apollo,PROPN,NNP,compound,Xxxxx,0.0
+Apollo Projects,Projects,2,1,8,Projects,PROPN,NNPS,ROOT,Xxxxx,0.0
+Breathometer,Breathometer,1,1,12,breathometer,NOUN,NN,ROOT,Xxxxx,0.0
+GrubMarket,GrubMarket,1,1,10,GrubMarket,PROPN,NNP,ROOT,XxxxXxxxx,0.0
+K3 Ventures,K3,2,1,2,K3,PROPN,NNP,compound,Xd,0.0
+K3 Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Telstra Ventures,Telstra,2,1,7,Telstra,PROPN,NNP,compound,Xxxxx,0.0
+Telstra Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Approxy,Approxy,1,1,7,approxy,NOUN,NN,ROOT,Xxxxx,0.0
+Reliance Industries,Reliance,2,1,8,Reliance,PROPN,NNP,compound,Xxxxx,0.0
+Reliance Industries,Industries,2,1,10,Industries,PROPN,NNPS,ROOT,Xxxxx,0.0
+VD Hosts,VD,2,1,2,VD,PROPN,NNP,compound,XX,0.0
+VD Hosts,Hosts,2,1,5,Hosts,PROPN,NNPS,ROOT,Xxxxx,0.0
+Boom Supersonic,Boom,2,1,4,boom,NOUN,NN,compound,Xxxx,0.0
+Boom Supersonic,Supersonic,2,1,10,supersonic,NOUN,NN,ROOT,Xxxxx,0.0
+Eight Sleep,Eight,2,1,5,eight,NUM,CD,nummod,Xxxxx,0.0
+Eight Sleep,Sleep,2,1,5,sleep,NOUN,NN,ROOT,Xxxxx,0.0
+Decent Capital,Decent,2,1,6,Decent,PROPN,NNP,compound,Xxxxx,0.0
+Decent Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+System Capital Management,System,3,1,6,System,PROPN,NNP,compound,Xxxxx,0.0
+System Capital Management,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+System Capital Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+BEXIMCO Group,BEXIMCO,2,1,7,BEXIMCO,PROPN,NNP,compound,XXXX,0.0
+BEXIMCO Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+ClassPass,ClassPass,1,1,9,classpass,VERB,VB,ROOT,XxxxxXxxx,0.0
+L Catterton Asia,L,3,1,1,l,NOUN,NN,compound,X,0.0
+L Catterton Asia,Catterton,3,1,9,Catterton,PROPN,NNP,compound,Xxxxx,0.0
+L Catterton Asia,Asia,3,1,4,Asia,PROPN,NNP,ROOT,Xxxx,0.0
+Zoox,Zoox,1,1,4,zoox,NOUN,NN,ROOT,Xxxx,0.0
+UpperKey,UpperKey,1,1,8,UpperKey,PROPN,NNP,ROOT,XxxxxXxx,0.0
+ADVANCE.AI,ADVANCE.AI,1,1,10,ADVANCE.AI,PROPN,NNP,ROOT,XXXX.XX,0.0
+Benchmark,Benchmark,1,1,9,Benchmark,PROPN,NNP,ROOT,Xxxxx,0.0
+Ramp,Ramp,1,1,4,ramp,NOUN,NN,ROOT,Xxxx,0.0
+Daily Paper,Daily,2,1,5,Daily,PROPN,NNP,compound,Xxxxx,0.0
+Daily Paper,Paper,2,1,5,Paper,PROPN,NNP,ROOT,Xxxxx,0.0
+Prosus,Prosus,1,1,6,prosus,NOUN,NN,ROOT,Xxxxx,0.0
+Stride.VC,Stride,1,1,6,stride,NOUN,NN,ROOT,Xxxxx,0.0
+Stride.VC,.,1,1,1,.,PUNCT,.,punct,.,0.0
+Stride.VC,VC,1,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+Quora,Quora,1,1,5,quora,NOUN,NN,ROOT,Xxxxx,0.0
+Avaya,Avaya,1,1,5,avaya,NOUN,NN,ROOT,Xxxxx,0.0
+Number 5,Number,2,1,6,number,NOUN,NN,ROOT,Xxxxx,0.0
+Number 5,5,2,1,1,5,NUM,CD,nummod,d,0.0
+Ascend Vietnam Ventures,Ascend,3,1,6,ascend,VERB,VB,ROOT,Xxxxx,0.0
+Ascend Vietnam Ventures,Vietnam,3,1,7,Vietnam,PROPN,NNP,compound,Xxxxx,0.0
+Ascend Vietnam Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,dobj,Xxxxx,0.0
+Bitfinex,Bitfinex,1,1,8,bitfinex,ADJ,JJ,ROOT,Xxxxx,0.0
+Silver Lake,Silver,2,1,6,Silver,PROPN,NNP,compound,Xxxxx,0.0
+Silver Lake,Lake,2,1,4,Lake,PROPN,NNP,ROOT,Xxxx,0.0
+Wait But Why,Wait,3,1,4,wait,VERB,VB,ROOT,Xxxx,0.0
+Wait But Why,But,3,1,3,but,CCONJ,CC,ROOT,Xxx,0.0
+Wait But Why,Why,3,1,3,why,SCONJ,WRB,advmod,Xxx,0.0
+Way to Wellville,Way,3,1,3,way,NOUN,NN,ROOT,Xxx,0.0
+Way to Wellville,to,3,1,2,to,ADP,IN,prep,xx,0.0
+Way to Wellville,Wellville,3,1,9,Wellville,PROPN,NNP,pobj,Xxxxx,0.0
+HBO,HBO,1,1,3,HBO,PROPN,NNP,ROOT,XXX,0.0
+Loverboy,Loverboy,1,1,8,loverboy,ADJ,JJ,ROOT,Xxxxx,0.0
+WazirX,WazirX,1,1,6,WazirX,NOUN,NNS,ROOT,XxxxxX,0.0
+High Alpha,High,2,1,4,High,PROPN,NNP,compound,Xxxx,0.0
+High Alpha,Alpha,2,1,5,Alpha,PROPN,NNP,ROOT,Xxxxx,0.0
+Aptos,Aptos,1,1,5,aptos,NOUN,NN,ROOT,Xxxxx,0.0
+Mosaic Wellness,Mosaic,2,1,6,Mosaic,PROPN,NNP,compound,Xxxxx,0.0
+Mosaic Wellness,Wellness,2,1,8,Wellness,PROPN,NNP,ROOT,Xxxxx,0.0
+Sequoia Capital,Sequoia,2,1,7,Sequoia,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Razorpay,Razorpay,1,1,8,razorpay,NOUN,NN,ROOT,Xxxxx,0.0
+Multicoin Capital,Multicoin,2,1,9,Multicoin,PROPN,NNP,compound,Xxxxx,0.0
+Multicoin Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+JMTD Holdings,JMTD,2,1,4,JMTD,PROPN,NNP,compound,XXXX,0.0
+JMTD Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+Paris Saint-Germain Football Club,Paris,4,1,5,Paris,PROPN,NNP,compound,Xxxxx,0.0
+Paris Saint-Germain Football Club,Saint,4,1,5,Saint,PROPN,NNP,compound,Xxxxx,0.0
+Paris Saint-Germain Football Club,-,4,1,1,-,PUNCT,HYPH,punct,-,0.0
+Paris Saint-Germain Football Club,Germain,4,1,7,Germain,PROPN,NNP,compound,Xxxxx,0.0
+Paris Saint-Germain Football Club,Football,4,1,8,Football,PROPN,NNP,compound,Xxxxx,0.0
+Paris Saint-Germain Football Club,Club,4,1,4,Club,PROPN,NNP,ROOT,Xxxx,0.0
+8090 Partners,8090,2,1,4,8090,NUM,CD,nummod,dddd,0.0
+8090 Partners,Partners,2,1,8,partner,NOUN,NNS,ROOT,Xxxxx,0.0
+Nuts.com,Nuts.com,1,1,8,Nuts.com,PROPN,NNP,ROOT,Xxxx.xxx,0.0
+SV Angel,SV,2,1,2,SV,PROPN,NNP,compound,XX,0.0
+SV Angel,Angel,2,1,5,Angel,PROPN,NNP,ROOT,Xxxxx,0.0
+Britannia Industries,Britannia,2,1,9,Britannia,PROPN,NNP,compound,Xxxxx,0.0
+Britannia Industries,Industries,2,1,10,Industries,PROPN,NNPS,ROOT,Xxxxx,0.0
+Galaxy Investment Partners,Galaxy,3,1,6,Galaxy,PROPN,NNP,compound,Xxxxx,0.0
+Galaxy Investment Partners,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Galaxy Investment Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Liminal,Liminal,1,1,7,liminal,ADJ,JJ,ROOT,Xxxxx,0.0
+Climate Capital,Climate,2,1,7,Climate,PROPN,NNP,compound,Xxxxx,0.0
+Climate Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Salesloft,Salesloft,1,1,9,Salesloft,PROPN,NNP,ROOT,Xxxxx,0.0
+Meta,Meta,1,1,4,Meta,PROPN,NNP,ROOT,Xxxx,0.0
+Plug and Play Brand &amp; Retail,Plug,6,1,4,Plug,PROPN,NNP,ROOT,Xxxx,0.0
+Plug and Play Brand &amp; Retail,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Plug and Play Brand &amp; Retail,Play,6,1,4,play,VERB,VB,conj,Xxxx,0.0
+Plug and Play Brand &amp; Retail,Brand,6,1,5,Brand,PROPN,NNP,dobj,Xxxxx,0.0
+Plug and Play Brand &amp; Retail,&,6,1,1,&,CCONJ,CC,cc,&,0.0
+Plug and Play Brand &amp; Retail,amp,6,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Plug and Play Brand &amp; Retail,;,6,1,1,;,PUNCT,:,punct,;,0.0
+Plug and Play Brand &amp; Retail,Retail,6,1,6,Retail,PROPN,NNP,appos,Xxxxx,0.0
+Carsome,Carsome,1,1,7,carsome,VERB,VB,ROOT,Xxxxx,0.0
+TheSoul Publishing,TheSoul,2,1,7,TheSoul,PROPN,NNP,compound,XxxXxxx,0.0
+TheSoul Publishing,Publishing,2,1,10,Publishing,PROPN,NNP,ROOT,Xxxxx,0.0
+Block,Block,1,1,5,block,NOUN,NN,ROOT,Xxxxx,0.0
+VEQTA Japan,VEQTA,2,1,5,veqta,VERB,VB,ROOT,XXXX,0.0
+VEQTA Japan,Japan,2,1,5,Japan,PROPN,NNP,dobj,Xxxxx,0.0
+Thrive Capital,Thrive,2,1,6,Thrive,PROPN,NNP,compound,Xxxxx,0.0
+Thrive Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Mask Network,Mask,2,1,4,Mask,PROPN,NNP,compound,Xxxx,0.0
+Mask Network,Network,2,1,7,Network,PROPN,NNP,ROOT,Xxxxx,0.0
+DS-MAX Properties,DS,2,1,2,DS,PROPN,NNP,compound,XX,0.0
+DS-MAX Properties,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+DS-MAX Properties,MAX,2,1,3,MAX,PROPN,NNP,compound,XXX,0.0
+DS-MAX Properties,Properties,2,1,10,Properties,PROPN,NNPS,ROOT,Xxxxx,0.0
+Iconoclast,Iconoclast,1,1,10,Iconoclast,PROPN,NNP,ROOT,Xxxxx,0.0
+Squarespace,Squarespace,1,1,11,squarespace,NOUN,NN,ROOT,Xxxxx,0.0
+Tamr,Tamr,1,1,4,tamr,VERB,VB,ROOT,Xxxx,0.0
+Arweave,Arweave,1,1,7,arweave,VERB,VB,ROOT,Xxxxx,0.0
+Faissola Foundation,Faissola,2,1,8,Faissola,PROPN,NNP,compound,Xxxxx,0.0
+Faissola Foundation,Foundation,2,1,10,Foundation,PROPN,NNP,ROOT,Xxxxx,0.0
+People Group,People,2,1,6,People,NOUN,NNS,compound,Xxxxx,0.0
+People Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Ocavu (formerly Seek),Ocavu,3,1,5,Ocavu,PROPN,NNP,ROOT,Xxxxx,0.0
+Ocavu (formerly Seek),(,3,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Ocavu (formerly Seek),formerly,3,1,8,formerly,ADV,RB,advmod,xxxx,0.0
+Ocavu (formerly Seek),Seek,3,1,4,seek,VERB,VB,appos,Xxxx,0.0
+Ocavu (formerly Seek),),3,1,1,),PUNCT,-RRB-,punct,),0.0
+Gamejam,Gamejam,1,1,7,Gamejam,PROPN,NNP,ROOT,Xxxxx,0.0
+smallcase,smallcase,1,1,9,smallcase,VERB,VB,ROOT,xxxx,0.0
+Rogers Communications,Rogers,2,1,6,Rogers,PROPN,NNP,compound,Xxxxx,0.0
+Rogers Communications,Communications,2,1,14,Communications,PROPN,NNPS,ROOT,Xxxxx,0.0
+Team Downey,Team,2,1,4,Team,PROPN,NNP,compound,Xxxx,0.0
+Team Downey,Downey,2,1,6,Downey,PROPN,NNP,ROOT,Xxxxx,0.0
+Black Clover,Black,2,1,5,Black,PROPN,NNP,compound,Xxxxx,0.0
+Black Clover,Clover,2,1,6,Clover,PROPN,NNP,ROOT,Xxxxx,0.0
+Northvolt,Northvolt,1,1,9,northvolt,NOUN,NN,ROOT,Xxxxx,0.0
+Kung Fu Tea,Kung,3,1,4,Kung,PROPN,NNP,compound,Xxxx,0.0
+Kung Fu Tea,Fu,3,1,2,Fu,PROPN,NNP,compound,Xx,0.0
+Kung Fu Tea,Tea,3,1,3,Tea,PROPN,NNP,ROOT,Xxx,0.0
+Tesla,Tesla,1,1,5,Tesla,PROPN,NNP,ROOT,Xxxxx,0.0
+CitiVox,CitiVox,1,1,7,CitiVox,PROPN,NNP,ROOT,XxxxXxx,0.0
+Magic Mind,Magic,2,1,5,Magic,PROPN,NNP,compound,Xxxxx,0.0
+Magic Mind,Mind,2,1,4,Mind,PROPN,NNP,ROOT,Xxxx,0.0
+Droom,Droom,1,1,5,droom,NOUN,NN,ROOT,Xxxxx,0.0
+Chargebee,Chargebee,1,1,9,Chargebee,PROPN,NNP,ROOT,Xxxxx,0.0
+Valuetainment Investments Group,Valuetainment,3,1,13,Valuetainment,PROPN,NNP,compound,Xxxxx,0.0
+Valuetainment Investments Group,Investments,3,1,11,Investments,PROPN,NNP,compound,Xxxxx,0.0
+Valuetainment Investments Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Practical Venture Capital,Practical,3,1,9,Practical,PROPN,NNP,compound,Xxxxx,0.0
+Practical Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Practical Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Gate.io,Gate.io,1,1,7,gate.io,NOUN,NN,ROOT,Xxxx.xx,0.0
+A-Grade Investments,A,2,1,1,a,NOUN,NN,compound,X,0.0
+A-Grade Investments,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+A-Grade Investments,Grade,2,1,5,Grade,PROPN,NNP,compound,Xxxxx,0.0
+A-Grade Investments,Investments,2,1,11,Investments,PROPN,NNPS,ROOT,Xxxxx,0.0
+Geeks for Geeks,Geeks,3,1,5,geek,NOUN,NNS,ROOT,Xxxxx,0.0
+Geeks for Geeks,for,3,1,3,for,ADP,IN,prep,xxx,0.0
+Geeks for Geeks,Geeks,3,1,5,geek,NOUN,NNS,pobj,Xxxxx,0.0
+Mindbody Business,Mindbody,2,1,8,Mindbody,PROPN,NNP,compound,Xxxxx,0.0
+Mindbody Business,Business,2,1,8,Business,PROPN,NNP,ROOT,Xxxxx,0.0
+Zypp Electric,Zypp,2,1,4,Zypp,PROPN,NNP,compound,Xxxx,0.0
+Zypp Electric,Electric,2,1,8,Electric,PROPN,NNP,ROOT,Xxxxx,0.0
+DraftKings,DraftKings,1,1,10,draftking,NOUN,NNS,ROOT,XxxxxXxxxx,0.0
+Crumbl,Crumbl,1,1,6,crumbl,VERB,VB,ROOT,Xxxxx,0.0
+Lacework,Lacework,1,1,8,lacework,NOUN,NN,ROOT,Xxxxx,0.0
+Weekend Fund,Weekend,2,1,7,Weekend,PROPN,NNP,compound,Xxxxx,0.0
+Weekend Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Wow! Momo,Wow,2,1,3,wow,INTJ,UH,poss,Xxx,0.0
+Wow! Momo,!,2,1,1,!,PUNCT,.,punct,!,0.0
+Wow! Momo,Momo,2,1,4,momo,NOUN,NN,ROOT,Xxxx,0.0
+Sharma Brands,Sharma,2,1,6,Sharma,PROPN,NNP,compound,Xxxxx,0.0
+Sharma Brands,Brands,2,1,6,Brands,PROPN,NNPS,ROOT,Xxxxx,0.0
+KoinWorks,KoinWorks,1,1,9,koinwork,NOUN,NNS,ROOT,XxxxXxxxx,0.0
+Anchorage,Anchorage,1,1,9,anchorage,NOUN,NN,ROOT,Xxxxx,0.0
+Magna,Magna,1,1,5,Magna,PROPN,NNP,ROOT,Xxxxx,0.0
+Rapid Pioneers Group,Rapid,3,1,5,Rapid,PROPN,NNP,compound,Xxxxx,0.0
+Rapid Pioneers Group,Pioneers,3,1,8,Pioneers,PROPN,NNPS,compound,Xxxxx,0.0
+Rapid Pioneers Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Liquid 2 Ventures,Liquid,3,1,6,liquid,NOUN,NN,ROOT,Xxxxx,0.0
+Liquid 2 Ventures,2,3,1,1,2,NUM,CD,nummod,d,0.0
+Liquid 2 Ventures,Ventures,3,1,8,venture,NOUN,NNS,appos,Xxxxx,0.0
+Alo Yoga,Alo,2,1,3,Alo,PROPN,NNP,compound,Xxx,0.0
+Alo Yoga,Yoga,2,1,4,Yoga,PROPN,NNP,ROOT,Xxxx,0.0
+Ather Energy,Ather,2,1,5,Ather,PROPN,NNP,compound,Xxxxx,0.0
+Ather Energy,Energy,2,1,6,Energy,PROPN,NNP,ROOT,Xxxxx,0.0
+Zepto,Zepto,1,1,5,Zepto,VERB,VBN,ROOT,Xxxxx,0.0
+Equitas Small Finance Bank,Equitas,4,1,7,Equitas,PROPN,NNP,compound,Xxxxx,0.0
+Equitas Small Finance Bank,Small,4,1,5,Small,PROPN,NNP,compound,Xxxxx,0.0
+Equitas Small Finance Bank,Finance,4,1,7,Finance,PROPN,NNP,compound,Xxxxx,0.0
+Equitas Small Finance Bank,Bank,4,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Peloton,Peloton,1,1,7,peloton,NOUN,NN,ROOT,Xxxxx,0.0
+Himalaya Wellness,Himalaya,2,1,8,Himalaya,PROPN,NNP,compound,Xxxxx,0.0
+Himalaya Wellness,Wellness,2,1,8,Wellness,PROPN,NNP,ROOT,Xxxxx,0.0
+Alpha7,Alpha7,1,1,6,Alpha7,PROPN,NNP,ROOT,Xxxxxd,0.0
+Equinix,Equinix,1,1,7,Equinix,PROPN,NNP,ROOT,Xxxxx,0.0
+Compound,Compound,1,1,8,compound,NOUN,NN,ROOT,Xxxxx,0.0
+Fabletics,Fabletics,1,1,9,fabletic,NOUN,NNS,ROOT,Xxxxx,0.0
+SpaceX,SpaceX,1,1,6,spacex,NOUN,NN,ROOT,XxxxxX,0.0
+Torch Capital,Torch,2,1,5,torch,NOUN,NN,compound,Xxxxx,0.0
+Torch Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Ledger,Ledger,1,1,6,Ledger,PROPN,NNP,ROOT,Xxxxx,0.0
+Platform Ventures,Platform,2,1,8,Platform,PROPN,NNP,compound,Xxxxx,0.0
+Platform Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+LAO Holdings,LAO,2,1,3,LAO,PROPN,NNP,compound,XXX,0.0
+LAO Holdings,Holdings,2,1,8,Holdings,PROPN,NNP,ROOT,Xxxxx,0.0
+Kenetic,Kenetic,1,1,7,kenetic,ADJ,JJ,ROOT,Xxxxx,0.0
+REEF,REEF,1,1,4,REEF,NOUN,NNS,ROOT,XXXX,0.0
+Stax,Stax,1,1,4,stax,NOUN,NN,ROOT,Xxxx,0.0
+AYM Shafa,AYM,2,1,3,AYM,PROPN,NNP,compound,XXX,0.0
+AYM Shafa,Shafa,2,1,5,Shafa,PROPN,NNP,ROOT,Xxxxx,0.0
+sahibinden.com,sahibinden.com,1,1,14,sahibinden.com,X,ADD,ROOT,xxxx.xxx,0.0
+.GEARS (dotGears) Studios,.GEARS,3,1,6,.GEARS,PUNCT,.,punct,.XXXX,0.0
+.GEARS (dotGears) Studios,(,3,1,1,(,PUNCT,-LRB-,punct,(,0.0
+.GEARS (dotGears) Studios,dotGears,3,1,8,dotgear,NOUN,NNS,nmod,xxxXxxxx,0.0
+.GEARS (dotGears) Studios,),3,1,1,),PUNCT,-RRB-,punct,),0.0
+.GEARS (dotGears) Studios,Studios,3,1,7,studio,NOUN,NNS,ROOT,Xxxxx,0.0
+Remote,Remote,1,1,6,Remote,PROPN,NNP,ROOT,Xxxxx,0.0
+Stock Market Lab,Stock,3,1,5,Stock,PROPN,NNP,compound,Xxxxx,0.0
+Stock Market Lab,Market,3,1,6,Market,PROPN,NNP,compound,Xxxxx,0.0
+Stock Market Lab,Lab,3,1,3,Lab,PROPN,NNP,ROOT,Xxx,0.0
+Federal Government of Mexico,Federal,4,1,7,Federal,PROPN,NNP,compound,Xxxxx,0.0
+Federal Government of Mexico,Government,4,1,10,Government,PROPN,NNP,ROOT,Xxxxx,0.0
+Federal Government of Mexico,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Federal Government of Mexico,Mexico,4,1,6,Mexico,PROPN,NNP,pobj,Xxxxx,0.0
+Klarna,Klarna,1,2,6,Klarna,PROPN,NNP,ROOT,Xxxxx,0.0
+Rajasthan Angel Innovators' Network,Rajasthan,4,1,9,Rajasthan,PROPN,NNP,compound,Xxxxx,0.0
+Rajasthan Angel Innovators' Network,Angel,4,1,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Rajasthan Angel Innovators' Network,Innovators,4,1,10,Innovators,PROPN,NNP,poss,Xxxxx,0.0
+Rajasthan Angel Innovators' Network,',4,1,1,',PART,POS,case,',0.0
+Rajasthan Angel Innovators' Network,Network,4,1,7,Network,PROPN,NNP,ROOT,Xxxxx,0.0
+Goldcrest Capital,Goldcrest,2,1,9,Goldcrest,PROPN,NNP,compound,Xxxxx,0.0
+Goldcrest Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Licious,Licious,1,1,7,licious,ADJ,JJ,ROOT,Xxxxx,0.0
+TOKENEO,TOKENEO,1,1,7,TOKENEO,PROPN,NNP,ROOT,XXXX,0.0
+Celesta Capital,Celesta,2,1,7,Celesta,PROPN,NNP,compound,Xxxxx,0.0
+Celesta Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Lime,Lime,1,1,4,lime,NOUN,NN,ROOT,Xxxx,0.0
+Kapor Capital,Kapor,2,1,5,Kapor,PROPN,NNP,compound,Xxxxx,0.0
+Kapor Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Darwinbox,Darwinbox,1,1,9,darwinbox,NOUN,NN,ROOT,Xxxxx,0.0
+Foreword VC,Foreword,2,1,8,Foreword,PROPN,NNP,compound,Xxxxx,0.0
+Foreword VC,VC,2,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+Zebra Medical Vision,Zebra,3,1,5,Zebra,PROPN,NNP,compound,Xxxxx,0.0
+Zebra Medical Vision,Medical,3,1,7,Medical,PROPN,NNP,compound,Xxxxx,0.0
+Zebra Medical Vision,Vision,3,1,6,Vision,PROPN,NNP,ROOT,Xxxxx,0.0
+Carnival Cruise Line,Carnival,3,1,8,Carnival,PROPN,NNP,compound,Xxxxx,0.0
+Carnival Cruise Line,Cruise,3,1,6,Cruise,PROPN,NNP,compound,Xxxxx,0.0
+Carnival Cruise Line,Line,3,1,4,line,NOUN,NN,ROOT,Xxxx,0.0
+Homergize,Homergize,1,1,9,homergize,VERB,VB,ROOT,Xxxxx,0.0
+Junglee Games,Junglee,2,1,7,Junglee,PROPN,NNP,compound,Xxxxx,0.0
+Junglee Games,Games,2,1,5,Games,PROPN,NNPS,ROOT,Xxxxx,0.0
+Slync.io,Slync.io,1,1,8,Slync.io,PROPN,NNP,ROOT,Xxxxx.xx,0.0
+Social Capital,Social,2,1,6,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Galileo,Galileo,1,1,7,Galileo,PROPN,NNP,ROOT,Xxxxx,0.0
+KEY Difference Media,KEY,3,1,3,KEY,PROPN,NNP,compound,XXX,0.0
+KEY Difference Media,Difference,3,1,10,Difference,PROPN,NNP,compound,Xxxxx,0.0
+KEY Difference Media,Media,3,1,5,medium,NOUN,NNS,ROOT,Xxxxx,0.0
+NFT.com,NFT.com,1,1,7,NFT.com,PROPN,NNP,ROOT,XXX.xxx,0.0
+Technology Underwriting the Greater Good (TUGG),Technology,6,1,10,technology,NOUN,NN,compound,Xxxxx,0.0
+Technology Underwriting the Greater Good (TUGG),Underwriting,6,1,12,Underwriting,PROPN,NNP,ROOT,Xxxxx,0.0
+Technology Underwriting the Greater Good (TUGG),the,6,1,3,the,DET,DT,det,xxx,0.0
+Technology Underwriting the Greater Good (TUGG),Greater,6,1,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+Technology Underwriting the Greater Good (TUGG),Good,6,1,4,Good,PROPN,NNP,appos,Xxxx,0.0
+Technology Underwriting the Greater Good (TUGG),(,6,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Technology Underwriting the Greater Good (TUGG),TUGG,6,1,4,TUGG,PROPN,NNP,appos,XXXX,0.0
+Technology Underwriting the Greater Good (TUGG),),6,1,1,),PUNCT,-RRB-,punct,),0.0
+Liquid Death,Liquid,2,1,6,liquid,NOUN,NN,compound,Xxxxx,0.0
+Liquid Death,Death,2,1,5,Death,PROPN,NNP,ROOT,Xxxxx,0.0
+Artha India Ventures,Artha,3,1,5,Artha,PROPN,NNP,compound,Xxxxx,0.0
+Artha India Ventures,India,3,1,5,India,PROPN,NNP,compound,Xxxxx,0.0
+Artha India Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+J&amp;T Express,J&amp;T,2,1,7,J&amp;T,PROPN,NNP,compound,X&xxx;X,0.0
+J&amp;T Express,Express,2,1,7,Express,PROPN,NNP,ROOT,Xxxxx,0.0
+Dropbox,Dropbox,1,1,7,Dropbox,PROPN,NNP,ROOT,Xxxxx,0.0
+Dale Ventures,Dale,2,1,4,Dale,PROPN,NNP,compound,Xxxx,0.0
+Dale Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Apache Cassandra,Apache,2,1,6,Apache,PROPN,NNP,compound,Xxxxx,0.0
+Apache Cassandra,Cassandra,2,1,9,Cassandra,PROPN,NNP,ROOT,Xxxxx,0.0
+Sixth Street,Sixth,2,1,5,Sixth,PROPN,NNP,compound,Xxxxx,0.0
+Sixth Street,Street,2,1,6,Street,PROPN,NNP,ROOT,Xxxxx,0.0
+Binance.US,Binance,1,1,7,Binance,PROPN,NNP,ROOT,Xxxxx,0.0
+Binance.US,.,1,1,1,.,PUNCT,.,punct,.,0.0
+Binance.US,US,1,1,2,US,PROPN,NNP,ROOT,XX,0.0
+ACN,ACN,1,1,3,ACN,PROPN,NNP,ROOT,XXX,0.0
+CHECK24,CHECK24,1,1,7,check24,VERB,VB,ROOT,XXXXdd,0.0
+Kohlberg Kravis Roberts,Kohlberg,3,1,8,Kohlberg,PROPN,NNP,compound,Xxxxx,0.0
+Kohlberg Kravis Roberts,Kravis,3,1,6,Kravis,PROPN,NNP,compound,Xxxxx,0.0
+Kohlberg Kravis Roberts,Roberts,3,1,7,Roberts,PROPN,NNP,ROOT,Xxxxx,0.0
+S2 Capital,S2,2,1,2,S2,PROPN,NNP,compound,Xd,0.0
+S2 Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+FirstCry,FirstCry,1,1,8,FirstCry,NOUN,NNS,ROOT,XxxxxXxx,0.0
+Cloud9,Cloud9,1,1,6,Cloud9,PROPN,NNP,ROOT,Xxxxxd,0.0
+Acrobator Ventures | Acrobator.vc,Acrobator,4,1,9,Acrobator,PROPN,NNP,compound,Xxxxx,0.0
+Acrobator Ventures | Acrobator.vc,Ventures,4,1,8,Ventures,PROPN,NNP,ROOT,Xxxxx,0.0
+Acrobator Ventures | Acrobator.vc,|,4,1,1,|,ADV,RB,advmod,|,0.0
+Acrobator Ventures | Acrobator.vc,Acrobator.vc,4,1,12,Acrobator.vc,PROPN,NNP,appos,Xxxxx.xx,0.0
+Vivo Communication Technology,Vivo,3,1,4,Vivo,PROPN,NNP,compound,Xxxx,0.0
+Vivo Communication Technology,Communication,3,1,13,Communication,PROPN,NNP,compound,Xxxxx,0.0
+Vivo Communication Technology,Technology,3,1,10,Technology,PROPN,NNP,ROOT,Xxxxx,0.0
+Thumbtack,Thumbtack,1,1,9,thumbtack,NOUN,NN,ROOT,Xxxxx,0.0
+IppoPay,IppoPay,1,1,7,ippopay,NOUN,NN,ROOT,XxxxXxx,0.0
+Graphiant,Graphiant,1,1,9,graphiant,NOUN,NN,ROOT,Xxxxx,0.0
+Westbridge Capital,Westbridge,2,1,10,Westbridge,PROPN,NNP,compound,Xxxxx,0.0
+Westbridge Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Sierra Space,Sierra,2,1,6,Sierra,PROPN,NNP,compound,Xxxxx,0.0
+Sierra Space,Space,2,1,5,Space,PROPN,NNP,ROOT,Xxxxx,0.0
+inDriver,inDriver,1,1,8,indriver,VERB,VB,ROOT,xxXxxxx,0.0
+Khatabook,Khatabook,1,1,9,khatabook,VERB,VB,ROOT,Xxxxx,0.0
+Shapoorji Pallonji Group,Shapoorji,3,1,9,Shapoorji,PROPN,NNP,compound,Xxxxx,0.0
+Shapoorji Pallonji Group,Pallonji,3,1,8,Pallonji,PROPN,NNP,compound,Xxxxx,0.0
+Shapoorji Pallonji Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Zilingo,Zilingo,1,1,7,Zilingo,PROPN,NNP,ROOT,Xxxxx,0.0
+Wakefit,Wakefit,1,1,7,wakefit,NOUN,NN,ROOT,Xxxxx,0.0
+Wahed Invest,Wahed,2,1,5,Wahed,PROPN,NNP,compound,Xxxxx,0.0
+Wahed Invest,Invest,2,1,6,Invest,PROPN,NNP,ROOT,Xxxxx,0.0
+Chewie Labs,Chewie,2,1,6,Chewie,PROPN,NNP,compound,Xxxxx,0.0
+Chewie Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+incrEDIBLE,incrEDIBLE,1,1,10,incredible,ADV,RB,ROOT,xxxxXXXX,0.0
+FiveM Store L.L.C,FiveM,3,1,5,FiveM,PROPN,NNP,compound,XxxxX,0.0
+FiveM Store L.L.C,Store,3,1,5,Store,PROPN,NNP,compound,Xxxxx,0.0
+FiveM Store L.L.C,L.L.C,3,1,5,L.L.C,PROPN,NNP,ROOT,X.X.X,0.0
+K1 Investment Management,K1,3,1,2,K1,PROPN,NNP,compound,Xd,0.0
+K1 Investment Management,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+K1 Investment Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+MetaLab,MetaLab,1,1,7,MetaLab,NOUN,NNS,ROOT,XxxxXxx,0.0
+Waitroom,Waitroom,1,1,8,waitroom,NOUN,NN,ROOT,Xxxxx,0.0
+AVANA,AVANA,1,1,5,AVANA,PROPN,NNP,ROOT,XXXX,0.0
+MyMoneyMantra,MyMoneyMantra,1,1,13,mymoneymantra,SPACE,_SP,ROOT,XxXxxxxXxxxx,0.0
+General Catalyst,General,2,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General Catalyst,Catalyst,2,1,8,Catalyst,PROPN,NNP,ROOT,Xxxxx,0.0
+Domovi,Domovi,1,1,6,Domovi,PROPN,NNP,ROOT,Xxxxx,0.0
+DealShare,DealShare,1,1,9,dealshare,NOUN,NN,ROOT,XxxxXxxxx,0.0
+On Deck,On,2,1,2,on,ADP,IN,ROOT,Xx,0.0
+On Deck,Deck,2,1,4,Deck,PROPN,NNP,pobj,Xxxx,0.0
+Big Green,Big,2,1,3,big,ADJ,JJ,compound,Xxx,0.0
+Big Green,Green,2,1,5,Green,PROPN,NNP,ROOT,Xxxxx,0.0
+The Hustle,The,2,1,3,the,DET,DT,det,Xxx,0.0
+The Hustle,Hustle,2,1,6,Hustle,PROPN,NNP,ROOT,Xxxxx,0.0
+Wefunder,Wefunder,1,1,8,wefunder,NOUN,NN,ROOT,Xxxxx,0.0
+Passport Capital,Passport,2,1,8,Passport,PROPN,NNP,compound,Xxxxx,0.0
+Passport Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Raya,Raya,1,1,4,Raya,PROPN,NNP,ROOT,Xxxx,0.0
+SUGAR Cosmetics,SUGAR,2,1,5,SUGAR,PROPN,NNP,compound,XXXX,0.0
+SUGAR Cosmetics,Cosmetics,2,1,9,cosmetic,NOUN,NNS,ROOT,Xxxxx,0.0
+FJ Labs,FJ,2,1,2,FJ,PROPN,NNP,compound,XX,0.0
+FJ Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Anchorage Capital Group,Anchorage,3,1,9,Anchorage,PROPN,NNP,compound,Xxxxx,0.0
+Anchorage Capital Group,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Anchorage Capital Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Money View,Money,2,1,5,money,NOUN,NN,compound,Xxxxx,0.0
+Money View,View,2,1,4,view,NOUN,NN,ROOT,Xxxx,0.0
+Lemon Way,Lemon,2,1,5,Lemon,PROPN,NNP,compound,Xxxxx,0.0
+Lemon Way,Way,2,1,3,Way,PROPN,NNP,ROOT,Xxx,0.0
+Unity,Unity,1,1,5,unity,NOUN,NN,ROOT,Xxxxx,0.0
+Bummer,Bummer,1,1,6,bummer,NOUN,NN,ROOT,Xxxxx,0.0
+Lummo,Lummo,1,1,5,Lummo,PROPN,NNP,ROOT,Xxxxx,0.0
+Zenly,Zenly,1,1,5,zenly,ADV,RB,ROOT,Xxxxx,0.0
+Expa,Expa,1,1,4,expa,ADV,RB,ROOT,Xxxx,0.0
+Fin.com,Fin.com,1,1,7,fin.com,X,ADD,ROOT,Xxx.xxx,0.0
+IRL,IRL,1,1,3,irl,VERB,VB,ROOT,XXX,0.0
+Accuity Delivery Systems,Accuity,3,1,7,Accuity,PROPN,NNP,compound,Xxxxx,0.0
+Accuity Delivery Systems,Delivery,3,1,8,Delivery,PROPN,NNP,compound,Xxxxx,0.0
+Accuity Delivery Systems,Systems,3,1,7,Systems,PROPN,NNPS,ROOT,Xxxxx,0.0
+FRACTAL,FRACTAL,1,1,7,fractal,NOUN,NN,ROOT,XXXX,0.0
+Enagic,Enagic,1,1,6,enagic,NOUN,NN,ROOT,Xxxxx,0.0
+Long Journey Ventures,Long,3,1,4,long,ADJ,JJ,amod,Xxxx,0.0
+Long Journey Ventures,Journey,3,1,7,Journey,PROPN,NNP,compound,Xxxxx,0.0
+Long Journey Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Star Health and Allied Insurance,Star,5,1,4,Star,PROPN,NNP,compound,Xxxx,0.0
+Star Health and Allied Insurance,Health,5,1,6,Health,PROPN,NNP,ROOT,Xxxxx,0.0
+Star Health and Allied Insurance,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Star Health and Allied Insurance,Allied,5,1,6,Allied,PROPN,NNP,compound,Xxxxx,0.0
+Star Health and Allied Insurance,Insurance,5,1,9,Insurance,PROPN,NNP,conj,Xxxxx,0.0
+SOSV,SOSV,1,1,4,SOSV,NOUN,NNS,ROOT,XXXX,0.0
+Elara Technologies,Elara,2,1,5,Elara,PROPN,NNP,compound,Xxxxx,0.0
+Elara Technologies,Technologies,2,1,12,Technologies,PROPN,NNPS,ROOT,Xxxxx,0.0
+Pantera Capital,Pantera,2,1,7,Pantera,PROPN,NNP,compound,Xxxxx,0.0
+Pantera Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Flight Club,Flight,2,1,6,Flight,PROPN,NNP,compound,Xxxxx,0.0
+Flight Club,Club,2,1,4,Club,PROPN,NNP,ROOT,Xxxx,0.0
+Protocol Labs,Protocol,2,1,8,Protocol,PROPN,NNP,compound,Xxxxx,0.0
+Protocol Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Davinta,Davinta,1,1,7,davinta,NOUN,NN,ROOT,Xxxxx,0.0
+Sorare,Sorare,1,1,6,Sorare,PROPN,NNP,ROOT,Xxxxx,0.0
+Bayshore Global Management,Bayshore,3,1,8,Bayshore,PROPN,NNP,compound,Xxxxx,0.0
+Bayshore Global Management,Global,3,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Bayshore Global Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Lightning Labs,Lightning,2,1,9,Lightning,PROPN,NNP,compound,Xxxxx,0.0
+Lightning Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Sound Ventures,Sound,2,1,5,sound,ADJ,JJ,compound,Xxxxx,0.0
+Sound Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Ripple,Ripple,1,1,6,Ripple,PROPN,NNP,ROOT,Xxxxx,0.0
+Houzz,Houzz,1,1,5,houzz,NOUN,NN,ROOT,Xxxxx,0.0
+Nest,Nest,1,1,4,nest,NOUN,NN,ROOT,Xxxx,0.0
+Swadharma Source Ventures,Swadharma,3,1,9,Swadharma,PROPN,NNP,compound,Xxxxx,0.0
+Swadharma Source Ventures,Source,3,1,6,Source,PROPN,NNP,compound,Xxxxx,0.0
+Swadharma Source Ventures,Ventures,3,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Gorillas,Gorillas,1,1,8,gorilla,NOUN,NNS,ROOT,Xxxxx,0.0
+Affirm,Affirm,1,1,6,affirm,ADJ,JJ,ROOT,Xxxxx,0.0
+MetaQuotes Software Corp.,MetaQuotes,3,1,10,MetaQuotes,PROPN,NNP,compound,XxxxXxxxx,0.0
+MetaQuotes Software Corp.,Software,3,1,8,Software,PROPN,NNP,compound,Xxxxx,0.0
+MetaQuotes Software Corp.,Corp.,3,1,5,Corp.,PROPN,NNP,ROOT,Xxxx.,0.0
+UpHonest Capital,UpHonest,2,1,8,UpHonest,PROPN,NNP,compound,XxXxxxx,0.0
+UpHonest Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Double Eagle Acquisition,Double,3,1,6,Double,PROPN,NNP,compound,Xxxxx,0.0
+Double Eagle Acquisition,Eagle,3,1,5,Eagle,PROPN,NNP,compound,Xxxxx,0.0
+Double Eagle Acquisition,Acquisition,3,1,11,Acquisition,PROPN,NNP,ROOT,Xxxxx,0.0
+Daffy,Daffy,1,1,5,daffy,ADJ,JJ,ROOT,Xxxxx,0.0
+Project Umami,Project,2,1,7,project,NOUN,NN,compound,Xxxxx,0.0
+Project Umami,Umami,2,1,5,Umami,PROPN,NNP,ROOT,Xxxxx,0.0
+ShareNett,ShareNett,1,1,9,sharenett,NOUN,NN,ROOT,XxxxxXxxx,0.0
+CyberArk Software,CyberArk,2,1,8,CyberArk,PROPN,NNP,compound,XxxxxXxx,0.0
+CyberArk Software,Software,2,1,8,Software,PROPN,NNP,ROOT,Xxxxx,0.0
+United Capital Management,United,3,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+United Capital Management,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+United Capital Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+actyv.ai,actyv.ai,1,1,8,actyv.ai,PRON,PRP,ROOT,xxxx.xx,0.0
+The Walt Disney Company,The,4,1,3,the,DET,DT,det,Xxx,0.0
+The Walt Disney Company,Walt,4,1,4,Walt,PROPN,NNP,compound,Xxxx,0.0
+The Walt Disney Company,Disney,4,1,6,Disney,PROPN,NNP,compound,Xxxxx,0.0
+The Walt Disney Company,Company,4,1,7,Company,PROPN,NNP,ROOT,Xxxxx,0.0
+Magic Spoon,Magic,2,1,5,Magic,PROPN,NNP,compound,Xxxxx,0.0
+Magic Spoon,Spoon,2,1,5,Spoon,PROPN,NNP,ROOT,Xxxxx,0.0
+nebenan.de,nebenan.de,1,1,10,nebenan.de,X,ADD,ROOT,xxxx.xx,0.0
+Hyper,Hyper,1,1,5,hyper,NOUN,NN,ROOT,Xxxxx,0.0

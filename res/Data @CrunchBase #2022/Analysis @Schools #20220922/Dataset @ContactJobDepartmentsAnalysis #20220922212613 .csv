@@ -1,0 +1,834 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Information Technology, Management, Operations, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Management, Operations, Pro Services, Sales","[Engineering, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Management, Marketing, Operations, Product","[Management, Product]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Finance, Management, Marketing, Operations, Product","[Finance, Product]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Marketing, Medical &amp; Science, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Medical &amp; Science, Operations, Pro Services",[Management],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Marketing, Operations, Pro Services",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Legal, Management, Marketing, Operations, Pro Services, Product, Sales","[Engineering, Sales]",2,[],0,[],0
+"Engineering, Finance, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Marketing, Operations",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Marketing, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Management, Marketing, Operations, Sales","[Management, Sales]",2,[],0,[],0
+"Engineering, Finance, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Sales",[Sales],1,[],0,[],0
+"Finance, Information Technology, Management, Operations, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Medical &amp; Science, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Human Resources, Information Technology, Management","[Engineering, Management]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Medical &amp; Science, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Management","[Engineering, Management]",2,[],0,[],0
+"Finance, Legal, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Legal, Management, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Management, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Human Resources, Management, Operations",[],0,[],0,[],0
+"Finance, Human Resources, Information Technology, Legal, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Finance, Information Technology, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Operations, Sales","[Engineering, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Legal, Management, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Marketing, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Marketing, Operations",[Marketing],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Operations, Sales","[Operations, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Legal, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Human Resources, Information Technology, Management, Medical &amp; Science, Operations, Product","[Engineering, Product]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Marketing, Operations, Pro Services, Sales","[Engineering, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Legal, Management, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations, Sales","[Management, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Legal, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Legal, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product","[Finance, Product]",2,[],0,[],0
+"Management, Marketing, Operations",[Management],1,[],0,[],0
+"Management, Sales","[Management, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Information Technology, Management, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Operations",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Information Technology, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Human Resources, Management, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Human Resources, Management, Operations, Pro Services",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Legal, Management, Marketing, Operations, Pro Services, Product","[Finance, Product]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Operations, Pro Services",[Finance],1,[],0,[],0
+"Finance, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Management, Medical &amp; Science, Operations, Pro Services, Sales","[Engineering, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Pro Services",[Management],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Operations, Sales","[Finance, Sales]",2,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Management, Medical &amp; Science, Operations",[Management],1,[],0,[],0
+"Finance, Management, Operations, Product, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Information Technology, Management, Marketing, Operations",[Engineering],1,[],0,[],0
+"Finance, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Operations",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Support",[Support],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Medical &amp; Science, Operations, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Medical &amp; Science, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Information Technology, Management",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Information Technology, Management, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Operations",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Human Resources, Management, Operations",[],0,[],0,[],0
+"Management, Marketing, Operations, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Legal, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Management, Marketing, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Human Resources, Management, Marketing, Operations, Pro Services, Sales","[Engineering, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Operations, Pro Services, Sales","[Engineering, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Medical &amp; Science, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Management, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Pro Services,[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Finance, Human Resources, Management, Operations, Pro Services, Product, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management","[Finance, Management]",2,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Marketing, Operations",[],0,[],0,[],0
+"Finance, Management, Operations, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations, Sales","[Management, Sales]",2,[],0,[],0
+"Finance, Information Technology, Medical &amp; Science, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Management, Marketing, Operations, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Information Technology, Management, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Management, Marketing, Operations, Pro Services",[Management],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Legal, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Medical &amp; Science, Operations, Pro Services, Sales, Support","[Engineering, Support]",2,[],0,[],0
+"Engineering, Finance, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Finance, Management, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Management, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Operations",[Finance],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Medical &amp; Science, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Marketing, Operations, Sales","[Finance, Sales]",2,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Operations",[Finance],1,[],0,[],0
+"Finance, Management, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product",[Product],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Engineering,[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services, Product","[Finance, Product]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Management, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Information Technology, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Information Technology, Legal, Management, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Operations, Pro Services",[Operations],1,[],0,[],0
+"Engineering, Human Resources, Information Technology, Management, Marketing, Operations",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Legal, Management, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Marketing, Operations, Sales","[Management, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Medical &amp; Science, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Finance, Human Resources, Legal, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Management, Operations, Pro Services",[],0,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Management, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations",[Finance],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Management, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales, Support",[Support],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations, Sales","[Management, Sales]",2,[],0,[],0
+"Engineering, Finance, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Operations, Pro Services, Sales","[Engineering, Sales]",2,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Finance, Human Resources, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Information Technology, Management, Marketing, Operations, Pro Services",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Legal, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[Legal],1
+"Management, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Human Resources, Management, Medical &amp; Science, Operations, Pro Services, Sales","[Engineering, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Marketing, Operations, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Finance, Management, Marketing, Operations, Sales","[Finance, Sales]",2,[],0,[],0
+"Operations, Sales","[Operations, Sales]",2,[],0,[],0
+"Human Resources, Management, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Management, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Management, Operations, Pro Services",[Engineering],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Sales","[Finance, Sales]",2,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+Pro Services,[],0,[],0,[],0
+"Finance, Human Resources, Management, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Operations, Pro Services",[],0,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Operations, Sales","[Management, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations",[],0,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Management, Medical &amp; Science, Operations",[],0,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations, Sales","[Management, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations",[],0,[],0,[],0
+"Engineering, Finance, Management, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Information Technology, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Human Resources, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Management, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Management, Operations, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations, Pro Services",[],0,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Management, Operations, Pro Services",[Engineering],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Operations",[Engineering],1,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Management, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Pro Services,[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Management, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Human Resources, Management, Operations, Pro Services, Sales","[Engineering, Sales]",2,[],0,[],0
+"Finance, Information Technology, Operations",[Finance],1,[],0,[],0
+"Operations, Sales","[Operations, Sales]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations",[],0,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Management, Operations",[Engineering],1,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Finance, Information Technology, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Medical &amp; Science, Pro Services",[],0,[],0,[],0
+"Finance, Management, Pro Services, Sales","[Finance, Sales]",2,[],0,[],0
+"Management, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Finance, Human Resources, Management, Operations",[Finance],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Human Resources, Information Technology, Management, Operations",[Engineering],1,[],0,[],0
+"Management, Pro Services",[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Finance, Management","[Finance, Management]",2,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Finance, Management, Operations",[Finance],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Management, Marketing, Operations, Pro Services, Sales","[Management, Sales]",2,[],0,[],0
+"Marketing, Operations, Sales","[Marketing, Sales]",2,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Management, Operations, Product","[Management, Product]",2,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Marketing, Operations",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Operations, Pro Services",[],0,[],0,[],0
+"Finance, Human Resources, Management, Marketing, Operations",[Finance],1,[],0,[],0
+Management,[Management],1,[],0,[],0
+"Engineering, Finance, Management, Marketing, Medical &amp; Science, Operations, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Legal, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Medical &amp; Science, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Sales",[Sales],1,[],0,[],0
+Operations,[Operations],1,[],0,[],0
+"Human Resources, Management, Medical &amp; Science, Pro Services",[],0,[],0,[],0
+"Management, Pro Services",[Management],1,[],0,[],0
+"Engineering, Management, Pro Services",[Engineering],1,[],0,[],0
+"Engineering, Management, Operations, Pro Services",[Engineering],1,[],0,[],0
+"Management, Operations",[Management],1,[],0,[],0
+"Finance, Human Resources, Information Technology, Marketing, Operations",[Finance],1,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Marketing, Operations, Sales",[Sales],1,[],0,[],0
+"Human Resources, Management, Pro Services",[],0,[],0,[],0
+"Engineering, Finance, Human Resources, Information Technology, Management, Marketing, Operations, Pro Services, Product, Sales",[Sales],1,[],0,[],0
+"Finance, Management, Operations",[Finance],1,[],0,[],0
+"Management, Operations, Pro Services",[Management],1,[],0,[],0

@@ -1,0 +1,80 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Advertising; business,Advertising,2,113,11,advertising,NOUN,NN,ROOT,Xxxxx,0.0
+Advertising; business,;,2,113,1,;,PUNCT,:,punct,;,0.0
+Advertising; business,business,2,113,8,business,NOUN,NN,appos,xxxx,0.0
+Education; entertainment,Education,2,12,9,education,NOUN,NN,ROOT,Xxxxx,0.0
+Education; entertainment,;,2,12,1,;,PUNCT,:,punct,;,0.0
+Education; entertainment,entertainment,2,12,13,entertainment,NOUN,NN,appos,xxxx,0.0
+Insurance; financial affairs,Insurance,3,180,9,insurance,NOUN,NN,ROOT,Xxxxx,0.0
+Insurance; financial affairs,;,3,180,1,;,PUNCT,:,punct,;,0.0
+Insurance; financial affairs,financial,3,180,9,financial,ADJ,JJ,amod,xxxx,0.0
+Insurance; financial affairs,affairs,3,180,7,affair,NOUN,NNS,appos,xxxx,0.0
+Machines and machine tools,Machines,4,1,8,machine,NOUN,NNS,ROOT,Xxxxx,0.0
+Machines and machine tools,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Machines and machine tools,machine,4,1,7,machine,NOUN,NN,compound,xxxx,0.0
+Machines and machine tools,tools,4,1,5,tool,NOUN,NNS,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",Bleaching,8,1,9,bleaching,NOUN,NN,ROOT,Xxxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",cleaning,8,1,8,cleaning,NOUN,NN,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",polishing,8,1,9,polishing,NOUN,NN,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",scouring,8,1,8,scour,VERB,VBG,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",and,8,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",abrasive,8,1,8,abrasive,ADJ,JJ,amod,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",preparations,8,1,12,preparation,NOUN,NNS,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",;,8,1,1,;,PUNCT,:,punct,;,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",cosmetics,8,1,9,cosmetic,NOUN,NNS,appos,xxxx,0.0
+Scientific and electric apparatus and instruments,Scientific,6,12,10,scientific,ADJ,JJ,amod,Xxxxx,0.0
+Scientific and electric apparatus and instruments,and,6,12,3,and,CCONJ,CC,cc,xxx,0.0
+Scientific and electric apparatus and instruments,electric,6,12,8,electric,ADJ,JJ,conj,xxxx,0.0
+Scientific and electric apparatus and instruments,apparatus,6,12,9,apparatus,NOUN,NN,ROOT,xxxx,0.0
+Scientific and electric apparatus and instruments,instruments,6,12,11,instrument,NOUN,NNS,conj,xxxx,0.0
+Furniture and decorative products,Furniture,4,2,9,furniture,NOUN,NN,ROOT,Xxxxx,0.0
+Furniture and decorative products,and,4,2,3,and,CCONJ,CC,cc,xxx,0.0
+Furniture and decorative products,decorative,4,2,10,decorative,ADJ,JJ,amod,xxxx,0.0
+Furniture and decorative products,products,4,2,8,product,NOUN,NNS,conj,xxxx,0.0
+Industrial oils and greases; lubricants; fuels,Industrial,6,1,10,industrial,ADJ,JJ,amod,Xxxxx,0.0
+Industrial oils and greases; lubricants; fuels,oils,6,1,4,oil,NOUN,NNS,ROOT,xxxx,0.0
+Industrial oils and greases; lubricants; fuels,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Industrial oils and greases; lubricants; fuels,greases,6,1,7,grease,NOUN,NNS,conj,xxxx,0.0
+Industrial oils and greases; lubricants; fuels,;,6,1,1,;,PUNCT,:,punct,;,0.0
+Industrial oils and greases; lubricants; fuels,lubricants,6,1,10,lubricant,NOUN,NNS,conj,xxxx,0.0
+Industrial oils and greases; lubricants; fuels,fuels,6,1,5,fuel,NOUN,NNS,appos,xxxx,0.0
+Scientific and technological services,Scientific,4,5,10,scientific,ADJ,JJ,amod,Xxxxx,0.0
+Scientific and technological services,and,4,5,3,and,CCONJ,CC,cc,xxx,0.0
+Scientific and technological services,technological,4,5,13,technological,ADJ,JJ,conj,xxxx,0.0
+Scientific and technological services,services,4,5,8,service,NOUN,NNS,ROOT,xxxx,0.0
+"Paper, cardboard and goods made from these materials",Paper,8,6,5,paper,NOUN,NN,ROOT,Xxxxx,0.0
+"Paper, cardboard and goods made from these materials",",",8,6,1,",",PUNCT,",",punct,",",0.0
+"Paper, cardboard and goods made from these materials",cardboard,8,6,9,cardboard,NOUN,NN,conj,xxxx,0.0
+"Paper, cardboard and goods made from these materials",and,8,6,3,and,CCONJ,CC,cc,xxx,0.0
+"Paper, cardboard and goods made from these materials",goods,8,6,5,good,NOUN,NNS,conj,xxxx,0.0
+"Paper, cardboard and goods made from these materials",made,8,6,4,make,VERB,VBN,acl,xxxx,0.0
+"Paper, cardboard and goods made from these materials",from,8,6,4,from,ADP,IN,prep,xxxx,0.0
+"Paper, cardboard and goods made from these materials",these,8,6,5,these,DET,DT,det,xxxx,0.0
+"Paper, cardboard and goods made from these materials",materials,8,6,9,material,NOUN,NNS,pobj,xxxx,0.0
+Chemical substances,Chemical,2,3,8,chemical,ADJ,JJ,amod,Xxxxx,0.0
+Chemical substances,substances,2,3,10,substance,NOUN,NNS,ROOT,xxxx,0.0
+Meats and prepared or preserved foods; dairy products,Meats,8,2,5,meat,NOUN,NNS,ROOT,Xxxxx,0.0
+Meats and prepared or preserved foods; dairy products,and,8,2,3,and,CCONJ,CC,cc,xxx,0.0
+Meats and prepared or preserved foods; dairy products,prepared,8,2,8,prepared,ADJ,JJ,amod,xxxx,0.0
+Meats and prepared or preserved foods; dairy products,or,8,2,2,or,CCONJ,CC,cc,xx,0.0
+Meats and prepared or preserved foods; dairy products,preserved,8,2,9,preserve,VERB,VBN,conj,xxxx,0.0
+Meats and prepared or preserved foods; dairy products,foods,8,2,5,food,NOUN,NNS,conj,xxxx,0.0
+Meats and prepared or preserved foods; dairy products,;,8,2,1,;,PUNCT,:,punct,;,0.0
+Meats and prepared or preserved foods; dairy products,dairy,8,2,5,dairy,NOUN,NN,compound,xxxx,0.0
+Meats and prepared or preserved foods; dairy products,products,8,2,8,product,NOUN,NNS,appos,xxxx,0.0
+Telecommunications,Telecommunications,1,2,18,telecommunication,NOUN,NNS,ROOT,Xxxxx,0.0
+"Pharmaceutical, veterinary and sanitary products",Pharmaceutical,5,1,14,pharmaceutical,ADJ,JJ,amod,Xxxxx,0.0
+"Pharmaceutical, veterinary and sanitary products",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Pharmaceutical, veterinary and sanitary products",veterinary,5,1,10,veterinary,ADJ,JJ,amod,xxxx,0.0
+"Pharmaceutical, veterinary and sanitary products",and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Pharmaceutical, veterinary and sanitary products",sanitary,5,1,8,sanitary,ADJ,JJ,conj,xxxx,0.0
+"Pharmaceutical, veterinary and sanitary products",products,5,1,8,product,NOUN,NNS,ROOT,xxxx,0.0
+Environmental control apparatus,Environmental,3,1,13,environmental,ADJ,JJ,amod,Xxxxx,0.0
+Environmental control apparatus,control,3,1,7,control,NOUN,NN,compound,xxxx,0.0
+Environmental control apparatus,apparatus,3,1,9,apparatus,NOUN,NN,ROOT,xxxx,0.0
+Vehicles,Vehicles,1,2,8,vehicle,NOUN,NNS,ROOT,Xxxxx,0.0
+Medical apparatus and instruments,Medical,4,1,7,medical,ADJ,JJ,amod,Xxxxx,0.0
+Medical apparatus and instruments,apparatus,4,1,9,apparatus,NOUN,NN,ROOT,xxxx,0.0
+Medical apparatus and instruments,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Medical apparatus and instruments,instruments,4,1,11,instrument,NOUN,NNS,conj,xxxx,0.0

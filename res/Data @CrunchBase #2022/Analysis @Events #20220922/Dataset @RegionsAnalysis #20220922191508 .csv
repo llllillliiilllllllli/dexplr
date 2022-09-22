@@ -1,0 +1,244 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+—,—,1,553,1,—,PUNCT,:,ROOT,—,0.0
+"Greater Detroit Area, Great Lakes, Midwestern US",Greater,7,1,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Detroit Area, Great Lakes, Midwestern US",Detroit,7,1,7,Detroit,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Detroit Area, Great Lakes, Midwestern US",Area,7,1,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Detroit Area, Great Lakes, Midwestern US",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Greater Detroit Area, Great Lakes, Midwestern US",Great,7,1,5,Great,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Detroit Area, Great Lakes, Midwestern US",Lakes,7,1,5,Lakes,PROPN,NNP,appos,Xxxxx,0.0
+"Greater Detroit Area, Great Lakes, Midwestern US",Midwestern,7,1,10,Midwestern,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Detroit Area, Great Lakes, Midwestern US",US,7,1,2,US,PROPN,NNP,appos,XX,0.0
+"Greater San Diego Area, West Coast, Western US",Greater,8,6,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater San Diego Area, West Coast, Western US",San,8,6,3,San,PROPN,NNP,compound,Xxx,0.0
+"Greater San Diego Area, West Coast, Western US",Diego,8,6,5,Diego,PROPN,NNP,compound,Xxxxx,0.0
+"Greater San Diego Area, West Coast, Western US",Area,8,6,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater San Diego Area, West Coast, Western US",",",8,6,1,",",PUNCT,",",punct,",",0.0
+"Greater San Diego Area, West Coast, Western US",West,8,6,4,West,PROPN,NNP,compound,Xxxx,0.0
+"Greater San Diego Area, West Coast, Western US",Coast,8,6,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"Greater San Diego Area, West Coast, Western US",Western,8,6,7,Western,PROPN,NNP,compound,Xxxxx,0.0
+"Greater San Diego Area, West Coast, Western US",US,8,6,2,US,PROPN,NNP,appos,XX,0.0
+European Union (EU),European,3,90,8,European,PROPN,NNP,compound,Xxxxx,0.0
+European Union (EU),Union,3,90,5,Union,PROPN,NNP,ROOT,Xxxxx,0.0
+European Union (EU),(,3,90,1,(,PUNCT,-LRB-,punct,(,0.0
+European Union (EU),EU,3,90,2,EU,PROPN,NNP,appos,XX,0.0
+European Union (EU),),3,90,1,),PUNCT,-RRB-,punct,),0.0
+"Greater Miami Area, East Coast, Southern US",Greater,7,8,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Miami Area, East Coast, Southern US",Miami,7,8,5,Miami,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Miami Area, East Coast, Southern US",Area,7,8,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Miami Area, East Coast, Southern US",",",7,8,1,",",PUNCT,",",punct,",",0.0
+"Greater Miami Area, East Coast, Southern US",East,7,8,4,East,PROPN,NNP,compound,Xxxx,0.0
+"Greater Miami Area, East Coast, Southern US",Coast,7,8,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"Greater Miami Area, East Coast, Southern US",Southern,7,8,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Miami Area, East Coast, Southern US",US,7,8,2,US,PROPN,NNP,appos,XX,0.0
+Gulf Cooperation Council (GCC),Gulf,4,30,4,Gulf,PROPN,NNP,compound,Xxxx,0.0
+Gulf Cooperation Council (GCC),Cooperation,4,30,11,Cooperation,PROPN,NNP,compound,Xxxxx,0.0
+Gulf Cooperation Council (GCC),Council,4,30,7,Council,PROPN,NNP,ROOT,Xxxxx,0.0
+Gulf Cooperation Council (GCC),(,4,30,1,(,PUNCT,-LRB-,punct,(,0.0
+Gulf Cooperation Council (GCC),GCC,4,30,3,GCC,PROPN,NNP,appos,XXX,0.0
+Gulf Cooperation Council (GCC),),4,30,1,),PUNCT,-RRB-,punct,),0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",Asia,10,17,4,Asia,PROPN,NNP,compound,Xxxx,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",-,10,17,1,-,PUNCT,HYPH,punct,-,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",Pacific,10,17,7,Pacific,PROPN,NNP,ROOT,Xxxxx,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",(,10,17,1,(,PUNCT,-LRB-,punct,(,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",APAC,10,17,4,APAC,PROPN,NNP,appos,XXXX,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",),10,17,1,),PUNCT,-RRB-,punct,),0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",",",10,17,1,",",PUNCT,",",punct,",",0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",Association,10,17,11,Association,PROPN,NNP,appos,Xxxxx,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",of,10,17,2,of,ADP,IN,prep,xx,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",Southeast,10,17,9,Southeast,PROPN,NNP,compound,Xxxxx,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",Asian,10,17,5,Asian,PROPN,NNP,compound,Xxxxx,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",Nations,10,17,7,Nations,PROPN,NNPS,pobj,Xxxxx,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",ASEAN,10,17,5,ASEAN,PROPN,NNP,appos,XXXX,0.0
+"Asia-Pacific (APAC), Association of Southeast Asian Nations (ASEAN), Southeast Asia",Asia,10,17,4,Asia,PROPN,NNP,appos,Xxxx,0.0
+Western US,Western,2,33,7,western,ADJ,JJ,amod,Xxxxx,0.0
+Western US,US,2,33,2,US,PROPN,NNP,ROOT,XX,0.0
+"Washington DC Metro Area, Southern US",Washington,6,9,10,Washington,PROPN,NNP,compound,Xxxxx,0.0
+"Washington DC Metro Area, Southern US",DC,6,9,2,DC,PROPN,NNP,compound,XX,0.0
+"Washington DC Metro Area, Southern US",Metro,6,9,5,Metro,PROPN,NNP,compound,Xxxxx,0.0
+"Washington DC Metro Area, Southern US",Area,6,9,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Washington DC Metro Area, Southern US",",",6,9,1,",",PUNCT,",",punct,",",0.0
+"Washington DC Metro Area, Southern US",Southern,6,9,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Washington DC Metro Area, Southern US",US,6,9,2,US,PROPN,NNP,appos,XX,0.0
+Asia-Pacific (APAC),Asia,2,93,4,Asia,PROPN,NNP,compound,Xxxx,0.0
+Asia-Pacific (APAC),-,2,93,1,-,PUNCT,HYPH,punct,-,0.0
+Asia-Pacific (APAC),Pacific,2,93,7,Pacific,PROPN,NNP,ROOT,Xxxxx,0.0
+Asia-Pacific (APAC),(,2,93,1,(,PUNCT,-LRB-,punct,(,0.0
+Asia-Pacific (APAC),APAC,2,93,4,APAC,PROPN,NNP,appos,XXXX,0.0
+Asia-Pacific (APAC),),2,93,1,),PUNCT,-RRB-,punct,),0.0
+"Greater Los Angeles Area, West Coast, Western US",Greater,8,16,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Los Angeles Area, West Coast, Western US",Los,8,16,3,Los,PROPN,NNP,compound,Xxx,0.0
+"Greater Los Angeles Area, West Coast, Western US",Angeles,8,16,7,Angeles,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Los Angeles Area, West Coast, Western US",Area,8,16,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Los Angeles Area, West Coast, Western US",",",8,16,1,",",PUNCT,",",punct,",",0.0
+"Greater Los Angeles Area, West Coast, Western US",West,8,16,4,West,PROPN,NNP,compound,Xxxx,0.0
+"Greater Los Angeles Area, West Coast, Western US",Coast,8,16,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"Greater Los Angeles Area, West Coast, Western US",Western,8,16,7,Western,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Los Angeles Area, West Coast, Western US",US,8,16,2,US,PROPN,NNP,appos,XX,0.0
+"Greater New York Area, East Coast, Northeastern US",Greater,8,26,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater New York Area, East Coast, Northeastern US",New,8,26,3,New,PROPN,NNP,compound,Xxx,0.0
+"Greater New York Area, East Coast, Northeastern US",York,8,26,4,York,PROPN,NNP,compound,Xxxx,0.0
+"Greater New York Area, East Coast, Northeastern US",Area,8,26,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater New York Area, East Coast, Northeastern US",",",8,26,1,",",PUNCT,",",punct,",",0.0
+"Greater New York Area, East Coast, Northeastern US",East,8,26,4,East,PROPN,NNP,compound,Xxxx,0.0
+"Greater New York Area, East Coast, Northeastern US",Coast,8,26,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"Greater New York Area, East Coast, Northeastern US",Northeastern,8,26,12,Northeastern,PROPN,NNP,compound,Xxxxx,0.0
+"Greater New York Area, East Coast, Northeastern US",US,8,26,2,US,PROPN,NNP,appos,XX,0.0
+"Greater Boston Area, East Coast, New England",Greater,7,7,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Boston Area, East Coast, New England",Boston,7,7,6,Boston,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Boston Area, East Coast, New England",Area,7,7,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Boston Area, East Coast, New England",",",7,7,1,",",PUNCT,",",punct,",",0.0
+"Greater Boston Area, East Coast, New England",East,7,7,4,East,PROPN,NNP,compound,Xxxx,0.0
+"Greater Boston Area, East Coast, New England",Coast,7,7,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"Greater Boston Area, East Coast, New England",New,7,7,3,New,PROPN,NNP,compound,Xxx,0.0
+"Greater Boston Area, East Coast, New England",England,7,7,7,England,PROPN,NNP,appos,Xxxxx,0.0
+"San Francisco Bay Area, West Coast, Western US",San,8,22,3,San,PROPN,NNP,compound,Xxx,0.0
+"San Francisco Bay Area, West Coast, Western US",Francisco,8,22,9,Francisco,PROPN,NNP,compound,Xxxxx,0.0
+"San Francisco Bay Area, West Coast, Western US",Bay,8,22,3,Bay,PROPN,NNP,compound,Xxx,0.0
+"San Francisco Bay Area, West Coast, Western US",Area,8,22,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"San Francisco Bay Area, West Coast, Western US",",",8,22,1,",",PUNCT,",",punct,",",0.0
+"San Francisco Bay Area, West Coast, Western US",West,8,22,4,West,PROPN,NNP,compound,Xxxx,0.0
+"San Francisco Bay Area, West Coast, Western US",Coast,8,22,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"San Francisco Bay Area, West Coast, Western US",Western,8,22,7,Western,PROPN,NNP,compound,Xxxxx,0.0
+"San Francisco Bay Area, West Coast, Western US",US,8,22,2,US,PROPN,NNP,appos,XX,0.0
+"Dallas/Fort Worth Metroplex, Southern US",Dallas,5,3,6,Dallas,PROPN,NNP,nmod,Xxxxx,0.0
+"Dallas/Fort Worth Metroplex, Southern US",/,5,3,1,/,SYM,SYM,punct,/,0.0
+"Dallas/Fort Worth Metroplex, Southern US",Fort,5,3,4,Fort,PROPN,NNP,compound,Xxxx,0.0
+"Dallas/Fort Worth Metroplex, Southern US",Worth,5,3,5,Worth,PROPN,NNP,compound,Xxxxx,0.0
+"Dallas/Fort Worth Metroplex, Southern US",Metroplex,5,3,9,Metroplex,PROPN,NNP,ROOT,Xxxxx,0.0
+"Dallas/Fort Worth Metroplex, Southern US",",",5,3,1,",",PUNCT,",",punct,",",0.0
+"Dallas/Fort Worth Metroplex, Southern US",Southern,5,3,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Dallas/Fort Worth Metroplex, Southern US",US,5,3,2,US,PROPN,NNP,appos,XX,0.0
+"East Coast, Southern US",East,4,9,4,East,PROPN,NNP,compound,Xxxx,0.0
+"East Coast, Southern US",Coast,4,9,5,Coast,PROPN,NNP,ROOT,Xxxxx,0.0
+"East Coast, Southern US",",",4,9,1,",",PUNCT,",",punct,",",0.0
+"East Coast, Southern US",Southern,4,9,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"East Coast, Southern US",US,4,9,2,US,PROPN,NNP,appos,XX,0.0
+Latin America,Latin,2,9,5,Latin,PROPN,NNP,compound,Xxxxx,0.0
+Latin America,America,2,9,7,America,PROPN,NNP,ROOT,Xxxxx,0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",San,8,5,3,San,PROPN,NNP,compound,Xxx,0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",Francisco,8,5,9,Francisco,PROPN,NNP,compound,Xxxxx,0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",Bay,8,5,3,Bay,PROPN,NNP,compound,Xxx,0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",Area,8,5,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",",",8,5,1,",",PUNCT,",",punct,",",0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",Silicon,8,5,7,Silicon,PROPN,NNP,compound,Xxxxx,0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",Valley,8,5,6,Valley,PROPN,NNP,appos,Xxxxx,0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",West,8,5,4,West,PROPN,NNP,compound,Xxxx,0.0
+"San Francisco Bay Area, Silicon Valley, West Coast",Coast,8,5,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"West Coast, Western US",West,4,1,4,West,PROPN,NNP,compound,Xxxx,0.0
+"West Coast, Western US",Coast,4,1,5,Coast,PROPN,NNP,ROOT,Xxxxx,0.0
+"West Coast, Western US",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"West Coast, Western US",Western,4,1,7,Western,PROPN,NNP,compound,Xxxxx,0.0
+"West Coast, Western US",US,4,1,2,US,PROPN,NNP,appos,XX,0.0
+"Greater Philadelphia Area, Great Lakes, Northeastern US",Greater,7,2,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Philadelphia Area, Great Lakes, Northeastern US",Philadelphia,7,2,12,Philadelphia,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Philadelphia Area, Great Lakes, Northeastern US",Area,7,2,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Philadelphia Area, Great Lakes, Northeastern US",",",7,2,1,",",PUNCT,",",punct,",",0.0
+"Greater Philadelphia Area, Great Lakes, Northeastern US",Great,7,2,5,Great,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Philadelphia Area, Great Lakes, Northeastern US",Lakes,7,2,5,Lakes,PROPN,NNP,appos,Xxxxx,0.0
+"Greater Philadelphia Area, Great Lakes, Northeastern US",Northeastern,7,2,12,Northeastern,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Philadelphia Area, Great Lakes, Northeastern US",US,7,2,2,US,PROPN,NNP,appos,XX,0.0
+"Greater Chicago Area, Great Lakes, Midwestern US",Greater,7,6,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Chicago Area, Great Lakes, Midwestern US",Chicago,7,6,7,Chicago,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Chicago Area, Great Lakes, Midwestern US",Area,7,6,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Chicago Area, Great Lakes, Midwestern US",",",7,6,1,",",PUNCT,",",punct,",",0.0
+"Greater Chicago Area, Great Lakes, Midwestern US",Great,7,6,5,Great,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Chicago Area, Great Lakes, Midwestern US",Lakes,7,6,5,Lakes,PROPN,NNP,appos,Xxxxx,0.0
+"Greater Chicago Area, Great Lakes, Midwestern US",Midwestern,7,6,10,Midwestern,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Chicago Area, Great Lakes, Midwestern US",US,7,6,2,US,PROPN,NNP,appos,XX,0.0
+Great Lakes,Great,2,5,5,great,ADJ,JJ,amod,Xxxxx,0.0
+Great Lakes,Lakes,2,5,5,Lakes,PROPN,NNPS,ROOT,Xxxxx,0.0
+"Asia-Pacific (APAC), Australasia",Asia,3,12,4,Asia,PROPN,NNP,compound,Xxxx,0.0
+"Asia-Pacific (APAC), Australasia",-,3,12,1,-,PUNCT,HYPH,punct,-,0.0
+"Asia-Pacific (APAC), Australasia",Pacific,3,12,7,Pacific,PROPN,NNP,ROOT,Xxxxx,0.0
+"Asia-Pacific (APAC), Australasia",(,3,12,1,(,PUNCT,-LRB-,punct,(,0.0
+"Asia-Pacific (APAC), Australasia",APAC,3,12,4,APAC,PROPN,NNP,appos,XXXX,0.0
+"Asia-Pacific (APAC), Australasia",),3,12,1,),PUNCT,-RRB-,punct,),0.0
+"Asia-Pacific (APAC), Australasia",",",3,12,1,",",PUNCT,",",punct,",",0.0
+"Asia-Pacific (APAC), Australasia",Australasia,3,12,11,Australasia,PROPN,NNP,appos,Xxxxx,0.0
+"Great Lakes, Midwestern US",Great,4,5,5,Great,PROPN,NNP,compound,Xxxxx,0.0
+"Great Lakes, Midwestern US",Lakes,4,5,5,Lakes,PROPN,NNP,ROOT,Xxxxx,0.0
+"Great Lakes, Midwestern US",",",4,5,1,",",PUNCT,",",punct,",",0.0
+"Great Lakes, Midwestern US",Midwestern,4,5,10,Midwestern,PROPN,NNP,compound,Xxxxx,0.0
+"Great Lakes, Midwestern US",US,4,5,2,US,PROPN,NNP,appos,XX,0.0
+"Greater Atlanta Area, East Coast, Southern US",Greater,7,3,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Atlanta Area, East Coast, Southern US",Atlanta,7,3,7,Atlanta,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Atlanta Area, East Coast, Southern US",Area,7,3,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Atlanta Area, East Coast, Southern US",",",7,3,1,",",PUNCT,",",punct,",",0.0
+"Greater Atlanta Area, East Coast, Southern US",East,7,3,4,East,PROPN,NNP,compound,Xxxx,0.0
+"Greater Atlanta Area, East Coast, Southern US",Coast,7,3,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"Greater Atlanta Area, East Coast, Southern US",Southern,7,3,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Atlanta Area, East Coast, Southern US",US,7,3,2,US,PROPN,NNP,appos,XX,0.0
+"European Union (EU), Nordic Countries, Scandinavia",European,6,3,8,European,PROPN,NNP,compound,Xxxxx,0.0
+"European Union (EU), Nordic Countries, Scandinavia",Union,6,3,5,Union,PROPN,NNP,ROOT,Xxxxx,0.0
+"European Union (EU), Nordic Countries, Scandinavia",(,6,3,1,(,PUNCT,-LRB-,punct,(,0.0
+"European Union (EU), Nordic Countries, Scandinavia",EU,6,3,2,EU,PROPN,NNP,appos,XX,0.0
+"European Union (EU), Nordic Countries, Scandinavia",),6,3,1,),PUNCT,-RRB-,punct,),0.0
+"European Union (EU), Nordic Countries, Scandinavia",",",6,3,1,",",PUNCT,",",punct,",",0.0
+"European Union (EU), Nordic Countries, Scandinavia",Nordic,6,3,6,nordic,ADJ,JJ,compound,Xxxxx,0.0
+"European Union (EU), Nordic Countries, Scandinavia",Countries,6,3,9,Countries,PROPN,NNPS,conj,Xxxxx,0.0
+"European Union (EU), Nordic Countries, Scandinavia",Scandinavia,6,3,11,Scandinavia,PROPN,NNP,appos,Xxxxx,0.0
+"Great Lakes, Northeastern US",Great,4,4,5,Great,PROPN,NNP,compound,Xxxxx,0.0
+"Great Lakes, Northeastern US",Lakes,4,4,5,Lakes,PROPN,NNP,ROOT,Xxxxx,0.0
+"Great Lakes, Northeastern US",",",4,4,1,",",PUNCT,",",punct,",",0.0
+"Great Lakes, Northeastern US",Northeastern,4,4,12,Northeastern,PROPN,NNP,compound,Xxxxx,0.0
+"Great Lakes, Northeastern US",US,4,4,2,US,PROPN,NNP,appos,XX,0.0
+"Washington DC Metro Area, East Coast, Southern US",Washington,8,1,10,Washington,PROPN,NNP,compound,Xxxxx,0.0
+"Washington DC Metro Area, East Coast, Southern US",DC,8,1,2,DC,PROPN,NNP,compound,XX,0.0
+"Washington DC Metro Area, East Coast, Southern US",Metro,8,1,5,Metro,PROPN,NNP,compound,Xxxxx,0.0
+"Washington DC Metro Area, East Coast, Southern US",Area,8,1,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Washington DC Metro Area, East Coast, Southern US",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Washington DC Metro Area, East Coast, Southern US",East,8,1,4,East,PROPN,NNP,compound,Xxxx,0.0
+"Washington DC Metro Area, East Coast, Southern US",Coast,8,1,5,Coast,PROPN,NNP,appos,Xxxxx,0.0
+"Washington DC Metro Area, East Coast, Southern US",Southern,8,1,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Washington DC Metro Area, East Coast, Southern US",US,8,1,2,US,PROPN,NNP,appos,XX,0.0
+"Nordic Countries, Scandinavia",Nordic,3,1,6,nordic,ADJ,JJ,amod,Xxxxx,0.0
+"Nordic Countries, Scandinavia",Countries,3,1,9,Countries,PROPN,NNPS,ROOT,Xxxxx,0.0
+"Nordic Countries, Scandinavia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Nordic Countries, Scandinavia",Scandinavia,3,1,11,Scandinavia,PROPN,NNP,npadvmod,Xxxxx,0.0
+Southern US,Southern,2,11,8,southern,ADJ,JJ,amod,Xxxxx,0.0
+Southern US,US,2,11,2,US,PROPN,NNP,ROOT,XX,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",Greater,8,1,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",Minneapolis,8,1,11,Minneapolis,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",-,8,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",Saint,8,1,5,Saint,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",Paul,8,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",Area,8,1,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",Great,8,1,5,Great,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",Lakes,8,1,5,Lakes,PROPN,NNP,appos,Xxxxx,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",Midwestern,8,1,10,Midwestern,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Minneapolis-Saint Paul Area, Great Lakes, Midwestern US",US,8,1,2,US,PROPN,NNP,appos,XX,0.0
+"Greater Seattle Area, West Coast, Western US",Greater,7,1,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Seattle Area, West Coast, Western US",Seattle,7,1,7,Seattle,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Seattle Area, West Coast, Western US",Area,7,1,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Seattle Area, West Coast, Western US",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Greater Seattle Area, West Coast, Western US",West,7,1,4,West,PROPN,NNP,compound,Xxxx,0.0
+"Greater Seattle Area, West Coast, Western US",Coast,7,1,5,Coast,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Greater Seattle Area, West Coast, Western US",Western,7,1,7,Western,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Seattle Area, West Coast, Western US",US,7,1,2,US,PROPN,NNP,appos,XX,0.0
+"East Coast, New England, Northeastern US",East,6,2,4,East,PROPN,NNP,compound,Xxxx,0.0
+"East Coast, New England, Northeastern US",Coast,6,2,5,Coast,PROPN,NNP,ROOT,Xxxxx,0.0
+"East Coast, New England, Northeastern US",",",6,2,1,",",PUNCT,",",punct,",",0.0
+"East Coast, New England, Northeastern US",New,6,2,3,New,PROPN,NNP,compound,Xxx,0.0
+"East Coast, New England, Northeastern US",England,6,2,7,England,PROPN,NNP,appos,Xxxxx,0.0
+"East Coast, New England, Northeastern US",Northeastern,6,2,12,Northeastern,PROPN,NNP,compound,Xxxxx,0.0
+"East Coast, New England, Northeastern US",US,6,2,2,US,PROPN,NNP,appos,XX,0.0
+"East Coast, Northeastern US",East,4,3,4,East,PROPN,NNP,compound,Xxxx,0.0
+"East Coast, Northeastern US",Coast,4,3,5,Coast,PROPN,NNP,ROOT,Xxxxx,0.0
+"East Coast, Northeastern US",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"East Coast, Northeastern US",Northeastern,4,3,12,Northeastern,PROPN,NNP,compound,Xxxxx,0.0
+"East Coast, Northeastern US",US,4,3,2,US,PROPN,NNP,appos,XX,0.0
+"Greater Houston Area, Southern US",Greater,5,1,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Houston Area, Southern US",Houston,5,1,7,Houston,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Houston Area, Southern US",Area,5,1,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Greater Houston Area, Southern US",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Greater Houston Area, Southern US",Southern,5,1,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Greater Houston Area, Southern US",US,5,1,2,US,PROPN,NNP,appos,XX,0.0
+"Tampa Bay Area, East Coast, Southern US",Tampa,7,1,5,Tampa,PROPN,NNP,compound,Xxxxx,0.0
+"Tampa Bay Area, East Coast, Southern US",Bay,7,1,3,Bay,PROPN,NNP,compound,Xxx,0.0
+"Tampa Bay Area, East Coast, Southern US",Area,7,1,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+"Tampa Bay Area, East Coast, Southern US",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Tampa Bay Area, East Coast, Southern US",East,7,1,4,East,PROPN,NNP,compound,Xxxx,0.0
+"Tampa Bay Area, East Coast, Southern US",Coast,7,1,5,Coast,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Tampa Bay Area, East Coast, Southern US",Southern,7,1,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Tampa Bay Area, East Coast, Southern US",US,7,1,2,US,PROPN,NNP,appos,XX,0.0

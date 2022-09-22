@@ -1,0 +1,12 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Seed,Seed,1,23,4,seed,NOUN,NN,ROOT,Xxxx,0.0
+Private Equity,Private,2,9,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+Private Equity,Equity,2,9,6,Equity,PROPN,NNP,ROOT,Xxxxx,0.0
+IPO,IPO,1,38,3,ipo,NOUN,NN,ROOT,XXX,0.0
+Early Stage Venture,Early,3,15,5,early,ADJ,JJ,amod,Xxxxx,0.0
+Early Stage Venture,Stage,3,15,5,Stage,PROPN,NNP,compound,Xxxxx,0.0
+Early Stage Venture,Venture,3,15,7,Venture,PROPN,NNP,ROOT,Xxxxx,0.0
+M&A,M&A,1,22,3,M&A,PROPN,NNP,ROOT,X&X,0.0
+Late Stage Venture,Late,3,3,4,late,ADJ,JJ,amod,Xxxx,0.0
+Late Stage Venture,Stage,3,3,5,Stage,PROPN,NNP,compound,Xxxxx,0.0
+Late Stage Venture,Venture,3,3,7,Venture,PROPN,NNP,ROOT,Xxxxx,0.0

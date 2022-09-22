@@ -1,0 +1,4 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+2,2,1,313,1,2,NUM,CD,ROOT,d,0.0
+1,1,1,682,1,1,NUM,CD,ROOT,d,0.0
+—,—,1,5,1,—,PUNCT,:,ROOT,—,0.0

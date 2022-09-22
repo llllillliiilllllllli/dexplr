@@ -1,0 +1,95 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+"Paper, cardboard and goods made from these materials",Paper,8,31,5,paper,NOUN,NN,ROOT,Xxxxx,0.0
+"Paper, cardboard and goods made from these materials",",",8,31,1,",",PUNCT,",",punct,",",0.0
+"Paper, cardboard and goods made from these materials",cardboard,8,31,9,cardboard,NOUN,NN,conj,xxxx,0.0
+"Paper, cardboard and goods made from these materials",and,8,31,3,and,CCONJ,CC,cc,xxx,0.0
+"Paper, cardboard and goods made from these materials",goods,8,31,5,good,NOUN,NNS,conj,xxxx,0.0
+"Paper, cardboard and goods made from these materials",made,8,31,4,make,VERB,VBN,acl,xxxx,0.0
+"Paper, cardboard and goods made from these materials",from,8,31,4,from,ADP,IN,prep,xxxx,0.0
+"Paper, cardboard and goods made from these materials",these,8,31,5,these,DET,DT,det,xxxx,0.0
+"Paper, cardboard and goods made from these materials",materials,8,31,9,material,NOUN,NNS,pobj,xxxx,0.0
+Education; entertainment,Education,2,267,9,education,NOUN,NN,ROOT,Xxxxx,0.0
+Education; entertainment,;,2,267,1,;,PUNCT,:,punct,;,0.0
+Education; entertainment,entertainment,2,267,13,entertainment,NOUN,NN,appos,xxxx,0.0
+Clothing; footwear; headgear,Clothing,3,30,8,clothing,NOUN,NN,nsubj,Xxxxx,0.0
+Clothing; footwear; headgear,;,3,30,1,;,PUNCT,:,punct,;,0.0
+Clothing; footwear; headgear,footwear,3,30,8,footwear,NOUN,NN,appos,xxxx,0.0
+Clothing; footwear; headgear,headgear,3,30,8,headgear,VERB,VBP,ROOT,xxxx,0.0
+Agricultural products; live animals,Agricultural,4,9,12,agricultural,ADJ,JJ,amod,Xxxxx,0.0
+Agricultural products; live animals,products,4,9,8,product,NOUN,NNS,ROOT,xxxx,0.0
+Agricultural products; live animals,;,4,9,1,;,PUNCT,:,punct,;,0.0
+Agricultural products; live animals,live,4,9,4,live,ADJ,JJ,amod,xxxx,0.0
+Agricultural products; live animals,animals,4,9,7,animal,NOUN,NNS,appos,xxxx,0.0
+Scientific and technological services,Scientific,4,12,10,scientific,ADJ,JJ,amod,Xxxxx,0.0
+Scientific and technological services,and,4,12,3,and,CCONJ,CC,cc,xxx,0.0
+Scientific and technological services,technological,4,12,13,technological,ADJ,JJ,conj,xxxx,0.0
+Scientific and technological services,services,4,12,8,service,NOUN,NNS,ROOT,xxxx,0.0
+Services for providing food and drink; temporary accommodations,Services,8,2,8,service,NOUN,NNS,dep,Xxxxx,0.0
+Services for providing food and drink; temporary accommodations,for,8,2,3,for,ADP,IN,prep,xxx,0.0
+Services for providing food and drink; temporary accommodations,providing,8,2,9,provide,VERB,VBG,pcomp,xxxx,0.0
+Services for providing food and drink; temporary accommodations,food,8,2,4,food,NOUN,NN,dobj,xxxx,0.0
+Services for providing food and drink; temporary accommodations,and,8,2,3,and,CCONJ,CC,cc,xxx,0.0
+Services for providing food and drink; temporary accommodations,drink,8,2,5,drink,NOUN,NN,conj,xxxx,0.0
+Services for providing food and drink; temporary accommodations,;,8,2,1,;,PUNCT,:,punct,;,0.0
+Services for providing food and drink; temporary accommodations,temporary,8,2,9,temporary,ADJ,JJ,amod,xxxx,0.0
+Services for providing food and drink; temporary accommodations,accommodations,8,2,14,accommodation,NOUN,NNS,ROOT,xxxx,0.0
+Advertising; business,Advertising,2,18,11,advertising,NOUN,NN,ROOT,Xxxxx,0.0
+Advertising; business,;,2,18,1,;,PUNCT,:,punct,;,0.0
+Advertising; business,business,2,18,8,business,NOUN,NN,appos,xxxx,0.0
+Scientific and electric apparatus and instruments,Scientific,6,20,10,scientific,ADJ,JJ,amod,Xxxxx,0.0
+Scientific and electric apparatus and instruments,and,6,20,3,and,CCONJ,CC,cc,xxx,0.0
+Scientific and electric apparatus and instruments,electric,6,20,8,electric,ADJ,JJ,conj,xxxx,0.0
+Scientific and electric apparatus and instruments,apparatus,6,20,9,apparatus,NOUN,NN,ROOT,xxxx,0.0
+Scientific and electric apparatus and instruments,instruments,6,20,11,instrument,NOUN,NNS,conj,xxxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,Precious,8,2,8,precious,ADJ,JJ,amod,Xxxxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,Metals,8,2,6,metal,NOUN,NNS,ROOT,Xxxxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,and,8,2,3,and,CCONJ,CC,cc,xxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,their,8,2,5,their,PRON,PRP$,poss,xxxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,alloys,8,2,6,alloy,NOUN,NNS,conj,xxxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,;,8,2,1,;,PUNCT,:,punct,;,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,jewelry,8,2,7,jewelry,NOUN,NN,appos,xxxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,time,8,2,4,time,NOUN,NN,npadvmod,xxxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,-,8,2,1,-,PUNCT,HYPH,punct,-,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,keeping,8,2,7,keep,VERB,VBG,amod,xxxx,0.0
+Precious Metals and their alloys; jewelry; time-keeping instruments,instruments,8,2,11,instrument,NOUN,NNS,appos,xxxx,0.0
+Telecommunications,Telecommunications,1,3,18,telecommunication,NOUN,NNS,ROOT,Xxxxx,0.0
+Medical apparatus and instruments,Medical,4,1,7,medical,ADJ,JJ,amod,Xxxxx,0.0
+Medical apparatus and instruments,apparatus,4,1,9,apparatus,NOUN,NN,ROOT,xxxx,0.0
+Medical apparatus and instruments,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Medical apparatus and instruments,instruments,4,1,11,instrument,NOUN,NNS,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",Bleaching,8,1,9,bleaching,NOUN,NN,ROOT,Xxxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",cleaning,8,1,8,cleaning,NOUN,NN,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",polishing,8,1,9,polishing,NOUN,NN,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",scouring,8,1,8,scour,VERB,VBG,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",and,8,1,3,and,CCONJ,CC,cc,xxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",abrasive,8,1,8,abrasive,ADJ,JJ,amod,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",preparations,8,1,12,preparation,NOUN,NNS,conj,xxxx,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",;,8,1,1,;,PUNCT,:,punct,;,0.0
+"Bleaching, cleaning, polishing, scouring and abrasive preparations; cosmetics",cosmetics,8,1,9,cosmetic,NOUN,NNS,appos,xxxx,0.0
+Insurance; financial affairs,Insurance,3,4,9,insurance,NOUN,NN,ROOT,Xxxxx,0.0
+Insurance; financial affairs,;,3,4,1,;,PUNCT,:,punct,;,0.0
+Insurance; financial affairs,financial,3,4,9,financial,ADJ,JJ,amod,xxxx,0.0
+Insurance; financial affairs,affairs,3,4,7,affair,NOUN,NNS,appos,xxxx,0.0
+Common metals and their alloys; ores,Common,6,2,6,common,ADJ,JJ,amod,Xxxxx,0.0
+Common metals and their alloys; ores,metals,6,2,6,metal,NOUN,NNS,nsubj,xxxx,0.0
+Common metals and their alloys; ores,and,6,2,3,and,CCONJ,CC,cc,xxx,0.0
+Common metals and their alloys; ores,their,6,2,5,their,PRON,PRP$,poss,xxxx,0.0
+Common metals and their alloys; ores,alloys,6,2,6,alloy,NOUN,NNS,conj,xxxx,0.0
+Common metals and their alloys; ores,;,6,2,1,;,PUNCT,:,punct,;,0.0
+Common metals and their alloys; ores,ores,6,2,4,ore,VERB,VBZ,ROOT,xxxx,0.0
+Medical services; veterinary services,Medical,4,6,7,medical,ADJ,JJ,amod,Xxxxx,0.0
+Medical services; veterinary services,services,4,6,8,service,NOUN,NNS,ROOT,xxxx,0.0
+Medical services; veterinary services,;,4,6,1,;,PUNCT,:,punct,;,0.0
+Medical services; veterinary services,veterinary,4,6,10,veterinary,ADJ,JJ,amod,xxxx,0.0
+Medical services; veterinary services,services,4,6,8,service,NOUN,NNS,conj,xxxx,0.0
+"Pharmaceutical, veterinary and sanitary products",Pharmaceutical,5,2,14,pharmaceutical,ADJ,JJ,amod,Xxxxx,0.0
+"Pharmaceutical, veterinary and sanitary products",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Pharmaceutical, veterinary and sanitary products",veterinary,5,2,10,veterinary,ADJ,JJ,amod,xxxx,0.0
+"Pharmaceutical, veterinary and sanitary products",and,5,2,3,and,CCONJ,CC,cc,xxx,0.0
+"Pharmaceutical, veterinary and sanitary products",sanitary,5,2,8,sanitary,ADJ,JJ,conj,xxxx,0.0
+"Pharmaceutical, veterinary and sanitary products",products,5,2,8,product,NOUN,NNS,ROOT,xxxx,0.0
+Legal services,Legal,2,1,5,legal,ADJ,JJ,amod,Xxxxx,0.0
+Legal services,services,2,1,8,service,NOUN,NNS,ROOT,xxxx,0.0
+Chemical substances,Chemical,2,1,8,chemical,ADJ,JJ,amod,Xxxxx,0.0
+Chemical substances,substances,2,1,10,substance,NOUN,NNS,ROOT,xxxx,0.0

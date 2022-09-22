@@ -1,0 +1,19 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Venture Capital,Venture,2,3,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Venture Capital,Capital,2,3,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Accelerator,Accelerator,1,2,11,accelerator,NOUN,NN,ROOT,Xxxxx,0.0
+University Program,University,2,69,10,University,PROPN,NNP,compound,Xxxxx,0.0
+University Program,Program,2,69,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, University Program",Accelerator,6,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, University Program",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Entrepreneurship Program, Incubator, University Program",Entrepreneurship,6,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, University Program",Program,6,1,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, University Program",Incubator,6,1,9,Incubator,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, University Program",University,6,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, University Program",Accelerator,3,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, University Program",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, University Program",University,3,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, University Program",Program,3,1,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+Government Office,Government,2,2,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+Government Office,Office,2,2,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+Incubator,Incubator,1,2,9,incubator,NOUN,NN,ROOT,Xxxxx,0.0

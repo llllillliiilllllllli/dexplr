@@ -1,0 +1,998 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"Information Technology, Internet Services, Other, Software",[],0,[],0,[Other],1
+"Apps, Financial Services, Internet Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Hardware, Science and Engineering, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Hardware, Internet Services, Media and Entertainment, Science and Engineering, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Design, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Advertising, Gaming, Internet Services, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Information Technology, Sales and Marketing, Software",[],0,[],0,[],0
+"Consumer Electronics, Hardware, Mobile, Platforms, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Payments, Privacy and Security, Professional Services, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Consumer Electronics, Design, Gaming, Hardware, Mobile, Platforms, Software",[Consumer],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Consumer Goods, Food and Beverage",[],0,[],0,[],0
+"Consumer Electronics, Hardware, Information Technology, Other, Software",[],0,[],0,[],0
+"Apps, Gaming, Other, Software",[],0,[],0,[Other],1
+"Apps, Artificial Intelligence, Data and Analytics, Hardware, Mobile, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Events, Internet Services, Media and Entertainment, Sports","[Events, Sports]",2,[],0,[],0
+"Hardware, Mobile, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Energy, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Content and Publishing, Gaming, Internet Services, Media and Entertainment, Video",[Video],1,[],0,[],0
+"Commerce and Shopping, Energy, Manufacturing, Natural Resources, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Hardware, Information Technology, Other, Privacy and Security, Software, Sustainability",[Sustainability],1,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Gaming, Hardware, Science and Engineering, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Other, Science and Engineering",[],0,[],0,[Other],1
+"Manufacturing, Science and Engineering, Transportation",[Manufacturing],1,[],0,[],0
+"Apps, Mobile, Software, Transportation",[],0,[],0,[],0
+"Consumer Electronics, Hardware, Privacy and Security, Real Estate",[],0,[],0,[Real],1
+"Apps, Data and Analytics, Mobile, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Commerce and Shopping, Financial Services, Other",[],0,[],0,[Other],1
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Commerce and Shopping, Transportation",[],0,[],0,[],0
+"Financial Services, Information Technology, Payments, Software",[],0,[],0,[],0
+"Apps, Data and Analytics, Internet Services, Media and Entertainment, Navigation and Mapping, Other, Software",[],0,[],0,[Other],1
+"Other, Software",[],0,[],0,[Other],1
+"Information Technology, Internet Services, Messaging and Telecommunications, Mobile, Other, Platforms, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Consumer Electronics, Real Estate, Software, Travel and Tourism","[Consumer, Tourism]",2,[],0,[],0
+"Health Care, Information Technology",[],0,[],0,[],0
+"Financial Services, Mobile, Other, Payments, Software",[],0,[],0,[Other],1
+"Health Care, Information Technology",[],0,[],0,[],0
+"Data and Analytics, Internet Services, Privacy and Security, Software",[Data],1,[],0,[],0
+"Financial Services, Payments, Software",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Other",[],0,[],0,[Other],1
+"Consumer Electronics, Data and Analytics, Hardware, Internet Services, Real Estate, Software, Sustainability","[Consumer, Sustainability]",2,[],0,[],0
+"Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Education, Software",[Education],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Privacy and Security, Professional Services, Science and Engineering, Software",[],0,[],0,[],0
+"Gaming, Hardware, Software",[Gaming],1,[],0,[],0
+"Other, Transportation",[Transportation],1,[],0,[Other],1
+"Content and Publishing, Information Technology, Media and Entertainment, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Energy, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Hardware, Media and Entertainment, Payments, Software",[],0,[],0,[],0
+"Financial Services, Information Technology, Privacy and Security",[Security],1,[],0,[],0
+"Advertising, Apps, Mobile, Sales and Marketing, Software",[Advertising],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Other, Privacy and Security, Science and Engineering, Software",[],0,[],0,[Other],1
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Administrative Services, Artificial Intelligence, Data and Analytics, Other, Professional Services, Science and Engineering, Software",[],0,[],0,[Other],1
+"Biotechnology, Financial Services, Lending and Investments, Science and Engineering",[],0,[],0,[],0
+"Data and Analytics, Hardware, Information Technology, Internet Services, Software",[Data],1,[],0,[],0
+"Manufacturing, Science and Engineering",[Manufacturing],1,[],0,[],0
+"Information Technology, Internet Services, Privacy and Security, Software",[],0,[],0,[],0
+"Administrative Services, Internet Services, Other, Software",[],0,[],0,[Other],1
+"Consumer Electronics, Hardware, Information Technology, Software",[],0,[],0,[],0
+"Gaming, Mobile",[Gaming],1,[],0,[],0
+"Gaming, Hardware, Software",[Gaming],1,[],0,[],0
+"Administrative Services, Artificial Intelligence, Consumer Electronics, Data and Analytics, Financial Services, Hardware, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Hardware, Internet Services, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Apps, Commerce and Shopping, Mobile, Other, Software",[],0,[],0,[],0
+"Agriculture and Farming, Food and Beverage, Sustainability","[Agriculture, Sustainability]",2,[],0,[],0
+"Artificial Intelligence, Biotechnology, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+"Hardware, Internet Services, Media and Entertainment, Video","[Hardware, Video]",2,[],0,[],0
+"Financial Services, Hardware, Internet Services, Mobile, Other, Payments, Software",[],0,[],0,[Other],1
+"Agriculture and Farming, Artificial Intelligence, Data and Analytics, Science and Engineering, Software",[Agriculture],1,[],0,[],0
+"Artificial Intelligence, Content and Publishing, Data and Analytics, Gaming, Media and Entertainment, Science and Engineering, Software",[Media],1,[],0,[],0
+"Financial Services, Mobile, Payments, Software",[],0,[],0,[],0
+Health Care,[],0,[],0,[],0
+"Financial Services, Real Estate",[],0,[],0,[Real],1
+Education,[Education],1,[],0,[],0
+"Administrative Services, Commerce and Shopping, Food and Beverage, Internet Services",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Information Technology, Internet Services, Messaging and Telecommunications, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Commerce and Shopping, Consumer Goods, Real Estate",[],0,[],0,[Real],1
+"Financial Services, Media and Entertainment, Other, Payments, Software",[],0,[],0,[Other],1
+"Consumer Electronics, Energy, Hardware, Manufacturing",[Manufacturing],1,[],0,[],0
+"Apps, Commerce and Shopping, Other, Software",[],0,[],0,[Other],1
+Health Care,[],0,[],0,[],0
+"Software, Transportation",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Consumer Electronics, Hardware, Internet Services, Mobile, Software",[],0,[],0,[],0
+"Apps, Information Technology, Internet Services, Messaging and Telecommunications, Mobile, Software",[],0,[],0,[],0
+"Apps, Consumer Electronics, Hardware, Information Technology, Internet Services, Software",[],0,[],0,[],0
+"Commerce and Shopping, Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Payments, Sustainability, Transportation","[Sustainability, Transportation]",2,[],0,[],0
+"Food and Beverage, Other, Transportation","[Food, Transportation]",2,[],0,[Other],1
+"Manufacturing, Transportation","[Manufacturing, Transportation]",2,[],0,[],0
+"Financial Services, Lending and Investments, Other, Payments, Software",[],0,[],0,[Other],1
+"Government and Military, Hardware, Information Technology, Internet Services, Messaging and Telecommunications, Other, Professional Services, Software",[],0,[],0,[Other],1
+"Consumer Electronics, Energy, Hardware, Manufacturing, Transportation",[Transportation],1,[],0,[],0
+"Consumer Electronics, Hardware, Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Internet Services, Privacy and Security, Software",[],0,[],0,[],0
+"Consumer Electronics, Gaming, Hardware, Software",[Consumer],1,[],0,[],0
+Real Estate,[Estate],1,[],0,[Real],1
+"Hardware, Information Technology, Internet Services, Software",[Hardware],1,[],0,[],0
+"Biotechnology, Data and Analytics, Health Care, Science and Engineering",[],0,[],0,[],0
+"Education, Professional Services, Software",[Education],1,[],0,[],0
+Commerce and Shopping,[],0,[],0,[],0
+"Commerce and Shopping, Consumer Goods, Internet Services, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Financial Services, Lending and Investments, Other, Payments, Software",[],0,[],0,[Other],1
+"Energy, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Consumer Electronics, Hardware, Transportation",[],0,[],0,[],0
+"Hardware, Information Technology, Internet Services, Privacy and Security","[Hardware, Security]",2,[],0,[],0
+"Biotechnology, Health Care, Manufacturing, Sales and Marketing, Science and Engineering",[Sales],1,[],0,[],0
+"Energy, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Consumer Electronics, Hardware, Mobile",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Content and Publishing, Information Technology, Internet Services, Media and Entertainment, Messaging and Telecommunications",[Messaging],1,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Biotechnology, Internet Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Data and Analytics, Mobile, Other, Sales and Marketing, Software","[Data, Sales]",2,[],0,[Other],1
+"Financial Services, Internet Services, Real Estate, Software",[],0,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Internet Services, Transportation",[],0,[],0,[],0
+"Commerce and Shopping, Gaming, Software",[],0,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Transportation",[],0,[],0,[],0
+"Consumer Electronics, Design, Hardware, Science and Engineering, Software",[Consumer],1,[],0,[],0
+"Financial Services, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Financial Services, Internet Services",[],0,[],0,[],0
+"Administrative Services, Commerce and Shopping, Food and Beverage, Transportation",[],0,[],0,[],0
+"Commerce and Shopping, Internet Services, Software",[],0,[],0,[],0
+"Consumer Electronics, Hardware, Internet Services, Software, Sustainability",[Sustainability],1,[],0,[],0
+"Agriculture and Farming, Commerce and Shopping, Financial Services, Lending and Investments","[Agriculture, Investments]",2,[],0,[],0
+"Energy, Natural Resources, Science and Engineering, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Administrative Services, Information Technology, Other, Professional Services, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Events, Media and Entertainment, Sales and Marketing, Travel and Tourism","[Events, Media, Sales, Tourism]",4,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Education, Health Care, Information Technology, Mobile",[Education],1,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Mobile",[],0,[],0,[],0
+"Financial Services, Other, Software",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Other, Professional Services, Science and Engineering, Software",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Information Technology, Other",[],0,[],0,[Other],1
+Health Care,[],0,[],0,[],0
+"Commerce and Shopping, Financial Services, Hardware, Lending and Investments, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Professional Services, Real Estate, Science and Engineering, Software",[],0,[],0,[],0
+"Consumer Electronics, Information Technology, Privacy and Security, Real Estate",[Consumer],1,[],0,[Real],1
+"Artificial Intelligence, Data and Analytics, Government and Military, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Apps, Financial Services, Mobile, Payments, Software",[],0,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Design, Manufacturing","[Clothing, Manufacturing]",2,[],0,[],0
+Transportation,[Transportation],1,[],0,[],0
+"Apps, Commerce and Shopping, Mobile, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Mobile, Payments, Software",[],0,[],0,[],0
+"Apps, Consumer Electronics, Hardware, Software",[],0,[],0,[],0
+Transportation,[Transportation],1,[],0,[],0
+"Financial Services, Payments, Software",[],0,[],0,[],0
+"Financial Services, Payments",[Payments],1,[],0,[],0
+"Information Technology, Internet Services, Other, Privacy and Security, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Community and Lifestyle",[],0,[],0,[],0
+"Internet Services, Other",[],0,[],0,[Other],1
+"Information Technology, Sales and Marketing, Software",[],0,[],0,[],0
+"Commerce and Shopping, Consumer Electronics, Hardware, Other",[],0,[],0,[Other],1
+"Commerce and Shopping, Food and Beverage, Internet Services, Sales and Marketing, Transportation","[Sales, Transportation]",2,[],0,[],0
+"Consumer Electronics, Financial Services, Hardware, Information Technology, Other, Payments, Privacy and Security, Software",[Consumer],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Apps, Artificial Intelligence, Data and Analytics, Mobile, Science and Engineering, Software, Travel and Tourism",[Tourism],1,[],0,[],0
+"Community and Lifestyle, Consumer Electronics, Consumer Goods, Hardware, Other",[Community],1,[],0,[Other],1
+"Hardware, Information Technology, Software",[Hardware],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Professional Services, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Consumer Electronics, Data and Analytics, Financial Services, Hardware, Software",[Consumer],1,[],0,[],0
+"Other, Science and Engineering, Transportation",[],0,[],0,[Other],1
+"Data and Analytics, Information Technology, Sales and Marketing, Software",[Data],1,[],0,[],0
+"Administrative Services, Information Technology, Software",[],0,[],0,[],0
+"Data and Analytics, Financial Services, Information Technology",[Data],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Hardware, Information Technology, Software, Transportation",[Hardware],1,[],0,[],0
+Hardware,[Hardware],1,[],0,[],0
+"Apps, Mobile, Software, Transportation",[],0,[],0,[],0
+"Financial Services, Hardware, Internet Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Agriculture and Farming, Artificial Intelligence, Data and Analytics, Design, Information Technology, Science and Engineering, Software",[Agriculture],1,[],0,[],0
+"Apps, Media and Entertainment, Music and Audio, Software",[],0,[],0,[],0
+"Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services",[],0,[],0,[],0
+"Commerce and Shopping, Community and Lifestyle, Consumer Goods",[Goods],1,[],0,[],0
+"Financial Services, Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Financial Services, Payments, Real Estate, Software",[Payments],1,[],0,[],0
+"Apps, Real Estate, Software",[],0,[],0,[],0
+"Biotechnology, Food and Beverage, Health Care, Science and Engineering, Sustainability",[Sustainability],1,[],0,[],0
+"Commerce and Shopping, Internet Services, Media and Entertainment, Mobile, Other, Sales and Marketing, Sports, Travel and Tourism","[Sales, Tourism]",2,[],0,[Other],1
+"Advertising, Consumer Electronics, Hardware, Media and Entertainment, Software",[Advertising],1,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Consumer Goods, Health Care",[],0,[],0,[],0
+"Consumer Electronics, Consumer Goods, Content and Publishing, Hardware, Manufacturing, Media and Entertainment, Mobile, Science and Engineering",[Consumer],1,[],0,[],0
+"Financial Services, Lending and Investments, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Financial Services, Mobile, Other, Payments, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Hardware, Software",[],0,[],0,[],0
+Travel and Tourism,"[Travel, Tourism]",2,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Food and Beverage, Health Care",[Food],1,[],0,[],0
+"Apps, Events, Food and Beverage, Media and Entertainment, Mobile, Software, Transportation",[Events],1,[],0,[],0
+"Administrative Services, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Hardware, Internet Services, Software, Transportation",[],0,[],0,[],0
+"Community and Lifestyle, Education, Health Care, Software",[Community],1,[],0,[],0
+"Commerce and Shopping, Hardware, Software, Transportation",[],0,[],0,[],0
+"Financial Services, Transportation",[Transportation],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Energy, Government and Military, Manufacturing, Science and Engineering, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Apps, Education, Hardware, Mobile, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Hardware, Information Technology, Internet Services, Mobile, Science and Engineering, Software",[],0,[],0,[],0
+"Apps, Mobile, Software, Transportation",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Gaming",[Gaming],1,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Information Technology, Messaging and Telecommunications, Other, Software",[],0,[],0,[Other],1
+"Administrative Services, Health Care, Professional Services",[],0,[],0,[],0
+"Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Data and Analytics, Internet Services, Software",[Data],1,[],0,[],0
+"Events, Media and Entertainment, Software","[Events, Media]",2,[],0,[],0
+"Financial Services, Software",[],0,[],0,[],0
+"Hardware, Internet Services, Software",[Hardware],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Internet Services, Sales and Marketing, Science and Engineering, Software",[Sales],1,[],0,[],0
+Health Care,[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Other, Sales and Marketing, Science and Engineering, Software",[Sales],1,[],0,[Other],1
+Real Estate,[Estate],1,[],0,[Real],1
+"Artificial Intelligence, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+"Energy, Science and Engineering, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Data and Analytics, Internet Services, Media and Entertainment, Sales and Marketing, Software","[Data, Sales]",2,[],0,[],0
+"Internet Services, Professional Services, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Payments, Software",[],0,[],0,[],0
+"Commerce and Shopping, Transportation",[],0,[],0,[],0
+"Apps, Financial Services, Health Care, Internet Services, Software",[],0,[],0,[],0
+"Data and Analytics, Information Technology, Internet Services, Messaging and Telecommunications, Mobile, Software",[Data],1,[],0,[],0
+"Apps, Community and Lifestyle, Data and Analytics, Internet Services, Mobile, Navigation and Mapping, Other, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Financial Services, Hardware, Internet Services, Media and Entertainment, Other, Payments, Software, Sports",[Sports],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Community and Lifestyle, Financial Services, Lending and Investments","[Community, Investments]",2,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Payments, Professional Services, Software",[],0,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Information Technology, Internet Services, Media and Entertainment, Real Estate, Travel and Tourism",[Tourism],1,[],0,[],0
+"Apps, Health Care, Mobile, Other, Software",[],0,[],0,[],0
+"Commerce and Shopping, Internet Services",[],0,[],0,[],0
+"Information Technology, Internet Services, Messaging and Telecommunications, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Administrative Services, Education, Other, Software",[],0,[],0,[Other],1
+"Financial Services, Other, Transportation",[Transportation],1,[],0,[Other],1
+"Financial Services, Health Care, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments, Mobile, Payments, Professional Services, Software",[],0,[],0,[],0
+"Gaming, Sports","[Gaming, Sports]",2,[],0,[],0
+"Information Technology, Media and Entertainment, Music and Audio, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Data and Analytics, Financial Services, Lending and Investments","[Data, Investments]",2,[],0,[],0
+"Food and Beverage, Health Care",[Food],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Information Technology, Sales and Marketing",[Marketing],1,[],0,[],0
+"Professional Services, Science and Engineering, Sustainability",[Sustainability],1,[],0,[],0
+"Media and Entertainment, Software",[Media],1,[],0,[],0
+"Gaming, Hardware, Software",[Gaming],1,[],0,[],0
+"Consumer Electronics, Hardware, Information Technology, Software",[],0,[],0,[],0
+"Food and Beverage, Information Technology, Internet Services, Transportation",[Food],1,[],0,[],0
+"Administrative Services, Information Technology, Other, Sales and Marketing, Software",[Sales],1,[],0,[Other],1
+"Commerce and Shopping, Financial Services, Real Estate",[],0,[],0,[Real],1
+"Financial Services, Payments",[Payments],1,[],0,[],0
+"Hardware, Internet Services, Software",[Hardware],1,[],0,[],0
+"Apps, Financial Services, Software",[],0,[],0,[],0
+"Hardware, Internet Services, Mobile, Science and Engineering",[Hardware],1,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate, Transportation",[Transportation],1,[],0,[],0
+"Information Technology, Transportation",[Transportation],1,[],0,[],0
+"Manufacturing, Transportation","[Manufacturing, Transportation]",2,[],0,[],0
+"Financial Services, Information Technology, Internet Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Hardware, Health Care, Manufacturing, Software",[Hardware],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Privacy and Security, Science and Engineering, Software",[],0,[],0,[],0
+"Apps, Health Care, Mobile, Software",[],0,[],0,[],0
+"Manufacturing, Sustainability","[Manufacturing, Sustainability]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Food and Beverage, Transportation",[Food],1,[],0,[],0
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Hardware, Information Technology, Internet Services, Messaging and Telecommunications, Other, Software",[Hardware],1,[],0,[Other],1
+"Health Care, Sports",[Sports],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Hardware, Science and Engineering, Software, Transportation",[],0,[],0,[],0
+"Commerce and Shopping, Consumer Electronics, Financial Services, Hardware, Internet Services, Payments",[Payments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Advertising, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Gaming, Media and Entertainment",[Gaming],1,[],0,[],0
+"Administrative Services, Data and Analytics, Design, Other, Software",[],0,[],0,[Other],1
+"Hardware, Mobile, Other, Software",[],0,[],0,[],0
+"Data and Analytics, Hardware, Information Technology, Navigation and Mapping, Science and Engineering",[Data],1,[],0,[],0
+"Science and Engineering, Transportation",[],0,[],0,[],0
+"Education, Other, Software",[Education],1,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Hardware, Information Technology, Manufacturing, Other, Professional Services, Science and Engineering, Software",[],0,[],0,[Other],1
+"Education, Media and Entertainment, Software",[Education],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Sports, Travel and Tourism","[Sports, Tourism]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Information Technology, Other, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Science and Engineering, Software, Transportation",[],0,[],0,[],0
+"Commerce and Shopping, Sales and Marketing, Transportation",[Transportation],1,[],0,[],0
+"Financial Services, Information Technology, Real Estate",[],0,[],0,[],0
+"Administrative Services, Health Care, Information Technology, Software",[],0,[],0,[],0
+"Financial Services, Payments",[Payments],1,[],0,[],0
+"Commerce and Shopping, Food and Beverage",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Government and Military, Hardware, Health Care, Manufacturing, Science and Engineering, Software",[],0,[],0,[],0
+"Information Technology, Sales and Marketing, Software",[],0,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Data and Analytics, Software",[Data],1,[],0,[],0
+"Other, Science and Engineering, Transportation",[],0,[],0,[Other],1
+"Administrative Services, Information Technology, Professional Services, Software",[],0,[],0,[],0
+"Energy, Manufacturing, Natural Resources",[Energy],1,[],0,[],0
+"Financial Services, Hardware, Other",[],0,[],0,[Other],1
+"Information Technology, Software",[],0,[],0,[],0
+"Commerce and Shopping, Consumer Electronics, Hardware, Information Technology, Mobile, Other",[],0,[],0,[Other],1
+"Administrative Services, Financial Services, Government and Military, Mobile, Payments, Software",[],0,[],0,[],0
+"Community and Lifestyle, Travel and Tourism","[Community, Tourism]",2,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Transportation",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Data and Analytics, Information Technology, Real Estate",[Data],1,[],0,[],0
+"Clothing and Apparel, Real Estate, Sustainability, Transportation","[Clothing, Sustainability, Transportation]",3,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Data and Analytics, Software",[Data],1,[],0,[],0
+"Apps, Content and Publishing, Gaming, Media and Entertainment, Mobile, Software, Video",[Video],1,[],0,[],0
+"Administrative Services, Financial Services, Health Care, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Consumer Goods, Food and Beverage, Other",[Consumer],1,[],0,[Other],1
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Hardware, Internet Services, Software",[Hardware],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Government and Military, Information Technology, Internet Services, Science and Engineering, Software, Sustainability",[Sustainability],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Consumer Goods, Design","[Clothing, Design]",2,[],0,[],0
+"Apps, Information Technology, Internet Services, Media and Entertainment, Messaging and Telecommunications, Sales and Marketing, Software","[Messaging, Sales]",2,[],0,[],0
+"Data and Analytics, Navigation and Mapping","[Data, Mapping]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Hardware, Information Technology, Internet Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Apps, Community and Lifestyle, Mobile, Platforms, Software",[],0,[],0,[],0
+"Advertising, Commerce and Shopping, Internet Services, Media and Entertainment, Software, Video","[Advertising, Video]",2,[],0,[],0
+"Apps, Information Technology, Internet Services, Media and Entertainment, Messaging and Telecommunications, Mobile, Software",[Messaging],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+Health Care,[],0,[],0,[],0
+"Consumer Electronics, Energy, Hardware, Manufacturing",[Manufacturing],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Community and Lifestyle, Health Care, Other",[Community],1,[],0,[Other],1
+"Education, Software",[Education],1,[],0,[],0
+"Consumer Electronics, Government and Military, Hardware, Information Technology, Mobile",[Consumer],1,[],0,[],0
+"Advertising, Data and Analytics, Design, Professional Services, Sales and Marketing, Software","[Advertising, Sales]",2,[],0,[],0
+"Financial Services, Professional Services, Software",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Food and Beverage, Hardware, Internet Services, Sustainability","[Food, Sustainability]",2,[],0,[],0
+"Energy, Manufacturing, Sustainability, Transportation","[Energy, Sustainability, Transportation]",3,[],0,[],0
+"Financial Services, Payments",[Payments],1,[],0,[],0
+"Financial Services, Real Estate, Software",[],0,[],0,[],0
+"Consumer Electronics, Hardware, Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Commerce and Shopping, Real Estate",[],0,[],0,[],0
+"Information Technology, Other, Software",[],0,[],0,[],0
+"Energy, Manufacturing, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Administrative Services, Professional Services, Software",[],0,[],0,[],0
+"Energy, Financial Services, Lending and Investments, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Apps, Content and Publishing, Media and Entertainment, Mobile, Software, Sports",[Sports],1,[],0,[],0
+"Real Estate, Travel and Tourism",[Tourism],1,[],0,[Real],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services",[],0,[],0,[],0
+"Biotechnology, Data and Analytics, Health Care, Science and Engineering, Sports",[Sports],1,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Design, Sales and Marketing","[Clothing, Sales, Marketing]",3,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Apps, Information Technology, Internet Services, Media and Entertainment, Messaging and Telecommunications, Mobile, Software",[Messaging],1,[],0,[],0
+"Gaming, Information Technology, Software, Sports","[Gaming, Sports]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Education, Information Technology, Other, Professional Services, Science and Engineering, Software",[],0,[],0,[Other],1
+"Content and Publishing, Internet Services, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Administrative Services, Information Technology, Professional Services, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Energy, Manufacturing, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Hardware, Information Technology, Mobile",[Hardware],1,[],0,[],0
+"Information Technology, Privacy and Security",[Security],1,[],0,[],0
+"Media and Entertainment, Software, Sports, Video","[Media, Video]",2,[],0,[],0
+"Commerce and Shopping, Information Technology, Other, Professional Services, Software, Travel and Tourism",[Tourism],1,[],0,[Other],1
+"Information Technology, Internet Services, Software",[],0,[],0,[],0
+"Design, Manufacturing, Transportation","[Design, Transportation]",2,[],0,[],0
+"Financial Services, Information Technology, Other, Payments, Software",[],0,[],0,[Other],1
+"Advertising, Other, Sales and Marketing, Software","[Advertising, Sales]",2,[],0,[Other],1
+"Administrative Services, Apps, Food and Beverage, Mobile, Software, Transportation",[],0,[],0,[],0
+"Artificial Intelligence, Consumer Electronics, Data and Analytics, Financial Services, Hardware, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Advertising, Commerce and Shopping, Other, Professional Services, Sales and Marketing, Software","[Advertising, Sales]",2,[],0,[Other],1
+"Commerce and Shopping, Health Care",[],0,[],0,[],0
+"Commerce and Shopping, Internet Services, Real Estate",[],0,[],0,[Real],1
+"Administrative Services, Commerce and Shopping, Other, Transportation",[Transportation],1,[],0,[Other],1
+"Apps, Commerce and Shopping, Mobile, Software, Travel and Tourism",[Tourism],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Hardware, Payments, Software",[],0,[],0,[],0
+"Real Estate, Software, Transportation",[],0,[],0,[Real],1
+"Commerce and Shopping, Consumer Goods, Real Estate, Sustainability",[Sustainability],1,[],0,[],0
+"Internet Services, Transportation",[Transportation],1,[],0,[],0
+"Commerce and Shopping, Information Technology, Internet Services, Other, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Information Technology, Internet Services, Messaging and Telecommunications, Other, Software",[],0,[],0,[Other],1
+"Data and Analytics, Energy, Natural Resources, Software, Sustainability","[Data, Sustainability]",2,[],0,[],0
+"Science and Engineering, Transportation",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Other, Science and Engineering, Software",[],0,[],0,[Other],1
+"Consumer Goods, Natural Resources, Sustainability","[Consumer, Sustainability]",2,[],0,[],0
+"Biotechnology, Data and Analytics, Health Care, Information Technology, Natural Resources, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Information Technology, Payments, Software, Travel and Tourism",[Tourism],1,[],0,[],0
+"Commerce and Shopping, Mobile, Other, Real Estate",[Estate],1,[],0,"[Other, Real]",2
+"Consumer Electronics, Data and Analytics, Design, Hardware, Software",[Consumer],1,[],0,[],0
+"Financial Services, Information Technology, Other, Payments, Software",[],0,[],0,[Other],1
+"Data and Analytics, Internet Services, Software",[Data],1,[],0,[],0
+"Information Technology, Privacy and Security, Professional Services, Software",[],0,[],0,[],0
+"Consumer Electronics, Hardware, Health Care, Information Technology, Real Estate",[],0,[],0,[],0
+"Financial Services, Other, Payments, Professional Services, Software",[],0,[],0,[Other],1
+"Software, Transportation",[],0,[],0,[],0
+"Data and Analytics, Software",[Data],1,[],0,[],0
+"Energy, Professional Services, Software, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Commerce and Shopping, Other, Software",[],0,[],0,[Other],1
+"Apps, Education, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Community and Lifestyle, Financial Services, Health Care, Other, Software",[Community],1,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Apps, Financial Services, Mobile, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Privacy and Security, Software",[],0,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments",[Investments],1,[],0,[],0
+"Administrative Services, Professional Services, Software",[],0,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Design","[Clothing, Design]",2,[],0,[],0
+"Consumer Electronics, Hardware, Other, Software",[],0,[],0,[Other],1
+Financial Services,[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Content and Publishing, Media and Entertainment, Video",[Video],1,[],0,[],0
+"Consumer Electronics, Hardware, Media and Entertainment, Mobile, Music and Audio, Software",[],0,[],0,[],0
+"Commerce and Shopping, Internet Services, Media and Entertainment",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Gaming, Other",[Gaming],1,[],0,[Other],1
+"Consumer Goods, Internet Services, Manufacturing, Transportation","[Consumer, Transportation]",2,[],0,[],0
+"Information Technology, Professional Services, Sustainability, Transportation","[Sustainability, Transportation]",2,[],0,[],0
+"Internet Services, Software",[],0,[],0,[],0
+"Commerce and Shopping, Hardware, Professional Services, Software",[],0,[],0,[],0
+"Consumer Electronics, Consumer Goods, Data and Analytics, Energy, Financial Services, Hardware, Natural Resources, Other, Real Estate, Software, Sustainability","[Consumer, Sustainability]",2,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Hardware, Other, Professional Services, Science and Engineering, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Education, Other, Professional Services",[Education],1,[],0,[Other],1
+"Commerce and Shopping, Internet Services, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Information Technology, Messaging and Telecommunications, Software",[],0,[],0,[],0
+"Commerce and Shopping, Consumer Goods, Mobile",[],0,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Information Technology, Natural Resources, Sustainability",[Sustainability],1,[],0,[],0
+"Community and Lifestyle, Events, Internet Services, Media and Entertainment, Professional Services","[Community, Events]",2,[],0,[],0
+"Gaming, Sports","[Gaming, Sports]",2,[],0,[],0
+"Commerce and Shopping, Education, Software",[],0,[],0,[],0
+"Media and Entertainment, Other, Sports","[Media, Sports]",2,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Consumer Goods, Food and Beverage, Other, Transportation",[Transportation],1,[],0,[Other],1
+"Content and Publishing, Data and Analytics, Government and Military, Media and Entertainment",[],0,[],0,[],0
+"Commerce and Shopping, Consumer Goods, Other",[],0,[],0,[Other],1
+"Content and Publishing, Media and Entertainment, Video",[Video],1,[],0,[],0
+"Agriculture and Farming, Biotechnology, Science and Engineering",[Agriculture],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Payments, Software",[],0,[],0,[],0
+"Information Technology, Other, Privacy and Security, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Internet Services, Mobile",[],0,[],0,[],0
+"Financial Services, Payments, Software",[],0,[],0,[],0
+"Commerce and Shopping, Transportation",[],0,[],0,[],0
+Food and Beverage,[Food],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate",[],0,[],0,[],0
+"Apps, Content and Publishing, Information Technology, Internet Services, Media and Entertainment, Messaging and Telecommunications, Mobile, Platforms, Software, Video","[Messaging, Video]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Internet Services, Science and Engineering, Software",[],0,[],0,[],0
+"Consumer Goods, Food and Beverage, Information Technology, Software, Transportation",[Consumer],1,[],0,[],0
+"Data and Analytics, Financial Services, Information Technology, Internet Services, Payments, Privacy and Security","[Data, Security]",2,[],0,[],0
+"Data and Analytics, Design, Information Technology, Software",[Data],1,[],0,[],0
+"Education, Software",[Education],1,[],0,[],0
+"Apps, Consumer Electronics, Hardware, Mobile, Other, Platforms, Software",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Internet Services, Other, Science and Engineering, Software",[],0,[],0,[Other],1
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Real Estate, Travel and Tourism",[Tourism],1,[],0,[Real],1
+"Artificial Intelligence, Data and Analytics, Health Care, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Energy, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Lending and Investments, Other, Science and Engineering, Software",[],0,[],0,[Other],1
+"Consumer Goods, Design, Hardware, Real Estate, Science and Engineering, Software",[Consumer],1,[],0,[],0
+"Data and Analytics, Information Technology, Internet Services, Software",[Data],1,[],0,[],0
+"Real Estate, Travel and Tourism",[Tourism],1,[],0,[Real],1
+"Apps, Content and Publishing, Media and Entertainment, Mobile, Other, Software, Video",[Video],1,[],0,[],0
+"Consumer Electronics, Hardware, Manufacturing, Sustainability, Transportation","[Sustainability, Transportation]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Energy, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Commerce and Shopping, Hardware, Information Technology, Professional Services, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Data and Analytics, Information Technology, Internet Services, Software",[Data],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Education, Information Technology, Professional Services, Sales and Marketing, Software, Transportation, Travel and Tourism","[Sales, Tourism]",2,[],0,[],0
+"Commerce and Shopping, Community and Lifestyle, Consumer Goods",[Goods],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Other, Professional Services, Science and Engineering, Software",[],0,[],0,[Other],1
+"Clothing and Apparel, Commerce and Shopping, Community and Lifestyle, Design","[Clothing, Design]",2,[],0,[],0
+"Hardware, Information Technology, Manufacturing, Science and Engineering, Software",[Hardware],1,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Commerce and Shopping, Data and Analytics, Sales and Marketing, Software",[Sales],1,[],0,[],0
+"Financial Services, Government and Military, Information Technology, Mobile, Payments",[Payments],1,[],0,[],0
+"Community and Lifestyle, Internet Services, Media and Entertainment",[Community],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Internet Services, Navigation and Mapping, Sales and Marketing, Science and Engineering, Software",[Sales],1,[],0,[],0
+Real Estate,[Estate],1,[],0,[Real],1
+"Artificial Intelligence, Data and Analytics, Internet Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Gaming, Lending and Investments, Other",[],0,[],0,[Other],1
+"Food and Beverage, Transportation",[Food],1,[],0,[],0
+"Data and Analytics, Information Technology, Privacy and Security, Professional Services, Software",[Data],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Professional Services, Sales and Marketing, Science and Engineering, Software",[Sales],1,[],0,[],0
+"Agriculture and Farming, Biotechnology, Science and Engineering",[Agriculture],1,[],0,[],0
+"Hardware, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Administrative Services, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Apps, Information Technology, Media and Entertainment, Music and Audio, Software",[],0,[],0,[],0
+"Other, Software",[],0,[],0,[Other],1
+"Education, Health Care",[Education],1,[],0,[],0
+"Apps, Internet Services, Software",[],0,[],0,[],0
+"Health Care, Software",[],0,[],0,[],0
+"Artificial Intelligence, Consumer Electronics, Consumer Goods, Data and Analytics, Hardware, Manufacturing, Science and Engineering, Software",[],0,[],0,[],0
+"Artificial Intelligence, Commerce and Shopping, Data and Analytics, Hardware, Science and Engineering, Software",[],0,[],0,[],0
+"Apps, Internet Services, Media and Entertainment, Music and Audio, Software",[],0,[],0,[],0
+"Financial Services, Internet Services",[],0,[],0,[],0
+"Media and Entertainment, Music and Audio, Other, Sports","[Media, Sports]",2,[],0,[Other],1
+"Advertising, Content and Publishing, Media and Entertainment, Sales and Marketing, Software","[Advertising, Sales]",2,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Apps, Consumer Electronics, Hardware, Health Care, Software",[],0,[],0,[],0
+"Agriculture and Farming, Science and Engineering, Sustainability","[Agriculture, Sustainability]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Media and Entertainment, Music and Audio, Payments, Privacy and Security, Software",[],0,[],0,[],0
+"Commerce and Shopping, Other, Transportation",[Transportation],1,[],0,[Other],1
+"Apps, Health Care, Mobile, Software",[],0,[],0,[],0
+"Other, Software",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Information Technology, Other, Privacy and Security, Software",[],0,[],0,[Other],1
+"Data and Analytics, Information Technology, Internet Services, Other, Software",[Data],1,[],0,[Other],1
+"Financial Services, Information Technology, Internet Services, Payments, Privacy and Security, Software",[],0,[],0,[],0
+"Administrative Services, Apps, Commerce and Shopping, Food and Beverage, Software, Transportation",[],0,[],0,[],0
+"Commerce and Shopping, Internet Services, Professional Services",[],0,[],0,[],0
+"Manufacturing, Other, Professional Services, Real Estate, Science and Engineering",[Manufacturing],1,[],0,[Other],1
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Consumer Electronics, Government and Military, Hardware, Information Technology, Software",[Consumer],1,[],0,[],0
+"Apps, Financial Services, Lending and Investments, Mobile, Software",[],0,[],0,[],0
+"Information Technology, Sales and Marketing, Software",[],0,[],0,[],0
+"Financial Services, Payments",[Payments],1,[],0,[],0
+"Consumer Electronics, Hardware, Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Education, Internet Services, Real Estate",[Education],1,[],0,[Real],1
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Data and Analytics, Internet Services, Navigation and Mapping, Software",[Data],1,[],0,[],0
+"Financial Services, Lending and Investments, Mobile, Payments, Software",[],0,[],0,[],0
+"Financial Services, Information Technology",[],0,[],0,[],0
+"Community and Lifestyle, Health Care",[Community],1,[],0,[],0
+"Content and Publishing, Design, Media and Entertainment, Software",[Media],1,[],0,[],0
+"Apps, Artificial Intelligence, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+Health Care,[],0,[],0,[],0
+"Information Technology, Internet Services, Privacy and Security, Software",[],0,[],0,[],0
+"Commerce and Shopping, Food and Beverage",[],0,[],0,[],0
+"Data and Analytics, Energy, Natural Resources, Sustainability","[Data, Sustainability]",2,[],0,[],0
+"Information Technology, Sales and Marketing, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Apps, Financial Services, Mobile, Platforms, Professional Services, Software",[],0,[],0,[],0
+"Data and Analytics, Health Care",[Data],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Internet Services, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Administrative Services, Transportation",[Transportation],1,[],0,[],0
+"Apps, Information Technology, Internet Services, Messaging and Telecommunications, Mobile, Other, Privacy and Security, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Financial Services, Media and Entertainment, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Mobile, Payments, Software",[],0,[],0,[],0
+"Commerce and Shopping, Consumer Goods, Food and Beverage",[],0,[],0,[],0
+"Commerce and Shopping, Community and Lifestyle, Financial Services, Gaming, Hardware, Internet Services, Media and Entertainment, Payments, Software",[],0,[],0,[],0
+"Financial Services, Transportation",[Transportation],1,[],0,[],0
+"Administrative Services, Financial Services, Health Care, Payments, Software",[],0,[],0,[],0
+"Advertising, Content and Publishing, Media and Entertainment, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Content and Publishing, Design, Media and Entertainment, Software, Video","[Media, Video]",2,[],0,[],0
+"Administrative Services, Data and Analytics, Financial Services, Other, Real Estate, Software",[],0,[],0,[Other],1
+"Community and Lifestyle, Food and Beverage, Health Care",[Community],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Data and Analytics, Other, Professional Services, Software",[Data],1,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Design, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Community and Lifestyle, Real Estate, Travel and Tourism","[Community, Tourism]",2,[],0,[],0
+"Commerce and Shopping, Community and Lifestyle, Food and Beverage, Health Care",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Transportation, Travel and Tourism","[Transportation, Tourism]",2,[],0,[],0
+"Clothing and Apparel, Consumer Goods, Design, Hardware, Manufacturing, Other",[Clothing],1,[],0,[Other],1
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Artificial Intelligence, Biotechnology, Data and Analytics, Health Care, Mobile, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Payments, Software",[],0,[],0,[],0
+"Health Care, Mobile",[],0,[],0,[],0
+"Consumer Goods, Health Care, Manufacturing","[Consumer, Manufacturing]",2,[],0,[],0
+"Financial Services, Health Care",[],0,[],0,[],0
+"Manufacturing, Science and Engineering, Transportation",[Manufacturing],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Community and Lifestyle, Events, Hardware, Information Technology, Internet Services, Media and Entertainment, Messaging and Telecommunications, Software","[Community, Messaging]",2,[],0,[],0
+"Health Care, Mobile",[],0,[],0,[],0
+"Content and Publishing, Internet Services, Media and Entertainment, Travel and Tourism",[Tourism],1,[],0,[],0
+"Apps, Health Care, Mobile, Software",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Government and Military, Information Technology, Professional Services",[],0,[],0,[],0
+"Commerce and Shopping, Financial Services, Other",[],0,[],0,[Other],1
+"Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Commerce and Shopping, Data and Analytics, Information Technology, Other, Sales and Marketing, Software",[Sales],1,[],0,[Other],1
+"Commerce and Shopping, Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Information Technology, Internet Services, Privacy and Security, Software",[],0,[],0,[],0
+"Energy, Manufacturing, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Apps, Commerce and Shopping, Consumer Goods, Mobile, Software",[],0,[],0,[],0
+"Artificial Intelligence, Biotechnology, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Financial Services, Other, Payments, Professional Services, Software",[],0,[],0,[Other],1
+"Administrative Services, Commerce and Shopping, Food and Beverage",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Consumer Goods, Health Care",[Consumer],1,[],0,[],0
+"Gaming, Mobile, Platforms, Software",[Gaming],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Hardware, Mobile",[Hardware],1,[],0,[],0
+"Financial Services, Health Care",[],0,[],0,[],0
+"Financial Services, Health Care",[],0,[],0,[],0
+"Agriculture and Farming, Biotechnology, Community and Lifestyle, Science and Engineering, Sustainability","[Agriculture, Sustainability]",2,[],0,[],0
+"Artificial Intelligence, Commerce and Shopping, Data and Analytics, Science and Engineering, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Science and Engineering, Software",[],0,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Design","[Clothing, Design]",2,[],0,[],0
+"Commerce and Shopping, Internet Services, Transportation",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Data and Analytics, Software, Transportation",[Data],1,[],0,[],0
+Software,[Software],1,[],0,[],0
+"Energy, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Commerce and Shopping, Real Estate",[],0,[],0,[],0
+"Design, Other, Software",[Design],1,[],0,[Other],1
+"Administrative Services, Artificial Intelligence, Data and Analytics, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Energy, Sustainability, Transportation","[Energy, Sustainability, Transportation]",3,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Science and Engineering, Software",[],0,[],0,[],0
+"Energy, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Apps, Sales and Marketing, Software, Transportation, Travel and Tourism","[Sales, Tourism]",2,[],0,[],0
+Health Care,[],0,[],0,[],0
+"Commerce and Shopping, Internet Services",[],0,[],0,[],0
+"Biotechnology, Data and Analytics, Information Technology, Science and Engineering",[],0,[],0,[],0
+"Commerce and Shopping, Consumer Goods, Design, Real Estate",[Estate],1,[],0,[Real],1
+"Artificial Intelligence, Data and Analytics, Health Care, Information Technology, Mobile, Science and Engineering, Software",[],0,[],0,[],0
+"Data and Analytics, Design, Software",[Data],1,[],0,[],0
+"Energy, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Information Technology, Privacy and Security, Professional Services",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Food and Beverage, Other, Professional Services, Science and Engineering, Software",[],0,[],0,[Other],1
+"Data and Analytics, Information Technology, Internet Services, Software",[Data],1,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Community and Lifestyle, Design","[Clothing, Design]",2,[],0,[],0
+"Hardware, Internet Services",[Hardware],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Apps, Design, Other, Software",[],0,[],0,[Other],1
+"Information Technology, Other, Privacy and Security, Software",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+"Data and Analytics, Design, Real Estate","[Data, Estate]",2,[],0,[Real],1
+"Government and Military, Privacy and Security",[Security],1,[],0,[],0
+Software,[Software],1,[],0,[],0
+"Consumer Goods, Other, Sales and Marketing, Transportation","[Consumer, Sales, Transportation]",3,[],0,[Other],1
+"Financial Services, Lending and Investments, Other",[],0,[],0,[Other],1
+"Administrative Services, Financial Services, Health Care, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other, Payments, Software",[],0,[],0,[Other],1
+"Commerce and Shopping, Transportation",[],0,[],0,[],0
+"Financial Services, Information Technology, Payments",[Payments],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Data and Analytics, Software",[Data],1,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Community and Lifestyle, Consumer Goods, Design","[Clothing, Design]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Design, Information Technology, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Professional Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Payments",[Payments],1,[],0,[],0
+"Government and Military, Hardware, Science and Engineering, Software, Transportation",[],0,[],0,[],0
+"Energy, Natural Resources, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Advertising, Content and Publishing, Information Technology, Internet Services, Media and Entertainment, Music and Audio, Navigation and Mapping, Other, Sales and Marketing, Video","[Advertising, Sales, Video]",3,[],0,[Other],1
+Financial Services,[],0,[],0,[],0
+"Advertising, Commerce and Shopping, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+Commerce and Shopping,[],0,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Gaming, Media and Entertainment, Sports","[Gaming, Sports]",2,[],0,[],0
+"Data and Analytics, Design, Information Technology, Other, Sales and Marketing, Software","[Data, Sales]",2,[],0,[Other],1
+"Apps, Internet Services, Media and Entertainment, Music and Audio, Software",[],0,[],0,[],0
+"Other, Sustainability, Transportation","[Sustainability, Transportation]",2,[],0,[Other],1
+"Advertising, Content and Publishing, Events, Information Technology, Media and Entertainment, Music and Audio, Sales and Marketing, Video","[Advertising, Events, Sales, Video]",4,[],0,[],0
+"Financial Services, Real Estate",[],0,[],0,[Real],1
+Financial Services,[],0,[],0,[],0
+"Apps, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Administrative Services, Professional Services, Software",[],0,[],0,[],0
+"Other, Professional Services, Transportation",[Transportation],1,[],0,[Other],1
+"Financial Services, Other, Real Estate",[Estate],1,[],0,"[Other, Real]",2
+"Administrative Services, Artificial Intelligence, Data and Analytics, Science and Engineering, Software",[],0,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Community and Lifestyle, Design","[Clothing, Design]",2,[],0,[],0
+"Information Technology, Internet Services, Software",[],0,[],0,[],0
+"Apps, Commerce and Shopping, Financial Services, Mobile, Software, Transportation",[],0,[],0,[],0
+"Manufacturing, Transportation","[Manufacturing, Transportation]",2,[],0,[],0
+"Data and Analytics, Software",[Data],1,[],0,[],0
+"Data and Analytics, Health Care, Information Technology",[Data],1,[],0,[],0
+"Consumer Goods, Food and Beverage, Sustainability, Transportation","[Consumer, Sustainability, Transportation]",3,[],0,[],0
+"Commerce and Shopping, Data and Analytics, Internet Services, Other, Professional Services, Software, Transportation",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Internet Services, Navigation and Mapping, Other, Science and Engineering, Software",[],0,[],0,[Other],1
+"Agriculture and Farming, Financial Services",[Agriculture],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Information Technology, Professional Services, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Information Technology, Payments, Privacy and Security, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+Transportation,[Transportation],1,[],0,[],0
+"Financial Services, Hardware, Internet Services, Payments, Software, Transportation",[],0,[],0,[],0
+"Financial Services, Health Care",[],0,[],0,[],0
+"Financial Services, Internet Services, Lending and Investments, Other, Real Estate",[Estate],1,[],0,"[Other, Real]",2
+"Data and Analytics, Sales and Marketing, Software","[Data, Sales]",2,[],0,[],0
+"Other, Software",[],0,[],0,[Other],1
+"Apps, Data and Analytics, Hardware, Information Technology, Internet Services, Software",[],0,[],0,[],0
+"Hardware, Health Care, Software",[Hardware],1,[],0,[],0
+"Information Technology, Internet Services, Software",[],0,[],0,[],0
+"Health Care, Information Technology, Mobile",[],0,[],0,[],0
+"Information Technology, Internet Services, Privacy and Security, Software",[],0,[],0,[],0
+"Agriculture and Farming, Biotechnology, Science and Engineering",[Agriculture],1,[],0,[],0
+"Manufacturing, Science and Engineering",[Manufacturing],1,[],0,[],0
+"Internet Services, Software",[],0,[],0,[],0
+"Education, Internet Services, Software",[Education],1,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Payments, Professional Services, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Other",[],0,[],0,[Other],1
+"Data and Analytics, Information Technology, Internet Services, Media and Entertainment",[Data],1,[],0,[],0
+"Administrative Services, Food and Beverage, Transportation",[],0,[],0,[],0
+"Gaming, Media and Entertainment, Sports","[Gaming, Sports]",2,[],0,[],0
+"Commerce and Shopping, Hardware, Information Technology, Internet Services, Other, Software",[],0,[],0,[Other],1
+"Events, Media and Entertainment, Music and Audio","[Events, Media]",2,[],0,[],0
+Commerce and Shopping,[],0,[],0,[],0
+"Financial Services, Lending and Investments, Mobile, Payments, Software",[],0,[],0,[],0
+"Data and Analytics, Information Technology, Manufacturing, Privacy and Security, Software",[Data],1,[],0,[],0
+"Energy, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Internet Services",[],0,[],0,[],0
+"Clothing and Apparel, Design","[Clothing, Design]",2,[],0,[],0
+"Administrative Services, Government and Military, Professional Services",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Information Technology, Internet Services, Privacy and Security, Science and Engineering, Software",[],0,[],0,[],0
+"Agriculture and Farming, Internet Services",[Agriculture],1,[],0,[],0
+"Information Technology, Internet Services, Software",[],0,[],0,[],0
+"Administrative Services, Financial Services, Health Care, Mobile, Payments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Design, Financial Services, Information Technology, Internet Services, Software",[Data],1,[],0,[],0
+"Biotechnology, Consumer Electronics, Data and Analytics, Hardware, Health Care, Science and Engineering",[Biotechnology],1,[],0,[],0
+"Gaming, Information Technology, Other",[Gaming],1,[],0,[Other],1
+"Apps, Community and Lifestyle, Media and Entertainment, Mobile, Software, Video",[Video],1,[],0,[],0
+"Internet Services, Other",[],0,[],0,[Other],1
+"Apps, Health Care, Mobile, Software",[],0,[],0,[],0
+"Energy, Manufacturing, Sustainability","[Energy, Sustainability]",2,[],0,[],0
+"Financial Services, Payments, Software",[],0,[],0,[],0
+"Health Care, Sports",[Sports],1,[],0,[],0
+"Events, Information Technology, Media and Entertainment, Travel and Tourism","[Events, Tourism]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Financial Services, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Internet Services, Media and Entertainment",[],0,[],0,[],0
+"Internet Services, Media and Entertainment, Professional Services",[],0,[],0,[],0
+"Administrative Services, Data and Analytics, Other, Sustainability",[Sustainability],1,[],0,[Other],1
+"Financial Services, Other",[],0,[],0,[Other],1
+"Commerce and Shopping, Sports, Travel and Tourism",[Tourism],1,[],0,[],0
+"Administrative Services, Real Estate, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Data and Analytics, Media and Entertainment, Software",[Data],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Biotechnology, Commerce and Shopping, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Information Technology, Lending and Investments",[Investments],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Hardware, Science and Engineering, Software, Transportation",[],0,[],0,[],0
+"Advertising, Internet Services, Other, Sales and Marketing, Software","[Advertising, Sales]",2,[],0,[Other],1
+"Consumer Electronics, Data and Analytics, Hardware, Information Technology, Internet Services, Software",[Consumer],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Food and Beverage, Internet Services, Science and Engineering, Software",[],0,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Information Technology",[],0,[],0,[],0
+"Data and Analytics, Energy, Software, Sustainability","[Data, Sustainability]",2,[],0,[],0
+"Apps, Financial Services, Other, Software",[],0,[],0,[Other],1
+"Information Technology, Software",[],0,[],0,[],0
+"Commerce and Shopping, Internet Services, Software",[],0,[],0,[],0
+"Data and Analytics, Sales and Marketing, Software","[Data, Sales]",2,[],0,[],0
+"Biotechnology, Science and Engineering",[],0,[],0,[],0
+"Information Technology, Internet Services, Software, Travel and Tourism",[Tourism],1,[],0,[],0
+"Consumer Electronics, Design, Hardware, Internet Services, Manufacturing, Professional Services",[Consumer],1,[],0,[],0
+"Education, Professional Services, Software",[Education],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Mobile, Payments, Software",[],0,[],0,[],0
+"Administrative Services, Health Care, Information Technology, Other",[],0,[],0,[Other],1
+"Events, Media and Entertainment","[Events, Media]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Commerce and Shopping, Financial Services, Mobile, Payments, Software",[],0,[],0,[],0
+"Information Technology, Internet Services, Other, Professional Services, Software, Transportation",[],0,[],0,[Other],1
+"Commerce and Shopping, Food and Beverage",[],0,[],0,[],0
+"Hardware, Mobile, Science and Engineering, Software",[],0,[],0,[],0
+"Community and Lifestyle, Financial Services, Health Care",[Community],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Financial Services, Payments, Software",[],0,[],0,[],0
+"Information Technology, Internet Services, Other, Professional Services, Software",[],0,[],0,[Other],1
+"Information Technology, Internet Services, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Media and Entertainment, Science and Engineering, Software",[Media],1,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Advertising, Content and Publishing, Media and Entertainment, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Data and Analytics, Financial Services, Other, Real Estate, Software, Sustainability","[Data, Sustainability]",2,[],0,[Other],1
+"Commerce and Shopping, Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Hardware, Manufacturing, Real Estate",[Hardware],1,[],0,[Real],1
+"Financial Services, Real Estate",[],0,[],0,[Real],1
+"Apps, Artificial Intelligence, Data and Analytics, Information Technology, Internet Services, Messaging and Telecommunications, Mobile, Other, Professional Services, Science and Engineering, Software",[],0,[],0,[Other],1
+"Artificial Intelligence, Data and Analytics, Gaming, Media and Entertainment, Music and Audio, Software",[Media],1,[],0,[],0
+"Gaming, Media and Entertainment, Sports","[Gaming, Sports]",2,[],0,[],0
+"Commerce and Shopping, Financial Services, Payments",[Payments],1,[],0,[],0
+"Data and Analytics, Software",[Data],1,[],0,[],0
+"Administrative Services, Professional Services, Software",[],0,[],0,[],0
+"Financial Services, Other, Payments",[Payments],1,[],0,[Other],1
+"Data and Analytics, Information Technology, Privacy and Security, Software",[Data],1,[],0,[],0
+"Commerce and Shopping, Events, Internet Services, Media and Entertainment, Sports","[Events, Sports]",2,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Mobile, Payments, Software",[],0,[],0,[],0
+"Apps, Food and Beverage, Software, Transportation",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Agriculture and Farming, Food and Beverage, Manufacturing, Sustainability","[Agriculture, Sustainability]",2,[],0,[],0
+"Apps, Health Care, Other, Software",[],0,[],0,[Other],1
+"Hardware, Internet Services, Software",[Hardware],1,[],0,[],0
+"Data and Analytics, Information Technology, Transportation","[Data, Transportation]",2,[],0,[],0
+"Commerce and Shopping, Community and Lifestyle, Design",[Design],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Science and Engineering, Software",[],0,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Community and Lifestyle, Design, Internet Services",[Clothing],1,[],0,[],0
+"Commerce and Shopping, Information Technology, Internet Services",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Other, Payments, Software",[],0,[],0,[Other],1
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Information Technology, Privacy and Security",[Security],1,[],0,[],0
+"Consumer Electronics, Content and Publishing, Hardware, Internet Services, Media and Entertainment, Real Estate, Software, Video","[Consumer, Video]",2,[],0,[],0
+"Internet Services, Media and Entertainment, Software",[],0,[],0,[],0
+"Financial Services, Real Estate",[],0,[],0,[Real],1
+"Internet Services, Software, Transportation",[],0,[],0,[],0
+"Information Technology, Internet Services, Privacy and Security, Software",[],0,[],0,[],0
+Food and Beverage,[Food],1,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Commerce and Shopping, Food and Beverage",[],0,[],0,[],0
+"Data and Analytics, Design, Information Technology, Internet Services, Software",[Data],1,[],0,[],0
+"Consumer Electronics, Hardware, Information Technology, Software",[],0,[],0,[],0
+"Artificial Intelligence, Commerce and Shopping, Data and Analytics, Hardware, Manufacturing, Other, Professional Services, Science and Engineering, Software, Sustainability, Transportation",[Transportation],1,[],0,[Other],1
+"Artificial Intelligence, Commerce and Shopping, Data and Analytics, Internet Services, Science and Engineering, Software",[],0,[],0,[],0
+"Apps, Hardware, Information Technology, Internet Services, Messaging and Telecommunications, Mobile, Software",[],0,[],0,[],0
+"Hardware, Information Technology, Internet Services, Other, Software",[Hardware],1,[],0,[Other],1
+"Financial Services, Software",[],0,[],0,[],0
+"Commerce and Shopping, Internet Services, Software, Transportation",[],0,[],0,[],0
+"Data and Analytics, Information Technology, Software",[Data],1,[],0,[],0
+"Education, Health Care, Information Technology, Internet Services, Messaging and Telecommunications, Mobile",[Education],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Other, Payments",[Payments],1,[],0,[Other],1
+"Financial Services, Software",[],0,[],0,[],0
+"Community and Lifestyle, Health Care, Mobile",[Community],1,[],0,[],0
+Health Care,[],0,[],0,[],0
+Software,[Software],1,[],0,[],0
+"Financial Services, Mobile, Payments, Software",[],0,[],0,[],0
+"Commerce and Shopping, Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Advertising, Media and Entertainment, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Data and Analytics, Internet Services, Software",[Data],1,[],0,[],0
+"Health Care, Other",[],0,[],0,[Other],1
+"Apps, Financial Services, Lending and Investments, Mobile, Software",[],0,[],0,[],0
+"Commerce and Shopping, Mobile, Sales and Marketing, Software",[],0,[],0,[],0
+"Administrative Services, Food and Beverage, Information Technology",[],0,[],0,[],0
+"Internet Services, Media and Entertainment, Music and Audio, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Administrative Services, Information Technology, Other, Privacy and Security",[Security],1,[],0,[Other],1
+"Science and Engineering, Sustainability",[Sustainability],1,[],0,[],0
+"Apps, Financial Services, Mobile, Software",[],0,[],0,[],0
+"Agriculture and Farming, Biotechnology, Food and Beverage, Science and Engineering, Sustainability","[Agriculture, Sustainability]",2,[],0,[],0
+"Consumer Electronics, Data and Analytics, Hardware, Software",[Consumer],1,[],0,[],0
+"Advertising, Commerce and Shopping, Media and Entertainment, Sales and Marketing","[Advertising, Sales, Marketing]",3,[],0,[],0
+"Commerce and Shopping, Community and Lifestyle, Sports",[Sports],1,[],0,[],0
+"Energy, Transportation","[Energy, Transportation]",2,[],0,[],0
+"Food and Beverage, Software, Sustainability","[Food, Sustainability]",2,[],0,[],0
+"Information Technology, Sales and Marketing, Software",[],0,[],0,[],0
+"Data and Analytics, Hardware, Information Technology, Privacy and Security, Software",[Data],1,[],0,[],0
+Hardware,[Hardware],1,[],0,[],0
+"Apps, Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Community and Lifestyle, Internet Services, Professional Services",[Community],1,[],0,[],0
+"Data and Analytics, Information Technology, Professional Services, Software, Sustainability","[Data, Sustainability]",2,[],0,[],0
+"Apps, Community and Lifestyle, Internet Services, Mobile, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Payments, Software",[],0,[],0,[],0
+"Administrative Services, Financial Services, Health Care",[],0,[],0,[],0
+"Hardware, Information Technology, Privacy and Security","[Hardware, Security]",2,[],0,[],0
+"Data and Analytics, Software, Sustainability","[Data, Sustainability]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Design, Hardware, Software",[Design],1,[],0,[],0
+"Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Internet Services, Media and Entertainment, Music and Audio, Software",[],0,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Hardware, Science and Engineering, Software, Transportation",[],0,[],0,[],0
+"Information Technology, Manufacturing, Natural Resources, Software",[],0,[],0,[],0
+"Advertising, Artificial Intelligence, Commerce and Shopping, Data and Analytics, Sales and Marketing, Science and Engineering, Software","[Advertising, Sales]",2,[],0,[],0
+"Commerce and Shopping, Financial Services",[],0,[],0,[],0
+"Apps, Financial Services, Lending and Investments, Software",[],0,[],0,[],0
+"Community and Lifestyle, Health Care, Mobile",[Community],1,[],0,[],0
+"Biotechnology, Consumer Goods, Health Care, Science and Engineering",[Biotechnology],1,[],0,[],0
+"Consumer Electronics, Energy, Financial Services, Hardware, Manufacturing",[Manufacturing],1,[],0,[],0
+"Data and Analytics, Information Technology, Privacy and Security, Software",[Data],1,[],0,[],0
+"Community and Lifestyle, Transportation",[Community],1,[],0,[],0
+"Information Technology, Internet Services, Privacy and Security",[Security],1,[],0,[],0
+"Commerce and Shopping, Professional Services, Software",[],0,[],0,[],0
+"Gaming, Software",[Gaming],1,[],0,[],0
+"Administrative Services, Professional Services, Software",[],0,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Administrative Services, Education, Information Technology, Professional Services, Software",[],0,[],0,[],0
+"Data and Analytics, Design, Health Care, Information Technology, Software",[Data],1,[],0,[],0
+"Financial Services, Internet Services, Payments, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Mobile",[],0,[],0,[],0
+"Biotechnology, Consumer Electronics, Hardware, Health Care, Science and Engineering",[Biotechnology],1,[],0,[],0
+"Artificial Intelligence, Consumer Electronics, Data and Analytics, Hardware, Media and Entertainment, Science and Engineering, Software, Video",[Video],1,[],0,[],0
+"Education, Software",[Education],1,[],0,[],0
+"Advertising, Artificial Intelligence, Data and Analytics, Sales and Marketing, Science and Engineering, Software","[Advertising, Sales]",2,[],0,[],0
+"Community and Lifestyle, Internet Services, Media and Entertainment",[Community],1,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Education, Software",[Education],1,[],0,[],0
+"Education, Software",[Education],1,[],0,[],0
+"Food and Beverage, Other, Software, Sustainability, Transportation","[Food, Sustainability, Transportation]",3,[],0,[Other],1
+"Apps, Information Technology, Mobile, Software, Transportation",[],0,[],0,[],0
+"Community and Lifestyle, Financial Services, Lending and Investments, Other, Professional Services",[Community],1,[],0,[Other],1
+"Hardware, Information Technology, Mobile",[Hardware],1,[],0,[],0
+"Commerce and Shopping, Other, Real Estate",[Estate],1,[],0,"[Other, Real]",2
+"Hardware, Information Technology",[Hardware],1,[],0,[],0
+"Gaming, Software",[Gaming],1,[],0,[],0
+"Hardware, Mobile, Transportation",[],0,[],0,[],0
+"Financial Services, Mobile, Payments, Software",[],0,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Other, Transportation",[Transportation],1,[],0,[Other],1
+"Hardware, Mobile, Platforms, Sales and Marketing, Software",[],0,[],0,[],0
+"Advertising, Apps, Hardware, Internet Services, Mobile, Sales and Marketing, Software",[Advertising],1,[],0,[],0
+"Consumer Electronics, Hardware, Manufacturing, Science and Engineering",[],0,[],0,[],0
+"Events, Media and Entertainment","[Events, Media]",2,[],0,[],0
+"Commerce and Shopping, Data and Analytics, Sales and Marketing","[Sales, Marketing]",2,[],0,[],0
+"Commerce and Shopping, Data and Analytics, Manufacturing, Professional Services",[],0,[],0,[],0
+"Consumer Electronics, Hardware, Information Technology, Internet Services, Privacy and Security",[Security],1,[],0,[],0
+"Consumer Electronics, Hardware, Manufacturing",[Manufacturing],1,[],0,[],0
+"Financial Services, Professional Services",[],0,[],0,[],0
+"Financial Services, Other, Payments, Software",[],0,[],0,[Other],1
+"Advertising, Hardware, Media and Entertainment, Sales and Marketing, Video","[Advertising, Sales, Video]",3,[],0,[],0
+"Data and Analytics, Design, Government and Military, Information Technology, Software",[Data],1,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Information Technology, Internet Services, Other, Professional Services, Sales and Marketing, Software",[Sales],1,[],0,[Other],1
+"Software, Transportation, Travel and Tourism",[Tourism],1,[],0,[],0
+"Other, Sustainability, Transportation","[Sustainability, Transportation]",2,[],0,[Other],1
+"Advertising, Apps, Commerce and Shopping, Hardware, Internet Services, Other, Sales and Marketing, Software","[Advertising, Sales]",2,[],0,[Other],1
+"Design, Real Estate","[Design, Estate]",2,[],0,[Real],1
+"Administrative Services, Agriculture and Farming, Data and Analytics, Information Technology, Software, Transportation",[],0,[],0,[],0
+"Artificial Intelligence, Clothing and Apparel, Commerce and Shopping, Data and Analytics, Design, Science and Engineering, Software",[],0,[],0,[],0
+"Information Technology, Privacy and Security, Software",[],0,[],0,[],0
+"Administrative Services, Professional Services, Software",[],0,[],0,[],0
+"Health Care, Manufacturing",[Manufacturing],1,[],0,[],0
+Software,[Software],1,[],0,[],0
+"Financial Services, Real Estate",[],0,[],0,[Real],1
+"Artificial Intelligence, Biotechnology, Consumer Electronics, Data and Analytics, Hardware, Manufacturing, Real Estate, Science and Engineering, Software",[],0,[],0,[],0
+"Community and Lifestyle, Design, Information Technology, Internet Services, Media and Entertainment",[Community],1,[],0,[],0
+"Data and Analytics, Hardware, Internet Services, Navigation and Mapping, Transportation","[Data, Transportation]",2,[],0,[],0
+"Apps, Community and Lifestyle, Other, Software",[],0,[],0,[Other],1
+"Apps, Financial Services, Information Technology, Other, Payments, Software",[],0,[],0,[Other],1
+"Clothing and Apparel, Commerce and Shopping, Community and Lifestyle, Design","[Clothing, Design]",2,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Sales and Marketing, Science and Engineering, Software",[Sales],1,[],0,[],0
+"Food and Beverage, Health Care",[Food],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Clothing and Apparel, Commerce and Shopping, Community and Lifestyle, Consumer Electronics, Design, Hardware","[Clothing, Hardware]",2,[],0,[],0
+"Data and Analytics, Information Technology, Software",[Data],1,[],0,[],0
+"Commerce and Shopping, Food and Beverage, Internet Services",[],0,[],0,[],0
+Financial Services,[],0,[],0,[],0
+"Artificial Intelligence, Biotechnology, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+"Consumer Electronics, Education, Hardware, Information Technology, Other, Professional Services, Software",[Consumer],1,[],0,[Other],1
+"Media and Entertainment, Video","[Media, Video]",2,[],0,[],0
+"Financial Services, Lending and Investments",[Investments],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Financial Services, Internet Services, Real Estate",[],0,[],0,[Real],1
+"Biotechnology, Data and Analytics, Financial Services, Information Technology, Payments, Privacy and Security, Science and Engineering, Software",[],0,[],0,[],0
+"Financial Services, Lending and Investments, Real Estate, Software",[],0,[],0,[],0
+"Education, Financial Services, Software",[Education],1,[],0,[],0
+"Commerce and Shopping, Consumer Electronics, Financial Services, Hardware, Health Care, Information Technology, Internet Services, Mobile, Software",[],0,[],0,[],0
+"Commerce and Shopping, Other, Professional Services, Sales and Marketing, Software",[Sales],1,[],0,[Other],1
+"Education, Software",[Education],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Education, Software",[Education],1,[],0,[],0
+"Hardware, Information Technology, Internet Services, Software",[Hardware],1,[],0,[],0
+"Biotechnology, Health Care, Science and Engineering",[],0,[],0,[],0
+"Administrative Services, Apps, Financial Services, Internet Services, Mobile, Other, Payments, Professional Services, Software",[],0,[],0,[Other],1
+"Energy, Hardware, Science and Engineering, Software, Sustainability",[Sustainability],1,[],0,[],0
+"Artificial Intelligence, Data and Analytics, Health Care, Science and Engineering, Software",[],0,[],0,[],0
+"Software, Transportation",[],0,[],0,[],0
+"Information Technology, Software, Sustainability",[Sustainability],1,[],0,[],0
+"Consumer Electronics, Hardware, Privacy and Security, Software",[],0,[],0,[],0

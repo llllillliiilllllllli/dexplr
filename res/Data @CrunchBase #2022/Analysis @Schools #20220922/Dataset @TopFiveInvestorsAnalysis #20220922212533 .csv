@@ -1,0 +1,788 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"Tencent, Axis Bank, Flipkart, Walmart, Morgan Stanley",[Tencent],1,[],0,[],0
+"Andreessen Horowitz, Alumni Ventures, Norte Ventures, Endeavor Catalyst, Canary",[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center, U.S. Food and Drug Administration, Ludwig Cancer Research, Stephen Schwarzman",[],0,[],0,[],0
+"International Finance Corporation, Learn Capital, New Markets Venture Partners, Global Ventures, Future Africa",[],0,[],0,[],0
+"NASA, National Institutes of Health, Technion, National Science Foundation, US Department of Energy",[],0,[],0,[],0
+"National Institutes of Health, Microsoft, Algorand Foundation, Open Philanthropy Project",[],0,[],0,[],0
+"DARPA, Massachusetts Clean Energy Center, U.S. Food and Drug Administration, Hock Tan, Ludwig Cancer Research",[],0,[],0,[],0
+"Bessemer Venture Partners, Moving Capital, Kleiner Perkins, SB Opportunity Fund, Owl Ventures",[],0,[],0,[],0
+"Innovation Works, Algorand Foundation, National Science Foundation, Yahoo, Richard King Mellon Foundation",[Innovation],1,[],0,[],0
+"Flipkart, Tiger Global Management, Accel, New Enterprise Associates, Kalaari Capital",[],0,[],0,[],0
+"National Institutes of Health, National Cancer Institute, Maxim Ventures, United States Council for Automotive Research",[],0,[],0,[],0
+"National Science Foundation, Florida Department of Education, National Institute on Aging, Reliance Medical Centers, National Institute of Diabetes and Digestive and Kidney Diseases",[],0,[],0,[],0
+"Algorand Foundation, Andrew W. Mellon Foundation",[],0,[],0,[],0
+"Carrick Capital Partners, The Duke Endowment",[],0,[],0,[],0
+"Bpifrance, Salesforce Ventures, Alven, General Atlantic, Chan Zuckerberg Initiative",[],0,[],0,[],0
+"Learn Capital, Initialized Capital, Wellington Management, Maveron, Bezos Expeditions",[],0,[],0,[],0
+Natural Resources Canada,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, National Institutes of Health, U.S. Department of Education, National Science Foundation, Centers for Disease Control and Prevention",[],0,[],0,[],0
+"Government of Canada, Western Economic Diversification Canada, Government of British Columbia",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Hollywood Foreign Press Association, Andrew W. Mellon Foundation, Tadashi Yanai, Anthony and Jeanne Pritzker Family Foundation",[],0,[],0,[],0
+The Marcus Foundation,[],0,[],0,[],0
+"Stewart Resnick, Lynda Resnick",[],0,[],0,[],0
+"National Institutes of Health, U.S. Department of Defense, Causes, U.S. Food and Drug Administration",[],0,[],0,[],0
+"National Institutes of Health, The Arthur M. Blank Family Foundation",[],0,[],0,[],0
+"National Institutes of Health, Pablo Legoretta, Almudena Legorreta, Department of Energy &amp; Environment",[Environment],1,[],0,[],0
+"Elephant, Arthur Ventures",[],0,[],0,[],0
+"Bossanova Investimentos, Endeavor Catalyst, All Iron Ventures, Brighteye Ventures, Lumos Capital Group",[],0,[],0,[],0
+"National Institutes of Health, Knight Foundation",[],0,[],0,[],0
+"Comcast, US Department of Commerce, Economic Development Administation, Florida Department of Education, Knight Foundation, American Rescue Plan",[],0,[],0,[],0
+"National Institutes of Health, Health Resources and Services Administration, U.S. Department of Agriculture, Patient-Centered Outcomes Research Institute, National Cancer Institute",[],0,[Centered],1,[],0
+"The Azrieli Foundation., The Israel Precision Medicine Partnership – IPMP",[],0,[],0,[],0
+"National Institutes of Health, National Science Foundation, Lockheed Martin, National Institute of Allergy and Infectious Diseases, Abell Foundation",[],0,[],0,[Infectious],1
+"Alzheimer's Foundation of America, FuzeHub, LifeSci NYC",[],0,[],0,[],0
+"Alberta Innovates, Western Economic Diversification Canada",[],0,[],0,[],0
+"Business Connexion, E Squared Investments",[],0,[],0,[],0
+"US Department of Energy, Paul Allen, The Lawrence Ellison Foundation",[],0,[],0,[],0
+"Mastercard, Abbott, PNC, TIAA, Jonathan Logan Family Foundation",[],0,[],0,[],0
+"Ludwig Cancer Research, Pritzker Foundation",[],0,[],0,[],0
+David Harding,[],0,[],0,[],0
+Leeds Equity Partners,[],0,[Leeds],1,[],0
+"National Science Foundation, U.S. Small Business Administration",[],0,[],0,[],0
+"US Department of Energy, Patrick J. McGovern Foundation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, National Science Foundation, Laura and John Arnold Foundation",[],0,[],0,[],0
+"CDC Group, CVC Capital Partners",[],0,[],0,[],0
+"US Department of Energy, Scott Stuart, George F. Baker Trust, Berry Family Foundation, Allison Magnuson",[],0,[],0,[],0
+"National Institutes of Health, US Department of Energy, National Cancer Institute, U.S. Department of Defense, National Institute on Drug Abuse (NIDA)",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"AcCELLerate ON, Heather Reisman, Gerald Schwartz",[],0,[AcCELLerate],1,[],0
+"National Science Foundation, Keenan Family Foundation",[],0,[],0,[],0
+"DTE Energy, National Institute of Environmental Health Sciences",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Algorand Foundation, National Science Foundation, US Department of Energy, U.S. Department of Agriculture",[],0,[],0,[],0
+"US Department of Energy, National Institute of Allergy and Infectious Diseases",[],0,[],0,[Infectious],1
+"BoxGroup, CRV, Matrix Partners, Thrive Capital, Matrix",[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center, Commonwealth Capital Ventures, Andrew W. Mellon Foundation, Commonwealth of Massachusetts",[],0,[],0,[],0
+"Deerfield Capital Management, Ludwig Cancer Research",[],0,[],0,[],0
+"Insight Partners, Reach Capital, AME Cloud Ventures, Trinity Ventures, Partech",[],0,[],0,[],0
+"National Institutes of Health, Lenfest Foundation",[],0,[],0,[],0
+"Health Resources and Services Administration, National Science Foundation, Test Resource Management Center, Arizona State Treasurer, National Institute for Occupational Safety and Health",[],0,[],0,[],0
+The Wolfson Foundation,[],0,[],0,[],0
+"National Institutes of Health, US Department of Commerce, Economic Development Administation, Bill &amp; Melinda Gates Foundation, Robert W. Woodruff Foundation, Dalai Lama Foundation",[amp],1,[],0,[],0
+Tanoto Foundation,[],0,[],0,[],0
+"National Institutes of Health, U.S. Department of Defense, Bill &amp; Melinda Gates Foundation, Tom Kodadek, Brian Paegel",[amp],1,[],0,[],0
+Tao Zhang,[],0,[],0,[],0
+"National Institutes of Health, UnitedHealthcare",[],0,[],0,[],0
+"TAL Education Group, Silicon Valley Bank, Bold Capital Partners, WestRiver Group, Decacorn Capital",[],0,[],0,[],0
+Spectrum Equity,[],0,[],0,[],0
+"Alta Partners, Baring Private Equity Asia",[],0,[Baring],1,[Private],1
+"Greater London Authority, UK Research Partnership Investment Fund",[],0,[],0,[],0
+"Health Resources and Services Administration, National Cancer Institute, U.S. Department of Health &amp; Human Services",[],0,[],0,[],0
+"Paula and Rodger Riney Foundation, Linda Mellowes, John Mellowes",[],0,[],0,[],0
+"U.S. Department of Education, Robert Lumpkins, Sara Lumpkins",[],0,[],0,[],0
+"NASA, U.S. Department of Labor, Maricopa County Industrial Development Authority",[],0,[],0,[],0
+"US Department of Energy, Parent Project Muscular Dystrophy",[],0,[],0,[],0
+"Omidyar Network, Anders Holch Povlsen",[],0,[Povlsen],1,[],0
+"North Carolina Biotechnology Center, Federal Aviation Administration, National Oceanic and Atmospheric Administration, Novo Nordisk Foundation",[],0,[],0,[],0
+European Union,[],0,[],0,[],0
+"Knight Foundation, John A Sobrato, Susan Sobrato",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Texas Workforce Commision, ExxonMobil, Knight Foundation, Moody Foundation",[],0,[],0,[],0
+NatWest Group,[],0,[],0,[],0
+"U.S. Department of Transportation, National Institute of Neurological Disorders and Stroke",[],0,[],0,[],0
+"National Science Foundation, Kosasa Foundation",[],0,[],0,[],0
+Microsoft,[],0,[],0,[],0
+"Massachusetts Life Sciences Center, John Templeton Foundation, Hock Tan, K. Lisa Yang",[],0,[],0,[],0
+"Meta, Algorand Foundation",[],0,[],0,[],0
+"Koret Foundation, Norma Kershaw",[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+Microsoft,[],0,[],0,[],0
+Dale Carlsen,[],0,[],0,[],0
+"Florida Department of Education, The Florida Center for Cybersecurity",[Cybersecurity],1,[],0,[],0
+"National Institutes of Health, National Institutes of Health (NIH)",[],0,[],0,[],0
+"Texas Workforce Commision, ARPA-E, Internal Audit Foundation, J. Mike Walker",[],0,[],0,[],0
+Chris and Carrie Shumway Foundation,[],0,[],0,[],0
+"National Institutes of Health, National Science Foundation, Mark Abkowitz, GE Foundation, Clinton Global Initiative University",[],0,[],0,[],0
+Canton of St. Gallen,[],0,[],0,[],0
+"ARPA-E, Henry M. Jackson Foundation, Isentropic, Joaquin Castro",[],0,[],0,[],0
+"National Institutes of Health, US Department of Commerce, Economic Development Administation, National Science Foundation, Knight Foundation, U.S. Food and Drug Administration",[],0,[],0,[],0
+"Federal Aviation Administration, TechAccel",[],0,[],0,[],0
+The Blavatnik Family Foundation,[],0,[],0,[],0
+"Texas Workforce Commision, Moody Foundation",[],0,[],0,[],0
+"Google, Zynga, National Science Foundation, U.S. Department of Defense, American Rescue Plan",[],0,[],0,[],0
+"Algorand Foundation, The Humana Foundation",[],0,[],0,[],0
+"Google, SCALE AI",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, US Department of Energy, Kevin T. Crofton",[],0,[],0,[],0
+Twitter,[],0,[],0,[],0
+"National Institutes of Health, Centene, National Institute of Allergy and Infectious Diseases, National Institute on Aging, National Center for Advancing Translational Sciences(NCATS)",[],0,[],0,[Infectious],1
+"National Science Foundation, Florida Department of Education, The Florida Center for Cybersecurity, State of Florida",[],0,[],0,[],0
+"National Institutes of Health, AWS Foundation",[],0,[],0,[],0
+Tenax Therapeutics,[],0,[],0,[],0
+Australian Research Council,[],0,[],0,[],0
+"Kalon Venture Partners, Caleo Private Equity",[],0,[],0,[],0
+TD Bank,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, U.S. Department of Education, US Department of Energy, U.S. Department of Defense, North Carolina Biotechnology Center",[],0,[],0,[],0
+Arthur Ventures,[],0,[],0,[],0
+"National Institutes of Health, The Leona M. and Harry B. Helmsley Charitable Trust, Alzheimer's Research UK, The Audacious Project",[Project],1,[],0,[Audacious],1
+Massachusetts Technology Collaborative,[],0,[],0,[],0
+"National Institute on Drug Abuse (NIDA), NCPDP",[NCPDP],1,[],0,[],0
+"National Institutes of Health, National Institute on Aging, I Can Do Great Things Foundation, Louisiana Board of Regents, Carole B. Boudreaux",[],0,[Do],1,[Great],1
+Lightrock,[],0,[Lightrock],1,[],0
+European Investment Bank,[],0,[],0,[],0
+"PortfoLion Capital Partners, Integral Venture Partners, Lead Ventures, Balázs Vinnai",[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+GRAMMY Museum,[],0,[],0,[],0
+Government of Canada,[],0,[],0,[],0
+"National Institutes of Health, U.S. Department of Education",[],0,[],0,[],0
+"NYSERDA, Centers for Medicare &amp; Medicaid Services, New York State Department of Health",[],0,[],0,[],0
+"National Institutes of Health, US Department of Energy, Jim McKelvey, George Bauer, Carol Bauer",[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+Anders Holch Povlsen,[],0,[Povlsen],1,[],0
+"Parallel, National Science Foundation, Richard King Mellon Foundation, Appalachian Regional Commission, Steven Levitan",[],0,[],0,[],0
+"European Investment Bank, European Research Council, Science Foundation Ireland, Irish Research Council(IRC)",[],0,[],0,[],0
+"Siemens, EY Australia",[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+"National Institutes of Health, National Science Foundation, U.S. Environmental Protection Agency, Charles Stewart Mott Foundation, National Telecommunications and Information Administration",[],0,[],0,[],0
+"U.S. Department of Education, U.S. Environmental Protection Agency, U.S. Department of Labor, Leir Charitable Foundations",[],0,[],0,[],0
+"National Science Foundation, U.S. Department of Homeland Security, Graham Weston, James Truchard",[],0,[],0,[],0
+"Goldman Sachs, CDC Group, Savannah Fund, University Ventures, EDEX",[],0,[],0,[],0
+"U.S. Department of Education, National Science Foundation, U.S. Department of Commerce, LuminaFoundation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, U.S. Department of Labor",[],0,[],0,[],0
+"Air Force Research Laboratory, CNM Ingenuity, A. James and Alice B. Clark Foundation",[],0,[],0,[],0
+"National Institute of Standards and Technology, U.S. Department of Homeland Security",[],0,[],0,[],0
+Ingvar Kamprad,[],0,[],0,[],0
+"Chicago Booth Angels, Tandean Rustandy, Charles M. Harper",[],0,[],0,[],0
+"U.S. Department of Education, National Science Foundation, Massachusetts Life Sciences Center, DARPA, US Army",[],0,[],0,[],0
+FuzeHub,[],0,[],0,[],0
+"National Science Foundation, FuzeHub",[],0,[],0,[],0
+"National Science Foundation, US Department of Energy, Knight Foundation",[],0,[],0,[],0
+Banco Santander,[],0,[],0,[],0
+"Reach Capital, Amplify Capital, Flare Capital Partners, lobby capital, Solve Innovation Future","[lobby, capital]",2,[],0,[],0
+European Investment Bank,[],0,[],0,[],0
+"Sahsen Ventures, Open Philanthropy Project, The Audacious Project",[Project],1,[],0,[Audacious],1
+Andrew W. Mellon Foundation,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"National Science Foundation, EON Reality",[],0,[],0,[],0
+"National Institutes of Health, Massachusetts Life Sciences Center, The Leona M. and Harry B. Helmsley Charitable Trust",[],0,[],0,[],0
+"National Institutes of Health, National Science Foundation, U.S. Environmental Protection Agency, Black &amp; Veatch, National Swine Resource &amp; Research Center",[],0,[],0,[],0
+Government of Canada,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, National Science Foundation, Mars, Massachusetts Life Sciences Center, American Heritage Chocolate",[],0,[],0,[],0
+"National Institutes of Health, National Science Foundation, Chan Zuckerberg Initiative, Massachusetts Clean Energy Center, Andrew W. Mellon Foundation",[],0,[],0,[],0
+"National Institutes of Health, Craig J. Duchossois, Janet Duchossois",[],0,[],0,[],0
+National Cancer Institute,[],0,[],0,[],0
+"Government of Canada, Scotiabank",[],0,[],0,[],0
+W. M. Keck Foundation,[],0,[],0,[],0
+HSBC Bank,[],0,[],0,[],0
+"Catapult, UK Research and Innovation",[Innovation],1,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+"European Investment Bank, Science Foundation Ireland, Wellcome’s Psychosis Flagship",[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+"National Science Foundation, U.S. Environmental Protection Agency",[],0,[],0,[],0
+"National Institutes of Health, Cancer Prevention and Research Institute of Texas",[],0,[],0,[],0
+"Greensill Capital, UK Research and Innovation, Engineering and Physical Sciences Research Council, Biotechnology and Biological Sciences Research Council",[],0,[],0,[],0
+U.S. Food and Drug Administration,[],0,[],0,[],0
+"Engineering and Physical Sciences Research Council, Biotechnology and Biological Sciences Research Council",[],0,[],0,[],0
+Natural Sciences and Engineering Research Council of Canada (NSERC),[],0,[],0,[],0
+"SteelSky Ventures, Band of Angels, Rhia Ventures, Avestria Ventures, FemHealth Ventures",[Ventures],1,[],0,[],0
+Lee Shau Kee Foundation,[],0,[],0,[],0
+"National Science Foundation, Federal Aviation Administration, Ohio Department of Higher Education",[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+The Azrieli Foundation.,[],0,[],0,[],0
+"San Manuel Band of Mission Indians, Patrick F. Cadigan Family Foundation",[],0,[],0,[],0
+UK Research and Innovation,[Innovation],1,[],0,[],0
+U.S. Small Business Administration,[],0,[],0,[],0
+Microsoft,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+Mozilla’s Common Voice,[],0,[],0,[],0
+Scotiabank,[Scotiabank],1,[],0,[],0
+"Zilber Family Foundation, United Health Foundation, Joe Checota, Ellen Checota",[],0,[],0,[],0
+"Government of Canada, Government Of Quebec",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, National Science Foundation, U.S. Environmental Protection Agency",[],0,[],0,[],0
+CARB-X,[X],1,[],0,[],0
+Leeds Equity Partners,[],0,[Leeds],1,[],0
+Eli and Edythe Broad Foundation,[],0,[],0,[],0
+"National Science Foundation, US Department of Energy",[],0,[],0,[],0
+Elizabeth Elting,[],0,[],0,[],0
+Palamon Capital Partners,[],0,[],0,[],0
+"Anschutz Family Foundation, Philip Anschutz",[],0,[],0,[],0
+"The Azrieli Foundation., Glaubach Family",[],0,[],0,[],0
+"National Science Foundation, US Department of Energy",[],0,[],0,[],0
+"U.S. Environmental Protection Agency, James S. McDonnell Foundation",[],0,[],0,[],0
+"Florida Department of Education, The Florida Center for Cybersecurity",[Cybersecurity],1,[],0,[],0
+"Hyatt Brown, Cici Brown",[],0,[],0,[],0
+"Marieke Rothschild, Jeffrey Rothschild",[],0,[],0,[],0
+"U.S. Department of Education, National Science Foundation, Institute of Education Sciences",[],0,[],0,[],0
+"European Investment Bank, Ireland Strategic Investment Fund",[],0,[],0,[],0
+"Amazon, SBRI Healthcare, Midven, Greater London Authority",[],0,[],0,[],0
+"National Institutes of Health, US Department of Energy",[],0,[],0,[],0
+Preston Hollow Capital,[],0,[],0,[],0
+"Astarc Ventures, Krishnan Menon, Ramki Gaddipati, Srinivas Kollipara, SARA Investments",[Investments],1,[],0,[],0
+Schuler Education Foundation,[],0,[],0,[],0
+TOAS,[TOAS],1,[],0,[],0
+Davis Family Foundation,[],0,[],0,[],0
+"National Institutes of Health, National Science Foundation, US Department of Energy",[],0,[],0,[],0
+"National Institutes of Health, Bill &amp; Melinda Gates Foundation",[amp],1,[],0,[],0
+Microsoft,[],0,[],0,[],0
+"National Institutes of Health, US Department of Commerce, Economic Development Administation, American Heart Association, United Therapeutics",[],0,[],0,[],0
+"National Science Foundation, United Health Foundation, Wells Fargo Foundation",[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+National Cancer Institute,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+GRAMMY Museum,[],0,[],0,[],0
+"Walton Family Foundation, U.S. Department of Health &amp; Human Services",[],0,[],0,[],0
+"Bossanova Investimentos, SMU Investimentos, Janguie Diniz",[],0,[],0,[],0
+"Health Resources and Services Administration, National Science Foundation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Pierre Lassonde",[],0,[],0,[],0
+"CARB-X, SBRI Healthcare",[],0,[],0,[],0
+"Google, Apple",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"Brad D. Smith, Alys Smith",[],0,[],0,[],0
+"National Science Foundation, Know Diabetes by Heart",[],0,[],0,[],0
+The Goizueta Foundation,[],0,[],0,[],0
+"National Science Foundation, James S. McDonnell Foundation",[],0,[],0,[],0
+"US Department of Energy, Iowa Dept of Economic Development",[],0,[],0,[],0
+"Health Resources and Services Administration, Patient-Centered Outcomes Research Institute, U.S. Department of Health &amp; Human Services, National Heart, Lung and Blood Institute, Vera Bradley Foundation",[],0,[Centered],1,[],0
+"National Institutes of Health, SunShot Initiative fund",[fund],1,[],0,[],0
+"Blue Cross and Blue Shield of Texas, Tito’s Handmade Vodka",[],0,[],0,[],0
+Cancer Prevention and Research Institute of Texas,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, CD&amp;R Foundation, Verizon Foundation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+FuzeHub,[],0,[],0,[],0
+"G2 Capital, SmartMoney Ventures",[],0,[],0,[],0
+Andrew W. Mellon Foundation,[],0,[],0,[],0
+Cultural Development Fund,[],0,[],0,[],0
+"NASA, Hollywood Foreign Press Association",[],0,[],0,[],0
+The Israel Precision Medicine Partnership – IPMP,[],0,[],0,[],0
+Bissett &amp; Associates Investment Management,[],0,[],0,[],0
+"Das Nobel, Nipa Nobel",[],0,[],0,[],0
+"Simons Foundation, John Templeton Foundation, Fetzer Institute, John E. Fetzer Memorial Trust",[],0,[],0,[],0
+"National Science Foundation, U.S. Environmental Protection Agency, John Drosdick",[],0,[],0,[],0
+"AfricInvest, Cathay Capital",[],0,[],0,[],0
+U.S. Department of Commerce,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+"Cisco, RBC Capital, New Brunswick Innovation Foundation, Natural Sciences and Engineering Research Council of Canada (NSERC), Atlantic Canada Opportunities Agency",[],0,[],0,[],0
+"Karen Sanger, Stephen W. Sanger",[],0,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+OneVentures,[OneVentures],1,[],0,[],0
+"JP Morgan Chase, US Department of Commerce, Economic Development Administation, U.S. Department of Labor, Richard M. Fairbanks Foundation",[],0,[],0,[],0
+Arkansas Natural and Cultural Resources Council,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+CareFirst,[CareFirst],1,[],0,[],0
+"Newell Brands, Robert F. Smith",[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+"Texas Workforce Commision, G. Brint Ryan, Scripps Howard Foundation, Amanda Sutton Ryan",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, James S. McDonnell Foundation",[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+Research England,[],0,[],0,[],0
+"OrbiMed, True North, Ascent Capital",[],0,[],0,[],0
+Natural Sciences and Engineering Research Council of Canada (NSERC),[],0,[],0,[],0
+"Google, The Boeing Company, J.M. Huber Corporation",[],0,[],0,[],0
+"National Institute of Standards and Technology, Environmental Protection Agency",[],0,[],0,[],0
+"Y Combinator, Francis Plaza, Fourth Realm, Blaine Vess",[],0,[],0,[],0
+"GO Virginia, Debra Coffman Howe",[],0,[],0,[],0
+"U.S. Department of Education, Lilly Endowment, Caterpillar Foundation",[],0,[],0,[],0
+William G. Rohrer Charitable Foundation,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Internal Audit Foundation, Louisiana Economic Development Assoc,",[],0,[],0,[],0
+"National Institutes of Health, Thomas Ryan, Geraldine Verrecchia, Cathy Rayan, Alfred J Verrecchia",[],0,[],0,[],0
+"The Boeing Company, Oklahoma City Community Foundation, Increase and Diversify Education Abroad for U.S. Students",[Students],1,"[Increase, Diversify]",2,[],0
+Internal Audit Foundation,[],0,[],0,[],0
+"National Science Foundation, U.S. Department of Transportation, Greg Roberts",[],0,[],0,[],0
+AmeriCorps Public Allies,[],0,[],0,[],0
+"Cabiedes &amp; Partners, Lanai Partners, Valley Venture Capital, Scale Lab Andorra","[amp, Partners]",2,[],0,[],0
+"U.S. Department of Education, National Science Foundation",[],0,[],0,[],0
+U.S. Department of Commerce,[],0,[],0,[],0
+Bank of America,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+"NASA, U.S. Department of Education, U.S. Environmental Protection Agency",[],0,[],0,[],0
+"U.S. Department of Education, Gray W, Barbara Bryant",[],0,[],0,[],0
+"Bank of America, PNC",[],0,[],0,[],0
+Natural Sciences and Engineering Research Council of Canada (NSERC),[],0,[],0,[],0
+James S. McDonnell Foundation,[],0,[],0,[],0
+Bennie Thompson,[],0,[],0,[],0
+"Chan Zuckerberg Initiative, Salesforce Foundation, Chancelor Bennett",[],0,[],0,[],0
+Starta VC,[],0,[],0,[],0
+"WGU Labs, Stand Together Ventures Lab, James Caras, Stephanie Boone, Christopher Curran",[],0,[Stand],1,[],0
+"National Institutes of Health, Berry Family Foundation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, National Science Foundation, Massachusetts Life Sciences Center, Massachusetts Technology Collaborative, Massachusetts Clean Energy Center",[],0,[],0,[],0
+"Government of Canada, Government of Nova Scotia",[],0,[],0,[],0
+"National Institutes of Health, Federal Aviation Administration",[],0,[],0,[],0
+Open Philanthropy Project,[],0,[],0,[],0
+Chan Zuckerberg Initiative,[],0,[],0,[],0
+Andrew W. Mellon Foundation,[],0,[],0,[],0
+Florida Blue Foundation,[],0,[],0,[],0
+"Heinz Endowments, KeyBank Foundation",[],0,[],0,[],0
+National Institute of General Medical Science,[],0,[],0,[],0
+UK Research and Innovation,[Innovation],1,[],0,[],0
+Eleanor Watanakunakorn,[],0,[],0,[],0
+"Vanderbilt University, Profectus Biosciences, Mapp Biopharmaceutical, Genevant",[Genevant],1,[],0,[],0
+"National Institutes of Health, U.S. Department of Defense",[],0,[],0,[],0
+"U.S. Department of Defense, Arkansas Department of Education, Windgate Foundation, State of Arkansas",[],0,[],0,[],0
+Lowe’s,[],0,[],0,[],0
+"General Electric, National Science Foundation, National Institute of Standards and Technology",[Technology],1,[],0,[],0
+The Council For Higher Education of Israel,[],0,[],0,[],0
+Micron Technology,[],0,[],0,[],0
+UnitedHealth Group,[],0,[],0,[],0
+Alma Gibbs Donchian Foundation,[],0,[],0,[],0
+Runway Growth Capital,[Capital],1,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+U.S. Department of Labor,[],0,[],0,[],0
+The Xander Group,[],0,[],0,[],0
+Scripps Howard Foundation,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"National Institutes of Health, U.S. Environmental Protection Agency, U.S. Department of Transportation",[],0,[],0,[],0
+"Whales Capital, JBC, Sinowisdom, China Capital Investment Group, Guojin Capital",[],0,[],0,[],0
+James S. McDonnell Foundation,[],0,[],0,[],0
+"National Science Foundation, U.S. Department of Labor, U.S. Department of Agriculture, Illinois Children’s Healthcare Foundation",[],0,[],0,[],0
+Leeds Equity Partners,[],0,[Leeds],1,[],0
+Health Resources and Services Administration,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"Lowe’s, National Science Foundation, US Department of Energy, PNC Foundation",[],0,[],0,[],0
+Vietnam Investments Groups,[],0,[],0,[],0
+"U.S. Department of Education, Windgate Foundation, Patrice Miller, Stan Miller",[],0,[],0,[],0
+Lilly Endowment,[],0,[],0,[],0
+Mozilla’s Common Voice,[],0,[],0,[],0
+"U.S. Department of Defense, Alfred P. Sloan Foundation, Klarman Family Foundation, Ronda Stryker, The Arthur M. Blank Family Foundation",[],0,[],0,[],0
+National Institute of Neurological Disorders and Stroke,[],0,[],0,[],0
+"Atrium Companies, Carl Ryden, Ashley Ryden",[],0,[],0,[],0
+U.S. Environmental Protection Agency,[],0,[],0,[],0
+"Henry L. Hillman Foundation, Eden Hall Foundation",[],0,[],0,[],0
+"Bank of America, North Carolina Biotechnology Center",[],0,[],0,[],0
+"Bank of America, Helios Education Foundation",[],0,[],0,[],0
+Federal Emergency Management Agency,[],0,[],0,[],0
+"Richard Lundquist, Melanie Lundquist",[],0,[],0,[],0
+National Security Agency,[],0,[],0,[],0
+Appalachian Regional Commission,[],0,[],0,[],0
+"Osagie O. Imasogie, The W. P. Carey Foundation, Losenge Imasogie",[],0,[],0,[],0
+Health Resources and Services Administration,[],0,[],0,[],0
+National Institute of Standards and Technology,[Technology],1,[],0,[],0
+"Massachusetts Life Sciences Center, The Boston Foundation",[],0,[],0,[],0
+University Blockchain Research Initiative,[],0,[],0,[],0
+"National Institutes of Health, George Newkome, Mary Jane Saunders",[],0,[],0,[],0
+Robert Fischell,[],0,[],0,[],0
+"U.S. Department of Education, HarborOne Foundation",[],0,[],0,[],0
+"Wisconsin Economic Development Corporation (WEDC), The National Endowment for the Arts, Avi Shaked, Babs Waldman",[],0,[],0,[],0
+Indiana University Health,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, National Science Foundation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, US Department of Energy",[],0,[],0,[],0
+UnitedHealthcare,[],0,[],0,[],0
+Andrew W. Mellon Foundation,[],0,[],0,[],0
+Alberta Innovates,[],0,[],0,[],0
+"UK Research and Innovation, STFC, Engineering and Physical Sciences Research Council",[],0,[],0,[],0
+"U.S. Department of Agriculture, National Institute of Food and Agriculture",[],0,[],0,[],0
+Bill &amp; Melinda Gates Foundation,[amp],1,[],0,[],0
+"Bank of America, Hollywood Foreign Press Association",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, National Oceanic and Atmospheric Administration",[],0,[],0,[],0
+Santander UK,[],0,[],0,[],0
+Agence Française de Développement,[],0,[],0,[],0
+"The Sunderland Foundation, Rudy Farber, Joplin Regional Community Foundation, Harry M. Cornell, Larry McIntire",[],0,[],0,[],0
+"U.S. Department of Defense, Know Diabetes by Heart",[],0,[],0,[],0
+"National Institutes of Health, National Science Foundation",[],0,[],0,[],0
+Maine Technology Institute,[],0,[],0,[],0
+Conrad N. Hilton Foundation,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"Judy Marcus, George Marcus",[],0,[],0,[],0
+"National Science Foundation, Massachusetts Life Sciences Center, Massachusetts Biomedical Initiatives, Massachusetts Office of Business Development, The Higher Education Emergency Relief Fund II",[],0,[],0,[Higher],1
+"Alan Kral, Peg Kral",[],0,[],0,[],0
+Otto Bremer Trust,[],0,[],0,[],0
+Lilly Endowment,[],0,[],0,[],0
+"Jim Chirico, Arthur Vining Davis Foundations",[],0,[],0,[],0
+Centre for Collaborative Education (CFCE),[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Sea,[Sea],1,[],0,[],0
+"National Science Foundation, Massachusetts Life Sciences Center",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Bernie Moreno",[],0,[],0,[],0
+"Knight Foundation, Office of Texas Governor",[],0,[],0,[],0
+Appalachian Regional Commission,[],0,[],0,[],0
+National Institute on Drug Abuse (NIDA),[],0,[],0,[],0
+"Alter Equity 3P, Femmes Business Angels, Paris Business Angels",[],0,[],0,[],0
+"Massachusetts Clean Energy Center, The Boston Foundation",[],0,[],0,[],0
+Lim Kaling,[],0,[],0,[],0
+John Templeton Foundation,[],0,[],0,[],0
+"Walton Family Foundation, Windgate Foundation",[],0,[],0,[],0
+"Berry Family Foundation, The Schiewetz Foundation",[],0,[],0,[],0
+Salesforce Foundation,[],0,[],0,[],0
+Lilly Endowment,[],0,[],0,[],0
+"Robert J. Carney, Nancy D. Carney",[],0,[],0,[],0
+Enterprise Ireland,[],0,[],0,[],0
+"National Science Foundation, The Champlin Foundation",[],0,[],0,[],0
+Patrick J. McGovern Foundation,[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Andrew W. Mellon Foundation",[],0,[],0,[],0
+The Austin E. Knowlton Foundation,[],0,[],0,[],0
+"National Science Foundation, FuzeHub",[],0,[],0,[],0
+Patrick P. Lee,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+Papa John's,[],0,[],0,[],0
+"FuzeHub, The Arthur M. Blank Family Foundation",[],0,[],0,[],0
+"Bruce N. Barron, The REAM Foundation",[],0,[],0,[],0
+Redevelopment Assistance Capital Program (RACP),[],0,[],0,[],0
+Department of Intellectual and Developmental Disabilities,[],0,[],0,[],0
+"U.S. Department of Education, Massachusetts Life Sciences Center",[],0,[],0,[],0
+Thomas R. Brown Family Foundation,[],0,[],0,[],0
+Cancer Prevention and Research Institute of Texas,[],0,[],0,[],0
+Otto Bremer Trust,[],0,[],0,[],0
+U.S. Department of Labor,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+"Techstars, Techstars Workforce Development Accelerator",[Techstars],1,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"Hollywood Foreign Press Association, Amgen Foundation",[],0,[],0,[],0
+"National Science Foundation, National Security Agency",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, MacKenzie Scott",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Hive Ventures,[],0,[],0,[],0
+"Tim Buchanan, Gail Buchanan",[],0,[],0,[],0
+Google,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, U.S. Department of Health &amp; Human Services",[],0,[],0,[],0
+Edward Avedisian,[],0,[],0,[],0
+"William K. Bowes, Jr. Foundation",[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+Maguire Foundation,[],0,[],0,[],0
+"U.S. Department of Education, All Within My Hands Foundation",[],0,[],0,[],0
+Proparco,[],0,[],0,[],0
+Hearst Foundations,[],0,[],0,[],0
+"Janice Bini, Dean Scarborough",[],0,[],0,[],0
+The Boler Family Foundation,[],0,[],0,[],0
+"U.S. Department of Agriculture, U.S. Department of Justice",[],0,[],0,[],0
+Office of Texas Governor,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Karen Takes, David Takes",[],0,[Takes],1,[],0
+National Science Foundation,[],0,[],0,[],0
+Apple,[Apple],1,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+The Cullen Foundation,[],0,[],0,[],0
+"Wells Fargo &amp; Company, Knight Foundation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Texas Workforce Commision",[],0,[],0,[],0
+MassDevelopment,[],0,[],0,[],0
+"US Department of Energy, Gary Wendt",[],0,[],0,[],0
+"JP Morgan Chase, National Science Foundation",[],0,[],0,[],0
+Diana Davis Spencer Foundation,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+The Champlin Foundation,[],0,[],0,[],0
+ServiceNow,[],0,[],0,[],0
+Disruptive Technologies Innovation Fund,[],0,[],0,[],0
+Nike,[],0,[],0,[],0
+Innovate UK,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Barclays Corporate Banking",[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+California Energy Commission,[],0,[],0,[],0
+James S. McDonnell Foundation,[],0,[],0,[],0
+Health Resources and Services Administration,[],0,[],0,[],0
+Craig Newmark,[],0,[],0,[],0
+European Social Fund (ESF),[],0,[],0,[],0
+"North Carolina Biotechnology Center, Golden Leaf Wealth",[],0,[],0,[],0
+Lilly Endowment,[],0,[],0,[],0
+"U.S. Department of Education, Ventura County Community Foundation",[],0,[],0,[],0
+Jon Stryker,[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+"Arkansas Department of Education, Windgate Foundation, Division of Child Care &amp; Early Childhood Education",[amp],1,[],0,[Early],1
+Internet Initiatives Development Fund (IIDF),[Internet],1,[],0,[],0
+"Texas Workforce Commision, Office of Texas Governor",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+U.S. Department of Labor,[],0,[],0,[],0
+Hearst Foundations,[],0,[],0,[],0
+"National Academies of Sciences, Engineering, and Medicine",[Medicine],1,[],0,[],0
+Arkansas Department of Education,[],0,[],0,[],0
+U.S. Department of Agriculture,[],0,[],0,[],0
+Appalachian Regional Commission,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, NiSource, National Security Agency",[],0,[],0,[],0
+GRAMMY Museum,[],0,[],0,[],0
+Department of Science and Technology,[],0,[],0,[],0
+Clarendon School District Two,[],0,[],0,[],0
+"Richard King Mellon Foundation, Appalachian Regional Commission",[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+"US Department of Energy, Knight Foundation",[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+Sodexo,[Sodexo],1,[],0,[],0
+U.S. Department of Labor,[],0,[],0,[],0
+U.S. Department of Labor,[],0,[],0,[],0
+Greater Kansas City Community Foundation,[],0,[],0,[],0
+"Agency for Healthcare Research and Quality, Presbyterian Health Foundation",[],0,[],0,[],0
+CRE Alliance,[],0,[],0,[],0
+Mississippi Department of Education,[],0,[],0,[],0
+Phillip Hagerman,[],0,[],0,[],0
+Policy project,"[Policy, project]",2,[],0,[],0
+"Small Business Innovation Research, Peg's Foundation, Signet Enterprises",[],0,[],0,[],0
+Coastal Restoration Fund,[],0,[],0,[],0
+Office of Texas Governor,[],0,[],0,[],0
+"Bill Rambo, Trina Rambo",[],0,[],0,[],0
+"John Templeton Foundation, Louisiana Board of Regents, National Endowment for the Humanities",[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+"Richard A. Henson Foundation, Dave Rommel",[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation, Utah State Legislature",[],0,[],0,[],0
+"LuminaFoundation, Kenworth Sales Company",[],0,[],0,[],0
+"Richard J. Hipple, Jean P Hipple",[],0,[],0,[],0
+"U.S. Nuclear Regulatory Commission, The Provident Bank Foundation, The Charlotte W. Newcombe Foundation",[],0,[],0,[],0
+Walmart Foundation,[],0,[],0,[],0
+Interledger,[],0,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+Robert W. Woodruff Foundation,[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+The Howard Hughes Medical Institute,[],0,[],0,[],0
+National Institute of Health Research,[],0,[],0,[],0
+Maven Capital Partners,[],0,[],0,[],0
+Patrick J. McGovern Foundation,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+"Gayle and Tom Benson Charitable Foundation, National Endowment for the Humanities",[],0,[],0,[],0
+Advantage Capital,[],0,[],0,[],0
+"Texas Workforce Commision, Office of Texas Governor",[],0,[],0,[],0
+"Satish Gupta, Yasmin Gupta",[],0,[],0,[],0
+The Howard Hughes Medical Institute,[],0,[],0,[],0
+New Economy Initiative,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+U.S. Environmental Protection Agency,[],0,[],0,[],0
+Bank of America,[],0,[],0,[],0
+"Baconsult, Impact Ventures Hungary",[Baconsult],1,[],0,[],0
+Health Resources and Services Administration,[],0,[],0,[],0
+"The Duke Energy Foundation, Avis Foundation",[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center, Maureen Wilkens, Deval Patrick, Therese Murray",[],0,[],0,[],0
+"National Cancer Institute, National Institute on Minority Health and Health Disparities",[],0,[],0,[],0
+US Department of Energy,[],0,[],0,[],0
+"National Institute of Allergy and Infectious Diseases, National Cancer Institute SBIR Development Center",[],0,[],0,[Infectious],1
+National Institutes of Health,[],0,[],0,[],0
+Disruptive Technologies Innovation Fund,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+Fonds d'accélération des collaborations en santé (FACS),"[Fonds, collaborations, santé]",3,[],0,[],0
+U.S. Environmental Protection Agency,[],0,[],0,[],0
+HSBC Equipment Finance UK Ltd,[Ltd],1,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+GRAMMY Museum,[],0,[],0,[],0
+"The Dow Chemical Company, Dow Corning",[],0,[],0,[],0
+Berry Family Foundation,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+The MiSTEM Advisory Council,[],0,[],0,[],0
+"Rob Schimek, Janet Schimek",[],0,[],0,[],0
+LVL1 Group,[],0,[],0,[],0
+Ziegler,[],0,[],0,[],0
+Tertiary Education Trust Fund,[],0,[],0,[],0
+Roland Parrish,[],0,[],0,[],0
+U.S. Department of Labor,[],0,[],0,[],0
+"James S. McDonnell Foundation, Internal Audit Foundation",[],0,[],0,[],0
+Andrew W. Mellon Foundation,[],0,[],0,[],0
+Windgate Foundation,[],0,[],0,[],0
+"American Electric Power, Washington Regional Medical Center",[],0,[],0,[],0
+Ratcliffe Foundation,[],0,[],0,[],0
+Washington Community and Technical Colleges,[],0,[],0,[],0
+Par Equity,[],0,[],0,[],0
+VELA Education Fund,[],0,[VELA],1,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Unlockd.me,[],0,[],0,[],0
+United States Navy,[],0,[],0,[],0
+National Cancer Institute,[],0,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center",[],0,[],0,[],0
+Amgen,[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+"Bristol Myers Squibb, William R. Kenan, Jr. Charitable Trust",[],0,[],0,[],0
+National Institute of Allergy and Infectious Diseases,[],0,[],0,[Infectious],1
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+Lankan Angel Network (LAN),[],0,[],0,[],0
+Robert David Lion Gardiner Foundation,[],0,[],0,[],0
+Kevin Knox,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Dongguan Kingsun Optoelectronic,[],0,[],0,[],0
+The Young Entrepreneurs Academy,[],0,[],0,[],0
+U.S. Environmental Protection Agency,[],0,[],0,[],0
+FLETCHER JONES FOUNDATION,[],0,[],0,[],0
+Bennie Thompson,[],0,[],0,[],0
+Zane and Frances Todd Trust,[],0,[],0,[],0
+Conrad N. Hilton Foundation,[],0,[],0,[],0
+Office of Texas Governor,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+U.S. Department of Commerce,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+mikrotik,[],0,[],0,[],0
+"National Science Foundation, Massachusetts Life Sciences Center, U.S. Department of Health &amp; Human Services",[],0,[],0,[],0
+U.S. Department of Labor,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Northeastern University Center for STEM Education,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+Uptake Technologies,[],0,[],0,[],0
+Nebraska Environmental Trust (NET),[],0,[],0,[],0
+Andrew W. Mellon Foundation,[],0,[],0,[],0
+"National Institutes of Health, Thurgood Marshall College Fund",[],0,[],0,[],0
+"Partners Group, Gaja Capital, Avendus Capital",[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Deval Patrick",[],0,[],0,[],0
+Office of Texas Governor,[],0,[],0,[],0
+"U.S. Environmental Protection Agency, Air Force Research Laboratory, CNM Ingenuity",[],0,[],0,[],0
+"State of Arkansas, Blue &amp; You Foundation",[State],1,[],0,[],0
+Villgro Kenya,[],0,[],0,[],0
+Andrew W. Mellon Foundation,[],0,[],0,[],0
+LuminaFoundation,[LuminaFoundation],1,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+"Imperious Group VC, Happy Farm Business Accelerator, Altera Capital Group, Eugene Medvednikov, Viktor Belov",[],0,[],0,[],0
+"U.S. Department of Labor, U.S. Department of Commerce",[],0,[],0,[],0
+"VentureSouth, Capital A Partners, Upstate Carolina Angel Network",[],0,[],0,[],0
+U.S. Environmental Protection Agency,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"U.S. Department of Education, Massachusetts Life Sciences Center",[],0,[],0,[],0
+Barbara Weidert,[],0,[],0,[],0
+The California Endowment,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+North Dakota Department of Agriculture,[],0,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+NASA,[],0,[],0,[],0
+Appalachian Regional Commission,[],0,[],0,[],0
+U.S. Department of Housing and Urban Development,[],0,[],0,[],0
+Google.org,[],0,[],0,[],0
+The Duke Energy Foundation,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+Innovate UK,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+"The Norwegian Agency for Development Cooperation (NORAD), Laboremus, NGO Fontes Foundation",[],0,[],0,[],0
+Arthur Vining Davis Foundations,[],0,[],0,[],0
+"Wolfspeed, Air Force Research Laboratory, CNM Ingenuity",[Wolfspeed],1,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Andrew W. Mellon Foundation,[],0,[],0,[],0
+Corning,[],0,[Corning],1,[],0
+"BayPine, Two Sigma Impact",[],0,[],0,[],0
+FuzeHub,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+Appalachian Regional Commission,[],0,[],0,[],0
+Bloomberg Philanthropies,[Philanthropies],1,[],0,[],0
+Sobrato Family Foundation,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+New York State,[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Commonwealth of Massachusetts",[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+"University of Maryland, Capital One Ventures",[],0,[],0,[],0
+Davee Foundation,[],0,[],0,[],0
+Lilly Endowment,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+C.P. Baker &amp; Company,[Company],1,[],0,[],0
+PetSmart Charities,[Charities],1,[],0,[],0
+Massachusetts Clean Energy Center,[],0,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+Federal Emergency Management Agency,[],0,[],0,[],0
+State of Arkansas,[State],1,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+U.S. Department of Agriculture,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+Horizon 2020,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Lilly Endowment,[],0,[],0,[],0
+"Hagerty Education Program, van Beuren Charitable Foundation",[],0,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+StageDotO,[StageDotO],1,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+U.S. Army Corps of Engineers,[],0,[],0,[],0
+AWS Foundation,[],0,[],0,[],0
+Jane Walentas,[],0,[],0,[],0
+LuminaFoundation,[LuminaFoundation],1,[],0,[],0
+U.S. Department of Agriculture,[],0,[],0,[],0
+"Gordon and Betty Moore Foundation, John Templeton Foundation",[],0,[],0,[],0
+The MiSTEM Advisory Council,[],0,[],0,[],0
+Massachusetts Clean Energy Center,[],0,[],0,[],0
+"Hollywood Foreign Press Association, Greater Los Angeles New Car Dealers Association",[],0,[],0,[],0
+California Virtual Campus,[],0,[],0,[],0
+California Virtual Campus,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+John Stauffer Charitable Trust,[],0,[],0,[],0
+Jobs 4 NSW,[Jobs],1,[],0,[],0
+Massachusetts Clean Energy Center,[],0,[],0,[],0
+State of Arkansas,[State],1,[],0,[],0
+Bloomberg Philanthropies,[Philanthropies],1,[],0,[],0
+"Hillcrest Foundation, Bank of America Charitable Foundation",[],0,[],0,[],0
+California Community Colleges Chancellor's Office,[Office],1,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+FuzeHub,[],0,[],0,[],0
+The MiSTEM Advisory Council,[],0,[],0,[],0
+Ohio Department of Education,[],0,[],0,[],0
+Maine Technology Institute,[],0,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+JC Kellogg Foundation,[],0,[],0,[],0
+Daniels Fund,[],0,[],0,[],0
+National Endowment for the Humanities,[],0,[],0,[],0
+"Windgate Foundation, Yamaha Outdoor Access Initiative, Dwight Curry",[],0,[],0,[],0
+CARB-X,[X],1,[],0,[],0
+Algorand Foundation,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Rhineland-Palatinate Investment,[],0,[],0,[],0
+Medical Research Future Fund (MRFF),[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+Village Capital,[Village],1,[],0,[],0
+Ron Antinori,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+"U.S. Department of Education, Appalachian Regional Commission",[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+PSP Investments,[],0,[],0,[],0
+Rural Development Partners,[],0,[],0,[],0
+Keybank,[],0,[],0,[],0
+Nesta,[],0,[],0,[],0
+Lilly Endowment,[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+Texas Workforce Commision,[],0,[],0,[],0
+Timing Group,[],0,[Timing],1,[],0
+"The Provident Bank Foundation, Sordoni Construction",[],0,[],0,[],0
+Harold Alfond Foundation,[],0,[],0,[],0
+National Institutes of Health,[],0,[],0,[],0
+SECU,[],0,[],0,[],0
+"Bill Conway, Joanne Conway",[],0,[],0,[],0
+U.S. Environmental Protection Agency,[],0,[],0,[],0
+State of Arkansas,[State],1,[],0,[],0
+Australian Ethical Investment,[],0,[],0,[],0
+AWS Foundation,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center",[],0,[],0,[],0
+Strada Education Network,[],0,[],0,[],0
+Marion Burton,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+"National Science Foundation, Connecticut Innovations, University of Connecticut, CTNext",[],0,[],0,[],0
+"Kresge Foundation, Ally Charitable Foundation",[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center",[],0,[],0,[],0
+Massachusetts Technology Collaborative,[],0,[],0,[],0
+Appalachian Regional Commission,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+"Wei Guo, University Ventures",[],0,[],0,[],0
+National Science Foundation,[],0,[],0,[],0
+"US Department of Commerce, Economic Development Administation",[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+Wabash Heartland Innovation Network,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+TA Associates,[],0,[],0,[],0
+Maryland State Department of Education,[],0,[],0,[],0
+"Norwest Equity Partners (NEP), Norwest Mezzanine Partners",[],0,[],0,[Norwest],1
+BancroftX,[],0,[BancroftX],1,[],0
+Kauffman Foundation,[],0,[],0,[],0
+Massachusetts Clean Energy Center,[],0,[],0,[],0
+National Cancer Institute,[],0,[],0,[],0
+NC IDEA,[],0,[],0,[],0
+Wells Fargo &amp; Company,[Company],1,[],0,[],0
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center",[],0,[],0,[],0
+U.S. Department of Commerce,[],0,[],0,[],0
+State of Arkansas,[State],1,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+NYSERDA,[NYSERDA],1,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+Nesta,[],0,[],0,[],0
+Start-Up Chile,[],0,[Start],1,[],0
+"Souter Investments, Averna Capital",[],0,[],0,[],0
+Bristol County Savings Bank,[],0,[],0,[],0
+"BlueBox Ventures, Vander Capital Partners",[],0,[],0,[],0
+Massachusetts Clean Energy Center,[],0,[],0,[],0
+Campus Consortium,[],0,[],0,[],0
+National College Access Network,[],0,[],0,[],0
+TechAccel,[TechAccel],1,[],0,[],0
+North Carolina Biotechnology Center,[],0,[],0,[],0
+U.S. Department of Health &amp; Human Services,[],0,[],0,[],0
+Joplin Regional Community Foundation,[],0,[],0,[],0
+Algorand Foundation,[],0,[],0,[],0
+Maine Technology Institute,[],0,[],0,[],0
+"National Institutes of Health, National Institute of Allergy and Infectious Diseases",[],0,[],0,[Infectious],1
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center",[],0,[],0,[],0
+"National Science Foundation, KAI Hawaii",[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+Massachusetts Life Sciences Center,[],0,[],0,[],0
+NYSERDA,[NYSERDA],1,[],0,[],0
+U.S. Department of Education,[],0,[],0,[],0
+Nesta,[],0,[],0,[],0
+"Massachusetts Life Sciences Center, Massachusetts Clean Energy Center",[],0,[],0,[],0
+Algorand Foundation,[],0,[],0,[],0

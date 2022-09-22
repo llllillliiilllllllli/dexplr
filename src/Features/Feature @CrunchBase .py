@@ -132,7 +132,7 @@ class CrunchBaseAcquisitionData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
 
@@ -171,6 +171,51 @@ class CrunchBaseAcquisitionData:
 
         return None
 
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None
+
     def describe() -> None:
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
         """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -181,7 +226,7 @@ class CrunchBaseAcquisitionData:
         df = pd.DataFrame()
         try: 
             if ".csv" in os.path.basename(i_fil):
-                df = pd.read_csv(i_fil, parse_dates=True, date_parser=Converter.convert_date)
+                df = pd.read_csv(i_fil, parse_dates=True)
 
             if ".json" in os.path.basename(i_fil):
                 df = pd.read_json(i_fil, parse_dates=True)
@@ -209,14 +254,17 @@ class CrunchBaseAcquisitionData:
         for label, series in df.iteritems():
             try:  
                 check_value = series.iloc[series.first_valid_index()]
-                if re.search(r"[\d]+[-][\d][\d][-][\d][\d]", check_value) != None:          
-                    df[str(label)] = pd.to_datetime(df[label])
-                if re.search(r"[$][\d,.]+", check_value) != None:
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
                     df[str(label)] = df[str(label)]\
                         .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
                         .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
-                        .apply(lambda x: x.replace(".", "").strip() if type(x)==str else np.NaN)
-                    df[str(label)] = pd.to_numeric(df[str(label)])
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)  
             except:
                 continue
         
@@ -287,7 +335,7 @@ class CrunchBaseCompanyData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
 
@@ -389,12 +437,60 @@ class CrunchBaseCompanyData:
         df["Funding Status"] = df["Funding Status"]\
             .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
 
+        df["Acquisition Terms"] = df["Acquisition Terms"]\
+            .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
+
         ### 5
         o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
         df.to_csv(o_fil, index=False, encoding="utf-8-sig")
 
         timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
         os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
+
+        return None
+
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
 
         return None
 
@@ -415,7 +511,7 @@ class CrunchBaseCompanyData:
         df = pd.DataFrame()
         try: 
             if ".csv" in os.path.basename(i_fil):
-                df = pd.read_csv(i_fil, parse_dates=True, date_parser=Converter.convert_date)
+                df = pd.read_csv(i_fil, parse_dates=True)
 
             if ".json" in os.path.basename(i_fil):
                 df = pd.read_json(i_fil, parse_dates=True)
@@ -444,8 +540,17 @@ class CrunchBaseCompanyData:
 
             try:  
                 check_value = series.iloc[series.first_valid_index()]
-                if re.search(r"[\d]+[-][\d][\d][-][\d][\d]", check_value) != None:          
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
                     df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)     
             except:
                 continue
 
@@ -506,30 +611,34 @@ class CrunchBaseContactData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
 
         df = df.replace(r"—", np.NaN)     
         df = df.convert_dtypes()
 
-        df["Number of Contact's Emails"] = pd.to_numeric(df["Number of Contact's Emails"])        
-        df["Number of Contact's Phones"] = pd.to_numeric(df["Number of Contact's Phones"])
+        df["Number of Contact Emails"] = pd.to_numeric(df["Number of Contact Emails"])        
+        df["Number of Contact Phones"] = pd.to_numeric(df["Number of Contact Phones"])
 
         df["Organization Last Funding Date"] = df["Organization Last Funding Date"]\
             .apply(Converter.convert_date)
 
         df["Organization Last Funding Amount"] = df["Organization Last Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)                 
 
         df["Organization Total Funding Amount"] = df["Organization Total Funding Amount"]\
-            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)
-            
-        df["Organization Last Funding Amount"] = df["Organization Last Funding Amount"]\
-            .apply(convert_currency)            
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
-        df["Organization Total Funding Amount"] = df["Organization Total Funding Amount"]\
-            .apply(convert_currency)
+        df["Job Departments"] = df["Job Departments"]\
+            .apply(lambda x: x.replace("&nbsp;", " ") if type(x) == str else np.NaN)
+
+        df["Job Departments"] = df["Job Departments"]\
+            .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
 
         o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"
         df.to_csv(o_fil, index=False, encoding="utf-8-sig")
@@ -539,7 +648,147 @@ class CrunchBaseContactData:
 
         return None  
 
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None
+
     def desribe() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        Describe numerical and categorical data for selected fields 
+        >>> param: str  # path to file
+        >>> funct: 1    # read data from file into data frame
+        >>> funct: 2    # inquire user input for data fields
+        >>> funct: 3    # convert data fields to correct types
+        >>> funct: 4    # show general information about data
+        >>> funct: 5    # describe data fields by their types
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+
+        df = df[fields]
+
+        ### 3
+        for label, series in df.iteritems():
+
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)     
+            except:
+                continue
+
+        df = df.convert_dtypes()
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
+        print("=" * os.get_terminal_size().columns)
+
+        df.info(verbose=True)
+        print(end="\n\n")
+
+        ### 5
+        print("\nDETAILED DATA TABLE:")
+        print("=" * os.get_terminal_size().columns)
+        print(df, end="\n\n")
+
+        ### 6
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = Analyzer.describe_numbers(series)
+                print(f"{numerical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+            if Validator.is_text(series) == True:
+                categorical_df = Analyzer.describe_text(series)
+                print(f"{categorical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
         return None  
 
     def visualize() -> None:
@@ -562,9 +811,12 @@ class CrunchBaseEventData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
+
+        df = df.replace(r"—", np.NaN)     
+        df = df.convert_dtypes()
 
         df["Start Date"] = df["Start Date"]\
             .apply(Converter.convert_date)
@@ -579,8 +831,148 @@ class CrunchBaseEventData:
 
         return None  
 
-    def describe() -> None:
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
         return None
+
+    def desribe() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        Describe numerical and categorical data for selected fields 
+        >>> param: str  # path to file
+        >>> funct: 1    # read data from file into data frame
+        >>> funct: 2    # inquire user input for data fields
+        >>> funct: 3    # convert data fields to correct types
+        >>> funct: 4    # show general information about data
+        >>> funct: 5    # describe data fields by their types
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+
+        df = df[fields]
+
+        ### 3
+        for label, series in df.iteritems():
+
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)     
+            except:
+                continue
+
+        df = df.convert_dtypes()
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
+        print("=" * os.get_terminal_size().columns)
+
+        df.info(verbose=True)
+        print(end="\n\n")
+
+        ### 5
+        print("\nDETAILED DATA TABLE:")
+        print("=" * os.get_terminal_size().columns)
+        print(df, end="\n\n")
+
+        ### 6
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = Analyzer.describe_numbers(series)
+                print(f"{numerical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+            if Validator.is_text(series) == True:
+                categorical_df = Analyzer.describe_text(series)
+                print(f"{categorical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None  
 
     def visualize() -> None:
         return None
@@ -602,7 +994,7 @@ class CrunchBaseFundingData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
 
@@ -621,9 +1013,20 @@ class CrunchBaseFundingData:
         df["Total Funding Amount"] = df["Total Funding Amount"]\
             .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN) 
 
-        df["Money Raised"] = df["Money Raised"].apply(convert_currency)
-        df["Pre-Money Valuation"] = df["Pre-Money Valuation"].apply(convert_currency)
-        df["Total Funding Amount"] = df["Total Funding Amount"].apply(convert_currency)
+        df["Money Raised"] = df["Money Raised"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
+        
+        df["Pre-Money Valuation"] = df["Pre-Money Valuation"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
+
+        df["Total Funding Amount"] = df["Total Funding Amount"]\
+            .apply(lambda x: x.replace(",", "") if type(x) == str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)
 
         df["Announced Date"] = df["Announced Date"].apply(Converter.convert_date)
 
@@ -635,8 +1038,148 @@ class CrunchBaseFundingData:
 
         return None 
 
-    def describe() -> None:
-        pass
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None
+
+    def desribe() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        Describe numerical and categorical data for selected fields 
+        >>> param: str  # path to file
+        >>> funct: 1    # read data from file into data frame
+        >>> funct: 2    # inquire user input for data fields
+        >>> funct: 3    # convert data fields to correct types
+        >>> funct: 4    # show general information about data
+        >>> funct: 5    # describe data fields by their types
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+
+        df = df[fields]
+
+        ### 3
+        for label, series in df.iteritems():
+
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)     
+            except:
+                continue
+
+        df = df.convert_dtypes()
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
+        print("=" * os.get_terminal_size().columns)
+
+        df.info(verbose=True)
+        print(end="\n\n")
+
+        ### 5
+        print("\nDETAILED DATA TABLE:")
+        print("=" * os.get_terminal_size().columns)
+        print(df, end="\n\n")
+
+        ### 6
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = Analyzer.describe_numbers(series)
+                print(f"{numerical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+            if Validator.is_text(series) == True:
+                categorical_df = Analyzer.describe_text(series)
+                print(f"{categorical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None  
 
     def visualize() -> None:
         pass
@@ -658,7 +1201,7 @@ class CrunchBaseHubData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
 
@@ -734,9 +1277,149 @@ class CrunchBaseHubData:
         os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}"))
 
         return None 
-    
-    def describe() -> None:
-        pass 
+
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None
+
+    def desribe() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        Describe numerical and categorical data for selected fields 
+        >>> param: str  # path to file
+        >>> funct: 1    # read data from file into data frame
+        >>> funct: 2    # inquire user input for data fields
+        >>> funct: 3    # convert data fields to correct types
+        >>> funct: 4    # show general information about data
+        >>> funct: 5    # describe data fields by their types
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+
+        df = df[fields]
+
+        ### 3
+        for label, series in df.iteritems():
+
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)     
+            except:
+                continue
+
+        df = df.convert_dtypes()
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
+        print("=" * os.get_terminal_size().columns)
+
+        df.info(verbose=True)
+        print(end="\n\n")
+
+        ### 5
+        print("\nDETAILED DATA TABLE:")
+        print("=" * os.get_terminal_size().columns)
+        print(df, end="\n\n")
+
+        ### 6
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = Analyzer.describe_numbers(series)
+                print(f"{numerical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+            if Validator.is_text(series) == True:
+                categorical_df = Analyzer.describe_text(series)
+                print(f"{categorical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None  
 
     def visualize() -> None:
         pass 
@@ -758,7 +1441,7 @@ class CrunchBaseInvestorData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
 
@@ -801,6 +1484,16 @@ class CrunchBaseInvestorData:
             .apply(convert_currency)\
             .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)       
 
+        df["Monthly Raised IPO"] = df["Monthly Raised IPO"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)  
+
+        df["Valuation at IPO"] = df["Valuation at IPO"]\
+            .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+            .apply(convert_currency)\
+            .apply(lambda x: "$" + "{0:,}".format(x) if np.isnan(x) == False else np.NaN)   
+
         df["Funding Status"] = df["Funding Status"]\
             .apply(lambda x: x.replace("&amp;", "&") if type(x) == str else np.NaN)
 
@@ -812,8 +1505,148 @@ class CrunchBaseInvestorData:
 
         return None 
 
-    def describe() -> None:
-        pass 
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None
+
+    def desribe() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        Describe numerical and categorical data for selected fields 
+        >>> param: str  # path to file
+        >>> funct: 1    # read data from file into data frame
+        >>> funct: 2    # inquire user input for data fields
+        >>> funct: 3    # convert data fields to correct types
+        >>> funct: 4    # show general information about data
+        >>> funct: 5    # describe data fields by their types
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+
+        df = df[fields]
+
+        ### 3
+        for label, series in df.iteritems():
+
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)     
+            except:
+                continue
+
+        df = df.convert_dtypes()
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
+        print("=" * os.get_terminal_size().columns)
+
+        df.info(verbose=True)
+        print(end="\n\n")
+
+        ### 5
+        print("\nDETAILED DATA TABLE:")
+        print("=" * os.get_terminal_size().columns)
+        print(df, end="\n\n")
+
+        ### 6
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = Analyzer.describe_numbers(series)
+                print(f"{numerical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+            if Validator.is_text(series) == True:
+                categorical_df = Analyzer.describe_text(series)
+                print(f"{categorical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None  
 
     def visualize() -> None:
         pass 
@@ -835,7 +1668,7 @@ class CrunchBasePeopleData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
 
@@ -850,8 +1683,148 @@ class CrunchBasePeopleData:
 
         return None 
 
-    def describe() -> None:
-        pass 
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None
+
+    def desribe() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        Describe numerical and categorical data for selected fields 
+        >>> param: str  # path to file
+        >>> funct: 1    # read data from file into data frame
+        >>> funct: 2    # inquire user input for data fields
+        >>> funct: 3    # convert data fields to correct types
+        >>> funct: 4    # show general information about data
+        >>> funct: 5    # describe data fields by their types
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+
+        df = df[fields]
+
+        ### 3
+        for label, series in df.iteritems():
+
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)     
+            except:
+                continue
+
+        df = df.convert_dtypes()
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
+        print("=" * os.get_terminal_size().columns)
+
+        df.info(verbose=True)
+        print(end="\n\n")
+
+        ### 5
+        print("\nDETAILED DATA TABLE:")
+        print("=" * os.get_terminal_size().columns)
+        print(df, end="\n\n")
+
+        ### 6
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = Analyzer.describe_numbers(series)
+                print(f"{numerical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+            if Validator.is_text(series) == True:
+                categorical_df = Analyzer.describe_text(series)
+                print(f"{categorical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None  
 
     def visualize() -> None:
         pass
@@ -883,7 +1856,7 @@ class CrunchBaseSchoolData:
         o_fil = input().replace(" ", "")  
 
         try:
-            df = pd.read_csv(i_fil)
+            df = pd.read_csv(i_fil, encoding="utf-8-sig")
         except:
             raise Exception("cannot read data from file")
 
@@ -994,8 +1967,162 @@ class CrunchBaseSchoolData:
 
         return None
 
-    def describe() -> None:
-        pass
+    def select() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+        o_fil = input("Enter output file name: ").replace(" ", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+        
+        ### 3
+        df = df[fields]
+
+        ### 4
+        o_fil = f"{o_fol}\\Dataset @{o_fil} #-------------- .csv"                
+        df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+        timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+        os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None
+
+    def desribe() -> None:
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        Describe numerical and categorical data for selected fields 
+        >>> param: str  # path to file
+        >>> funct: 1    # read data from file into data frame
+        >>> funct: 2    # inquire user input for data fields
+        >>> funct: 3    # convert data fields to correct types
+        >>> funct: 4    # show general information about data
+        >>> funct: 5    # describe data fields by their types
+        """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+        ### 1
+        i_fil = input("Enter input file path: ").replace("\"", "")
+        o_fol = input("Enter output folder path: ").replace("\"", "")
+
+        df = pd.DataFrame()
+        try: 
+            if ".csv" in os.path.basename(i_fil):
+                df = pd.read_csv(i_fil, parse_dates=True)
+
+            if ".json" in os.path.basename(i_fil):
+                df = pd.read_json(i_fil, parse_dates=True)
+
+            if ".xml" in os.path.basename(i_fil):
+                df = pd.read_xml(i_fil, parse_dates=True)
+
+            if ".html" in os.path.basename(i_fil): 
+                df = pd.read_html(i_fil, parse_dates=True)
+
+        except: 
+            raise Exception(f"cannot read file {i_fil}")
+
+        ### 2
+        fields = input("Enter data fields: ")
+        fields = [field.strip() for field in fields.split(",")]
+
+        for field in fields:
+            if field not in df.columns:
+                raise Exception(f"field not found {field}")
+
+        df = df[fields]
+
+        ### 3
+        for label, series in df.iteritems():
+
+            try:  
+                check_value = series.iloc[series.first_valid_index()]
+                if re.search(r"^[\d]+[-][\d][\d][-][\d][\d]$", check_value) != None:          
+                    df[label] = pd.to_datetime(df[label])
+                if re.search(r"^[$][\d,.]+$", check_value) != None:
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace("$", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)
+                if re.search(r"^[\d,.]+$", check_value) != None:          
+                    df[str(label)] = df[str(label)]\
+                        .apply(lambda x: x.replace(",", "").strip() if type(x)==str else np.NaN)\
+                        .apply(lambda x: float(x) if type(x)==str else np.NaN)     
+            except:
+                continue
+
+        df = df.convert_dtypes()
+
+        ### 4
+        print("\nGENERAL INFORMATION:")
+        print("=" * os.get_terminal_size().columns)
+
+        df.info(verbose=True)
+        print(end="\n\n")
+
+        ### 5
+        print("\nDETAILED DATA TABLE:")
+        print("=" * os.get_terminal_size().columns)
+        print(df, end="\n\n")
+
+        ### 6
+        for label, series in df.iteritems():
+            if Validator.is_number(series) == True:
+                numerical_df = Analyzer.describe_numbers(series)
+                print(f"{numerical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"
+                numerical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+            if Validator.is_text(series) == True:
+                categorical_df = Analyzer.describe_text(series)
+                print(f"{categorical_df}", end="\n\n")
+
+                o_fil = f"{o_fol}\\Dataset @{str(label).replace(' ', '')}Analysis #-------------- .csv"                
+                categorical_df.to_csv(o_fil, index=False, encoding="utf-8-sig")
+
+                timestamp = datetime.fromtimestamp(os.path.getctime(o_fil)).strftime("%Y%m%d%H%M%S")      
+                os.rename(o_fil, o_fil.replace("#--------------", f"#{timestamp}")) 
+
+        return None  
 
     def visualize() -> None:
         pass 
+
+class CrunchBaseDatabase:
+
+    CREATE_SCHEMA_QUERY = """..."""
+    CREATE_SCHEMA_QUERY = """..."""
+    CREATE_SCHEMA_QUERY = """..."""
+    CREATE_SCHEMA_QUERY = """..."""
+    CREATE_SCHEMA_QUERY = """..."""
+    
+    CREATE_SCHEMA_QUERY = """..."""
+    CREATE_SCHEMA_QUERY = """..."""
+    CREATE_SCHEMA_QUERY = """..."""
+    CREATE_SCHEMA_QUERY = """..."""
+    CREATE_SCHEMA_QUERY = """..."""

@@ -1,0 +1,1021 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+—,—,1,475,1,—,PUNCT,:,ROOT,—,0.0
+"Detroit, Michigan, United States",Detroit,4,1,7,Detroit,PROPN,NNP,ROOT,Xxxxx,0.0
+"Detroit, Michigan, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Detroit, Michigan, United States",Michigan,4,1,8,Michigan,PROPN,NNP,conj,Xxxxx,0.0
+"Detroit, Michigan, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Detroit, Michigan, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"San Diego, California, United States",San,5,6,3,San,PROPN,NNP,compound,Xxx,0.0
+"San Diego, California, United States",Diego,5,6,5,Diego,PROPN,NNP,ROOT,Xxxxx,0.0
+"San Diego, California, United States",",",5,6,1,",",PUNCT,",",punct,",",0.0
+"San Diego, California, United States",California,5,6,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"San Diego, California, United States",United,5,6,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"San Diego, California, United States",States,5,6,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Labin, Istarska, Croatia",Labin,3,1,5,Labin,PROPN,NNP,ROOT,Xxxxx,0.0
+"Labin, Istarska, Croatia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Labin, Istarska, Croatia",Istarska,3,1,8,Istarska,PROPN,NNP,conj,Xxxxx,0.0
+"Labin, Istarska, Croatia",Croatia,3,1,7,Croatia,PROPN,NNP,appos,Xxxxx,0.0
+"Miami, Florida, United States",Miami,4,4,5,Miami,PROPN,NNP,ROOT,Xxxxx,0.0
+"Miami, Florida, United States",",",4,4,1,",",PUNCT,",",punct,",",0.0
+"Miami, Florida, United States",Florida,4,4,7,Florida,PROPN,NNP,appos,Xxxxx,0.0
+"Miami, Florida, United States",United,4,4,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Miami, Florida, United States",States,4,4,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Dubai, Dubai, United Arab Emirates",Dubai,5,27,5,Dubai,PROPN,NNP,ROOT,Xxxxx,0.0
+"Dubai, Dubai, United Arab Emirates",",",5,27,1,",",PUNCT,",",punct,",",0.0
+"Dubai, Dubai, United Arab Emirates",Dubai,5,27,5,Dubai,PROPN,NNP,appos,Xxxxx,0.0
+"Dubai, Dubai, United Arab Emirates",United,5,27,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Dubai, Dubai, United Arab Emirates",Arab,5,27,4,Arab,PROPN,NNP,compound,Xxxx,0.0
+"Dubai, Dubai, United Arab Emirates",Emirates,5,27,8,Emirates,PROPN,NNPS,appos,Xxxxx,0.0
+"Singapore, Central Region, Singapore",Singapore,4,7,9,Singapore,PROPN,NNP,ROOT,Xxxxx,0.0
+"Singapore, Central Region, Singapore",",",4,7,1,",",PUNCT,",",punct,",",0.0
+"Singapore, Central Region, Singapore",Central,4,7,7,Central,PROPN,NNP,compound,Xxxxx,0.0
+"Singapore, Central Region, Singapore",Region,4,7,6,Region,PROPN,NNP,conj,Xxxxx,0.0
+"Singapore, Central Region, Singapore",Singapore,4,7,9,Singapore,PROPN,NNP,appos,Xxxxx,0.0
+"Bridgetown, Saint Michael, Barbados",Bridgetown,4,1,10,Bridgetown,PROPN,NNP,ROOT,Xxxxx,0.0
+"Bridgetown, Saint Michael, Barbados",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Bridgetown, Saint Michael, Barbados",Saint,4,1,5,Saint,PROPN,NNP,compound,Xxxxx,0.0
+"Bridgetown, Saint Michael, Barbados",Michael,4,1,7,Michael,PROPN,NNP,appos,Xxxxx,0.0
+"Bridgetown, Saint Michael, Barbados",Barbados,4,1,8,Barbados,PROPN,NNP,conj,Xxxxx,0.0
+"Las Vegas, Nevada, United States",Las,5,28,3,Las,PROPN,NNP,compound,Xxx,0.0
+"Las Vegas, Nevada, United States",Vegas,5,28,5,Vegas,PROPN,NNP,ROOT,Xxxxx,0.0
+"Las Vegas, Nevada, United States",",",5,28,1,",",PUNCT,",",punct,",",0.0
+"Las Vegas, Nevada, United States",Nevada,5,28,6,Nevada,PROPN,NNP,appos,Xxxxx,0.0
+"Las Vegas, Nevada, United States",United,5,28,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Las Vegas, Nevada, United States",States,5,28,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Zadar, Zadarska, Croatia",Zadar,3,1,5,Zadar,PROPN,NNP,ROOT,Xxxxx,0.0
+"Zadar, Zadarska, Croatia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Zadar, Zadarska, Croatia",Zadarska,3,1,8,Zadarska,PROPN,NNP,appos,Xxxxx,0.0
+"Zadar, Zadarska, Croatia",Croatia,3,1,7,Croatia,PROPN,NNP,appos,Xxxxx,0.0
+"London, England, United Kingdom",London,4,28,6,London,PROPN,NNP,ROOT,Xxxxx,0.0
+"London, England, United Kingdom",",",4,28,1,",",PUNCT,",",punct,",",0.0
+"London, England, United Kingdom",England,4,28,7,England,PROPN,NNP,conj,Xxxxx,0.0
+"London, England, United Kingdom",United,4,28,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"London, England, United Kingdom",Kingdom,4,28,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"Washington, District of Columbia, United States",Washington,6,9,10,Washington,PROPN,NNP,ROOT,Xxxxx,0.0
+"Washington, District of Columbia, United States",",",6,9,1,",",PUNCT,",",punct,",",0.0
+"Washington, District of Columbia, United States",District,6,9,8,District,PROPN,NNP,appos,Xxxxx,0.0
+"Washington, District of Columbia, United States",of,6,9,2,of,ADP,IN,prep,xx,0.0
+"Washington, District of Columbia, United States",Columbia,6,9,8,Columbia,PROPN,NNP,pobj,Xxxxx,0.0
+"Washington, District of Columbia, United States",United,6,9,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Washington, District of Columbia, United States",States,6,9,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Mumbai, Maharashtra, India",Mumbai,3,2,6,mumbai,NOUN,NN,ROOT,Xxxxx,0.0
+"Mumbai, Maharashtra, India",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Mumbai, Maharashtra, India",Maharashtra,3,2,11,Maharashtra,PROPN,NNP,conj,Xxxxx,0.0
+"Mumbai, Maharashtra, India",India,3,2,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Astana, Astana, Kazakhstan",Astana,3,1,6,Astana,PROPN,NNP,ROOT,Xxxxx,0.0
+"Astana, Astana, Kazakhstan",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Astana, Astana, Kazakhstan",Astana,3,1,6,Astana,PROPN,NNP,appos,Xxxxx,0.0
+"Astana, Astana, Kazakhstan",Kazakhstan,3,1,10,Kazakhstan,PROPN,NNP,conj,Xxxxx,0.0
+"Los Angeles, California, United States",Los,5,11,3,Los,PROPN,NNP,compound,Xxx,0.0
+"Los Angeles, California, United States",Angeles,5,11,7,Angeles,PROPN,NNP,ROOT,Xxxxx,0.0
+"Los Angeles, California, United States",",",5,11,1,",",PUNCT,",",punct,",",0.0
+"Los Angeles, California, United States",California,5,11,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"Los Angeles, California, United States",United,5,11,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Los Angeles, California, United States",States,5,11,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Salt Lake City, Utah, United States",Salt,6,1,4,Salt,PROPN,NNP,compound,Xxxx,0.0
+"Salt Lake City, Utah, United States",Lake,6,1,4,Lake,PROPN,NNP,compound,Xxxx,0.0
+"Salt Lake City, Utah, United States",City,6,1,4,City,PROPN,NNP,ROOT,Xxxx,0.0
+"Salt Lake City, Utah, United States",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Salt Lake City, Utah, United States",Utah,6,1,4,Utah,PROPN,NNP,appos,Xxxx,0.0
+"Salt Lake City, Utah, United States",United,6,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Salt Lake City, Utah, United States",States,6,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"New York, New York, United States",New,6,21,3,New,PROPN,NNP,compound,Xxx,0.0
+"New York, New York, United States",York,6,21,4,York,PROPN,NNP,ROOT,Xxxx,0.0
+"New York, New York, United States",",",6,21,1,",",PUNCT,",",punct,",",0.0
+"New York, New York, United States",York,6,21,4,York,PROPN,NNP,conj,Xxxx,0.0
+"New York, New York, United States",United,6,21,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"New York, New York, United States",States,6,21,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Bali, Jawa Barat, Indonesia",Bali,4,2,4,Bali,PROPN,NNP,ROOT,Xxxx,0.0
+"Bali, Jawa Barat, Indonesia",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Bali, Jawa Barat, Indonesia",Jawa,4,2,4,Jawa,PROPN,NNP,compound,Xxxx,0.0
+"Bali, Jawa Barat, Indonesia",Barat,4,2,5,Barat,PROPN,NNP,appos,Xxxxx,0.0
+"Bali, Jawa Barat, Indonesia",Indonesia,4,2,9,Indonesia,PROPN,NNP,appos,Xxxxx,0.0
+"Málaga, Andalucia, Spain",Málaga,3,1,6,Málaga,PROPN,NNP,ROOT,Xxxxx,0.0
+"Málaga, Andalucia, Spain",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Málaga, Andalucia, Spain",Andalucia,3,1,9,Andalucia,PROPN,NNP,conj,Xxxxx,0.0
+"Málaga, Andalucia, Spain",Spain,3,1,5,Spain,PROPN,NNP,conj,Xxxxx,0.0
+"Boston, Massachusetts, United States",Boston,4,7,6,Boston,PROPN,NNP,ROOT,Xxxxx,0.0
+"Boston, Massachusetts, United States",",",4,7,1,",",PUNCT,",",punct,",",0.0
+"Boston, Massachusetts, United States",Massachusetts,4,7,13,Massachusetts,PROPN,NNP,conj,Xxxxx,0.0
+"Boston, Massachusetts, United States",United,4,7,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Boston, Massachusetts, United States",States,4,7,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Milan, Lombardia, Italy",Milan,3,2,5,Milan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Milan, Lombardia, Italy",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Milan, Lombardia, Italy",Lombardia,3,2,9,Lombardia,PROPN,NNP,conj,Xxxxx,0.0
+"Milan, Lombardia, Italy",Italy,3,2,5,Italy,PROPN,NNP,conj,Xxxxx,0.0
+"Laguna Beach, California, United States",Laguna,5,2,6,Laguna,PROPN,NNP,compound,Xxxxx,0.0
+"Laguna Beach, California, United States",Beach,5,2,5,Beach,PROPN,NNP,ROOT,Xxxxx,0.0
+"Laguna Beach, California, United States",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Laguna Beach, California, United States",California,5,2,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"Laguna Beach, California, United States",United,5,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Laguna Beach, California, United States",States,5,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Yerevan, Yerevan, Armenia",Yerevan,3,1,7,Yerevan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Yerevan, Yerevan, Armenia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Yerevan, Yerevan, Armenia",Yerevan,3,1,7,Yerevan,PROPN,NNP,conj,Xxxxx,0.0
+"Yerevan, Yerevan, Armenia",Armenia,3,1,7,Armenia,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Madrid, Madrid, Spain",Madrid,3,4,6,Madrid,PROPN,NNP,ROOT,Xxxxx,0.0
+"Madrid, Madrid, Spain",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Madrid, Madrid, Spain",Madrid,3,4,6,Madrid,PROPN,NNP,conj,Xxxxx,0.0
+"Madrid, Madrid, Spain",Spain,3,4,5,Spain,PROPN,NNP,conj,Xxxxx,0.0
+"San Francisco, California, United States",San,5,21,3,San,PROPN,NNP,compound,Xxx,0.0
+"San Francisco, California, United States",Francisco,5,21,9,Francisco,PROPN,NNP,ROOT,Xxxxx,0.0
+"San Francisco, California, United States",",",5,21,1,",",PUNCT,",",punct,",",0.0
+"San Francisco, California, United States",California,5,21,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"San Francisco, California, United States",United,5,21,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"San Francisco, California, United States",States,5,21,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Hong Kong, Hong Kong Island, Hong Kong",Hong,7,3,4,Hong,PROPN,NNP,compound,Xxxx,0.0
+"Hong Kong, Hong Kong Island, Hong Kong",Kong,7,3,4,Kong,PROPN,NNP,ROOT,Xxxx,0.0
+"Hong Kong, Hong Kong Island, Hong Kong",",",7,3,1,",",PUNCT,",",punct,",",0.0
+"Hong Kong, Hong Kong Island, Hong Kong",Kong,7,3,4,Kong,PROPN,NNP,compound,Xxxx,0.0
+"Hong Kong, Hong Kong Island, Hong Kong",Island,7,3,6,Island,PROPN,NNP,appos,Xxxxx,0.0
+"Hong Kong, Hong Kong Island, Hong Kong",Kong,7,3,4,Kong,PROPN,NNP,appos,Xxxx,0.0
+"Amsterdam, Noord-Holland, The Netherlands",Amsterdam,4,4,9,Amsterdam,PROPN,NNP,ROOT,Xxxxx,0.0
+"Amsterdam, Noord-Holland, The Netherlands",",",4,4,1,",",PUNCT,",",punct,",",0.0
+"Amsterdam, Noord-Holland, The Netherlands",Noord,4,4,5,Noord,PROPN,NNP,compound,Xxxxx,0.0
+"Amsterdam, Noord-Holland, The Netherlands",-,4,4,1,-,PUNCT,HYPH,punct,-,0.0
+"Amsterdam, Noord-Holland, The Netherlands",Holland,4,4,7,Holland,PROPN,NNP,conj,Xxxxx,0.0
+"Amsterdam, Noord-Holland, The Netherlands",The,4,4,3,the,DET,DT,det,Xxx,0.0
+"Amsterdam, Noord-Holland, The Netherlands",Netherlands,4,4,11,Netherlands,PROPN,NNP,conj,Xxxxx,0.0
+"Burlingame, California, United States",Burlingame,4,1,10,Burlingame,PROPN,NNP,ROOT,Xxxxx,0.0
+"Burlingame, California, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Burlingame, California, United States",California,4,1,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"Burlingame, California, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Burlingame, California, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Vancouver, British Columbia, Canada",Vancouver,4,5,9,Vancouver,PROPN,NNP,ROOT,Xxxxx,0.0
+"Vancouver, British Columbia, Canada",",",4,5,1,",",PUNCT,",",punct,",",0.0
+"Vancouver, British Columbia, Canada",British,4,5,7,British,PROPN,NNP,compound,Xxxxx,0.0
+"Vancouver, British Columbia, Canada",Columbia,4,5,8,Columbia,PROPN,NNP,appos,Xxxxx,0.0
+"Vancouver, British Columbia, Canada",Canada,4,5,6,Canada,PROPN,NNP,conj,Xxxxx,0.0
+"Istanbul, Istanbul, Turkey",Istanbul,3,3,8,Istanbul,PROPN,NNP,ROOT,Xxxxx,0.0
+"Istanbul, Istanbul, Turkey",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Istanbul, Istanbul, Turkey",Istanbul,3,3,8,Istanbul,PROPN,NNP,conj,Xxxxx,0.0
+"Istanbul, Istanbul, Turkey",Turkey,3,3,6,Turkey,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Dallas, Texas, United States",Dallas,4,2,6,Dallas,PROPN,NNP,ROOT,Xxxxx,0.0
+"Dallas, Texas, United States",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Dallas, Texas, United States",Texas,4,2,5,Texas,PROPN,NNP,appos,Xxxxx,0.0
+"Dallas, Texas, United States",United,4,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Dallas, Texas, United States",States,4,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Orlando, Florida, United States",Orlando,4,3,7,Orlando,PROPN,NNP,ROOT,Xxxxx,0.0
+"Orlando, Florida, United States",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"Orlando, Florida, United States",Florida,4,3,7,Florida,PROPN,NNP,appos,Xxxxx,0.0
+"Orlando, Florida, United States",United,4,3,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Orlando, Florida, United States",States,4,3,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Doha, Ad Dawhah, Qatar",Doha,4,1,4,Doha,PROPN,NNP,ROOT,Xxxx,0.0
+"Doha, Ad Dawhah, Qatar",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Doha, Ad Dawhah, Qatar",Ad,4,1,2,Ad,PROPN,NNP,compound,Xx,0.0
+"Doha, Ad Dawhah, Qatar",Dawhah,4,1,6,Dawhah,PROPN,NNP,conj,Xxxxx,0.0
+"Doha, Ad Dawhah, Qatar",Qatar,4,1,5,Qatar,PROPN,NNP,appos,Xxxxx,0.0
+"Mbarara, Mbarara, Uganda",Mbarara,3,1,7,Mbarara,PROPN,NNP,ROOT,Xxxxx,0.0
+"Mbarara, Mbarara, Uganda",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Mbarara, Mbarara, Uganda",Mbarara,3,1,7,Mbarara,PROPN,NNP,appos,Xxxxx,0.0
+"Mbarara, Mbarara, Uganda",Uganda,3,1,6,Uganda,PROPN,NNP,conj,Xxxxx,0.0
+"Yogyakarta, Yogyakarta, Indonesia",Yogyakarta,3,1,10,Yogyakarta,PROPN,NNP,ROOT,Xxxxx,0.0
+"Yogyakarta, Yogyakarta, Indonesia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Yogyakarta, Yogyakarta, Indonesia",Yogyakarta,3,1,10,Yogyakarta,PROPN,NNP,appos,Xxxxx,0.0
+"Yogyakarta, Yogyakarta, Indonesia",Indonesia,3,1,9,Indonesia,PROPN,NNP,conj,Xxxxx,0.0
+"Dortmund, Nordrhein-Westfalen, Germany",Dortmund,3,1,8,Dortmund,PROPN,NNP,ROOT,Xxxxx,0.0
+"Dortmund, Nordrhein-Westfalen, Germany",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Dortmund, Nordrhein-Westfalen, Germany",Nordrhein,3,1,9,Nordrhein,PROPN,NNP,compound,Xxxxx,0.0
+"Dortmund, Nordrhein-Westfalen, Germany",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Dortmund, Nordrhein-Westfalen, Germany",Westfalen,3,1,9,Westfalen,PROPN,NNP,appos,Xxxxx,0.0
+"Dortmund, Nordrhein-Westfalen, Germany",Germany,3,1,7,Germany,PROPN,NNP,appos,Xxxxx,0.0
+"Cali, Valle del Cauca, Colombia",Cali,5,1,4,Cali,PROPN,NNP,ROOT,Xxxx,0.0
+"Cali, Valle del Cauca, Colombia",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Cali, Valle del Cauca, Colombia",Valle,5,1,5,Valle,PROPN,NNP,nmod,Xxxxx,0.0
+"Cali, Valle del Cauca, Colombia",del,5,1,3,del,PROPN,NNP,compound,xxx,0.0
+"Cali, Valle del Cauca, Colombia",Cauca,5,1,5,Cauca,PROPN,NNP,conj,Xxxxx,0.0
+"Cali, Valle del Cauca, Colombia",Colombia,5,1,8,Colombia,PROPN,NNP,appos,Xxxxx,0.0
+"Paris, Ile-de-France, France",Paris,3,5,5,Paris,PROPN,NNP,ROOT,Xxxxx,0.0
+"Paris, Ile-de-France, France",",",3,5,1,",",PUNCT,",",punct,",",0.0
+"Paris, Ile-de-France, France",Ile,3,5,3,Ile,PROPN,NNP,appos,Xxx,0.0
+"Paris, Ile-de-France, France",-,3,5,1,-,PUNCT,HYPH,punct,-,0.0
+"Paris, Ile-de-France, France",de,3,5,2,de,NOUN,NN,prep,xx,0.0
+"Paris, Ile-de-France, France",-,3,5,1,-,NOUN,NN,conj,-,0.0
+"Paris, Ile-de-France, France",France,3,5,6,France,PROPN,NNP,conj,Xxxxx,0.0
+"Paris, Ile-de-France, France",France,3,5,6,France,PROPN,NNP,appos,Xxxxx,0.0
+"Berlin, Berlin, Germany",Berlin,3,6,6,Berlin,PROPN,NNP,ROOT,Xxxxx,0.0
+"Berlin, Berlin, Germany",",",3,6,1,",",PUNCT,",",punct,",",0.0
+"Berlin, Berlin, Germany",Berlin,3,6,6,Berlin,PROPN,NNP,conj,Xxxxx,0.0
+"Berlin, Berlin, Germany",Germany,3,6,7,Germany,PROPN,NNP,conj,Xxxxx,0.0
+"Cuneo, Piemonte, Italy",Cuneo,3,1,5,Cuneo,PROPN,NNP,ROOT,Xxxxx,0.0
+"Cuneo, Piemonte, Italy",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Cuneo, Piemonte, Italy",Piemonte,3,1,8,Piemonte,PROPN,NNP,conj,Xxxxx,0.0
+"Cuneo, Piemonte, Italy",Italy,3,1,5,Italy,PROPN,NNP,conj,Xxxxx,0.0
+"Deauville, Basse-Normandie, France",Deauville,3,1,9,Deauville,PROPN,NNP,ROOT,Xxxxx,0.0
+"Deauville, Basse-Normandie, France",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Deauville, Basse-Normandie, France",Basse,3,1,5,Basse,PROPN,NNP,compound,Xxxxx,0.0
+"Deauville, Basse-Normandie, France",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Deauville, Basse-Normandie, France",Normandie,3,1,9,Normandie,PROPN,NNP,appos,Xxxxx,0.0
+"Deauville, Basse-Normandie, France",France,3,1,6,France,PROPN,NNP,conj,Xxxxx,0.0
+"Menlo Park, California, United States",Menlo,5,1,5,Menlo,PROPN,NNP,compound,Xxxxx,0.0
+"Menlo Park, California, United States",Park,5,1,4,Park,PROPN,NNP,ROOT,Xxxx,0.0
+"Menlo Park, California, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Menlo Park, California, United States",California,5,1,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"Menlo Park, California, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Menlo Park, California, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Barcelona, Catalonia, Spain",Barcelona,3,8,9,Barcelona,PROPN,NNP,ROOT,Xxxxx,0.0
+"Barcelona, Catalonia, Spain",",",3,8,1,",",PUNCT,",",punct,",",0.0
+"Barcelona, Catalonia, Spain",Catalonia,3,8,9,Catalonia,PROPN,NNP,nmod,Xxxxx,0.0
+"Barcelona, Catalonia, Spain",Spain,3,8,5,Spain,PROPN,NNP,appos,Xxxxx,0.0
+"New Delhi, Delhi, India",New,4,2,3,New,PROPN,NNP,compound,Xxx,0.0
+"New Delhi, Delhi, India",Delhi,4,2,5,Delhi,PROPN,NNP,ROOT,Xxxxx,0.0
+"New Delhi, Delhi, India",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"New Delhi, Delhi, India",Delhi,4,2,5,Delhi,PROPN,NNP,appos,Xxxxx,0.0
+"New Delhi, Delhi, India",India,4,2,5,India,PROPN,NNP,appos,Xxxxx,0.0
+"Chamonix-mont-blanc, Rhone-Alpes, France",Chamonix,3,2,8,Chamonix,PROPN,NNP,nmod,Xxxxx,0.0
+"Chamonix-mont-blanc, Rhone-Alpes, France",-,3,2,1,-,PUNCT,HYPH,punct,-,0.0
+"Chamonix-mont-blanc, Rhone-Alpes, France",mont,3,2,4,mont,PROPN,NNP,compound,xxxx,0.0
+"Chamonix-mont-blanc, Rhone-Alpes, France",blanc,3,2,5,blanc,PROPN,NNP,ROOT,xxxx,0.0
+"Chamonix-mont-blanc, Rhone-Alpes, France",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Chamonix-mont-blanc, Rhone-Alpes, France",Rhone,3,2,5,Rhone,PROPN,NNP,compound,Xxxxx,0.0
+"Chamonix-mont-blanc, Rhone-Alpes, France",Alpes,3,2,5,Alpes,PROPN,NNP,conj,Xxxxx,0.0
+"Chamonix-mont-blanc, Rhone-Alpes, France",France,3,2,6,France,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Bat'umi, Ajaria, Georgia",Bat'umi,3,1,7,Bat'umi,PROPN,NNP,ROOT,Xxx'xxx,0.0
+"Bat'umi, Ajaria, Georgia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Bat'umi, Ajaria, Georgia",Ajaria,3,1,6,Ajaria,PROPN,NNP,conj,Xxxxx,0.0
+"Bat'umi, Ajaria, Georgia",Georgia,3,1,7,Georgia,PROPN,NNP,appos,Xxxxx,0.0
+"Köln, Nordrhein-Westfalen, Germany",Köln,3,1,4,Köln,PROPN,NNP,ROOT,Xxxx,0.0
+"Köln, Nordrhein-Westfalen, Germany",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Köln, Nordrhein-Westfalen, Germany",Nordrhein,3,1,9,Nordrhein,PROPN,NNP,compound,Xxxxx,0.0
+"Köln, Nordrhein-Westfalen, Germany",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Köln, Nordrhein-Westfalen, Germany",Westfalen,3,1,9,Westfalen,PROPN,NNP,conj,Xxxxx,0.0
+"Köln, Nordrhein-Westfalen, Germany",Germany,3,1,7,Germany,PROPN,NNP,appos,Xxxxx,0.0
+"Évora, Evora, Portugal",Évora,3,3,5,Évora,PROPN,NNP,ROOT,Xxxxx,0.0
+"Évora, Evora, Portugal",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Évora, Evora, Portugal",Evora,3,3,5,Evora,PROPN,NNP,conj,Xxxxx,0.0
+"Évora, Evora, Portugal",Portugal,3,3,8,Portugal,PROPN,NNP,appos,Xxxxx,0.0
+"Frankfurt, Hessen, Germany",Frankfurt,3,3,9,Frankfurt,PROPN,NNP,ROOT,Xxxxx,0.0
+"Frankfurt, Hessen, Germany",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Frankfurt, Hessen, Germany",Hessen,3,3,6,Hessen,PROPN,NNP,nmod,Xxxxx,0.0
+"Frankfurt, Hessen, Germany",Germany,3,3,7,Germany,PROPN,NNP,appos,Xxxxx,0.0
+"Colombo, Western, Sri Lanka",Colombo,4,1,7,Colombo,PROPN,NNP,ROOT,Xxxxx,0.0
+"Colombo, Western, Sri Lanka",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Colombo, Western, Sri Lanka",Western,4,1,7,western,ADJ,JJ,conj,Xxxxx,0.0
+"Colombo, Western, Sri Lanka",Sri,4,1,3,Sri,PROPN,NNP,compound,Xxx,0.0
+"Colombo, Western, Sri Lanka",Lanka,4,1,5,Lanka,PROPN,NNP,appos,Xxxxx,0.0
+"Fresno, California, United States",Fresno,4,1,6,Fresno,PROPN,NNP,ROOT,Xxxxx,0.0
+"Fresno, California, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Fresno, California, United States",California,4,1,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"Fresno, California, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Fresno, California, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Gurgaon, Haryana, India",Gurgaon,3,2,7,Gurgaon,PROPN,NNP,ROOT,Xxxxx,0.0
+"Gurgaon, Haryana, India",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Gurgaon, Haryana, India",Haryana,3,2,7,Haryana,PROPN,NNP,conj,Xxxxx,0.0
+"Gurgaon, Haryana, India",India,3,2,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Riga, Riga, Latvia",Riga,3,1,4,Riga,PROPN,NNP,ROOT,Xxxx,0.0
+"Riga, Riga, Latvia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Riga, Riga, Latvia",Riga,3,1,4,Riga,PROPN,NNP,appos,Xxxx,0.0
+"Riga, Riga, Latvia",Latvia,3,1,6,Latvia,PROPN,NNP,conj,Xxxxx,0.0
+"Grand Cayman, Midland, Cayman Islands",Grand,5,1,5,Grand,PROPN,NNP,compound,Xxxxx,0.0
+"Grand Cayman, Midland, Cayman Islands",Cayman,5,1,6,Cayman,PROPN,NNP,ROOT,Xxxxx,0.0
+"Grand Cayman, Midland, Cayman Islands",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Grand Cayman, Midland, Cayman Islands",Midland,5,1,7,Midland,PROPN,NNP,appos,Xxxxx,0.0
+"Grand Cayman, Midland, Cayman Islands",Cayman,5,1,6,Cayman,PROPN,NNP,compound,Xxxxx,0.0
+"Grand Cayman, Midland, Cayman Islands",Islands,5,1,7,Islands,PROPN,NNP,appos,Xxxxx,0.0
+"Granges, Vaud, Switzerland",Granges,3,1,7,Granges,PROPN,NNP,ROOT,Xxxxx,0.0
+"Granges, Vaud, Switzerland",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Granges, Vaud, Switzerland",Vaud,3,1,4,Vaud,PROPN,NNP,conj,Xxxx,0.0
+"Granges, Vaud, Switzerland",Switzerland,3,1,11,Switzerland,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Matosinhos, Porto, Portugal",Matosinhos,3,1,10,matosinhos,ADV,RB,ROOT,Xxxxx,0.0
+"Matosinhos, Porto, Portugal",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Matosinhos, Porto, Portugal",Porto,3,1,5,Porto,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Matosinhos, Porto, Portugal",Portugal,3,1,8,Portugal,PROPN,NNP,appos,Xxxxx,0.0
+"Japan, Jawa Tengah, Indonesia",Japan,4,1,5,Japan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Japan, Jawa Tengah, Indonesia",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Japan, Jawa Tengah, Indonesia",Jawa,4,1,4,Jawa,PROPN,NNP,compound,Xxxx,0.0
+"Japan, Jawa Tengah, Indonesia",Tengah,4,1,6,Tengah,PROPN,NNP,conj,Xxxxx,0.0
+"Japan, Jawa Tengah, Indonesia",Indonesia,4,1,9,Indonesia,PROPN,NNP,conj,Xxxxx,0.0
+"Malibu, California, United States",Malibu,4,1,6,Malibu,PROPN,NNP,ROOT,Xxxxx,0.0
+"Malibu, California, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Malibu, California, United States",California,4,1,10,California,PROPN,NNP,conj,Xxxxx,0.0
+"Malibu, California, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Malibu, California, United States",States,4,1,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Rio De Janeiro, Rio de Janeiro, Brazil",Rio,7,1,3,Rio,PROPN,NNP,compound,Xxx,0.0
+"Rio De Janeiro, Rio de Janeiro, Brazil",De,7,1,2,De,PROPN,NNP,compound,Xx,0.0
+"Rio De Janeiro, Rio de Janeiro, Brazil",Janeiro,7,1,7,Janeiro,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rio De Janeiro, Rio de Janeiro, Brazil",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Rio De Janeiro, Rio de Janeiro, Brazil",de,7,1,2,de,PROPN,NNP,compound,xx,0.0
+"Rio De Janeiro, Rio de Janeiro, Brazil",Janeiro,7,1,7,Janeiro,PROPN,NNP,appos,Xxxxx,0.0
+"Rio De Janeiro, Rio de Janeiro, Brazil",Brazil,7,1,6,Brazil,PROPN,NNP,appos,Xxxxx,0.0
+"Rimini, Emilia-Romagna, Italy",Rimini,3,1,6,Rimini,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rimini, Emilia-Romagna, Italy",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Rimini, Emilia-Romagna, Italy",Emilia,3,1,6,Emilia,PROPN,NNP,compound,Xxxxx,0.0
+"Rimini, Emilia-Romagna, Italy",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Rimini, Emilia-Romagna, Italy",Romagna,3,1,7,Romagna,PROPN,NNP,conj,Xxxxx,0.0
+"Rimini, Emilia-Romagna, Italy",Italy,3,1,5,Italy,PROPN,NNP,appos,Xxxxx,0.0
+"Cape Town, NA - South Africa, South Africa",Cape,8,1,4,Cape,PROPN,NNP,compound,Xxxx,0.0
+"Cape Town, NA - South Africa, South Africa",Town,8,1,4,Town,PROPN,NNP,ROOT,Xxxx,0.0
+"Cape Town, NA - South Africa, South Africa",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Cape Town, NA - South Africa, South Africa",NA,8,1,2,NA,PROPN,NNP,compound,XX,0.0
+"Cape Town, NA - South Africa, South Africa",-,8,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Cape Town, NA - South Africa, South Africa",South,8,1,5,South,PROPN,NNP,compound,Xxxxx,0.0
+"Cape Town, NA - South Africa, South Africa",Africa,8,1,6,Africa,PROPN,NNP,appos,Xxxxx,0.0
+"Philadelphia, Pennsylvania, United States",Philadelphia,4,1,12,Philadelphia,PROPN,NNP,ROOT,Xxxxx,0.0
+"Philadelphia, Pennsylvania, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Philadelphia, Pennsylvania, United States",Pennsylvania,4,1,12,Pennsylvania,PROPN,NNP,conj,Xxxxx,0.0
+"Philadelphia, Pennsylvania, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Philadelphia, Pennsylvania, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Chicago, Illinois, United States",Chicago,4,6,7,Chicago,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chicago, Illinois, United States",",",4,6,1,",",PUNCT,",",punct,",",0.0
+"Chicago, Illinois, United States",Illinois,4,6,8,Illinois,PROPN,NNP,conj,Xxxxx,0.0
+"Chicago, Illinois, United States",United,4,6,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Chicago, Illinois, United States",States,4,6,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Ibadan, Oyo, Nigeria",Ibadan,3,1,6,Ibadan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Ibadan, Oyo, Nigeria",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Ibadan, Oyo, Nigeria",Oyo,3,1,3,Oyo,PROPN,NNP,appos,Xxx,0.0
+"Ibadan, Oyo, Nigeria",Nigeria,3,1,7,Nigeria,PROPN,NNP,appos,Xxxxx,0.0
+"Warszawa, Mazowieckie, Poland",Warszawa,3,1,8,Warszawa,PROPN,NNP,ROOT,Xxxxx,0.0
+"Warszawa, Mazowieckie, Poland",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Warszawa, Mazowieckie, Poland",Mazowieckie,3,1,11,Mazowieckie,PROPN,NNP,conj,Xxxxx,0.0
+"Warszawa, Mazowieckie, Poland",Poland,3,1,6,Poland,PROPN,NNP,conj,Xxxxx,0.0
+"Munich, Bayern, Germany",Munich,3,3,6,Munich,PROPN,NNP,ROOT,Xxxxx,0.0
+"Munich, Bayern, Germany",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Munich, Bayern, Germany",Bayern,3,3,6,Bayern,PROPN,NNP,conj,Xxxxx,0.0
+"Munich, Bayern, Germany",Germany,3,3,7,Germany,PROPN,NNP,conj,Xxxxx,0.0
+"Brussels, Brussels Hoofdstedelijk Gewest, Belgium",Brussels,5,2,8,Brussels,PROPN,NNP,ROOT,Xxxxx,0.0
+"Brussels, Brussels Hoofdstedelijk Gewest, Belgium",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Brussels, Brussels Hoofdstedelijk Gewest, Belgium",Brussels,5,2,8,Brussels,PROPN,NNP,compound,Xxxxx,0.0
+"Brussels, Brussels Hoofdstedelijk Gewest, Belgium",Hoofdstedelijk,5,2,14,Hoofdstedelijk,PROPN,NNP,compound,Xxxxx,0.0
+"Brussels, Brussels Hoofdstedelijk Gewest, Belgium",Gewest,5,2,6,Gewest,PROPN,NNP,conj,Xxxxx,0.0
+"Brussels, Brussels Hoofdstedelijk Gewest, Belgium",Belgium,5,2,7,Belgium,PROPN,NNP,appos,Xxxxx,0.0
+"Bogotá, Distrito Especial, Colombia",Bogotá,4,2,6,Bogotá,PROPN,NNP,ROOT,Xxxxx,0.0
+"Bogotá, Distrito Especial, Colombia",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Bogotá, Distrito Especial, Colombia",Distrito,4,2,8,Distrito,PROPN,NNP,compound,Xxxxx,0.0
+"Bogotá, Distrito Especial, Colombia",Especial,4,2,8,Especial,PROPN,NNP,conj,Xxxxx,0.0
+"Bogotá, Distrito Especial, Colombia",Colombia,4,2,8,Colombia,PROPN,NNP,conj,Xxxxx,0.0
+"Markham, Ontario, Canada",Markham,3,1,7,Markham,PROPN,NNP,ROOT,Xxxxx,0.0
+"Markham, Ontario, Canada",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Markham, Ontario, Canada",Ontario,3,1,7,Ontario,PROPN,NNP,conj,Xxxxx,0.0
+"Markham, Ontario, Canada",Canada,3,1,6,Canada,PROPN,NNP,appos,Xxxxx,0.0
+"Toronto, Ontario, Canada",Toronto,3,4,7,Toronto,PROPN,NNP,ROOT,Xxxxx,0.0
+"Toronto, Ontario, Canada",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Toronto, Ontario, Canada",Ontario,3,4,7,Ontario,PROPN,NNP,conj,Xxxxx,0.0
+"Toronto, Ontario, Canada",Canada,3,4,6,Canada,PROPN,NNP,appos,Xxxxx,0.0
+"Lagos, Lagos, Nigeria",Lagos,3,2,5,lago,NOUN,NNS,ROOT,Xxxxx,0.0
+"Lagos, Lagos, Nigeria",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Lagos, Lagos, Nigeria",Lagos,3,2,5,Lagos,PROPN,NNP,conj,Xxxxx,0.0
+"Lagos, Lagos, Nigeria",Nigeria,3,2,7,Nigeria,PROPN,NNP,appos,Xxxxx,0.0
+"Perth, Western Australia, Australia",Perth,4,1,5,Perth,PROPN,NNP,ROOT,Xxxxx,0.0
+"Perth, Western Australia, Australia",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Perth, Western Australia, Australia",Western,4,1,7,Western,PROPN,NNP,compound,Xxxxx,0.0
+"Perth, Western Australia, Australia",Australia,4,1,9,Australia,PROPN,NNP,conj,Xxxxx,0.0
+"Perth, Western Australia, Australia",Australia,4,1,9,Australia,PROPN,NNP,appos,Xxxxx,0.0
+"Delhi, Delhi, India",Delhi,3,6,5,Delhi,PROPN,NNP,ROOT,Xxxxx,0.0
+"Delhi, Delhi, India",",",3,6,1,",",PUNCT,",",punct,",",0.0
+"Delhi, Delhi, India",Delhi,3,6,5,Delhi,PROPN,NNP,appos,Xxxxx,0.0
+"Delhi, Delhi, India",India,3,6,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Madison, Wisconsin, United States",Madison,4,1,7,Madison,PROPN,NNP,ROOT,Xxxxx,0.0
+"Madison, Wisconsin, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Madison, Wisconsin, United States",Wisconsin,4,1,9,Wisconsin,PROPN,NNP,conj,Xxxxx,0.0
+"Madison, Wisconsin, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Madison, Wisconsin, United States",States,4,1,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Bath, Bath and North East Somerset, United Kingdom",Bath,8,2,4,Bath,PROPN,NNP,ROOT,Xxxx,0.0
+"Bath, Bath and North East Somerset, United Kingdom",",",8,2,1,",",PUNCT,",",punct,",",0.0
+"Bath, Bath and North East Somerset, United Kingdom",Bath,8,2,4,Bath,PROPN,NNP,conj,Xxxx,0.0
+"Bath, Bath and North East Somerset, United Kingdom",and,8,2,3,and,CCONJ,CC,cc,xxx,0.0
+"Bath, Bath and North East Somerset, United Kingdom",North,8,2,5,North,PROPN,NNP,compound,Xxxxx,0.0
+"Bath, Bath and North East Somerset, United Kingdom",East,8,2,4,East,PROPN,NNP,compound,Xxxx,0.0
+"Bath, Bath and North East Somerset, United Kingdom",Somerset,8,2,8,Somerset,PROPN,NNP,conj,Xxxxx,0.0
+"Bath, Bath and North East Somerset, United Kingdom",United,8,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Bath, Bath and North East Somerset, United Kingdom",Kingdom,8,2,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"Atlanta, Georgia, United States",Atlanta,4,3,7,Atlanta,PROPN,NNP,ROOT,Xxxxx,0.0
+"Atlanta, Georgia, United States",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"Atlanta, Georgia, United States",Georgia,4,3,7,Georgia,PROPN,NNP,conj,Xxxxx,0.0
+"Atlanta, Georgia, United States",United,4,3,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Atlanta, Georgia, United States",States,4,3,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Erfurt, Thuringen, Germany",Erfurt,3,1,6,Erfurt,PROPN,NNP,ROOT,Xxxxx,0.0
+"Erfurt, Thuringen, Germany",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Erfurt, Thuringen, Germany",Thuringen,3,1,9,Thuringen,PROPN,NNP,conj,Xxxxx,0.0
+"Erfurt, Thuringen, Germany",Germany,3,1,7,Germany,PROPN,NNP,conj,Xxxxx,0.0
+"Kaunas, Kauno Apskritis, Lithuania",Kaunas,4,1,6,Kaunas,PROPN,NNP,ROOT,Xxxxx,0.0
+"Kaunas, Kauno Apskritis, Lithuania",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Kaunas, Kauno Apskritis, Lithuania",Kauno,4,1,5,Kauno,PROPN,NNP,compound,Xxxxx,0.0
+"Kaunas, Kauno Apskritis, Lithuania",Apskritis,4,1,9,Apskritis,PROPN,NNP,appos,Xxxxx,0.0
+"Kaunas, Kauno Apskritis, Lithuania",Lithuania,4,1,9,Lithuania,PROPN,NNP,npadvmod,Xxxxx,0.0
+"San Jose, California, United States",San,5,1,3,San,PROPN,NNP,compound,Xxx,0.0
+"San Jose, California, United States",Jose,5,1,4,Jose,PROPN,NNP,ROOT,Xxxx,0.0
+"San Jose, California, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"San Jose, California, United States",California,5,1,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"San Jose, California, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"San Jose, California, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Kéa, Kikladhes, Greece",Kéa,3,1,3,Kéa,PROPN,NNP,ROOT,Xxx,0.0
+"Kéa, Kikladhes, Greece",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Kéa, Kikladhes, Greece",Kikladhes,3,1,9,Kikladhes,PROPN,NNP,conj,Xxxxx,0.0
+"Kéa, Kikladhes, Greece",Greece,3,1,6,Greece,PROPN,NNP,appos,Xxxxx,0.0
+"Port Chester, New York, United States",Port,6,1,4,Port,PROPN,NNP,compound,Xxxx,0.0
+"Port Chester, New York, United States",Chester,6,1,7,Chester,PROPN,NNP,ROOT,Xxxxx,0.0
+"Port Chester, New York, United States",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Port Chester, New York, United States",New,6,1,3,New,PROPN,NNP,compound,Xxx,0.0
+"Port Chester, New York, United States",York,6,1,4,York,PROPN,NNP,npadvmod,Xxxx,0.0
+"Port Chester, New York, United States",United,6,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Port Chester, New York, United States",States,6,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Helsinki, Southern Finland, Finland",Helsinki,4,2,8,Helsinki,PROPN,NNP,ROOT,Xxxxx,0.0
+"Helsinki, Southern Finland, Finland",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Helsinki, Southern Finland, Finland",Southern,4,2,8,Southern,PROPN,NNP,compound,Xxxxx,0.0
+"Helsinki, Southern Finland, Finland",Finland,4,2,7,Finland,PROPN,NNP,conj,Xxxxx,0.0
+"Lisboa, Lisboa, Portugal",Lisboa,3,1,6,Lisboa,PROPN,NNP,ROOT,Xxxxx,0.0
+"Lisboa, Lisboa, Portugal",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Lisboa, Lisboa, Portugal",Lisboa,3,1,6,Lisboa,PROPN,NNP,appos,Xxxxx,0.0
+"Lisboa, Lisboa, Portugal",Portugal,3,1,8,Portugal,PROPN,NNP,appos,Xxxxx,0.0
+"Gold Coast, Queensland, Australia",Gold,4,1,4,Gold,PROPN,NNP,compound,Xxxx,0.0
+"Gold Coast, Queensland, Australia",Coast,4,1,5,Coast,PROPN,NNP,ROOT,Xxxxx,0.0
+"Gold Coast, Queensland, Australia",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Gold Coast, Queensland, Australia",Queensland,4,1,10,Queensland,PROPN,NNP,appos,Xxxxx,0.0
+"Gold Coast, Queensland, Australia",Australia,4,1,9,Australia,PROPN,NNP,appos,Xxxxx,0.0
+"Charlotte, North Carolina, United States",Charlotte,5,2,9,Charlotte,PROPN,NNP,ROOT,Xxxxx,0.0
+"Charlotte, North Carolina, United States",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Charlotte, North Carolina, United States",North,5,2,5,North,PROPN,NNP,compound,Xxxxx,0.0
+"Charlotte, North Carolina, United States",Carolina,5,2,8,Carolina,PROPN,NNP,appos,Xxxxx,0.0
+"Charlotte, North Carolina, United States",United,5,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Charlotte, North Carolina, United States",States,5,2,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Cosenza, Calabria, Italy",Cosenza,3,2,7,Cosenza,PROPN,NNP,ROOT,Xxxxx,0.0
+"Cosenza, Calabria, Italy",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Cosenza, Calabria, Italy",Calabria,3,2,8,Calabria,PROPN,NNP,conj,Xxxxx,0.0
+"Cosenza, Calabria, Italy",Italy,3,2,5,Italy,PROPN,NNP,appos,Xxxxx,0.0
+"Tunis, Tunis, Tunisia",Tunis,3,1,5,Tunis,PROPN,NNP,ROOT,Xxxxx,0.0
+"Tunis, Tunis, Tunisia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Tunis, Tunis, Tunisia",Tunis,3,1,5,Tunis,PROPN,NNP,conj,Xxxxx,0.0
+"Tunis, Tunis, Tunisia",Tunisia,3,1,7,Tunisia,PROPN,NNP,appos,Xxxxx,0.0
+"Brussel, Brussels Hoofdstedelijk Gewest, Belgium",Brussel,5,2,7,Brussel,PROPN,NNP,ROOT,Xxxxx,0.0
+"Brussel, Brussels Hoofdstedelijk Gewest, Belgium",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Brussel, Brussels Hoofdstedelijk Gewest, Belgium",Brussels,5,2,8,Brussels,PROPN,NNP,compound,Xxxxx,0.0
+"Brussel, Brussels Hoofdstedelijk Gewest, Belgium",Hoofdstedelijk,5,2,14,Hoofdstedelijk,PROPN,NNP,compound,Xxxxx,0.0
+"Brussel, Brussels Hoofdstedelijk Gewest, Belgium",Gewest,5,2,6,Gewest,PROPN,NNP,appos,Xxxxx,0.0
+"Brussel, Brussels Hoofdstedelijk Gewest, Belgium",Belgium,5,2,7,Belgium,PROPN,NNP,appos,Xxxxx,0.0
+"Brighton, East Sussex, United Kingdom",Brighton,5,1,8,Brighton,PROPN,NNP,ROOT,Xxxxx,0.0
+"Brighton, East Sussex, United Kingdom",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Brighton, East Sussex, United Kingdom",East,5,1,4,East,PROPN,NNP,compound,Xxxx,0.0
+"Brighton, East Sussex, United Kingdom",Sussex,5,1,6,Sussex,PROPN,NNP,conj,Xxxxx,0.0
+"Brighton, East Sussex, United Kingdom",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Brighton, East Sussex, United Kingdom",Kingdom,5,1,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"Nairobi, Nairobi Area, Kenya",Nairobi,4,1,7,Nairobi,PROPN,NNP,ROOT,Xxxxx,0.0
+"Nairobi, Nairobi Area, Kenya",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Nairobi, Nairobi Area, Kenya",Nairobi,4,1,7,Nairobi,PROPN,NNP,compound,Xxxxx,0.0
+"Nairobi, Nairobi Area, Kenya",Area,4,1,4,Area,PROPN,NNP,appos,Xxxx,0.0
+"Nairobi, Nairobi Area, Kenya",Kenya,4,1,5,Kenya,PROPN,NNP,appos,Xxxxx,0.0
+"Ireland, Indiana, United States",Ireland,4,1,7,Ireland,PROPN,NNP,ROOT,Xxxxx,0.0
+"Ireland, Indiana, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Ireland, Indiana, United States",Indiana,4,1,7,Indiana,PROPN,NNP,appos,Xxxxx,0.0
+"Ireland, Indiana, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Ireland, Indiana, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Chennai, Tamil Nadu, India",Chennai,4,2,7,Chennai,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chennai, Tamil Nadu, India",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Chennai, Tamil Nadu, India",Tamil,4,2,5,Tamil,PROPN,NNP,compound,Xxxxx,0.0
+"Chennai, Tamil Nadu, India",Nadu,4,2,4,Nadu,PROPN,NNP,appos,Xxxx,0.0
+"Chennai, Tamil Nadu, India",India,4,2,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Reinholds, Pennsylvania, United States",Reinholds,4,1,9,Reinholds,PROPN,NNP,ROOT,Xxxxx,0.0
+"Reinholds, Pennsylvania, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Reinholds, Pennsylvania, United States",Pennsylvania,4,1,12,Pennsylvania,PROPN,NNP,appos,Xxxxx,0.0
+"Reinholds, Pennsylvania, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Reinholds, Pennsylvania, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Mclean, Virginia, United States",Mclean,4,1,6,Mclean,PROPN,NNP,ROOT,Xxxxx,0.0
+"Mclean, Virginia, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Mclean, Virginia, United States",Virginia,4,1,8,Virginia,PROPN,NNP,appos,Xxxxx,0.0
+"Mclean, Virginia, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Mclean, Virginia, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Jaipur, Rajasthan, India",Jaipur,3,1,6,Jaipur,PROPN,NNP,ROOT,Xxxxx,0.0
+"Jaipur, Rajasthan, India",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Jaipur, Rajasthan, India",Rajasthan,3,1,9,Rajasthan,PROPN,NNP,conj,Xxxxx,0.0
+"Jaipur, Rajasthan, India",India,3,1,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Davos Platz, Graubunden, Switzerland",Davos,4,2,5,Davos,PROPN,NNP,compound,Xxxxx,0.0
+"Davos Platz, Graubunden, Switzerland",Platz,4,2,5,Platz,PROPN,NNP,ROOT,Xxxxx,0.0
+"Davos Platz, Graubunden, Switzerland",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Davos Platz, Graubunden, Switzerland",Graubunden,4,2,10,Graubunden,PROPN,NNP,conj,Xxxxx,0.0
+"Davos Platz, Graubunden, Switzerland",Switzerland,4,2,11,Switzerland,PROPN,NNP,conj,Xxxxx,0.0
+"Johannesburg, NA - South Africa, South Africa",Johannesburg,7,3,12,Johannesburg,PROPN,NNP,ROOT,Xxxxx,0.0
+"Johannesburg, NA - South Africa, South Africa",",",7,3,1,",",PUNCT,",",punct,",",0.0
+"Johannesburg, NA - South Africa, South Africa",NA,7,3,2,NA,PROPN,NNP,compound,XX,0.0
+"Johannesburg, NA - South Africa, South Africa",-,7,3,1,-,PUNCT,HYPH,punct,-,0.0
+"Johannesburg, NA - South Africa, South Africa",South,7,3,5,South,PROPN,NNP,compound,Xxxxx,0.0
+"Johannesburg, NA - South Africa, South Africa",Africa,7,3,6,Africa,PROPN,NNP,appos,Xxxxx,0.0
+"Trois-rivières, Quebec, Canada",Trois,3,1,5,Trois,PROPN,NNP,compound,Xxxxx,0.0
+"Trois-rivières, Quebec, Canada",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Trois-rivières, Quebec, Canada",rivières,3,1,8,rivière,NOUN,NNS,ROOT,xxxx,0.0
+"Trois-rivières, Quebec, Canada",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Trois-rivières, Quebec, Canada",Quebec,3,1,6,Quebec,PROPN,NNP,conj,Xxxxx,0.0
+"Trois-rivières, Quebec, Canada",Canada,3,1,6,Canada,PROPN,NNP,appos,Xxxxx,0.0
+"Los Altos, California, United States",Los,5,1,3,Los,PROPN,NNP,compound,Xxx,0.0
+"Los Altos, California, United States",Altos,5,1,5,Altos,PROPN,NNP,ROOT,Xxxxx,0.0
+"Los Altos, California, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Los Altos, California, United States",California,5,1,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"Los Altos, California, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Los Altos, California, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Tallinn, Harjumaa, Estonia",Tallinn,3,1,7,Tallinn,PROPN,NNP,ROOT,Xxxxx,0.0
+"Tallinn, Harjumaa, Estonia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Tallinn, Harjumaa, Estonia",Harjumaa,3,1,8,Harjumaa,PROPN,NNP,conj,Xxxxx,0.0
+"Tallinn, Harjumaa, Estonia",Estonia,3,1,7,Estonia,PROPN,NNP,conj,Xxxxx,0.0
+"Melbourne, Victoria, Australia",Melbourne,3,2,9,Melbourne,PROPN,NNP,ROOT,Xxxxx,0.0
+"Melbourne, Victoria, Australia",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Melbourne, Victoria, Australia",Victoria,3,2,8,Victoria,PROPN,NNP,conj,Xxxxx,0.0
+"Melbourne, Victoria, Australia",Australia,3,2,9,Australia,PROPN,NNP,appos,Xxxxx,0.0
+"Brisbane, Queensland, Australia",Brisbane,3,1,8,Brisbane,PROPN,NNP,ROOT,Xxxxx,0.0
+"Brisbane, Queensland, Australia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Brisbane, Queensland, Australia",Queensland,3,1,10,Queensland,PROPN,NNP,appos,Xxxxx,0.0
+"Brisbane, Queensland, Australia",Australia,3,1,9,Australia,PROPN,NNP,conj,Xxxxx,0.0
+"Molde, More og Romsdal, Norway",Molde,5,1,5,Molde,PROPN,NNP,ROOT,Xxxxx,0.0
+"Molde, More og Romsdal, Norway",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Molde, More og Romsdal, Norway",More,5,1,4,more,ADV,RBR,advmod,Xxxx,0.0
+"Molde, More og Romsdal, Norway",og,5,1,2,og,ADP,IN,prep,xx,0.0
+"Molde, More og Romsdal, Norway",Romsdal,5,1,7,Romsdal,PROPN,NNP,pobj,Xxxxx,0.0
+"Molde, More og Romsdal, Norway",Norway,5,1,6,Norway,PROPN,NNP,appos,Xxxxx,0.0
+"Austin, Texas, United States",Austin,4,4,6,Austin,PROPN,NNP,ROOT,Xxxxx,0.0
+"Austin, Texas, United States",",",4,4,1,",",PUNCT,",",punct,",",0.0
+"Austin, Texas, United States",Texas,4,4,5,Texas,PROPN,NNP,appos,Xxxxx,0.0
+"Austin, Texas, United States",United,4,4,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Austin, Texas, United States",States,4,4,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Abuja, Federal Capital Territory, Nigeria",Abuja,5,1,5,Abuja,PROPN,NNP,ROOT,Xxxxx,0.0
+"Abuja, Federal Capital Territory, Nigeria",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Abuja, Federal Capital Territory, Nigeria",Federal,5,1,7,Federal,PROPN,NNP,compound,Xxxxx,0.0
+"Abuja, Federal Capital Territory, Nigeria",Capital,5,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+"Abuja, Federal Capital Territory, Nigeria",Territory,5,1,9,Territory,PROPN,NNP,appos,Xxxxx,0.0
+"Abuja, Federal Capital Territory, Nigeria",Nigeria,5,1,7,Nigeria,PROPN,NNP,conj,Xxxxx,0.0
+"Sydney, New South Wales, Australia",Sydney,5,6,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+"Sydney, New South Wales, Australia",",",5,6,1,",",PUNCT,",",punct,",",0.0
+"Sydney, New South Wales, Australia",New,5,6,3,New,PROPN,NNP,compound,Xxx,0.0
+"Sydney, New South Wales, Australia",South,5,6,5,South,PROPN,NNP,compound,Xxxxx,0.0
+"Sydney, New South Wales, Australia",Wales,5,6,5,Wales,PROPN,NNP,conj,Xxxxx,0.0
+"Sydney, New South Wales, Australia",Australia,5,6,9,Australia,PROPN,NNP,appos,Xxxxx,0.0
+"Athens, Attiki, Greece",Athens,3,1,6,Athens,PROPN,NNP,ROOT,Xxxxx,0.0
+"Athens, Attiki, Greece",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Athens, Attiki, Greece",Attiki,3,1,6,Attiki,PROPN,NNP,conj,Xxxxx,0.0
+"Athens, Attiki, Greece",Greece,3,1,6,Greece,PROPN,NNP,appos,Xxxxx,0.0
+"Riyadh, Ar Riyad, Saudi Arabia",Riyadh,5,2,6,Riyadh,PROPN,NNP,ROOT,Xxxxx,0.0
+"Riyadh, Ar Riyad, Saudi Arabia",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Riyadh, Ar Riyad, Saudi Arabia",Ar,5,2,2,Ar,PROPN,NNP,compound,Xx,0.0
+"Riyadh, Ar Riyad, Saudi Arabia",Riyad,5,2,5,Riyad,PROPN,NNP,appos,Xxxxx,0.0
+"Riyadh, Ar Riyad, Saudi Arabia",Saudi,5,2,5,Saudi,PROPN,NNP,compound,Xxxxx,0.0
+"Riyadh, Ar Riyad, Saudi Arabia",Arabia,5,2,6,Arabia,PROPN,NNP,appos,Xxxxx,0.0
+"Rosamond, Illinois, United States",Rosamond,4,1,8,Rosamond,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rosamond, Illinois, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Rosamond, Illinois, United States",Illinois,4,1,8,Illinois,PROPN,NNP,conj,Xxxxx,0.0
+"Rosamond, Illinois, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Rosamond, Illinois, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"New Orleans, Louisiana, United States",New,5,1,3,New,PROPN,NNP,compound,Xxx,0.0
+"New Orleans, Louisiana, United States",Orleans,5,1,7,Orleans,PROPN,NNP,ROOT,Xxxxx,0.0
+"New Orleans, Louisiana, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"New Orleans, Louisiana, United States",Louisiana,5,1,9,Louisiana,PROPN,NNP,npadvmod,Xxxxx,0.0
+"New Orleans, Louisiana, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"New Orleans, Louisiana, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Ho Chi Minh City, NA - Vietnam, Vietnam",Ho,8,1,2,Ho,PROPN,NNP,compound,Xx,0.0
+"Ho Chi Minh City, NA - Vietnam, Vietnam",Chi,8,1,3,Chi,PROPN,NNP,compound,Xxx,0.0
+"Ho Chi Minh City, NA - Vietnam, Vietnam",Minh,8,1,4,Minh,PROPN,NNP,compound,Xxxx,0.0
+"Ho Chi Minh City, NA - Vietnam, Vietnam",City,8,1,4,City,PROPN,NNP,ROOT,Xxxx,0.0
+"Ho Chi Minh City, NA - Vietnam, Vietnam",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Ho Chi Minh City, NA - Vietnam, Vietnam",NA,8,1,2,NA,PROPN,NNP,compound,XX,0.0
+"Ho Chi Minh City, NA - Vietnam, Vietnam",-,8,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Ho Chi Minh City, NA - Vietnam, Vietnam",Vietnam,8,1,7,Vietnam,PROPN,NNP,appos,Xxxxx,0.0
+"Bengaluru, Karnataka, India",Bengaluru,3,2,9,Bengaluru,PROPN,NNP,ROOT,Xxxxx,0.0
+"Bengaluru, Karnataka, India",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Bengaluru, Karnataka, India",Karnataka,3,2,9,Karnataka,PROPN,NNP,conj,Xxxxx,0.0
+"Bengaluru, Karnataka, India",India,3,2,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Curitiba, Parana, Brazil",Curitiba,3,1,8,Curitiba,PROPN,NNP,ROOT,Xxxxx,0.0
+"Curitiba, Parana, Brazil",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Curitiba, Parana, Brazil",Parana,3,1,6,Parana,PROPN,NNP,conj,Xxxxx,0.0
+"Curitiba, Parana, Brazil",Brazil,3,1,6,Brazil,PROPN,NNP,appos,Xxxxx,0.0
+"Lisbon, Lisboa, Portugal",Lisbon,3,7,6,Lisbon,PROPN,NNP,ROOT,Xxxxx,0.0
+"Lisbon, Lisboa, Portugal",",",3,7,1,",",PUNCT,",",punct,",",0.0
+"Lisbon, Lisboa, Portugal",Lisboa,3,7,6,Lisboa,PROPN,NNP,appos,Xxxxx,0.0
+"Lisbon, Lisboa, Portugal",Portugal,3,7,8,Portugal,PROPN,NNP,appos,Xxxxx,0.0
+"Rishikesh, Uttarakhand, India",Rishikesh,3,65,9,rishikesh,ADJ,JJ,ROOT,Xxxxx,0.0
+"Rishikesh, Uttarakhand, India",",",3,65,1,",",PUNCT,",",punct,",",0.0
+"Rishikesh, Uttarakhand, India",Uttarakhand,3,65,11,Uttarakhand,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Rishikesh, Uttarakhand, India",India,3,65,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Croydon, Croydon, United Kingdom",Croydon,4,1,7,Croydon,PROPN,NNP,ROOT,Xxxxx,0.0
+"Croydon, Croydon, United Kingdom",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Croydon, Croydon, United Kingdom",Croydon,4,1,7,Croydon,PROPN,NNP,conj,Xxxxx,0.0
+"Croydon, Croydon, United Kingdom",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Croydon, Croydon, United Kingdom",Kingdom,4,1,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"Montréal, Quebec, Canada",Montréal,3,1,8,Montréal,PROPN,NNP,ROOT,Xxxxx,0.0
+"Montréal, Quebec, Canada",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Montréal, Quebec, Canada",Quebec,3,1,6,Quebec,PROPN,NNP,conj,Xxxxx,0.0
+"Montréal, Quebec, Canada",Canada,3,1,6,Canada,PROPN,NNP,appos,Xxxxx,0.0
+"Milwaukee, Wisconsin, United States",Milwaukee,4,1,9,Milwaukee,PROPN,NNP,ROOT,Xxxxx,0.0
+"Milwaukee, Wisconsin, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Milwaukee, Wisconsin, United States",Wisconsin,4,1,9,Wisconsin,PROPN,NNP,conj,Xxxxx,0.0
+"Milwaukee, Wisconsin, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Milwaukee, Wisconsin, United States",States,4,1,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Penjaringan, Jakarta Raya, Indonesia",Penjaringan,4,1,11,Penjaringan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Penjaringan, Jakarta Raya, Indonesia",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Penjaringan, Jakarta Raya, Indonesia",Jakarta,4,1,7,Jakarta,PROPN,NNP,compound,Xxxxx,0.0
+"Penjaringan, Jakarta Raya, Indonesia",Raya,4,1,4,Raya,PROPN,NNP,appos,Xxxx,0.0
+"Penjaringan, Jakarta Raya, Indonesia",Indonesia,4,1,9,Indonesia,PROPN,NNP,conj,Xxxxx,0.0
+"Grand Lake, Colorado, United States",Grand,5,1,5,Grand,PROPN,NNP,compound,Xxxxx,0.0
+"Grand Lake, Colorado, United States",Lake,5,1,4,Lake,PROPN,NNP,ROOT,Xxxx,0.0
+"Grand Lake, Colorado, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Grand Lake, Colorado, United States",Colorado,5,1,8,Colorado,PROPN,NNP,appos,Xxxxx,0.0
+"Grand Lake, Colorado, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Grand Lake, Colorado, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Canberra, Australian Capital Territory, Australia",Canberra,5,1,8,Canberra,PROPN,NNP,ROOT,Xxxxx,0.0
+"Canberra, Australian Capital Territory, Australia",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Canberra, Australian Capital Territory, Australia",Australian,5,1,10,australian,ADJ,JJ,amod,Xxxxx,0.0
+"Canberra, Australian Capital Territory, Australia",Capital,5,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+"Canberra, Australian Capital Territory, Australia",Territory,5,1,9,Territory,PROPN,NNP,appos,Xxxxx,0.0
+"Canberra, Australian Capital Territory, Australia",Australia,5,1,9,Australia,PROPN,NNP,appos,Xxxxx,0.0
+"South Molton, Devon, United Kingdom",South,5,1,5,South,PROPN,NNP,compound,Xxxxx,0.0
+"South Molton, Devon, United Kingdom",Molton,5,1,6,Molton,PROPN,NNP,ROOT,Xxxxx,0.0
+"South Molton, Devon, United Kingdom",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"South Molton, Devon, United Kingdom",Devon,5,1,5,Devon,PROPN,NNP,conj,Xxxxx,0.0
+"South Molton, Devon, United Kingdom",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"South Molton, Devon, United Kingdom",Kingdom,5,1,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"Minneapolis, Minnesota, United States",Minneapolis,4,1,11,Minneapolis,PROPN,NNP,ROOT,Xxxxx,0.0
+"Minneapolis, Minnesota, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Minneapolis, Minnesota, United States",Minnesota,4,1,9,Minnesota,PROPN,NNP,appos,Xxxxx,0.0
+"Minneapolis, Minnesota, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Minneapolis, Minnesota, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Kent, Kent, United Kingdom",Kent,4,1,4,Kent,PROPN,NNP,ROOT,Xxxx,0.0
+"Kent, Kent, United Kingdom",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Kent, Kent, United Kingdom",Kent,4,1,4,Kent,PROPN,NNP,conj,Xxxx,0.0
+"Kent, Kent, United Kingdom",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Kent, Kent, United Kingdom",Kingdom,4,1,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"Naples, Florida, United States",Naples,4,1,6,Naples,PROPN,NNP,ROOT,Xxxxx,0.0
+"Naples, Florida, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Naples, Florida, United States",Florida,4,1,7,Florida,PROPN,NNP,appos,Xxxxx,0.0
+"Naples, Florida, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Naples, Florida, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Jakarta, Jakarta Raya, Indonesia",Jakarta,4,1,7,Jakarta,PROPN,NNP,ROOT,Xxxxx,0.0
+"Jakarta, Jakarta Raya, Indonesia",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Jakarta, Jakarta Raya, Indonesia",Jakarta,4,1,7,Jakarta,PROPN,NNP,compound,Xxxxx,0.0
+"Jakarta, Jakarta Raya, Indonesia",Raya,4,1,4,Raya,PROPN,NNP,appos,Xxxx,0.0
+"Jakarta, Jakarta Raya, Indonesia",Indonesia,4,1,9,Indonesia,PROPN,NNP,conj,Xxxxx,0.0
+"State College, Pennsylvania, United States",State,5,1,5,State,PROPN,NNP,compound,Xxxxx,0.0
+"State College, Pennsylvania, United States",College,5,1,7,College,PROPN,NNP,ROOT,Xxxxx,0.0
+"State College, Pennsylvania, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"State College, Pennsylvania, United States",Pennsylvania,5,1,12,Pennsylvania,PROPN,NNP,npadvmod,Xxxxx,0.0
+"State College, Pennsylvania, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"State College, Pennsylvania, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Chiba, Chiba, Japan",Chiba,3,1,5,Chiba,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chiba, Chiba, Japan",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Chiba, Chiba, Japan",Chiba,3,1,5,Chiba,PROPN,NNP,conj,Xxxxx,0.0
+"Chiba, Chiba, Japan",Japan,3,1,5,Japan,PROPN,NNP,conj,Xxxxx,0.0
+"Nantes, Pays de la Loire, France",Nantes,6,1,6,Nantes,PROPN,NNP,ROOT,Xxxxx,0.0
+"Nantes, Pays de la Loire, France",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Nantes, Pays de la Loire, France",Pays,6,1,4,Pays,PROPN,NNP,compound,Xxxx,0.0
+"Nantes, Pays de la Loire, France",de,6,1,2,de,PROPN,NNP,compound,xx,0.0
+"Nantes, Pays de la Loire, France",la,6,1,2,la,PROPN,NNP,compound,xx,0.0
+"Nantes, Pays de la Loire, France",Loire,6,1,5,Loire,PROPN,NNP,conj,Xxxxx,0.0
+"Nantes, Pays de la Loire, France",France,6,1,6,France,PROPN,NNP,appos,Xxxxx,0.0
+"Besançon, Franche-Comte, France",Besançon,3,1,8,Besançon,PROPN,NNP,ROOT,Xxxxx,0.0
+"Besançon, Franche-Comte, France",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Besançon, Franche-Comte, France",Franche,3,1,7,Franche,PROPN,NNP,compound,Xxxxx,0.0
+"Besançon, Franche-Comte, France",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Besançon, Franche-Comte, France",Comte,3,1,5,Comte,PROPN,NNP,appos,Xxxxx,0.0
+"Besançon, Franche-Comte, France",France,3,1,6,France,PROPN,NNP,appos,Xxxxx,0.0
+"Anchorage, Alaska, United States",Anchorage,4,1,9,Anchorage,PROPN,NNP,ROOT,Xxxxx,0.0
+"Anchorage, Alaska, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Anchorage, Alaska, United States",Alaska,4,1,6,Alaska,PROPN,NNP,conj,Xxxxx,0.0
+"Anchorage, Alaska, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Anchorage, Alaska, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Budapest, Budapest, Hungary",Budapest,3,1,8,Budapest,PROPN,NNP,ROOT,Xxxxx,0.0
+"Budapest, Budapest, Hungary",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Budapest, Budapest, Hungary",Budapest,3,1,8,Budapest,PROPN,NNP,conj,Xxxxx,0.0
+"Budapest, Budapest, Hungary",Hungary,3,1,7,Hungary,PROPN,NNP,appos,Xxxxx,0.0
+"Kigali, Butare, Rwanda",Kigali,3,1,6,Kigali,PROPN,NNP,ROOT,Xxxxx,0.0
+"Kigali, Butare, Rwanda",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Kigali, Butare, Rwanda",Butare,3,1,6,Butare,PROPN,NNP,conj,Xxxxx,0.0
+"Kigali, Butare, Rwanda",Rwanda,3,1,6,Rwanda,PROPN,NNP,conj,Xxxxx,0.0
+"Monaco, Calabria, Italy",Monaco,3,1,6,Monaco,PROPN,NNP,ROOT,Xxxxx,0.0
+"Monaco, Calabria, Italy",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Monaco, Calabria, Italy",Calabria,3,1,8,Calabria,PROPN,NNP,conj,Xxxxx,0.0
+"Monaco, Calabria, Italy",Italy,3,1,5,Italy,PROPN,NNP,appos,Xxxxx,0.0
+"Jhang Sadar, Punjab, Pakistan",Jhang,4,1,5,Jhang,PROPN,NNP,compound,Xxxxx,0.0
+"Jhang Sadar, Punjab, Pakistan",Sadar,4,1,5,Sadar,PROPN,NNP,ROOT,Xxxxx,0.0
+"Jhang Sadar, Punjab, Pakistan",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Jhang Sadar, Punjab, Pakistan",Punjab,4,1,6,Punjab,PROPN,NNP,appos,Xxxxx,0.0
+"Jhang Sadar, Punjab, Pakistan",Pakistan,4,1,8,Pakistan,PROPN,NNP,appos,Xxxxx,0.0
+"Seattle, Washington, United States",Seattle,4,1,7,Seattle,PROPN,NNP,ROOT,Xxxxx,0.0
+"Seattle, Washington, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Seattle, Washington, United States",Washington,4,1,10,Washington,PROPN,NNP,conj,Xxxxx,0.0
+"Seattle, Washington, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Seattle, Washington, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Lambertville, New Jersey, United States",Lambertville,5,1,12,Lambertville,PROPN,NNP,ROOT,Xxxxx,0.0
+"Lambertville, New Jersey, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Lambertville, New Jersey, United States",New,5,1,3,New,PROPN,NNP,compound,Xxx,0.0
+"Lambertville, New Jersey, United States",Jersey,5,1,6,Jersey,PROPN,NNP,conj,Xxxxx,0.0
+"Lambertville, New Jersey, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Lambertville, New Jersey, United States",States,5,1,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"São Paulo, Sao Paulo, Brazil",São,5,2,3,São,PROPN,NNP,compound,Xxx,0.0
+"São Paulo, Sao Paulo, Brazil",Paulo,5,2,5,Paulo,PROPN,NNP,ROOT,Xxxxx,0.0
+"São Paulo, Sao Paulo, Brazil",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"São Paulo, Sao Paulo, Brazil",Sao,5,2,3,Sao,PROPN,NNP,compound,Xxx,0.0
+"São Paulo, Sao Paulo, Brazil",Paulo,5,2,5,Paulo,PROPN,NNP,appos,Xxxxx,0.0
+"São Paulo, Sao Paulo, Brazil",Brazil,5,2,6,Brazil,PROPN,NNP,appos,Xxxxx,0.0
+"Birmingham, Birmingham, United Kingdom",Birmingham,4,2,10,Birmingham,PROPN,NNP,ROOT,Xxxxx,0.0
+"Birmingham, Birmingham, United Kingdom",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Birmingham, Birmingham, United Kingdom",Birmingham,4,2,10,Birmingham,PROPN,NNP,conj,Xxxxx,0.0
+"Birmingham, Birmingham, United Kingdom",United,4,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Birmingham, Birmingham, United Kingdom",Kingdom,4,2,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"National, Maryland, United States",National,4,1,8,National,PROPN,NNP,ROOT,Xxxxx,0.0
+"National, Maryland, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"National, Maryland, United States",Maryland,4,1,8,Maryland,PROPN,NNP,appos,Xxxxx,0.0
+"National, Maryland, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"National, Maryland, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Lagos, Los Lagos, Chile",Lagos,4,1,5,lago,NOUN,NNS,ROOT,Xxxxx,0.0
+"Lagos, Los Lagos, Chile",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Lagos, Los Lagos, Chile",Los,4,1,3,Los,PROPN,NNP,compound,Xxx,0.0
+"Lagos, Los Lagos, Chile",Lagos,4,1,5,Lagos,PROPN,NNP,appos,Xxxxx,0.0
+"Lagos, Los Lagos, Chile",Chile,4,1,5,Chile,PROPN,NNP,appos,Xxxxx,0.0
+"Dubrovnik, Dubrovacko-Neretvanska, Croatia",Dubrovnik,3,1,9,Dubrovnik,PROPN,NNP,ROOT,Xxxxx,0.0
+"Dubrovnik, Dubrovacko-Neretvanska, Croatia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Dubrovnik, Dubrovacko-Neretvanska, Croatia",Dubrovacko,3,1,10,Dubrovacko,PROPN,NNP,compound,Xxxxx,0.0
+"Dubrovnik, Dubrovacko-Neretvanska, Croatia",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Dubrovnik, Dubrovacko-Neretvanska, Croatia",Neretvanska,3,1,11,Neretvanska,PROPN,NNP,appos,Xxxxx,0.0
+"Dubrovnik, Dubrovacko-Neretvanska, Croatia",Croatia,3,1,7,Croatia,PROPN,NNP,appos,Xxxxx,0.0
+"Granada, Andalucia, Spain",Granada,3,1,7,Granada,PROPN,NNP,ROOT,Xxxxx,0.0
+"Granada, Andalucia, Spain",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Granada, Andalucia, Spain",Andalucia,3,1,9,Andalucia,PROPN,NNP,conj,Xxxxx,0.0
+"Granada, Andalucia, Spain",Spain,3,1,5,Spain,PROPN,NNP,appos,Xxxxx,0.0
+"Wernersville, Pennsylvania, United States",Wernersville,4,1,12,Wernersville,PROPN,NNP,ROOT,Xxxxx,0.0
+"Wernersville, Pennsylvania, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Wernersville, Pennsylvania, United States",Pennsylvania,4,1,12,Pennsylvania,PROPN,NNP,appos,Xxxxx,0.0
+"Wernersville, Pennsylvania, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Wernersville, Pennsylvania, United States",States,4,1,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Foshan, Guangdong, China",Foshan,3,1,6,Foshan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Foshan, Guangdong, China",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Foshan, Guangdong, China",Guangdong,3,1,9,Guangdong,PROPN,NNP,conj,Xxxxx,0.0
+"Foshan, Guangdong, China",China,3,1,5,China,PROPN,NNP,conj,Xxxxx,0.0
+"Fort Lauderdale, Florida, United States",Fort,5,2,4,Fort,PROPN,NNP,compound,Xxxx,0.0
+"Fort Lauderdale, Florida, United States",Lauderdale,5,2,10,Lauderdale,PROPN,NNP,ROOT,Xxxxx,0.0
+"Fort Lauderdale, Florida, United States",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Fort Lauderdale, Florida, United States",Florida,5,2,7,Florida,PROPN,NNP,appos,Xxxxx,0.0
+"Fort Lauderdale, Florida, United States",United,5,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Fort Lauderdale, Florida, United States",States,5,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Rouen, Haute-Normandie, France",Rouen,3,1,5,Rouen,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rouen, Haute-Normandie, France",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Rouen, Haute-Normandie, France",Haute,3,1,5,Haute,PROPN,NNP,compound,Xxxxx,0.0
+"Rouen, Haute-Normandie, France",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Rouen, Haute-Normandie, France",Normandie,3,1,9,Normandie,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Rouen, Haute-Normandie, France",France,3,1,6,France,PROPN,NNP,appos,Xxxxx,0.0
+"Hollywood, Florida, United States",Hollywood,4,1,9,Hollywood,PROPN,NNP,ROOT,Xxxxx,0.0
+"Hollywood, Florida, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Hollywood, Florida, United States",Florida,4,1,7,Florida,PROPN,NNP,appos,Xxxxx,0.0
+"Hollywood, Florida, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Hollywood, Florida, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Franklin, Tennessee, United States",Franklin,4,2,8,Franklin,PROPN,NNP,ROOT,Xxxxx,0.0
+"Franklin, Tennessee, United States",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Franklin, Tennessee, United States",Tennessee,4,2,9,Tennessee,PROPN,NNP,appos,Xxxxx,0.0
+"Franklin, Tennessee, United States",United,4,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Franklin, Tennessee, United States",States,4,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Hanover, Niedersachsen, Germany",Hanover,3,1,7,Hanover,PROPN,NNP,ROOT,Xxxxx,0.0
+"Hanover, Niedersachsen, Germany",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Hanover, Niedersachsen, Germany",Niedersachsen,3,1,13,Niedersachsen,PROPN,NNP,conj,Xxxxx,0.0
+"Hanover, Niedersachsen, Germany",Germany,3,1,7,Germany,PROPN,NNP,conj,Xxxxx,0.0
+"Ottobrunn, Bayern, Germany",Ottobrunn,3,1,9,Ottobrunn,PROPN,NNP,ROOT,Xxxxx,0.0
+"Ottobrunn, Bayern, Germany",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Ottobrunn, Bayern, Germany",Bayern,3,1,6,Bayern,PROPN,NNP,conj,Xxxxx,0.0
+"Ottobrunn, Bayern, Germany",Germany,3,1,7,Germany,PROPN,NNP,conj,Xxxxx,0.0
+"Sevan, Geghark'unik', Armenia",Sevan,3,3,5,Sevan,PROPN,NNP,ROOT,Xxxxx,0.0
+"Sevan, Geghark'unik', Armenia",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Sevan, Geghark'unik', Armenia",Geghark'unik,3,3,12,geghark'unik,X,FW,appos,Xxxxx'xxxx,0.0
+"Sevan, Geghark'unik', Armenia",',3,3,1,',PUNCT,'',punct,',0.0
+"Sevan, Geghark'unik', Armenia",Armenia,3,3,7,Armenia,PROPN,NNP,appos,Xxxxx,0.0
+"Miami Beach, Florida, United States",Miami,5,1,5,Miami,PROPN,NNP,compound,Xxxxx,0.0
+"Miami Beach, Florida, United States",Beach,5,1,5,Beach,PROPN,NNP,ROOT,Xxxxx,0.0
+"Miami Beach, Florida, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Miami Beach, Florida, United States",Florida,5,1,7,Florida,PROPN,NNP,appos,Xxxxx,0.0
+"Miami Beach, Florida, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Miami Beach, Florida, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Kota Kinabalu, Sabah, Malaysia",Kota,4,1,4,Kota,PROPN,NNP,compound,Xxxx,0.0
+"Kota Kinabalu, Sabah, Malaysia",Kinabalu,4,1,8,Kinabalu,PROPN,NNP,ROOT,Xxxxx,0.0
+"Kota Kinabalu, Sabah, Malaysia",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Kota Kinabalu, Sabah, Malaysia",Sabah,4,1,5,Sabah,PROPN,NNP,appos,Xxxxx,0.0
+"Kota Kinabalu, Sabah, Malaysia",Malaysia,4,1,8,Malaysia,PROPN,NNP,appos,Xxxxx,0.0
+"Stuttgart, Baden-Wurttemberg, Germany",Stuttgart,3,1,9,Stuttgart,PROPN,NNP,ROOT,Xxxxx,0.0
+"Stuttgart, Baden-Wurttemberg, Germany",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Stuttgart, Baden-Wurttemberg, Germany",Baden,3,1,5,Baden,PROPN,NNP,compound,Xxxxx,0.0
+"Stuttgart, Baden-Wurttemberg, Germany",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Stuttgart, Baden-Wurttemberg, Germany",Wurttemberg,3,1,11,Wurttemberg,PROPN,NNP,appos,Xxxxx,0.0
+"Stuttgart, Baden-Wurttemberg, Germany",Germany,3,1,7,Germany,PROPN,NNP,appos,Xxxxx,0.0
+"Vienna, Wien, Austria",Vienna,3,1,6,Vienna,PROPN,NNP,ROOT,Xxxxx,0.0
+"Vienna, Wien, Austria",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Vienna, Wien, Austria",Wien,3,1,4,Wien,PROPN,NNP,conj,Xxxx,0.0
+"Vienna, Wien, Austria",Austria,3,1,7,Austria,PROPN,NNP,conj,Xxxxx,0.0
+"Tel Aviv, Tel Aviv, Israel",Tel,5,2,3,Tel,PROPN,NNP,compound,Xxx,0.0
+"Tel Aviv, Tel Aviv, Israel",Aviv,5,2,4,Aviv,PROPN,NNP,ROOT,Xxxx,0.0
+"Tel Aviv, Tel Aviv, Israel",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Tel Aviv, Tel Aviv, Israel",Aviv,5,2,4,Aviv,PROPN,NNP,appos,Xxxx,0.0
+"Tel Aviv, Tel Aviv, Israel",Israel,5,2,6,Israel,PROPN,NNP,appos,Xxxxx,0.0
+"Fort Worth, Texas, United States",Fort,5,1,4,Fort,PROPN,NNP,compound,Xxxx,0.0
+"Fort Worth, Texas, United States",Worth,5,1,5,Worth,PROPN,NNP,ROOT,Xxxxx,0.0
+"Fort Worth, Texas, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Fort Worth, Texas, United States",Texas,5,1,5,Texas,PROPN,NNP,appos,Xxxxx,0.0
+"Fort Worth, Texas, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Fort Worth, Texas, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"New City, New York, United States",New,6,1,3,New,PROPN,NNP,compound,Xxx,0.0
+"New City, New York, United States",City,6,1,4,City,PROPN,NNP,ROOT,Xxxx,0.0
+"New City, New York, United States",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"New City, New York, United States",York,6,1,4,York,PROPN,NNP,npadvmod,Xxxx,0.0
+"New City, New York, United States",United,6,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"New City, New York, United States",States,6,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Nashville, Tennessee, United States",Nashville,4,1,9,Nashville,PROPN,NNP,ROOT,Xxxxx,0.0
+"Nashville, Tennessee, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Nashville, Tennessee, United States",Tennessee,4,1,9,Tennessee,PROPN,NNP,appos,Xxxxx,0.0
+"Nashville, Tennessee, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Nashville, Tennessee, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Cologne, Nordrhein-Westfalen, Germany",Cologne,3,2,7,Cologne,PROPN,NNP,ROOT,Xxxxx,0.0
+"Cologne, Nordrhein-Westfalen, Germany",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Cologne, Nordrhein-Westfalen, Germany",Nordrhein,3,2,9,Nordrhein,PROPN,NNP,compound,Xxxxx,0.0
+"Cologne, Nordrhein-Westfalen, Germany",-,3,2,1,-,PUNCT,HYPH,punct,-,0.0
+"Cologne, Nordrhein-Westfalen, Germany",Westfalen,3,2,9,Westfalen,PROPN,NNP,appos,Xxxxx,0.0
+"Cologne, Nordrhein-Westfalen, Germany",Germany,3,2,7,Germany,PROPN,NNP,appos,Xxxxx,0.0
+"Portland, Maine, United States",Portland,4,1,8,Portland,PROPN,NNP,ROOT,Xxxxx,0.0
+"Portland, Maine, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Portland, Maine, United States",Maine,4,1,5,Maine,PROPN,NNP,appos,Xxxxx,0.0
+"Portland, Maine, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Portland, Maine, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Colorado Springs, Colorado, United States",Colorado,5,1,8,Colorado,PROPN,NNP,compound,Xxxxx,0.0
+"Colorado Springs, Colorado, United States",Springs,5,1,7,Springs,PROPN,NNP,ROOT,Xxxxx,0.0
+"Colorado Springs, Colorado, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Colorado Springs, Colorado, United States",Colorado,5,1,8,Colorado,PROPN,NNP,appos,Xxxxx,0.0
+"Colorado Springs, Colorado, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Colorado Springs, Colorado, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Copenhagen, Hovedstaden, Denmark",Copenhagen,3,1,10,Copenhagen,PROPN,NNP,ROOT,Xxxxx,0.0
+"Copenhagen, Hovedstaden, Denmark",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Copenhagen, Hovedstaden, Denmark",Hovedstaden,3,1,11,Hovedstaden,PROPN,NNP,conj,Xxxxx,0.0
+"Copenhagen, Hovedstaden, Denmark",Denmark,3,1,7,Denmark,PROPN,NNP,appos,Xxxxx,0.0
+"Nürnberg, Bayern, Germany",Nürnberg,3,1,8,Nürnberg,PROPN,NNP,ROOT,Xxxxx,0.0
+"Nürnberg, Bayern, Germany",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Nürnberg, Bayern, Germany",Bayern,3,1,6,Bayern,PROPN,NNP,appos,Xxxxx,0.0
+"Nürnberg, Bayern, Germany",Germany,3,1,7,Germany,PROPN,NNP,conj,Xxxxx,0.0
+"India, Pennsylvania, United States",India,4,1,5,India,PROPN,NNP,ROOT,Xxxxx,0.0
+"India, Pennsylvania, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"India, Pennsylvania, United States",Pennsylvania,4,1,12,Pennsylvania,PROPN,NNP,conj,Xxxxx,0.0
+"India, Pennsylvania, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"India, Pennsylvania, United States",States,4,1,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Santa Clara, California, United States",Santa,5,2,5,Santa,PROPN,NNP,compound,Xxxxx,0.0
+"Santa Clara, California, United States",Clara,5,2,5,Clara,PROPN,NNP,ROOT,Xxxxx,0.0
+"Santa Clara, California, United States",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Santa Clara, California, United States",California,5,2,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"Santa Clara, California, United States",United,5,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Santa Clara, California, United States",States,5,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Santa Monica, California, United States",Santa,5,2,5,Santa,PROPN,NNP,compound,Xxxxx,0.0
+"Santa Monica, California, United States",Monica,5,2,6,Monica,PROPN,NNP,ROOT,Xxxxx,0.0
+"Santa Monica, California, United States",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Santa Monica, California, United States",California,5,2,10,California,PROPN,NNP,appos,Xxxxx,0.0
+"Santa Monica, California, United States",United,5,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Santa Monica, California, United States",States,5,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Poole, Dorset, United Kingdom",Poole,4,1,5,Poole,PROPN,NNP,ROOT,Xxxxx,0.0
+"Poole, Dorset, United Kingdom",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Poole, Dorset, United Kingdom",Dorset,4,1,6,Dorset,PROPN,NNP,conj,Xxxxx,0.0
+"Poole, Dorset, United Kingdom",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Poole, Dorset, United Kingdom",Kingdom,4,1,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"San Antonio, Texas, United States",San,5,2,3,San,PROPN,NNP,compound,Xxx,0.0
+"San Antonio, Texas, United States",Antonio,5,2,7,Antonio,PROPN,NNP,ROOT,Xxxxx,0.0
+"San Antonio, Texas, United States",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"San Antonio, Texas, United States",Texas,5,2,5,Texas,PROPN,NNP,appos,Xxxxx,0.0
+"San Antonio, Texas, United States",United,5,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"San Antonio, Texas, United States",States,5,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Najafgarh, Delhi, India",Najafgarh,3,1,9,Najafgarh,PROPN,NNP,ROOT,Xxxxx,0.0
+"Najafgarh, Delhi, India",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Najafgarh, Delhi, India",Delhi,3,1,5,Delhi,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Najafgarh, Delhi, India",India,3,1,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Accra, Greater Accra, Ghana",Accra,4,2,5,accra,ADV,RB,advmod,Xxxxx,0.0
+"Accra, Greater Accra, Ghana",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Accra, Greater Accra, Ghana",Greater,4,2,7,Greater,PROPN,NNP,compound,Xxxxx,0.0
+"Accra, Greater Accra, Ghana",Accra,4,2,5,Accra,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accra, Greater Accra, Ghana",Ghana,4,2,5,Ghana,PROPN,NNP,appos,Xxxxx,0.0
+"Toulouse, Midi-Pyrenees, France",Toulouse,3,1,8,Toulouse,PROPN,NNP,ROOT,Xxxxx,0.0
+"Toulouse, Midi-Pyrenees, France",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Toulouse, Midi-Pyrenees, France",Midi,3,1,4,Midi,PROPN,NNP,compound,Xxxx,0.0
+"Toulouse, Midi-Pyrenees, France",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Toulouse, Midi-Pyrenees, France",Pyrenees,3,1,8,Pyrenees,PROPN,NNP,appos,Xxxxx,0.0
+"Toulouse, Midi-Pyrenees, France",France,3,1,6,France,PROPN,NNP,appos,Xxxxx,0.0
+"Bella Vista, Distrito Nacional, Dominican Republic",Bella,6,1,5,Bella,PROPN,NNP,compound,Xxxxx,0.0
+"Bella Vista, Distrito Nacional, Dominican Republic",Vista,6,1,5,Vista,PROPN,NNP,ROOT,Xxxxx,0.0
+"Bella Vista, Distrito Nacional, Dominican Republic",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Bella Vista, Distrito Nacional, Dominican Republic",Distrito,6,1,8,Distrito,PROPN,NNP,compound,Xxxxx,0.0
+"Bella Vista, Distrito Nacional, Dominican Republic",Nacional,6,1,8,Nacional,PROPN,NNP,appos,Xxxxx,0.0
+"Bella Vista, Distrito Nacional, Dominican Republic",Dominican,6,1,9,Dominican,PROPN,NNP,compound,Xxxxx,0.0
+"Bella Vista, Distrito Nacional, Dominican Republic",Republic,6,1,8,Republic,PROPN,NNP,conj,Xxxxx,0.0
+"Rotterdam, Zuid-Holland, The Netherlands",Rotterdam,4,1,9,Rotterdam,PROPN,NNP,ROOT,Xxxxx,0.0
+"Rotterdam, Zuid-Holland, The Netherlands",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Rotterdam, Zuid-Holland, The Netherlands",Zuid,4,1,4,Zuid,PROPN,NNP,compound,Xxxx,0.0
+"Rotterdam, Zuid-Holland, The Netherlands",-,4,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Rotterdam, Zuid-Holland, The Netherlands",Holland,4,1,7,Holland,PROPN,NNP,conj,Xxxxx,0.0
+"Rotterdam, Zuid-Holland, The Netherlands",The,4,1,3,the,DET,DT,det,Xxx,0.0
+"Rotterdam, Zuid-Holland, The Netherlands",Netherlands,4,1,11,Netherlands,PROPN,NNP,conj,Xxxxx,0.0
+"Cambridge, Cambridgeshire, United Kingdom",Cambridge,4,1,9,Cambridge,PROPN,NNP,ROOT,Xxxxx,0.0
+"Cambridge, Cambridgeshire, United Kingdom",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Cambridge, Cambridgeshire, United Kingdom",Cambridgeshire,4,1,14,Cambridgeshire,PROPN,NNP,conj,Xxxxx,0.0
+"Cambridge, Cambridgeshire, United Kingdom",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Cambridge, Cambridgeshire, United Kingdom",Kingdom,4,1,7,Kingdom,PROPN,NNP,appos,Xxxxx,0.0
+"Kaduna, Kaduna, Nigeria",Kaduna,3,1,6,Kaduna,PROPN,NNP,ROOT,Xxxxx,0.0
+"Kaduna, Kaduna, Nigeria",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Kaduna, Kaduna, Nigeria",Kaduna,3,1,6,Kaduna,PROPN,NNP,conj,Xxxxx,0.0
+"Kaduna, Kaduna, Nigeria",Nigeria,3,1,7,Nigeria,PROPN,NNP,conj,Xxxxx,0.0
+"Nusa Dua, Bali, Indonesia",Nusa,4,1,4,Nusa,PROPN,NNP,compound,Xxxx,0.0
+"Nusa Dua, Bali, Indonesia",Dua,4,1,3,Dua,PROPN,NNP,ROOT,Xxx,0.0
+"Nusa Dua, Bali, Indonesia",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Nusa Dua, Bali, Indonesia",Bali,4,1,4,Bali,PROPN,NNP,appos,Xxxx,0.0
+"Nusa Dua, Bali, Indonesia",Indonesia,4,1,9,Indonesia,PROPN,NNP,appos,Xxxxx,0.0
+"Castelldefels, Catalonia, Spain",Castelldefels,3,1,13,castelldefel,NOUN,NNS,ROOT,Xxxxx,0.0
+"Castelldefels, Catalonia, Spain",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Castelldefels, Catalonia, Spain",Catalonia,3,1,9,Catalonia,PROPN,NNP,nmod,Xxxxx,0.0
+"Castelldefels, Catalonia, Spain",Spain,3,1,5,Spain,PROPN,NNP,appos,Xxxxx,0.0
+"New Haven, Connecticut, United States",New,5,1,3,New,PROPN,NNP,compound,Xxx,0.0
+"New Haven, Connecticut, United States",Haven,5,1,5,Haven,PROPN,NNP,ROOT,Xxxxx,0.0
+"New Haven, Connecticut, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"New Haven, Connecticut, United States",Connecticut,5,1,11,Connecticut,PROPN,NNP,npadvmod,Xxxxx,0.0
+"New Haven, Connecticut, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"New Haven, Connecticut, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Bucharest, Bucuresti, Romania",Bucharest,3,1,9,bucharest,ADV,RB,ROOT,Xxxxx,0.0
+"Bucharest, Bucuresti, Romania",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Bucharest, Bucuresti, Romania",Bucuresti,3,1,9,Bucuresti,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Bucharest, Bucuresti, Romania",Romania,3,1,7,Romania,PROPN,NNP,appos,Xxxxx,0.0
+"Ithaca, New York, United States",Ithaca,5,2,6,Ithaca,PROPN,NNP,ROOT,Xxxxx,0.0
+"Ithaca, New York, United States",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Ithaca, New York, United States",New,5,2,3,New,PROPN,NNP,compound,Xxx,0.0
+"Ithaca, New York, United States",York,5,2,4,York,PROPN,NNP,conj,Xxxx,0.0
+"Ithaca, New York, United States",United,5,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Ithaca, New York, United States",States,5,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"West Lafayette, Indiana, United States",West,5,1,4,West,PROPN,NNP,compound,Xxxx,0.0
+"West Lafayette, Indiana, United States",Lafayette,5,1,9,Lafayette,PROPN,NNP,ROOT,Xxxxx,0.0
+"West Lafayette, Indiana, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"West Lafayette, Indiana, United States",Indiana,5,1,7,Indiana,PROPN,NNP,appos,Xxxxx,0.0
+"West Lafayette, Indiana, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"West Lafayette, Indiana, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Kissimmee, Florida, United States",Kissimmee,4,1,9,Kissimmee,PROPN,NNP,ROOT,Xxxxx,0.0
+"Kissimmee, Florida, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Kissimmee, Florida, United States",Florida,4,1,7,Florida,PROPN,NNP,appos,Xxxxx,0.0
+"Kissimmee, Florida, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Kissimmee, Florida, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Texas, South Carolina, United States",Texas,5,1,5,Texas,PROPN,NNP,ROOT,Xxxxx,0.0
+"Texas, South Carolina, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Texas, South Carolina, United States",South,5,1,5,South,PROPN,NNP,compound,Xxxxx,0.0
+"Texas, South Carolina, United States",Carolina,5,1,8,Carolina,PROPN,NNP,conj,Xxxxx,0.0
+"Texas, South Carolina, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Texas, South Carolina, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Houston, Texas, United States",Houston,4,1,7,Houston,PROPN,NNP,ROOT,Xxxxx,0.0
+"Houston, Texas, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Houston, Texas, United States",Texas,4,1,5,Texas,PROPN,NNP,appos,Xxxxx,0.0
+"Houston, Texas, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Houston, Texas, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Moscow, Moscow City, Russian Federation",Moscow,5,1,6,Moscow,PROPN,NNP,ROOT,Xxxxx,0.0
+"Moscow, Moscow City, Russian Federation",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Moscow, Moscow City, Russian Federation",Moscow,5,1,6,Moscow,PROPN,NNP,compound,Xxxxx,0.0
+"Moscow, Moscow City, Russian Federation",City,5,1,4,City,PROPN,NNP,appos,Xxxx,0.0
+"Moscow, Moscow City, Russian Federation",Russian,5,1,7,Russian,PROPN,NNP,compound,Xxxxx,0.0
+"Moscow, Moscow City, Russian Federation",Federation,5,1,10,Federation,PROPN,NNP,appos,Xxxxx,0.0
+"Warsaw, Mazowieckie, Poland",Warsaw,3,1,6,Warsaw,PROPN,NNP,ROOT,Xxxxx,0.0
+"Warsaw, Mazowieckie, Poland",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Warsaw, Mazowieckie, Poland",Mazowieckie,3,1,11,Mazowieckie,PROPN,NNP,conj,Xxxxx,0.0
+"Warsaw, Mazowieckie, Poland",Poland,3,1,6,Poland,PROPN,NNP,appos,Xxxxx,0.0
+"Window Rock, Arizona, United States",Window,5,1,6,Window,PROPN,NNP,compound,Xxxxx,0.0
+"Window Rock, Arizona, United States",Rock,5,1,4,Rock,PROPN,NNP,ROOT,Xxxx,0.0
+"Window Rock, Arizona, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Window Rock, Arizona, United States",Arizona,5,1,7,Arizona,PROPN,NNP,appos,Xxxxx,0.0
+"Window Rock, Arizona, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Window Rock, Arizona, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Kochi, Kerala, India",Kochi,3,1,5,Kochi,PROPN,NNP,ROOT,Xxxxx,0.0
+"Kochi, Kerala, India",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Kochi, Kerala, India",Kerala,3,1,6,Kerala,PROPN,NNP,conj,Xxxxx,0.0
+"Kochi, Kerala, India",India,3,1,5,India,PROPN,NNP,appos,Xxxxx,0.0
+"Brooklyn, New York, United States",Brooklyn,5,2,8,Brooklyn,PROPN,NNP,ROOT,Xxxxx,0.0
+"Brooklyn, New York, United States",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Brooklyn, New York, United States",New,5,2,3,New,PROPN,NNP,compound,Xxx,0.0
+"Brooklyn, New York, United States",York,5,2,4,York,PROPN,NNP,npadvmod,Xxxx,0.0
+"Brooklyn, New York, United States",United,5,2,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Brooklyn, New York, United States",States,5,2,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Wan Chai, Hong Kong Island, Hong Kong",Wan,7,1,3,Wan,PROPN,NNP,compound,Xxx,0.0
+"Wan Chai, Hong Kong Island, Hong Kong",Chai,7,1,4,Chai,PROPN,NNP,ROOT,Xxxx,0.0
+"Wan Chai, Hong Kong Island, Hong Kong",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Wan Chai, Hong Kong Island, Hong Kong",Hong,7,1,4,Hong,PROPN,NNP,compound,Xxxx,0.0
+"Wan Chai, Hong Kong Island, Hong Kong",Kong,7,1,4,Kong,PROPN,NNP,compound,Xxxx,0.0
+"Wan Chai, Hong Kong Island, Hong Kong",Island,7,1,6,Island,PROPN,NNP,appos,Xxxxx,0.0
+"Wan Chai, Hong Kong Island, Hong Kong",Kong,7,1,4,Kong,PROPN,NNP,appos,Xxxx,0.0
+"Norashen, Ararat, Armenia",Norashen,3,1,8,Norashen,PROPN,NNP,ROOT,Xxxxx,0.0
+"Norashen, Ararat, Armenia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Norashen, Ararat, Armenia",Ararat,3,1,6,Ararat,PROPN,NNP,appos,Xxxxx,0.0
+"Norashen, Ararat, Armenia",Armenia,3,1,7,Armenia,PROPN,NNP,appos,Xxxxx,0.0
+"Vadodara, Gujarat, India",Vadodara,3,1,8,Vadodara,PROPN,NNP,ROOT,Xxxxx,0.0
+"Vadodara, Gujarat, India",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Vadodara, Gujarat, India",Gujarat,3,1,7,Gujarat,PROPN,NNP,conj,Xxxxx,0.0
+"Vadodara, Gujarat, India",India,3,1,5,India,PROPN,NNP,conj,Xxxxx,0.0
+"Berwyn, Pennsylvania, United States",Berwyn,4,1,6,Berwyn,PROPN,NNP,ROOT,Xxxxx,0.0
+"Berwyn, Pennsylvania, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Berwyn, Pennsylvania, United States",Pennsylvania,4,1,12,Pennsylvania,PROPN,NNP,conj,Xxxxx,0.0
+"Berwyn, Pennsylvania, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Berwyn, Pennsylvania, United States",States,4,1,6,States,PROPN,NNP,conj,Xxxxx,0.0
+"Denpasar, Bali, Indonesia",Denpasar,3,1,8,Denpasar,PROPN,NNP,ROOT,Xxxxx,0.0
+"Denpasar, Bali, Indonesia",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Denpasar, Bali, Indonesia",Bali,3,1,4,Bali,PROPN,NNP,conj,Xxxx,0.0
+"Denpasar, Bali, Indonesia",Indonesia,3,1,9,Indonesia,PROPN,NNP,conj,Xxxxx,0.0
+"Hudson, New York, United States",Hudson,5,1,6,Hudson,PROPN,NNP,ROOT,Xxxxx,0.0
+"Hudson, New York, United States",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Hudson, New York, United States",New,5,1,3,New,PROPN,NNP,compound,Xxx,0.0
+"Hudson, New York, United States",York,5,1,4,York,PROPN,NNP,appos,Xxxx,0.0
+"Hudson, New York, United States",United,5,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Hudson, New York, United States",States,5,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Gasteig, Bayern, Germany",Gasteig,3,1,7,Gasteig,PROPN,NNP,ROOT,Xxxxx,0.0
+"Gasteig, Bayern, Germany",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Gasteig, Bayern, Germany",Bayern,3,1,6,Bayern,PROPN,NNP,conj,Xxxxx,0.0
+"Gasteig, Bayern, Germany",Germany,3,1,7,Germany,PROPN,NNP,conj,Xxxxx,0.0
+"Powell, Tennessee, United States",Powell,4,1,6,Powell,PROPN,NNP,ROOT,Xxxxx,0.0
+"Powell, Tennessee, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Powell, Tennessee, United States",Tennessee,4,1,9,Tennessee,PROPN,NNP,appos,Xxxxx,0.0
+"Powell, Tennessee, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Powell, Tennessee, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0
+"Tampa, Florida, United States",Tampa,4,1,5,Tampa,PROPN,NNP,ROOT,Xxxxx,0.0
+"Tampa, Florida, United States",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Tampa, Florida, United States",Florida,4,1,7,Florida,PROPN,NNP,appos,Xxxxx,0.0
+"Tampa, Florida, United States",United,4,1,6,United,PROPN,NNP,compound,Xxxxx,0.0
+"Tampa, Florida, United States",States,4,1,6,States,PROPN,NNP,appos,Xxxxx,0.0

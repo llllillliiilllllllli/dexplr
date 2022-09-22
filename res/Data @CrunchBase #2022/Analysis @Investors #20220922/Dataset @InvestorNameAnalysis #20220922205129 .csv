@@ -1,0 +1,2305 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Y Combinator,Y,2,1,1,Y,PROPN,NNP,compound,X,0.0
+Y Combinator,Combinator,2,1,10,combinator,NOUN,NN,ROOT,Xxxxx,0.0
+EASME - EU Executive Agency for SMEs,EASME,7,1,5,EASME,PROPN,NNP,compound,XXXX,0.0
+EASME - EU Executive Agency for SMEs,-,7,1,1,-,PUNCT,HYPH,punct,-,0.0
+EASME - EU Executive Agency for SMEs,EU,7,1,2,EU,PROPN,NNP,compound,XX,0.0
+EASME - EU Executive Agency for SMEs,Executive,7,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+EASME - EU Executive Agency for SMEs,Agency,7,1,6,Agency,PROPN,NNP,ROOT,Xxxxx,0.0
+EASME - EU Executive Agency for SMEs,for,7,1,3,for,ADP,IN,prep,xxx,0.0
+EASME - EU Executive Agency for SMEs,SMEs,7,1,4,sme,NOUN,NNS,pobj,XXXx,0.0
+National Science Foundation,National,3,1,8,National,PROPN,NNP,compound,Xxxxx,0.0
+National Science Foundation,Science,3,1,7,Science,PROPN,NNP,compound,Xxxxx,0.0
+National Science Foundation,Foundation,3,1,10,Foundation,PROPN,NNP,ROOT,Xxxxx,0.0
+Techstars,Techstars,1,1,9,techstar,NOUN,NNS,ROOT,Xxxxx,0.0
+MassChallenge,MassChallenge,1,1,13,MassChallenge,PROPN,NNP,ROOT,XxxxXxxxx,0.0
+500 Startups,500,2,1,3,500,NUM,CD,nummod,ddd,0.0
+500 Startups,Startups,2,1,8,startup,NOUN,NNS,ROOT,Xxxxx,0.0
+SOSV,SOSV,1,1,4,SOSV,NOUN,NNS,ROOT,XXXX,0.0
+New Enterprise Associates,New,3,1,3,New,PROPN,NNP,compound,Xxx,0.0
+New Enterprise Associates,Enterprise,3,1,10,Enterprise,PROPN,NNP,compound,Xxxxx,0.0
+New Enterprise Associates,Associates,3,1,10,Associates,PROPN,NNPS,ROOT,Xxxxx,0.0
+Accel,Accel,1,1,5,Accel,PROPN,NNP,ROOT,Xxxxx,0.0
+Sequoia Capital,Sequoia,2,1,7,Sequoia,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Bossanova Investimentos,Bossanova,2,1,9,Bossanova,PROPN,NNP,compound,Xxxxx,0.0
+Bossanova Investimentos,Investimentos,2,1,13,Investimentos,PROPN,NNP,ROOT,Xxxxx,0.0
+Intel Capital,Intel,2,1,5,Intel,PROPN,NNP,compound,Xxxxx,0.0
+Intel Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Plug and Play,Plug,3,1,4,Plug,PROPN,NNP,ROOT,Xxxx,0.0
+Plug and Play,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Plug and Play,Play,3,1,4,play,VERB,VB,conj,Xxxx,0.0
+IDG Capital,IDG,2,1,3,IDG,PROPN,NNP,compound,XXX,0.0
+IDG Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Kleiner Perkins,Kleiner,2,1,7,Kleiner,PROPN,NNP,nsubj,Xxxxx,0.0
+Kleiner Perkins,Perkins,2,1,7,perkin,VERB,VBZ,ROOT,Xxxxx,0.0
+SV Angel,SV,2,1,2,SV,PROPN,NNP,compound,XX,0.0
+SV Angel,Angel,2,1,5,Angel,PROPN,NNP,ROOT,Xxxxx,0.0
+Andreessen Horowitz,Andreessen,2,1,10,Andreessen,PROPN,NNP,compound,Xxxxx,0.0
+Andreessen Horowitz,Horowitz,2,1,8,Horowitz,PROPN,NNP,ROOT,Xxxxx,0.0
+Venture Kick,Venture,2,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Venture Kick,Kick,2,1,4,Kick,PROPN,NNP,ROOT,Xxxx,0.0
+Bessemer Venture Partners,Bessemer,3,1,8,Bessemer,PROPN,NNP,compound,Xxxxx,0.0
+Bessemer Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Bessemer Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Alumni Ventures,Alumni,2,1,6,Alumni,PROPN,NNP,compound,Xxxxx,0.0
+Alumni Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Right Side Capital Management,Right,4,1,5,right,INTJ,UH,compound,Xxxxx,0.0
+Right Side Capital Management,Side,4,1,4,Side,PROPN,NNP,compound,Xxxx,0.0
+Right Side Capital Management,Capital,4,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Right Side Capital Management,Management,4,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Wayra,Wayra,1,1,5,Wayra,PROPN,NNP,ROOT,Xxxxx,0.0
+Lightspeed Venture Partners,Lightspeed,3,1,10,Lightspeed,PROPN,NNP,compound,Xxxxx,0.0
+Lightspeed Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Lightspeed Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Advantage Capital,Advantage,2,1,9,Advantage,PROPN,NNP,compound,Xxxxx,0.0
+Advantage Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+General Catalyst,General,2,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General Catalyst,Catalyst,2,1,8,Catalyst,PROPN,NNP,ROOT,Xxxxx,0.0
+Tiger Global Management,Tiger,3,1,5,Tiger,PROPN,NNP,compound,Xxxxx,0.0
+Tiger Global Management,Global,3,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Tiger Global Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Index Ventures,Index,2,1,5,index,NOUN,NN,compound,Xxxxx,0.0
+Index Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Khosla Ventures,Khosla,2,1,6,Khosla,PROPN,NNP,compound,Xxxxx,0.0
+Khosla Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+NYSERDA,NYSERDA,1,1,7,nyserda,NOUN,NN,ROOT,XXXX,0.0
+GV,GV,1,1,2,GV,PROPN,NNP,ROOT,XX,0.0
+Insight Partners,Insight,2,1,7,Insight,PROPN,NNP,compound,Xxxxx,0.0
+Insight Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Sequoia Capital China,Sequoia,3,1,7,Sequoia,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital China,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital China,China,3,1,5,China,PROPN,NNP,ROOT,Xxxxx,0.0
+Goldman Sachs,Goldman,2,1,7,Goldman,PROPN,NNP,compound,Xxxxx,0.0
+Goldman Sachs,Sachs,2,1,5,Sachs,PROPN,NNP,ROOT,Xxxxx,0.0
+Start-Up Chile,Start,2,1,5,start,VERB,VB,amod,Xxxxx,0.0
+Start-Up Chile,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Start-Up Chile,Up,2,1,2,up,ADP,RP,prt,Xx,0.0
+Start-Up Chile,Chile,2,1,5,Chile,PROPN,NNP,ROOT,Xxxxx,0.0
+Bpifrance,Bpifrance,1,1,9,bpifrance,NOUN,NN,ROOT,Xxxxx,0.0
+Threshold,Threshold,1,1,9,threshold,NOUN,NN,ROOT,Xxxxx,0.0
+Global Founders Capital,Global,3,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Global Founders Capital,Founders,3,1,8,Founders,PROPN,NNP,compound,Xxxxx,0.0
+Global Founders Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+First Round Capital,First,3,1,5,First,PROPN,NNP,compound,Xxxxx,0.0
+First Round Capital,Round,3,1,5,Round,PROPN,NNP,compound,Xxxxx,0.0
+First Round Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+GGV Capital,GGV,2,1,3,GGV,PROPN,NNP,compound,XXX,0.0
+GGV Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Norwest Venture Partners,Norwest,3,1,7,Norwest,PROPN,NNP,compound,Xxxxx,0.0
+Norwest Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Norwest Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Greylock,Greylock,1,1,8,greylock,NOUN,NN,ROOT,Xxxxx,0.0
+Battery Ventures,Battery,2,1,7,Battery,PROPN,NNP,compound,Xxxxx,0.0
+Battery Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Silicon Valley Bank,Silicon,3,1,7,Silicon,PROPN,NNP,compound,Xxxxx,0.0
+Silicon Valley Bank,Valley,3,1,6,Valley,PROPN,NNP,compound,Xxxxx,0.0
+Silicon Valley Bank,Bank,3,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Founders Fund,Founders,2,1,8,Founders,PROPN,NNP,compound,Xxxxx,0.0
+Founders Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Qiming Venture Partners,Qiming,3,1,6,Qiming,PROPN,NNP,compound,Xxxxx,0.0
+Qiming Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Qiming Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Venrock,Venrock,1,1,7,venrock,NOUN,NN,ROOT,Xxxxx,0.0
+ZhenFund,ZhenFund,1,1,8,zhenfund,NOUN,NN,ROOT,XxxxXxxx,0.0
+High-Tech Grunderfonds,High,2,1,4,high,ADJ,JJ,amod,Xxxx,0.0
+High-Tech Grunderfonds,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+High-Tech Grunderfonds,Tech,2,1,4,Tech,PROPN,NNP,compound,Xxxx,0.0
+High-Tech Grunderfonds,Grunderfonds,2,1,12,grunderfond,NOUN,NNS,ROOT,Xxxxx,0.0
+Hiventures,Hiventures,1,1,10,hiventure,NOUN,NNS,ROOT,Xxxxx,0.0
+Creative Destruction Lab (CDL),Creative,4,1,8,creative,ADJ,JJ,amod,Xxxxx,0.0
+Creative Destruction Lab (CDL),Destruction,4,1,11,Destruction,PROPN,NNP,compound,Xxxxx,0.0
+Creative Destruction Lab (CDL),Lab,4,1,3,Lab,PROPN,NNP,ROOT,Xxx,0.0
+Creative Destruction Lab (CDL),(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Creative Destruction Lab (CDL),CDL,4,1,3,CDL,PROPN,NNP,appos,XXX,0.0
+Creative Destruction Lab (CDL),),4,1,1,),PUNCT,-RRB-,punct,),0.0
+Greycroft,Greycroft,1,1,9,Greycroft,PROPN,NNP,ROOT,Xxxxx,0.0
+Canaan Partners,Canaan,2,1,6,Canaan,PROPN,NNP,compound,Xxxxx,0.0
+Canaan Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Menlo Ventures,Menlo,2,1,5,Menlo,PROPN,NNP,compound,Xxxxx,0.0
+Menlo Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Sand Hill Angels,Sand,3,1,4,Sand,PROPN,NNP,compound,Xxxx,0.0
+Sand Hill Angels,Hill,3,1,4,Hill,PROPN,NNP,compound,Xxxx,0.0
+Sand Hill Angels,Angels,3,1,6,Angels,PROPN,NNPS,ROOT,Xxxxx,0.0
+Tencent,Tencent,1,1,7,tencent,NOUN,NN,ROOT,Xxxxx,0.0
+Redpoint,Redpoint,1,1,8,redpoint,NOUN,NN,ROOT,Xxxxx,0.0
+Crowdcube,Crowdcube,1,1,9,Crowdcube,PROPN,NNP,ROOT,Xxxxx,0.0
+Maine Technology Institute,Maine,3,1,5,Maine,PROPN,NNP,compound,Xxxxx,0.0
+Maine Technology Institute,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Maine Technology Institute,Institute,3,1,9,Institute,PROPN,NNP,ROOT,Xxxxx,0.0
+Technology Development Fund,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Technology Development Fund,Development,3,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Technology Development Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Enterprise Ireland,Enterprise,2,1,10,Enterprise,PROPN,NNP,compound,Xxxxx,0.0
+Enterprise Ireland,Ireland,2,1,7,Ireland,PROPN,NNP,ROOT,Xxxxx,0.0
+Foundation Capital,Foundation,2,1,10,Foundation,PROPN,NNP,compound,Xxxxx,0.0
+Foundation Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Salesforce Ventures,Salesforce,2,1,10,Salesforce,PROPN,NNP,compound,Xxxxx,0.0
+Salesforce Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Matrix Partners China,Matrix,3,1,6,Matrix,PROPN,NNP,compound,Xxxxx,0.0
+Matrix Partners China,Partners,3,1,8,Partners,PROPN,NNPS,compound,Xxxxx,0.0
+Matrix Partners China,China,3,1,5,China,PROPN,NNP,ROOT,Xxxxx,0.0
+Polaris Partners,Polaris,2,1,7,Polaris,PROPN,NNP,compound,Xxxxx,0.0
+Polaris Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Benchmark,Benchmark,1,1,9,Benchmark,PROPN,NNP,ROOT,Xxxxx,0.0
+Kima Ventures,Kima,2,1,4,Kima,PROPN,NNP,compound,Xxxx,0.0
+Kima Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+CRV,CRV,1,1,3,CRV,PROPN,NNP,ROOT,XXX,0.0
+FJ Labs,FJ,2,1,2,FJ,PROPN,NNP,compound,XX,0.0
+FJ Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+True Ventures,True,2,1,4,true,ADJ,JJ,amod,Xxxx,0.0
+True Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Matrix Partners,Matrix,2,1,6,Matrix,PROPN,NNP,compound,Xxxxx,0.0
+Matrix Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mayfield Fund,Mayfield,2,1,8,Mayfield,PROPN,NNP,compound,Xxxxx,0.0
+Mayfield Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+National Institutes of Health,National,4,1,8,National,PROPN,NNP,compound,Xxxxx,0.0
+National Institutes of Health,Institutes,4,1,10,Institutes,PROPN,NNPS,ROOT,Xxxxx,0.0
+National Institutes of Health,of,4,1,2,of,ADP,IN,prep,xx,0.0
+National Institutes of Health,Health,4,1,6,Health,PROPN,NNP,pobj,Xxxxx,0.0
+DCM Ventures,DCM,2,1,3,DCM,PROPN,NNP,compound,XXX,0.0
+DCM Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Lerer Hippeau,Lerer,2,1,5,Lerer,PROPN,NNP,compound,Xxxxx,0.0
+Lerer Hippeau,Hippeau,2,1,7,Hippeau,PROPN,NNP,ROOT,Xxxxx,0.0
+Sequoia Capital India,Sequoia,3,1,7,Sequoia,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital India,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital India,India,3,1,5,India,PROPN,NNP,ROOT,Xxxxx,0.0
+Brand Capital,Brand,2,1,5,Brand,PROPN,NNP,compound,Xxxxx,0.0
+Brand Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+RRE Ventures,RRE,2,1,3,RRE,PROPN,NNP,compound,XXX,0.0
+RRE Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Bain Capital Ventures,Bain,3,1,4,Bain,PROPN,NNP,compound,Xxxx,0.0
+Bain Capital Ventures,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Bain Capital Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Tech Coast Angels,Tech,3,1,4,Tech,PROPN,NNP,compound,Xxxx,0.0
+Tech Coast Angels,Coast,3,1,5,Coast,PROPN,NNP,compound,Xxxxx,0.0
+Tech Coast Angels,Angels,3,1,6,Angels,PROPN,NNPS,ROOT,Xxxxx,0.0
+BoxGroup,BoxGroup,1,1,8,BoxGroup,PROPN,NNP,ROOT,XxxXxxxx,0.0
+Atlas Venture,Atlas,2,1,5,Atlas,PROPN,NNP,compound,Xxxxx,0.0
+Atlas Venture,Venture,2,1,7,Venture,PROPN,NNP,ROOT,Xxxxx,0.0
+Innovate UK,Innovate,2,1,8,Innovate,PROPN,NNP,compound,Xxxxx,0.0
+Innovate UK,UK,2,1,2,UK,PROPN,NNP,ROOT,XX,0.0
+OrbiMed,OrbiMed,1,1,7,orbimed,NOUN,NN,ROOT,XxxxXxx,0.0
+Alchemist Accelerator,Alchemist,2,1,9,alchemist,ADJ,JJ,compound,Xxxxx,0.0
+Alchemist Accelerator,Accelerator,2,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Felicis Ventures,Felicis,2,1,7,Felicis,PROPN,NNP,compound,Xxxxx,0.0
+Felicis Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Innovation Works,Innovation,2,1,10,innovation,NOUN,NN,compound,Xxxxx,0.0
+Innovation Works,Works,2,1,5,work,VERB,VBZ,ROOT,Xxxxx,0.0
+U.S. Venture Partners,U.S.,3,1,4,U.S.,PROPN,NNP,compound,X.X.,0.0
+U.S. Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+U.S. Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Gaingels,Gaingels,1,1,8,gaingel,NOUN,NNS,ROOT,Xxxxx,0.0
+Startupbootcamp,Startupbootcamp,1,1,15,startupbootcamp,VERB,VB,ROOT,Xxxxx,0.0
+East Ventures,East,2,1,4,East,PROPN,NNP,compound,Xxxx,0.0
+East Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Slow Ventures,Slow,2,1,4,slow,ADJ,JJ,amod,Xxxx,0.0
+Slow Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Spark Capital,Spark,2,1,5,Spark,PROPN,NNP,compound,Xxxxx,0.0
+Spark Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+gbeta,gbeta,1,1,5,gbeta,NOUN,NN,ROOT,xxxx,0.0
+BDC Venture Capital,BDC,3,1,3,BDC,PROPN,NNP,compound,XXX,0.0
+BDC Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+BDC Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Northstar Ventures,Northstar,2,1,9,Northstar,PROPN,NNP,compound,Xxxxx,0.0
+Northstar Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+FundersClub,FundersClub,1,1,11,fundersclub,NUM,CD,ROOT,XxxxxXxxx,0.0
+HAX,HAX,1,1,3,HAX,PROPN,NNP,ROOT,XXX,0.0
+Seedcamp,Seedcamp,1,1,8,Seedcamp,PROPN,NNP,ROOT,Xxxxx,0.0
+Shenzhen Capital Group,Shenzhen,3,1,8,Shenzhen,PROPN,NNP,compound,Xxxxx,0.0
+Shenzhen Capital Group,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Shenzhen Capital Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Wavemaker Partners,Wavemaker,2,1,9,Wavemaker,PROPN,NNP,compound,Xxxxx,0.0
+Wavemaker Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Partech,Partech,1,1,7,partech,NOUN,NN,ROOT,Xxxxx,0.0
+Highland Capital Partners,Highland,3,1,8,Highland,PROPN,NNP,compound,Xxxxx,0.0
+Highland Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Highland Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Initialized Capital,Initialized,2,1,11,Initialized,PROPN,NNP,amod,Xxxxx,0.0
+Initialized Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Eight Roads Ventures,Eight,3,1,5,eight,NUM,CD,nummod,Xxxxx,0.0
+Eight Roads Ventures,Roads,3,1,5,road,NOUN,NNS,compound,Xxxxx,0.0
+Eight Roads Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Antler,Antler,1,1,6,Antler,PROPN,NNP,ROOT,Xxxxx,0.0
+Qualcomm Ventures,Qualcomm,2,1,8,Qualcomm,PROPN,NNP,compound,Xxxxx,0.0
+Qualcomm Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Global Brain Corporation,Global,3,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Global Brain Corporation,Brain,3,1,5,Brain,PROPN,NNP,compound,Xxxxx,0.0
+Global Brain Corporation,Corporation,3,1,11,Corporation,PROPN,NNP,ROOT,Xxxxx,0.0
+Temasek Holdings,Temasek,2,1,7,Temasek,PROPN,NNP,compound,Xxxxx,0.0
+Temasek Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+3i Group,3i,2,1,2,3i,NOUN,NNS,compound,dx,0.0
+3i Group,Group,2,1,5,group,NOUN,NN,ROOT,Xxxxx,0.0
+Trinity Ventures,Trinity,2,1,7,Trinity,PROPN,NNP,compound,Xxxxx,0.0
+Trinity Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+SkyDeck Berkeley,SkyDeck,2,1,7,SkyDeck,PROPN,NNP,compound,XxxXxxx,0.0
+SkyDeck Berkeley,Berkeley,2,1,8,Berkeley,PROPN,NNP,ROOT,Xxxxx,0.0
+Madrona Venture Group,Madrona,3,1,7,Madrona,PROPN,NNP,compound,Xxxxx,0.0
+Madrona Venture Group,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Madrona Venture Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder Collective,Founder,2,1,7,Founder,PROPN,NNP,compound,Xxxxx,0.0
+Founder Collective,Collective,2,1,10,Collective,PROPN,NNP,ROOT,Xxxxx,0.0
+Vertex Ventures,Vertex,2,1,6,Vertex,PROPN,NNP,compound,Xxxxx,0.0
+Vertex Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+DCVC,DCVC,1,1,4,DCVC,NOUN,NNS,ROOT,XXXX,0.0
+SMBC Venture Capital,SMBC,3,1,4,SMBC,PROPN,NNP,compound,XXXX,0.0
+SMBC Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+SMBC Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Internet Initiatives Development Fund (IIDF),Internet,5,1,8,internet,NOUN,NN,compound,Xxxxx,0.0
+Internet Initiatives Development Fund (IIDF),Initiatives,5,1,11,Initiatives,PROPN,NNP,compound,Xxxxx,0.0
+Internet Initiatives Development Fund (IIDF),Development,5,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Internet Initiatives Development Fund (IIDF),Fund,5,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Internet Initiatives Development Fund (IIDF),(,5,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Internet Initiatives Development Fund (IIDF),IIDF,5,1,4,IIDF,PROPN,NNP,appos,XXXX,0.0
+Internet Initiatives Development Fund (IIDF),),5,1,1,),PUNCT,-RRB-,punct,),0.0
+Mitsubishi UFJ Capital,Mitsubishi,3,1,10,Mitsubishi,PROPN,NNP,compound,Xxxxx,0.0
+Mitsubishi UFJ Capital,UFJ,3,1,3,UFJ,PROPN,NNP,compound,XXX,0.0
+Mitsubishi UFJ Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Warburg Pincus,Warburg,2,1,7,Warburg,PROPN,NNP,compound,Xxxxx,0.0
+Warburg Pincus,Pincus,2,1,6,Pincus,PROPN,NNP,ROOT,Xxxxx,0.0
+Great Oaks Venture Capital,Great,4,1,5,Great,PROPN,NNP,compound,Xxxxx,0.0
+Great Oaks Venture Capital,Oaks,4,1,4,Oaks,PROPN,NNP,compound,Xxxx,0.0
+Great Oaks Venture Capital,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Great Oaks Venture Capital,Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+LAUNCH,LAUNCH,1,1,6,LAUNCH,NOUN,NNS,ROOT,XXXX,0.0
+Crosslink Capital,Crosslink,2,1,9,crosslink,NOUN,NN,compound,Xxxxx,0.0
+Crosslink Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Social Starts,Social,2,1,6,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Starts,Starts,2,1,6,Starts,PROPN,NNPS,ROOT,Xxxxx,0.0
+Shunwei Capital,Shunwei,2,1,7,Shunwei,PROPN,NNP,compound,Xxxxx,0.0
+Shunwei Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Ontario Centres of Excellence,Ontario,4,1,7,Ontario,PROPN,NNP,compound,Xxxxx,0.0
+Ontario Centres of Excellence,Centres,4,1,7,Centres,PROPN,NNPS,ROOT,Xxxxx,0.0
+Ontario Centres of Excellence,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Ontario Centres of Excellence,Excellence,4,1,10,Excellence,PROPN,NNP,pobj,Xxxxx,0.0
+ARCH Venture Partners,ARCH,3,1,4,ARCH,PROPN,NNP,compound,XXXX,0.0
+ARCH Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+ARCH Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Acequia Capital (AceCap),Acequia,3,1,7,Acequia,PROPN,NNP,compound,Xxxxx,0.0
+Acequia Capital (AceCap),Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Acequia Capital (AceCap),(,3,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Acequia Capital (AceCap),AceCap,3,1,6,AceCap,PROPN,NNP,appos,XxxXxx,0.0
+Acequia Capital (AceCap),),3,1,1,),PUNCT,-RRB-,punct,),0.0
+InterWest Partners,InterWest,2,1,9,InterWest,PROPN,NNP,compound,XxxxxXxxx,0.0
+InterWest Partners,Partners,2,1,8,partner,NOUN,NNS,ROOT,Xxxxx,0.0
+Headline,Headline,1,1,8,headline,NOUN,NN,ROOT,Xxxxx,0.0
+Social Capital,Social,2,1,6,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Summit Partners,Summit,2,1,6,Summit,PROPN,NNP,compound,Xxxxx,0.0
+Summit Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+North Bridge Venture Partners &amp; Growth Equity,North,7,1,5,North,PROPN,NNP,compound,Xxxxx,0.0
+North Bridge Venture Partners &amp; Growth Equity,Bridge,7,1,6,Bridge,PROPN,NNP,compound,Xxxxx,0.0
+North Bridge Venture Partners &amp; Growth Equity,Venture,7,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+North Bridge Venture Partners &amp; Growth Equity,Partners,7,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+North Bridge Venture Partners &amp; Growth Equity,&,7,1,1,&,CCONJ,CC,cc,&,0.0
+North Bridge Venture Partners &amp; Growth Equity,amp,7,1,3,amp,PROPN,NNP,conj,xxx,0.0
+North Bridge Venture Partners &amp; Growth Equity,;,7,1,1,;,PUNCT,:,punct,;,0.0
+North Bridge Venture Partners &amp; Growth Equity,Growth,7,1,6,Growth,PROPN,NNP,compound,Xxxxx,0.0
+North Bridge Venture Partners &amp; Growth Equity,Equity,7,1,6,Equity,PROPN,NNP,appos,Xxxxx,0.0
+Idinvest Partners,Idinvest,2,1,8,Idinvest,PROPN,NNP,compound,Xxxxx,0.0
+Idinvest Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Lux Capital,Lux,2,1,3,Lux,PROPN,NNP,compound,Xxx,0.0
+Lux Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Hillhouse Capital Group,Hillhouse,3,1,9,Hillhouse,PROPN,NNP,compound,Xxxxx,0.0
+Hillhouse Capital Group,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Hillhouse Capital Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+SoftBank Vision Fund,SoftBank,3,1,8,SoftBank,PROPN,NNP,compound,XxxxXxxx,0.0
+SoftBank Vision Fund,Vision,3,1,6,Vision,PROPN,NNP,compound,Xxxxx,0.0
+SoftBank Vision Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Shasta Ventures,Shasta,2,1,6,Shasta,PROPN,NNP,compound,Xxxxx,0.0
+Shasta Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+General Atlantic,General,2,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+General Atlantic,Atlantic,2,1,8,Atlantic,PROPN,NNP,ROOT,Xxxxx,0.0
+Pitch@Palace,Pitch@Palace,1,1,12,pitch@palace,NOUN,NN,ROOT,Xxxxx@Xxxxx,0.0
+Oak Investment Partners,Oak,3,1,3,Oak,PROPN,NNP,compound,Xxx,0.0
+Oak Investment Partners,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Oak Investment Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Northern Light Venture Capital,Northern,4,1,8,northern,ADJ,JJ,amod,Xxxxx,0.0
+Northern Light Venture Capital,Light,4,1,5,Light,PROPN,NNP,compound,Xxxxx,0.0
+Northern Light Venture Capital,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Northern Light Venture Capital,Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Union Square Ventures,Union,3,1,5,Union,PROPN,NNP,compound,Xxxxx,0.0
+Union Square Ventures,Square,3,1,6,Square,PROPN,NNP,compound,Xxxxx,0.0
+Union Square Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Legend Capital,Legend,2,1,6,Legend,PROPN,NNP,compound,Xxxxx,0.0
+Legend Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Newchip,Newchip,1,1,7,newchip,NOUN,NN,ROOT,Xxxxx,0.0
+TCV,TCV,1,1,3,TCV,PROPN,NNP,ROOT,XXX,0.0
+Flybridge,Flybridge,1,1,9,flybridge,NOUN,NN,ROOT,Xxxxx,0.0
+Austin Ventures,Austin,2,1,6,Austin,PROPN,NNP,compound,Xxxxx,0.0
+Austin Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Uncork Capital,Uncork,2,1,6,Uncork,PROPN,NNP,compound,Xxxxx,0.0
+Uncork Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Upfront Ventures,Upfront,2,1,7,Upfront,PROPN,NNP,compound,Xxxxx,0.0
+Upfront Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+SFC Capital,SFC,2,1,3,SFC,PROPN,NNP,compound,XXX,0.0
+SFC Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+HV Capital,HV,2,1,2,HV,PROPN,NNP,compound,XX,0.0
+HV Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Startup Wise Guys,Startup,3,1,7,Startup,PROPN,NNP,compound,Xxxxx,0.0
+Startup Wise Guys,Wise,3,1,4,Wise,PROPN,NNP,compound,Xxxx,0.0
+Startup Wise Guys,Guys,3,1,4,guy,NOUN,NNS,ROOT,Xxxx,0.0
+Sierra Ventures,Sierra,2,1,6,Sierra,PROPN,NNP,compound,Xxxxx,0.0
+Sierra Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Almi Invest,Almi,2,1,4,Almi,PROPN,NNP,compound,Xxxx,0.0
+Almi Invest,Invest,2,1,6,Invest,PROPN,NNP,ROOT,Xxxxx,0.0
+Business Growth Fund,Business,3,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+Business Growth Fund,Growth,3,1,6,Growth,PROPN,NNP,compound,Xxxxx,0.0
+Business Growth Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Dreamit Ventures,Dreamit,2,1,7,Dreamit,PROPN,NNP,compound,Xxxxx,0.0
+Dreamit Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Western Technology Investment,Western,3,1,7,Western,PROPN,NNP,compound,Xxxxx,0.0
+Western Technology Investment,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Western Technology Investment,Investment,3,1,10,Investment,PROPN,NNP,ROOT,Xxxxx,0.0
+Balderton Capital,Balderton,2,1,9,Balderton,PROPN,NNP,compound,Xxxxx,0.0
+Balderton Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+SAIF Partners,SAIF,2,1,4,SAIF,PROPN,NNP,compound,XXXX,0.0
+SAIF Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Techstars Ventures,Techstars,2,1,9,Techstars,PROPN,NNP,compound,Xxxxx,0.0
+Techstars Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mizuho Capital,Mizuho,2,1,6,Mizuho,PROPN,NNP,compound,Xxxxx,0.0
+Mizuho Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+F-Prime Capital,F,2,1,1,F,PROPN,NNP,compound,X,0.0
+F-Prime Capital,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+F-Prime Capital,Prime,2,1,5,Prime,PROPN,NNP,compound,Xxxxx,0.0
+F-Prime Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+IndieBio,IndieBio,1,1,8,IndieBio,NOUN,NNS,ROOT,XxxxxXxx,0.0
+Soma Capital,Soma,2,1,4,Soma,PROPN,NNP,compound,Xxxx,0.0
+Soma Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+8VC,8VC,1,1,3,8vc,SPACE,_SP,ROOT,dXX,0.0
+Coatue,Coatue,1,1,6,Coatue,PROPN,NNP,ROOT,Xxxxx,0.0
+GSR Ventures,GSR,2,1,3,GSR,PROPN,NNP,compound,XXX,0.0
+GSR Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+IVP,IVP,1,1,3,ivp,VERB,VB,ROOT,XXX,0.0
+International Finance Corporation,International,3,1,13,International,PROPN,NNP,compound,Xxxxx,0.0
+International Finance Corporation,Finance,3,1,7,Finance,PROPN,NNP,compound,Xxxxx,0.0
+International Finance Corporation,Corporation,3,1,11,Corporation,PROPN,NNP,ROOT,Xxxxx,0.0
+Speedinvest,Speedinvest,1,1,11,speedinvest,NOUN,NN,ROOT,Xxxxx,0.0
+Floodgate,Floodgate,1,1,9,floodgate,VERB,VB,ROOT,Xxxxx,0.0
+AGORANOV,AGORANOV,1,1,8,agoranov,NOUN,NN,ROOT,XXXX,0.0
+Comcast Ventures,Comcast,2,1,7,Comcast,PROPN,NNP,compound,Xxxxx,0.0
+Comcast Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Entrepreneur First,Entrepreneur,2,1,12,Entrepreneur,PROPN,NNP,ROOT,Xxxxx,0.0
+Entrepreneur First,First,2,1,5,first,ADV,RB,advmod,Xxxxx,0.0
+Versant Ventures,Versant,2,1,7,Versant,PROPN,NNP,compound,Xxxxx,0.0
+Versant Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Par Equity,Par,2,1,3,Par,PROPN,NNP,compound,Xxx,0.0
+Par Equity,Equity,2,1,6,Equity,PROPN,NNP,ROOT,Xxxxx,0.0
+Scottish Investment Bank,Scottish,3,1,8,Scottish,PROPN,NNP,compound,Xxxxx,0.0
+Scottish Investment Bank,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Scottish Investment Bank,Bank,3,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Morgenthaler Ventures,Morgenthaler,2,1,12,Morgenthaler,PROPN,NNP,compound,Xxxxx,0.0
+Morgenthaler Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+LocalGlobe,LocalGlobe,1,1,10,LocalGlobe,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+ff Venture Capital,ff,3,1,2,ff,VERB,VB,compound,xx,0.0
+ff Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+ff Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Sigma Partners,Sigma,2,1,5,Sigma,PROPN,NNP,compound,Xxxxx,0.0
+Sigma Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Foundry Group,Foundry,2,1,7,Foundry,PROPN,NNP,compound,Xxxxx,0.0
+Foundry Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+StartUp Health,StartUp,2,1,7,StartUp,PROPN,NNP,compound,XxxxxXx,0.0
+StartUp Health,Health,2,1,6,Health,PROPN,NNP,ROOT,Xxxxx,0.0
+CEED - Centre for Entrepreneurship Education and Development,CEED,8,1,4,CEED,PROPN,NNP,compound,XXXX,0.0
+CEED - Centre for Entrepreneurship Education and Development,-,8,1,1,-,PUNCT,HYPH,punct,-,0.0
+CEED - Centre for Entrepreneurship Education and Development,Centre,8,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+CEED - Centre for Entrepreneurship Education and Development,for,8,1,3,for,ADP,IN,prep,xxx,0.0
+CEED - Centre for Entrepreneurship Education and Development,Entrepreneurship,8,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+CEED - Centre for Entrepreneurship Education and Development,Education,8,1,9,Education,PROPN,NNP,pobj,Xxxxx,0.0
+CEED - Centre for Entrepreneurship Education and Development,and,8,1,3,and,CCONJ,CC,cc,xxx,0.0
+CEED - Centre for Entrepreneurship Education and Development,Development,8,1,11,Development,PROPN,NNP,conj,Xxxxx,0.0
+FirstMark,FirstMark,1,1,9,firstmark,NOUN,NN,ROOT,XxxxxXxxx,0.0
+Omidyar Network,Omidyar,2,1,7,Omidyar,PROPN,NNP,compound,Xxxxx,0.0
+Omidyar Network,Network,2,1,7,Network,PROPN,NNP,ROOT,Xxxxx,0.0
+Pitango Venture Capital,Pitango,3,1,7,Pitango,PROPN,NNP,compound,Xxxxx,0.0
+Pitango Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Pitango Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Octopus Ventures,Octopus,2,1,7,Octopus,PROPN,NNP,compound,Xxxxx,0.0
+Octopus Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Draper Associates,Draper,2,1,6,draper,NOUN,NN,compound,Xxxxx,0.0
+Draper Associates,Associates,2,1,10,Associates,PROPN,NNPS,ROOT,Xxxxx,0.0
+StartX (Stanford-StartX Fund),StartX,3,1,6,startx,NOUN,NN,ROOT,XxxxxX,0.0
+StartX (Stanford-StartX Fund),(,3,1,1,(,PUNCT,-LRB-,punct,(,0.0
+StartX (Stanford-StartX Fund),Stanford,3,1,8,Stanford,PROPN,NNP,compound,Xxxxx,0.0
+StartX (Stanford-StartX Fund),-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+StartX (Stanford-StartX Fund),StartX,3,1,6,startx,NOUN,NN,compound,XxxxxX,0.0
+StartX (Stanford-StartX Fund),Fund,3,1,4,Fund,PROPN,NNP,appos,Xxxx,0.0
+StartX (Stanford-StartX Fund),),3,1,1,),PUNCT,-RRB-,punct,),0.0
+Correlation Ventures,Correlation,2,1,11,correlation,NOUN,NN,compound,Xxxxx,0.0
+Correlation Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Accomplice,Accomplice,1,1,10,accomplice,NOUN,NN,ROOT,Xxxxx,0.0
+AltaIR Capital,AltaIR,2,1,6,AltaIR,PROPN,NNP,compound,XxxxXX,0.0
+AltaIR Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Entrepreneurs Roundtable Accelerator,Entrepreneurs,3,1,13,entrepreneur,NOUN,NNS,compound,Xxxxx,0.0
+Entrepreneurs Roundtable Accelerator,Roundtable,3,1,10,roundtable,ADJ,JJ,amod,Xxxxx,0.0
+Entrepreneurs Roundtable Accelerator,Accelerator,3,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Sinovation Ventures,Sinovation,2,1,10,sinovation,NOUN,NN,compound,Xxxxx,0.0
+Sinovation Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Forum Ventures,Forum,2,1,5,Forum,PROPN,NNP,compound,Xxxxx,0.0
+Forum Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Sapphire Ventures,Sapphire,2,1,8,Sapphire,PROPN,NNP,compound,Xxxxx,0.0
+Sapphire Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Liquid 2 Ventures,Liquid,3,1,6,liquid,NOUN,NN,ROOT,Xxxxx,0.0
+Liquid 2 Ventures,2,3,1,1,2,NUM,CD,nummod,d,0.0
+Liquid 2 Ventures,Ventures,3,1,8,venture,NOUN,NNS,appos,Xxxxx,0.0
+SIG China (SIG Asia Investments),SIG,5,1,3,SIG,PROPN,NNP,compound,XXX,0.0
+SIG China (SIG Asia Investments),China,5,1,5,China,PROPN,NNP,ROOT,Xxxxx,0.0
+SIG China (SIG Asia Investments),(,5,1,1,(,PUNCT,-LRB-,punct,(,0.0
+SIG China (SIG Asia Investments),Asia,5,1,4,Asia,PROPN,NNP,compound,Xxxx,0.0
+SIG China (SIG Asia Investments),Investments,5,1,11,Investments,PROPN,NNP,appos,Xxxxx,0.0
+SIG China (SIG Asia Investments),),5,1,1,),PUNCT,-RRB-,punct,),0.0
+Lighter Capital,Lighter,2,1,7,light,ADJ,JJR,amod,Xxxxx,0.0
+Lighter Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Meritech Capital Partners,Meritech,3,1,8,Meritech,PROPN,NNP,compound,Xxxxx,0.0
+Meritech Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Meritech Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+NEXT Canada,NEXT,2,1,4,NEXT,PROPN,NNP,compound,XXXX,0.0
+NEXT Canada,Canada,2,1,6,Canada,PROPN,NNP,ROOT,Xxxxx,0.0
+Nexus Venture Partners,Nexus,3,1,5,Nexus,PROPN,NNP,compound,Xxxxx,0.0
+Nexus Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Nexus Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+NFX,NFX,1,1,3,nfx,NOUN,NN,ROOT,XXX,0.0
+Ignition Partners,Ignition,2,1,8,Ignition,PROPN,NNP,compound,Xxxxx,0.0
+Ignition Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Sutter Hill Ventures,Sutter,3,1,6,Sutter,PROPN,NNP,compound,Xxxxx,0.0
+Sutter Hill Ventures,Hill,3,1,4,Hill,PROPN,NNP,compound,Xxxx,0.0
+Sutter Hill Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+OurCrowd,OurCrowd,1,1,8,ourcrowd,NOUN,NN,ROOT,XxxXxxxx,0.0
+SoftBank,SoftBank,1,1,8,softbank,NOUN,NN,ROOT,XxxxXxxx,0.0
+Keiretsu Forum,Keiretsu,2,1,8,Keiretsu,PROPN,NNP,compound,Xxxxx,0.0
+Keiretsu Forum,Forum,2,1,5,Forum,PROPN,NNP,ROOT,Xxxxx,0.0
+Thrive Capital,Thrive,2,1,6,Thrive,PROPN,NNP,compound,Xxxxx,0.0
+Thrive Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+T. Rowe Price,T.,3,1,2,T.,PROPN,NNP,compound,X.,0.0
+T. Rowe Price,Rowe,3,1,4,Rowe,PROPN,NNP,compound,Xxxx,0.0
+T. Rowe Price,Price,3,1,5,Price,PROPN,NNP,ROOT,Xxxxx,0.0
+BlueRun Ventures,BlueRun,2,1,7,BlueRun,PROPN,NNP,compound,XxxxXxx,0.0
+BlueRun Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mohr Davidow Ventures,Mohr,3,1,4,Mohr,PROPN,NNP,compound,Xxxx,0.0
+Mohr Davidow Ventures,Davidow,3,1,7,Davidow,PROPN,NNP,compound,Xxxxx,0.0
+Mohr Davidow Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Domain Associates,Domain,2,1,6,Domain,PROPN,NNP,compound,Xxxxx,0.0
+Domain Associates,Associates,2,1,10,Associates,PROPN,NNPS,ROOT,Xxxxx,0.0
+Quiet Capital,Quiet,2,1,5,quiet,ADJ,JJ,amod,Xxxxx,0.0
+Quiet Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Innova Memphis,Innova,2,1,6,Innova,PROPN,NNP,compound,Xxxxx,0.0
+Innova Memphis,Memphis,2,1,7,Memphis,PROPN,NNP,ROOT,Xxxxx,0.0
+Tuesday Capital,Tuesday,2,1,7,Tuesday,PROPN,NNP,compound,Xxxxx,0.0
+Tuesday Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Village Capital,Village,2,1,7,village,NOUN,NN,compound,Xxxxx,0.0
+Village Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Seedrs,Seedrs,1,1,6,seedr,NOUN,NNS,ROOT,Xxxxx,0.0
+Horizons Ventures,Horizons,2,1,8,Horizons,PROPN,NNP,compound,Xxxxx,0.0
+Horizons Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+RA Capital Management,RA,3,1,2,RA,PROPN,NNP,compound,XX,0.0
+RA Capital Management,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+RA Capital Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+SV Health Investors,SV,3,1,2,SV,PROPN,NNP,compound,XX,0.0
+SV Health Investors,Health,3,1,6,Health,PROPN,NNP,compound,Xxxxx,0.0
+SV Health Investors,Investors,3,1,9,Investors,PROPN,NNPS,ROOT,Xxxxx,0.0
+SoftBank Capital,SoftBank,2,1,8,SoftBank,PROPN,NNP,compound,XxxxXxxx,0.0
+SoftBank Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Eleven Ventures,Eleven,2,1,6,eleven,NUM,CD,nummod,Xxxxx,0.0
+Eleven Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Blume Ventures,Blume,2,1,5,Blume,PROPN,NNP,compound,Xxxxx,0.0
+Blume Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Earlybird Venture Capital,Earlybird,3,1,9,Earlybird,PROPN,NNP,compound,Xxxxx,0.0
+Earlybird Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Earlybird Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Fidelity Management and Research Company,Fidelity,5,1,8,Fidelity,PROPN,NNP,compound,Xxxxx,0.0
+Fidelity Management and Research Company,Management,5,1,10,Management,PROPN,NNP,nmod,Xxxxx,0.0
+Fidelity Management and Research Company,and,5,1,3,and,CCONJ,CC,cc,xxx,0.0
+Fidelity Management and Research Company,Research,5,1,8,Research,PROPN,NNP,compound,Xxxxx,0.0
+Fidelity Management and Research Company,Company,5,1,7,Company,PROPN,NNP,ROOT,Xxxxx,0.0
+Business Development Bank of Canada,Business,5,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+Business Development Bank of Canada,Development,5,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Business Development Bank of Canada,Bank,5,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Business Development Bank of Canada,of,5,1,2,of,ADP,IN,prep,xx,0.0
+Business Development Bank of Canada,Canada,5,1,6,Canada,PROPN,NNP,pobj,Xxxxx,0.0
+Endeavor Catalyst,Endeavor,2,1,8,Endeavor,PROPN,NNP,compound,Xxxxx,0.0
+Endeavor Catalyst,Catalyst,2,1,8,Catalyst,PROPN,NNP,ROOT,Xxxxx,0.0
+"US Department of Commerce, Economic Development Administation",US,7,1,2,US,PROPN,NNP,compound,XX,0.0
+"US Department of Commerce, Economic Development Administation",Department,7,1,10,Department,PROPN,NNP,ROOT,Xxxxx,0.0
+"US Department of Commerce, Economic Development Administation",of,7,1,2,of,ADP,IN,prep,xx,0.0
+"US Department of Commerce, Economic Development Administation",Commerce,7,1,8,Commerce,PROPN,NNP,pobj,Xxxxx,0.0
+"US Department of Commerce, Economic Development Administation",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"US Department of Commerce, Economic Development Administation",Economic,7,1,8,Economic,PROPN,NNP,compound,Xxxxx,0.0
+"US Department of Commerce, Economic Development Administation",Development,7,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+"US Department of Commerce, Economic Development Administation",Administation,7,1,13,Administation,PROPN,NNP,appos,Xxxxx,0.0
+Edward Lando,Edward,2,1,6,Edward,PROPN,NNP,compound,Xxxxx,0.0
+Edward Lando,Lando,2,1,5,Lando,PROPN,NNP,ROOT,Xxxxx,0.0
+The Carlyle Group,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The Carlyle Group,Carlyle,3,1,7,Carlyle,PROPN,NNP,compound,Xxxxx,0.0
+The Carlyle Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Maveron,Maveron,1,1,7,maveron,NOUN,NN,ROOT,Xxxxx,0.0
+Connecticut Innovations,Connecticut,2,1,11,Connecticut,PROPN,NNP,compound,Xxxxx,0.0
+Connecticut Innovations,Innovations,2,1,11,Innovations,PROPN,NNPS,ROOT,Xxxxx,0.0
+Digital Currency Group,Digital,3,1,7,Digital,PROPN,NNP,compound,Xxxxx,0.0
+Digital Currency Group,Currency,3,1,8,Currency,PROPN,NNP,compound,Xxxxx,0.0
+Digital Currency Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Inovia Capital,Inovia,2,1,6,Inovia,PROPN,NNP,compound,Xxxxx,0.0
+Inovia Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+MPM Capital,MPM,2,1,3,MPM,PROPN,NNP,compound,XXX,0.0
+MPM Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Sofinnova Investments,Sofinnova,2,1,9,Sofinnova,PROPN,NNP,compound,Xxxxx,0.0
+Sofinnova Investments,Investments,2,1,11,investment,NOUN,NNS,ROOT,Xxxxx,0.0
+August Capital,August,2,1,6,August,PROPN,NNP,compound,Xxxxx,0.0
+August Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Scale Venture Partners,Scale,3,1,5,Scale,PROPN,NNP,compound,Xxxxx,0.0
+Scale Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Scale Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+AME Cloud Ventures,AME,3,1,3,AME,PROPN,NNP,compound,XXX,0.0
+AME Cloud Ventures,Cloud,3,1,5,Cloud,PROPN,NNP,compound,Xxxxx,0.0
+AME Cloud Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+BEENEXT,BEENEXT,1,1,7,BEENEXT,PROPN,NNP,ROOT,XXXX,0.0
+SBI Investment,SBI,2,1,3,SBI,PROPN,NNP,compound,XXX,0.0
+SBI Investment,Investment,2,1,10,Investment,PROPN,NNP,ROOT,Xxxxx,0.0
+Sofinnova Partners,Sofinnova,2,1,9,Sofinnova,PROPN,NNP,compound,Xxxxx,0.0
+Sofinnova Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Real Ventures,Real,2,1,4,real,ADJ,JJ,amod,Xxxx,0.0
+Real Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Kohlberg Kravis Roberts,Kohlberg,3,1,8,Kohlberg,PROPN,NNP,compound,Xxxxx,0.0
+Kohlberg Kravis Roberts,Kravis,3,1,6,Kravis,PROPN,NNP,compound,Xxxxx,0.0
+Kohlberg Kravis Roberts,Roberts,3,1,7,Roberts,PROPN,NNP,ROOT,Xxxxx,0.0
+Portugal Ventures,Portugal,2,1,8,Portugal,PROPN,NNP,compound,Xxxxx,0.0
+Portugal Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Coinbase Ventures,Coinbase,2,1,8,Coinbase,PROPN,NNP,compound,Xxxxx,0.0
+Coinbase Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+TA Associates,TA,2,1,2,TA,PROPN,NNP,compound,XX,0.0
+TA Associates,Associates,2,1,10,Associates,PROPN,NNPS,ROOT,Xxxxx,0.0
+Incubate Fund,Incubate,2,1,8,Incubate,PROPN,NNP,ROOT,Xxxxx,0.0
+Incubate Fund,Fund,2,1,4,Fund,PROPN,NNP,dobj,Xxxx,0.0
+Village Global,Village,2,1,7,Village,PROPN,NNP,compound,Xxxxx,0.0
+Village Global,Global,2,1,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+Parkwalk Advisors,Parkwalk,2,1,8,Parkwalk,PROPN,NNP,compound,Xxxxx,0.0
+Parkwalk Advisors,Advisors,2,1,8,Advisors,PROPN,NNP,ROOT,Xxxxx,0.0
+JAFCO,JAFCO,1,1,5,JAFCO,PROPN,NNP,ROOT,XXXX,0.0
+MassVentures,MassVentures,1,1,12,massventure,NOUN,NNS,ROOT,XxxxXxxxx,0.0
+Altos Ventures,Altos,2,1,5,Altos,PROPN,NNP,compound,Xxxxx,0.0
+Altos Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+5Y Capital,5Y,2,1,2,5Y,PROPN,NNP,compound,dX,0.0
+5Y Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+BlackRock,BlackRock,1,1,9,BlackRock,PROPN,NNP,ROOT,XxxxxXxxx,0.0
+Boost VC,Boost,2,1,5,boost,VERB,VB,ROOT,Xxxxx,0.0
+Boost VC,VC,2,1,2,VC,PROPN,NNP,dobj,XX,0.0
+Ascension,Ascension,1,1,9,ascension,NOUN,NN,ROOT,Xxxxx,0.0
+Chinaccelerator,Chinaccelerator,1,1,15,chinaccelerator,NOUN,NN,ROOT,Xxxxx,0.0
+Taiwan Startup Stadium,Taiwan,3,1,6,Taiwan,PROPN,NNP,compound,Xxxxx,0.0
+Taiwan Startup Stadium,Startup,3,1,7,Startup,PROPN,NNP,compound,Xxxxx,0.0
+Taiwan Startup Stadium,Stadium,3,1,7,Stadium,PROPN,NNP,ROOT,Xxxxx,0.0
+Novo Holdings,Novo,2,1,4,Novo,PROPN,NNP,compound,Xxxx,0.0
+Novo Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+VantagePoint Capital Partners,VantagePoint,3,1,12,VantagePoint,PROPN,NNP,compound,XxxxxXxxxx,0.0
+VantagePoint Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+VantagePoint Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Collaborative Fund,Collaborative,2,1,13,Collaborative,PROPN,NNP,compound,Xxxxx,0.0
+Collaborative Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+US Department of Energy,US,4,1,2,US,PROPN,NNP,compound,XX,0.0
+US Department of Energy,Department,4,1,10,Department,PROPN,NNP,ROOT,Xxxxx,0.0
+US Department of Energy,of,4,1,2,of,ADP,IN,prep,xx,0.0
+US Department of Energy,Energy,4,1,6,Energy,PROPN,NNP,pobj,Xxxxx,0.0
+Nissay Capital,Nissay,2,1,6,Nissay,PROPN,NNP,compound,Xxxxx,0.0
+Nissay Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+DN Capital,DN,2,1,2,DN,PROPN,NNP,compound,XX,0.0
+DN Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Walden International,Walden,2,1,6,Walden,PROPN,NNP,compound,Xxxxx,0.0
+Walden International,International,2,1,13,International,PROPN,NNP,ROOT,Xxxxx,0.0
+K2VC,K2VC,1,1,4,k2vc,INTJ,UH,ROOT,XdXX,0.0
+Alibaba Group,Alibaba,2,1,7,Alibaba,PROPN,NNP,compound,Xxxxx,0.0
+Alibaba Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+GIC,GIC,1,1,3,GIC,PROPN,NNP,ROOT,XXX,0.0
+Venture Catalysts,Venture,2,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Venture Catalysts,Catalysts,2,1,9,Catalysts,PROPN,NNPS,ROOT,Xxxxx,0.0
+Amadeus Capital Partners,Amadeus,3,1,7,Amadeus,PROPN,NNP,compound,Xxxxx,0.0
+Amadeus Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Amadeus Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Vulcan Capital,Vulcan,2,1,6,Vulcan,PROPN,NNP,compound,Xxxxx,0.0
+Vulcan Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+QED Investors,QED,2,1,3,QED,PROPN,NNP,compound,XXX,0.0
+QED Investors,Investors,2,1,9,Investors,PROPN,NNP,ROOT,Xxxxx,0.0
+Source Code Capital,Source,3,1,6,Source,PROPN,NNP,compound,Xxxxx,0.0
+Source Code Capital,Code,3,1,4,Code,PROPN,NNP,compound,Xxxx,0.0
+Source Code Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Revolution,Revolution,1,1,10,revolution,NOUN,NN,ROOT,Xxxxx,0.0
+Streamlined Ventures,Streamlined,2,1,11,streamlined,ADJ,JJ,amod,Xxxxx,0.0
+Streamlined Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Gaorong Capital,Gaorong,2,1,7,Gaorong,PROPN,NNP,compound,Xxxxx,0.0
+Gaorong Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Revolution’s Rise of the Rest Seed Fund,Revolution,7,1,10,revolution,NOUN,NN,poss,Xxxxx,0.0
+Revolution’s Rise of the Rest Seed Fund,’s,7,1,2,’s,PART,POS,case,’x,0.0
+Revolution’s Rise of the Rest Seed Fund,Rise,7,1,4,rise,NOUN,NN,ROOT,Xxxx,0.0
+Revolution’s Rise of the Rest Seed Fund,of,7,1,2,of,ADP,IN,prep,xx,0.0
+Revolution’s Rise of the Rest Seed Fund,the,7,1,3,the,DET,DT,det,xxx,0.0
+Revolution’s Rise of the Rest Seed Fund,Rest,7,1,4,Rest,PROPN,NNP,compound,Xxxx,0.0
+Revolution’s Rise of the Rest Seed Fund,Seed,7,1,4,Seed,PROPN,NNP,compound,Xxxx,0.0
+Revolution’s Rise of the Rest Seed Fund,Fund,7,1,4,Fund,PROPN,NNP,pobj,Xxxx,0.0
+Alta Partners,Alta,2,1,4,Alta,PROPN,NNP,compound,Xxxx,0.0
+Alta Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Sustainable Development Technology Canada,Sustainable,4,1,11,Sustainable,PROPN,NNP,compound,Xxxxx,0.0
+Sustainable Development Technology Canada,Development,4,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Sustainable Development Technology Canada,Technology,4,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Sustainable Development Technology Canada,Canada,4,1,6,Canada,PROPN,NNP,ROOT,Xxxxx,0.0
+Flagship Pioneering,Flagship,2,1,8,Flagship,PROPN,NNP,compound,Xxxxx,0.0
+Flagship Pioneering,Pioneering,2,1,10,Pioneering,PROPN,NNP,ROOT,Xxxxx,0.0
+Lanzadera Accelerator,Lanzadera,2,1,9,Lanzadera,PROPN,NNP,compound,Xxxxx,0.0
+Lanzadera Accelerator,Accelerator,2,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Samsung Ventures,Samsung,2,1,7,Samsung,PROPN,NNP,compound,Xxxxx,0.0
+Samsung Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+NXTP Ventures,NXTP,2,1,4,nxtp,NOUN,NN,compound,XXXX,0.0
+NXTP Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+M12 - Microsoft's Venture Fund,M12,5,1,3,M12,PROPN,NNP,compound,Xdd,0.0
+M12 - Microsoft's Venture Fund,-,5,1,1,-,PUNCT,HYPH,punct,-,0.0
+M12 - Microsoft's Venture Fund,Microsoft,5,1,9,Microsoft,PROPN,NNP,poss,Xxxxx,0.0
+M12 - Microsoft's Venture Fund,'s,5,1,2,'s,PART,POS,case,'x,0.0
+M12 - Microsoft's Venture Fund,Venture,5,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+M12 - Microsoft's Venture Fund,Fund,5,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+In-Q-Tel,In,1,1,2,in,ADP,IN,ROOT,Xx,0.0
+In-Q-Tel,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+In-Q-Tel,Q,1,1,1,Q,PROPN,NNP,compound,X,0.0
+In-Q-Tel,Tel,1,1,3,tel,NOUN,NN,pobj,Xxx,0.0
+DAG Ventures,DAG,2,1,3,DAG,PROPN,NNP,compound,XXX,0.0
+DAG Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Velocity,Velocity,1,1,8,velocity,NOUN,NN,ROOT,Xxxxx,0.0
+Next47,Next47,1,1,6,Next47,PROPN,NNP,ROOT,Xxxxdd,0.0
+Artesian VC,Artesian,2,1,8,artesian,ADJ,JJ,amod,Xxxxx,0.0
+Artesian VC,VC,2,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+DMZ,DMZ,1,1,3,dmz,NOUN,NN,ROOT,XXX,0.0
+Kapor Capital,Kapor,2,1,5,Kapor,PROPN,NNP,compound,Xxxxx,0.0
+Kapor Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Northzone,Northzone,1,1,9,northzone,NOUN,NN,ROOT,Xxxxx,0.0
+Fabrice Grinda,Fabrice,2,1,7,Fabrice,PROPN,NNP,compound,Xxxxx,0.0
+Fabrice Grinda,Grinda,2,1,6,Grinda,PROPN,NNP,ROOT,Xxxxx,0.0
+Goodwater Capital,Goodwater,2,1,9,Goodwater,PROPN,NNP,compound,Xxxxx,0.0
+Goodwater Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Storm Ventures,Storm,2,1,5,storm,NOUN,NN,compound,Xxxxx,0.0
+Storm Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+IP Group,IP,2,1,2,IP,PROPN,NNP,compound,XX,0.0
+IP Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Foundation for Technological Innovation (FIT),Foundation,5,1,10,Foundation,PROPN,NNP,ROOT,Xxxxx,0.0
+Foundation for Technological Innovation (FIT),for,5,1,3,for,ADP,IN,prep,xxx,0.0
+Foundation for Technological Innovation (FIT),Technological,5,1,13,Technological,PROPN,NNP,compound,Xxxxx,0.0
+Foundation for Technological Innovation (FIT),Innovation,5,1,10,Innovation,PROPN,NNP,pobj,Xxxxx,0.0
+Foundation for Technological Innovation (FIT),(,5,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Foundation for Technological Innovation (FIT),FIT,5,1,3,FIT,PROPN,NNP,appos,XXX,0.0
+Foundation for Technological Innovation (FIT),),5,1,1,),PUNCT,-RRB-,punct,),0.0
+Eniac Ventures,Eniac,2,1,5,Eniac,PROPN,NNP,compound,Xxxxx,0.0
+Eniac Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Deerfield,Deerfield,1,1,9,Deerfield,PROPN,NNP,ROOT,Xxxxx,0.0
+Advanced Technology Ventures,Advanced,3,1,8,Advanced,PROPN,NNP,compound,Xxxxx,0.0
+Advanced Technology Ventures,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Advanced Technology Ventures,Ventures,3,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+LaunchCapital,LaunchCapital,1,1,13,launchcapital,NOUN,NN,ROOT,XxxxxXxxxx,0.0
+CyberAgent Capital,CyberAgent,2,1,10,CyberAgent,PROPN,NNP,compound,XxxxxXxxxx,0.0
+CyberAgent Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Bloomberg Beta,Bloomberg,2,1,9,Bloomberg,PROPN,NNP,compound,Xxxxx,0.0
+Bloomberg Beta,Beta,2,1,4,beta,NOUN,NN,ROOT,Xxxx,0.0
+Ben Franklin Technology Partners of Northeastern Pennsylvania,Ben,7,1,3,Ben,PROPN,NNP,compound,Xxx,0.0
+Ben Franklin Technology Partners of Northeastern Pennsylvania,Franklin,7,1,8,Franklin,PROPN,NNP,compound,Xxxxx,0.0
+Ben Franklin Technology Partners of Northeastern Pennsylvania,Technology,7,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Ben Franklin Technology Partners of Northeastern Pennsylvania,Partners,7,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Ben Franklin Technology Partners of Northeastern Pennsylvania,of,7,1,2,of,ADP,IN,prep,xx,0.0
+Ben Franklin Technology Partners of Northeastern Pennsylvania,Northeastern,7,1,12,Northeastern,PROPN,NNP,compound,Xxxxx,0.0
+Ben Franklin Technology Partners of Northeastern Pennsylvania,Pennsylvania,7,1,12,Pennsylvania,PROPN,NNP,pobj,Xxxxx,0.0
+Massachusetts Clean Energy Center,Massachusetts,4,1,13,Massachusetts,PROPN,NNP,compound,Xxxxx,0.0
+Massachusetts Clean Energy Center,Clean,4,1,5,Clean,PROPN,NNP,compound,Xxxxx,0.0
+Massachusetts Clean Energy Center,Energy,4,1,6,Energy,PROPN,NNP,compound,Xxxxx,0.0
+Massachusetts Clean Energy Center,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Fonds de solidarité FTQ,Fonds,4,1,5,fond,NOUN,NNS,nmod,Xxxxx,0.0
+Fonds de solidarité FTQ,de,4,1,2,de,X,FW,nmod,xx,0.0
+Fonds de solidarité FTQ,solidarité,4,1,10,solidarité,NOUN,NN,compound,xxxx,0.0
+Fonds de solidarité FTQ,FTQ,4,1,3,FTQ,PROPN,NNP,ROOT,XXX,0.0
+Point Nine,Point,2,1,5,point,NOUN,NN,ROOT,Xxxxx,0.0
+Point Nine,Nine,2,1,4,nine,NUM,CD,nummod,Xxxx,0.0
+Viola Ventures,Viola,2,1,5,Viola,PROPN,NNP,compound,Xxxxx,0.0
+Viola Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+MedTech Innovator,MedTech,2,1,7,MedTech,PROPN,NNP,compound,XxxXxxx,0.0
+MedTech Innovator,Innovator,2,1,9,Innovator,PROPN,NNP,ROOT,Xxxxx,0.0
+Dell Technologies Capital,Dell,3,1,4,Dell,PROPN,NNP,compound,Xxxx,0.0
+Dell Technologies Capital,Technologies,3,1,12,Technologies,PROPN,NNP,compound,Xxxxx,0.0
+Dell Technologies Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Novartis Venture Fund,Novartis,3,1,8,Novartis,PROPN,NNP,compound,Xxxxx,0.0
+Novartis Venture Fund,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Novartis Venture Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+DST Global,DST,2,1,3,DST,PROPN,NNP,compound,XXX,0.0
+DST Global,Global,2,1,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+Vaekstfonden,Vaekstfonden,1,1,12,Vaekstfonden,PROPN,NNP,ROOT,Xxxxx,0.0
+HarbourVest Partners,HarbourVest,2,1,11,HarbourVest,PROPN,NNP,compound,XxxxxXxxx,0.0
+HarbourVest Partners,Partners,2,1,8,partner,NOUN,NNS,ROOT,Xxxxx,0.0
+EIT Digital Accelerator,EIT,3,1,3,EIT,PROPN,NNP,compound,XXX,0.0
+EIT Digital Accelerator,Digital,3,1,7,Digital,PROPN,NNP,compound,Xxxxx,0.0
+EIT Digital Accelerator,Accelerator,3,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Seventure Partners,Seventure,2,1,9,seventure,VERB,VB,ROOT,Xxxxx,0.0
+Seventure Partners,Partners,2,1,8,partner,NOUN,NNS,dobj,Xxxxx,0.0
+Ulu Ventures,Ulu,2,1,3,Ulu,PROPN,NNP,compound,Xxx,0.0
+Ulu Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Edison Partners,Edison,2,1,6,Edison,PROPN,NNP,compound,Xxxxx,0.0
+Edison Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Pegasus Tech Ventures,Pegasus,3,1,7,Pegasus,PROPN,NNP,compound,Xxxxx,0.0
+Pegasus Tech Ventures,Tech,3,1,4,Tech,PROPN,NNP,compound,Xxxx,0.0
+Pegasus Tech Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Microsoft Accelerator,Microsoft,2,1,9,Microsoft,PROPN,NNP,compound,Xxxxx,0.0
+Microsoft Accelerator,Accelerator,2,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Techstars New York City Accelerator,Techstars,5,1,9,Techstars,PROPN,NNP,compound,Xxxxx,0.0
+Techstars New York City Accelerator,New,5,1,3,New,PROPN,NNP,compound,Xxx,0.0
+Techstars New York City Accelerator,York,5,1,4,York,PROPN,NNP,compound,Xxxx,0.0
+Techstars New York City Accelerator,City,5,1,4,City,PROPN,NNP,compound,Xxxx,0.0
+Techstars New York City Accelerator,Accelerator,5,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Precursor Ventures,Precursor,2,1,9,Precursor,PROPN,NNP,compound,Xxxxx,0.0
+Precursor Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+ACE &amp; Company,ACE,3,1,3,ACE,PROPN,NNP,ROOT,XXX,0.0
+ACE &amp; Company,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+ACE &amp; Company,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+ACE &amp; Company,;,3,1,1,;,PUNCT,:,punct,;,0.0
+ACE &amp; Company,Company,3,1,7,company,NOUN,NN,appos,Xxxxx,0.0
+SAP.iO,SAP.iO,1,1,6,sap.io,INTJ,UH,ROOT,XXX.xX,0.0
+Google for Startups,Google,3,1,6,Google,PROPN,NNP,ROOT,Xxxxx,0.0
+Google for Startups,for,3,1,3,for,ADP,IN,prep,xxx,0.0
+Google for Startups,Startups,3,1,8,Startups,PROPN,NNPS,pobj,Xxxxx,0.0
+TSVC,TSVC,1,1,4,tsvc,NOUN,NN,ROOT,XXXX,0.0
+Jerusalem Venture Partners (JVP),Jerusalem,4,1,9,Jerusalem,PROPN,NNP,compound,Xxxxx,0.0
+Jerusalem Venture Partners (JVP),Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Jerusalem Venture Partners (JVP),Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Jerusalem Venture Partners (JVP),(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Jerusalem Venture Partners (JVP),JVP,4,1,3,JVP,PROPN,NNP,appos,XXX,0.0
+Jerusalem Venture Partners (JVP),),4,1,1,),PUNCT,-RRB-,punct,),0.0
+AcceliCITY powered by Leading Cities,AcceliCITY,5,1,10,accelicity,NUM,CD,ROOT,XxxxxXXXX,0.0
+AcceliCITY powered by Leading Cities,powered,5,1,7,power,VERB,VBN,acl,xxxx,0.0
+AcceliCITY powered by Leading Cities,by,5,1,2,by,ADP,IN,agent,xx,0.0
+AcceliCITY powered by Leading Cities,Leading,5,1,7,lead,VERB,VBG,compound,Xxxxx,0.0
+AcceliCITY powered by Leading Cities,Cities,5,1,6,city,NOUN,NNS,pobj,Xxxxx,0.0
+btov Partners,btov,2,1,4,btov,PROPN,NNP,compound,xxxx,0.0
+btov Partners,Partners,2,1,8,partner,NOUN,NNS,ROOT,Xxxxx,0.0
+EvoNexus,EvoNexus,1,1,8,evonexu,NOUN,NNS,ROOT,XxxXxxxx,0.0
+Pritzker Group Venture Capital,Pritzker,4,1,8,Pritzker,PROPN,NNP,compound,Xxxxx,0.0
+Pritzker Group Venture Capital,Group,4,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+Pritzker Group Venture Capital,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Pritzker Group Venture Capital,Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Craft Ventures,Craft,2,1,5,Craft,PROPN,NNP,compound,Xxxxx,0.0
+Craft Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Animoca Brands,Animoca,2,1,7,Animoca,PROPN,NNP,compound,Xxxxx,0.0
+Animoca Brands,Brands,2,1,6,Brands,PROPN,NNPS,ROOT,Xxxxx,0.0
+Samsung NEXT,Samsung,2,1,7,Samsung,PROPN,NNP,compound,Xxxxx,0.0
+Samsung NEXT,NEXT,2,1,4,NEXT,PROPN,NNP,ROOT,XXXX,0.0
+Hummer Winblad Venture Partners,Hummer,4,1,6,Hummer,PROPN,NNP,compound,Xxxxx,0.0
+Hummer Winblad Venture Partners,Winblad,4,1,7,Winblad,PROPN,NNP,compound,Xxxxx,0.0
+Hummer Winblad Venture Partners,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Hummer Winblad Venture Partners,Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+10X Capital,10X,2,1,3,10X,PROPN,NNP,compound,ddX,0.0
+10X Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Naval Ravikant,Naval,2,1,5,Naval,PROPN,NNP,compound,Xxxxx,0.0
+Naval Ravikant,Ravikant,2,1,8,Ravikant,PROPN,NNP,ROOT,Xxxxx,0.0
+Omnes Capital,Omnes,2,1,5,Omnes,PROPN,NNP,compound,Xxxxx,0.0
+Omnes Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Entrée Capital,Entrée,2,1,6,Entrée,PROPN,NNP,compound,Xxxxx,0.0
+Entrée Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Forerunner Ventures,Forerunner,2,1,10,Forerunner,PROPN,NNP,compound,Xxxxx,0.0
+Forerunner Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Adams Street Partners,Adams,3,1,5,Adams,PROPN,NNP,compound,Xxxxx,0.0
+Adams Street Partners,Street,3,1,6,Street,PROPN,NNP,compound,Xxxxx,0.0
+Adams Street Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+EXPERT DOJO,EXPERT,2,1,6,expert,ADJ,JJ,compound,XXXX,0.0
+EXPERT DOJO,DOJO,2,1,4,DOJO,PROPN,NNP,ROOT,XXXX,0.0
+Wellington Partners,Wellington,2,1,10,Wellington,PROPN,NNP,compound,Xxxxx,0.0
+Wellington Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Eurazeo,Eurazeo,1,1,7,eurazeo,NOUN,NN,ROOT,Xxxxx,0.0
+Anthemis Group,Anthemis,2,1,8,Anthemis,PROPN,NNP,compound,Xxxxx,0.0
+Anthemis Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Emergence,Emergence,1,1,9,emergence,NOUN,NN,ROOT,Xxxxx,0.0
+Peterson Ventures,Peterson,2,1,8,Peterson,PROPN,NNP,compound,Xxxxx,0.0
+Peterson Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Apax Partners,Apax,2,1,4,Apax,PROPN,NNP,compound,Xxxx,0.0
+Apax Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Frazier Healthcare Partners,Frazier,3,1,7,Frazier,PROPN,NNP,compound,Xxxxx,0.0
+Frazier Healthcare Partners,Healthcare,3,1,10,Healthcare,PROPN,NNP,compound,Xxxxx,0.0
+Frazier Healthcare Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Blumberg Capital,Blumberg,2,1,8,Blumberg,PROPN,NNP,compound,Xxxxx,0.0
+Blumberg Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Development Bank of Wales,Development,4,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Development Bank of Wales,Bank,4,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Development Bank of Wales,of,4,1,2,of,ADP,IN,prep,xx,0.0
+Development Bank of Wales,Wales,4,1,5,Wales,PROPN,NNP,pobj,Xxxxx,0.0
+Ben Franklin Technology Partners of Southeastern Pennsylvania,Ben,7,1,3,Ben,PROPN,NNP,compound,Xxx,0.0
+Ben Franklin Technology Partners of Southeastern Pennsylvania,Franklin,7,1,8,Franklin,PROPN,NNP,compound,Xxxxx,0.0
+Ben Franklin Technology Partners of Southeastern Pennsylvania,Technology,7,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Ben Franklin Technology Partners of Southeastern Pennsylvania,Partners,7,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Ben Franklin Technology Partners of Southeastern Pennsylvania,of,7,1,2,of,ADP,IN,prep,xx,0.0
+Ben Franklin Technology Partners of Southeastern Pennsylvania,Southeastern,7,1,12,Southeastern,PROPN,NNP,compound,Xxxxx,0.0
+Ben Franklin Technology Partners of Southeastern Pennsylvania,Pennsylvania,7,1,12,Pennsylvania,PROPN,NNP,pobj,Xxxxx,0.0
+Morgan Stanley,Morgan,2,1,6,Morgan,PROPN,NNP,compound,Xxxxx,0.0
+Morgan Stanley,Stanley,2,1,7,Stanley,PROPN,NNP,ROOT,Xxxxx,0.0
+HBM Healthcare Investments AG,HBM,4,1,3,HBM,PROPN,NNP,compound,XXX,0.0
+HBM Healthcare Investments AG,Healthcare,4,1,10,Healthcare,PROPN,NNP,compound,Xxxxx,0.0
+HBM Healthcare Investments AG,Investments,4,1,11,Investments,PROPN,NNP,compound,Xxxxx,0.0
+HBM Healthcare Investments AG,AG,4,1,2,AG,PROPN,NNP,ROOT,XX,0.0
+Picus Capital,Picus,2,1,5,Picus,PROPN,NNP,compound,Xxxxx,0.0
+Picus Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+CDH Investments,CDH,2,1,3,CDH,PROPN,NNP,compound,XXX,0.0
+CDH Investments,Investments,2,1,11,investment,NOUN,NNS,ROOT,Xxxxx,0.0
+Oriental Fortune Capital,Oriental,3,1,8,oriental,ADJ,JJ,amod,Xxxxx,0.0
+Oriental Fortune Capital,Fortune,3,1,7,Fortune,PROPN,NNP,compound,Xxxxx,0.0
+Oriental Fortune Capital,Capital,3,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Innovation Endeavors,Innovation,2,1,10,innovation,NOUN,NN,compound,Xxxxx,0.0
+Innovation Endeavors,Endeavors,2,1,9,Endeavors,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mucker Capital,Mucker,2,1,6,Mucker,PROPN,NNP,compound,Xxxxx,0.0
+Mucker Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Techstars Boston Accelerator,Techstars,3,1,9,techstar,VERB,VBZ,compound,Xxxxx,0.0
+Techstars Boston Accelerator,Boston,3,1,6,Boston,PROPN,NNP,compound,Xxxxx,0.0
+Techstars Boston Accelerator,Accelerator,3,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Monashees,Monashees,1,1,9,monashee,NOUN,NNS,ROOT,Xxxxx,0.0
+Perceptive Advisors,Perceptive,2,1,10,Perceptive,PROPN,NNP,compound,Xxxxx,0.0
+Perceptive Advisors,Advisors,2,1,8,Advisors,PROPN,NNPS,ROOT,Xxxxx,0.0
+Greenspring Associates,Greenspring,2,1,11,Greenspring,PROPN,NNP,compound,Xxxxx,0.0
+Greenspring Associates,Associates,2,1,10,Associates,PROPN,NNPS,ROOT,Xxxxx,0.0
+Rev1 Ventures,Rev1,2,1,4,Rev1,PROPN,NNP,compound,Xxxd,0.0
+Rev1 Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Morado Ventures,Morado,2,1,6,Morado,PROPN,NNP,compound,Xxxxx,0.0
+Morado Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mark Cuban,Mark,2,1,4,Mark,PROPN,NNP,compound,Xxxx,0.0
+Mark Cuban,Cuban,2,1,5,Cuban,PROPN,NNP,ROOT,Xxxxx,0.0
+Harrison Metal,Harrison,2,1,8,Harrison,PROPN,NNP,compound,Xxxxx,0.0
+Harrison Metal,Metal,2,1,5,Metal,PROPN,NNP,ROOT,Xxxxx,0.0
+Creandum,Creandum,1,1,8,Creandum,PROPN,NNP,ROOT,Xxxxx,0.0
+Cisco,Cisco,1,1,5,Cisco,PROPN,NNP,ROOT,Xxxxx,0.0
+Fortune Venture Capital,Fortune,3,1,7,Fortune,PROPN,NNP,compound,Xxxxx,0.0
+Fortune Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Fortune Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Sevin Rosen Funds,Sevin,3,1,5,Sevin,PROPN,NNP,compound,Xxxxx,0.0
+Sevin Rosen Funds,Rosen,3,1,5,Rosen,PROPN,NNP,compound,Xxxxx,0.0
+Sevin Rosen Funds,Funds,3,1,5,Funds,PROPN,NNPS,ROOT,Xxxxx,0.0
+Trident Capital,Trident,2,1,7,Trident,PROPN,NNP,compound,Xxxxx,0.0
+Trident Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+DNX Ventures,DNX,2,1,3,DNX,PROPN,NNP,compound,XXX,0.0
+DNX Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Hercules Capital,Hercules,2,1,8,Hercules,PROPN,NNP,compound,Xxxxx,0.0
+Hercules Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Kalaari Capital,Kalaari,2,1,7,Kalaari,PROPN,NNP,compound,Xxxxx,0.0
+Kalaari Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+MaRS Investment Accelerator Fund,MaRS,4,1,4,MaRS,PROPN,NNP,compound,XxXX,0.0
+MaRS Investment Accelerator Fund,Investment,4,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+MaRS Investment Accelerator Fund,Accelerator,4,1,11,Accelerator,PROPN,NNP,compound,Xxxxx,0.0
+MaRS Investment Accelerator Fund,Fund,4,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Betaworks,Betaworks,1,1,9,betawork,NOUN,NNS,ROOT,Xxxxx,0.0
+Serra Ventures,Serra,2,1,5,Serra,PROPN,NNP,compound,Xxxxx,0.0
+Serra Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Wellington Management,Wellington,2,1,10,Wellington,PROPN,NNP,compound,Xxxxx,0.0
+Wellington Management,Management,2,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Bill &amp; Melinda Gates Foundation,Bill,5,1,4,Bill,PROPN,NNP,ROOT,Xxxx,0.0
+Bill &amp; Melinda Gates Foundation,&,5,1,1,&,CCONJ,CC,cc,&,0.0
+Bill &amp; Melinda Gates Foundation,amp,5,1,3,amp,NOUN,NN,conj,xxx,0.0
+Bill &amp; Melinda Gates Foundation,;,5,1,1,;,PUNCT,:,punct,;,0.0
+Bill &amp; Melinda Gates Foundation,Melinda,5,1,7,Melinda,PROPN,NNP,compound,Xxxxx,0.0
+Bill &amp; Melinda Gates Foundation,Gates,5,1,5,Gates,PROPN,NNP,compound,Xxxxx,0.0
+Bill &amp; Melinda Gates Foundation,Foundation,5,1,10,Foundation,PROPN,NNP,appos,Xxxxx,0.0
+NextView Ventures,NextView,2,1,8,NextView,PROPN,NNP,compound,XxxxXxxx,0.0
+NextView Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Xiaomi,Xiaomi,1,1,6,Xiaomi,NOUN,NNS,ROOT,Xxxxx,0.0
+Atomico,Atomico,1,1,7,atomico,NOUN,NN,ROOT,Xxxxx,0.0
+83North,83North,1,1,7,83North,NOUN,NNS,ROOT,ddXxxxx,0.0
+Compound,Compound,1,1,8,compound,NOUN,NN,ROOT,Xxxxx,0.0
+Seed Capital,Seed,2,1,4,Seed,PROPN,NNP,compound,Xxxx,0.0
+Seed Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+StartEngine,StartEngine,1,1,11,StartEngine,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+LetsVenture,LetsVenture,1,1,11,letsventure,NOUN,NN,ROOT,XxxxXxxxx,0.0
+Elevate Ventures,Elevate,2,1,7,Elevate,PROPN,NNP,compound,Xxxxx,0.0
+Elevate Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Pear VC,Pear,2,1,4,Pear,PROPN,NNP,compound,Xxxx,0.0
+Pear VC,VC,2,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+Baseline Ventures,Baseline,2,1,8,Baseline,PROPN,NNP,compound,Xxxxx,0.0
+Baseline Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Advent International,Advent,2,1,6,Advent,PROPN,NNP,compound,Xxxxx,0.0
+Advent International,International,2,1,13,International,PROPN,NNP,ROOT,Xxxxx,0.0
+Ribbit Capital,Ribbit,2,1,6,ribbit,NOUN,NN,compound,Xxxxx,0.0
+Ribbit Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Blackbird Ventures,Blackbird,2,1,9,Blackbird,PROPN,NNP,compound,Xxxxx,0.0
+Blackbird Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Scottish Enterprise,Scottish,2,1,8,scottish,ADJ,JJ,amod,Xxxxx,0.0
+Scottish Enterprise,Enterprise,2,1,10,enterprise,NOUN,NN,ROOT,Xxxxx,0.0
+Pantera Capital,Pantera,2,1,7,Pantera,PROPN,NNP,compound,Xxxxx,0.0
+Pantera Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Kunal Shah,Kunal,2,1,5,Kunal,PROPN,NNP,compound,Xxxxx,0.0
+Kunal Shah,Shah,2,1,4,Shah,PROPN,NNP,ROOT,Xxxx,0.0
+NDRC,NDRC,1,1,4,NDRC,PROPN,NNP,ROOT,XXXX,0.0
+Casdin Capital,Casdin,2,1,6,Casdin,PROPN,NNP,compound,Xxxxx,0.0
+Casdin Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Plum Ventures,Plum,2,1,4,Plum,PROPN,NNP,compound,Xxxx,0.0
+Plum Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Abstract Ventures,Abstract,2,1,8,Abstract,PROPN,NNP,compound,Xxxxx,0.0
+Abstract Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Canada Pension Plan Investment Board,Canada,5,1,6,Canada,PROPN,NNP,compound,Xxxxx,0.0
+Canada Pension Plan Investment Board,Pension,5,1,7,Pension,PROPN,NNP,compound,Xxxxx,0.0
+Canada Pension Plan Investment Board,Plan,5,1,4,Plan,PROPN,NNP,compound,Xxxx,0.0
+Canada Pension Plan Investment Board,Investment,5,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Canada Pension Plan Investment Board,Board,5,1,5,Board,PROPN,NNP,ROOT,Xxxxx,0.0
+China Growth Capital | CGC,China,5,1,5,China,PROPN,NNP,compound,Xxxxx,0.0
+China Growth Capital | CGC,Growth,5,1,6,Growth,PROPN,NNP,compound,Xxxxx,0.0
+China Growth Capital | CGC,Capital,5,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+China Growth Capital | CGC,|,5,1,1,|,NOUN,NN,nsubj,|,0.0
+China Growth Capital | CGC,CGC,5,1,3,cgc,VERB,VB,ROOT,XXX,0.0
+Wilco,Wilco,1,1,5,Wilco,PROPN,NNP,ROOT,Xxxxx,0.0
+InnoVen Capital,InnoVen,2,1,7,InnoVen,PROPN,NNP,compound,XxxxXxx,0.0
+InnoVen Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Alven,Alven,1,1,5,alven,ADJ,JJ,ROOT,Xxxxx,0.0
+Cowin Capital,Cowin,2,1,5,Cowin,PROPN,NNP,compound,Xxxxx,0.0
+Cowin Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Pareto Holdings,Pareto,2,1,6,Pareto,PROPN,NNP,compound,Xxxxx,0.0
+Pareto Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+Alexandria Venture Investments,Alexandria,3,1,10,Alexandria,PROPN,NNP,compound,Xxxxx,0.0
+Alexandria Venture Investments,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Alexandria Venture Investments,Investments,3,1,11,Investments,PROPN,NNP,ROOT,Xxxxx,0.0
+Ventech,Ventech,1,1,7,ventech,NOUN,NN,ROOT,Xxxxx,0.0
+OUP (Osage University Partners),OUP,4,1,3,OUP,PROPN,NNP,ROOT,XXX,0.0
+OUP (Osage University Partners),(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+OUP (Osage University Partners),Osage,4,1,5,Osage,PROPN,NNP,compound,Xxxxx,0.0
+OUP (Osage University Partners),University,4,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+OUP (Osage University Partners),Partners,4,1,8,Partners,PROPN,NNPS,appos,Xxxxx,0.0
+OUP (Osage University Partners),),4,1,1,),PUNCT,-RRB-,punct,),0.0
+Kaszek,Kaszek,1,1,6,Kaszek,PROPN,NNP,ROOT,Xxxxx,0.0
+TPG,TPG,1,1,3,tpg,NOUN,NN,ROOT,XXX,0.0
+Jump Capital,Jump,2,1,4,jump,VERB,VB,compound,Xxxx,0.0
+Jump Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+ANRI,ANRI,1,1,4,anri,ADV,RB,ROOT,XXXX,0.0
+Kickstart,Kickstart,1,1,9,Kickstart,PROPN,NNP,ROOT,Xxxxx,0.0
+Service Provider Capital,Service,3,1,7,Service,PROPN,NNP,compound,Xxxxx,0.0
+Service Provider Capital,Provider,3,1,8,Provider,PROPN,NNP,compound,Xxxxx,0.0
+Service Provider Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+IBB Ventures,IBB,2,1,3,IBB,PROPN,NNP,compound,XXX,0.0
+IBB Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Desjardins Venture Capital,Desjardins,3,1,10,Desjardins,PROPN,NNP,compound,Xxxxx,0.0
+Desjardins Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Desjardins Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Globespan Capital Partners,Globespan,3,1,9,Globespan,PROPN,NNP,compound,Xxxxx,0.0
+Globespan Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Globespan Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Susa Ventures,Susa,2,1,4,Susa,PROPN,NNP,compound,Xxxx,0.0
+Susa Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Chiratae Ventures,Chiratae,2,2,8,Chiratae,PROPN,NNP,compound,Xxxxx,0.0
+Chiratae Ventures,Ventures,2,2,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+European Investment Bank,European,3,1,8,European,PROPN,NNP,compound,Xxxxx,0.0
+European Investment Bank,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+European Investment Bank,Bank,3,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Cultivation Capital,Cultivation,2,1,11,Cultivation,PROPN,NNP,compound,Xxxxx,0.0
+Cultivation Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Bethnal Green Ventures,Bethnal,3,1,7,Bethnal,PROPN,NNP,compound,Xxxxx,0.0
+Bethnal Green Ventures,Green,3,1,5,Green,PROPN,NNP,compound,Xxxxx,0.0
+Bethnal Green Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+The Syndicate.com,The,2,1,3,the,DET,DT,det,Xxx,0.0
+The Syndicate.com,Syndicate.com,2,1,13,Syndicate.com,PROPN,NNP,ROOT,Xxxxx.xxx,0.0
+Japan Finance,Japan,2,1,5,Japan,PROPN,NNP,compound,Xxxxx,0.0
+Japan Finance,Finance,2,1,7,Finance,PROPN,NNP,ROOT,Xxxxx,0.0
+Alliance of Angels,Alliance,3,1,8,Alliance,PROPN,NNP,ROOT,Xxxxx,0.0
+Alliance of Angels,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Alliance of Angels,Angels,3,1,6,Angels,PROPN,NNPS,pobj,Xxxxx,0.0
+Horizon 2020,Horizon,2,1,7,Horizon,PROPN,NNP,ROOT,Xxxxx,0.0
+Horizon 2020,2020,2,1,4,2020,NUM,CD,nummod,dddd,0.0
+SBRI Healthcare,SBRI,2,1,4,SBRI,PROPN,NNP,compound,XXXX,0.0
+SBRI Healthcare,Healthcare,2,1,10,Healthcare,PROPN,NNP,ROOT,Xxxxx,0.0
+DHVC,DHVC,1,1,4,dhvc,NOUN,NN,ROOT,XXXX,0.0
+Columbia Capital,Columbia,2,1,8,Columbia,PROPN,NNP,compound,Xxxxx,0.0
+Columbia Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+gener8tor,gener8tor,1,1,9,gener8tor,NOUN,NN,ROOT,xxxxdxxx,0.0
+Molten Ventures,Molten,2,1,6,Molten,PROPN,NNP,compound,Xxxxx,0.0
+Molten Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+RiverPark Ventures,RiverPark,2,1,9,RiverPark,PROPN,NNP,compound,XxxxxXxxx,0.0
+RiverPark Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Mumbai Angels,Mumbai,2,1,6,Mumbai,PROPN,NNP,compound,Xxxxx,0.0
+Mumbai Angels,Angels,2,1,6,Angels,PROPN,NNPS,ROOT,Xxxxx,0.0
+BioAdvance,BioAdvance,1,1,10,bioadvance,NOUN,NN,ROOT,XxxXxxxx,0.0
+SeedInvest,SeedInvest,1,1,10,seedinvest,NOUN,NN,ROOT,XxxxXxxxx,0.0
+Innovacorp,Innovacorp,1,1,10,Innovacorp,PROPN,NNP,ROOT,Xxxxx,0.0
+Dorm Room Fund,Dorm,3,1,4,Dorm,PROPN,NNP,compound,Xxxx,0.0
+Dorm Room Fund,Room,3,1,4,Room,PROPN,NNP,compound,Xxxx,0.0
+Dorm Room Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Bay Partners,Bay,2,1,3,Bay,PROPN,NNP,compound,Xxx,0.0
+Bay Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Aster,Aster,1,1,5,aster,NOUN,NN,ROOT,Xxxxx,0.0
+Rockstart,Rockstart,1,1,9,rockstart,ADJ,JJ,ROOT,Xxxxx,0.0
+MaC Venture Capital,MaC,3,1,3,MaC,PROPN,NNP,compound,XxX,0.0
+MaC Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+MaC Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Lowercase Capital,Lowercase,2,1,9,Lowercase,PROPN,NNP,compound,Xxxxx,0.0
+Lowercase Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Verve Ventures,Verve,2,1,5,verve,NOUN,NN,compound,Xxxxx,0.0
+Verve Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Asymmetry Ventures,Asymmetry,2,1,9,Asymmetry,PROPN,NNP,compound,Xxxxx,0.0
+Asymmetry Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+XAnge,XAnge,1,1,5,xange,NOUN,NN,ROOT,XXxxx,0.0
+Grotech Ventures,Grotech,2,1,7,Grotech,PROPN,NNP,compound,Xxxxx,0.0
+Grotech Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Daniel Curran,Daniel,2,1,6,Daniel,PROPN,NNP,compound,Xxxxx,0.0
+Daniel Curran,Curran,2,1,6,Curran,PROPN,NNP,ROOT,Xxxxx,0.0
+Icon Ventures,Icon,2,1,4,Icon,PROPN,NNP,compound,Xxxx,0.0
+Icon Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Green Pine Capital Partners,Green,4,1,5,Green,PROPN,NNP,compound,Xxxxx,0.0
+Green Pine Capital Partners,Pine,4,1,4,Pine,PROPN,NNP,compound,Xxxx,0.0
+Green Pine Capital Partners,Capital,4,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Green Pine Capital Partners,Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Nippon Venture Capital,Nippon,3,1,6,Nippon,PROPN,NNP,compound,Xxxxx,0.0
+Nippon Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Nippon Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Pelion Venture Partners,Pelion,3,1,6,pelion,NOUN,NN,compound,Xxxxx,0.0
+Pelion Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Pelion Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+MMC Ventures,MMC,2,1,3,MMC,PROPN,NNP,compound,XXX,0.0
+MMC Ventures,Ventures,2,1,8,Ventures,PROPN,NNP,ROOT,Xxxxx,0.0
+Matrix Partners India,Matrix,3,1,6,Matrix,PROPN,NNP,compound,Xxxxx,0.0
+Matrix Partners India,Partners,3,1,8,Partners,PROPN,NNPS,compound,Xxxxx,0.0
+Matrix Partners India,India,3,1,5,India,PROPN,NNP,ROOT,Xxxxx,0.0
+Gobi Partners,Gobi,2,1,4,Gobi,PROPN,NNP,compound,Xxxx,0.0
+Gobi Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Arch Grants,Arch,2,1,4,Arch,PROPN,NNP,compound,Xxxx,0.0
+Arch Grants,Grants,2,1,6,Grants,PROPN,NNPS,ROOT,Xxxxx,0.0
+BDMI,BDMI,1,1,4,BDMI,PROPN,NNP,ROOT,XXXX,0.0
+NC IDEA,NC,2,2,2,NC,PROPN,NNP,compound,XX,0.0
+NC IDEA,IDEA,2,2,4,IDEA,PROPN,NNP,ROOT,XXXX,0.0
+Google,Google,1,1,6,Google,PROPN,NNP,ROOT,Xxxxx,0.0
+Target Global,Target,2,1,6,Target,PROPN,NNP,compound,Xxxxx,0.0
+Target Global,Global,2,1,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+Silverton Partners,Silverton,2,1,9,Silverton,PROPN,NNP,compound,Xxxxx,0.0
+Silverton Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+WI Harper Group,WI,3,1,2,WI,PROPN,NNP,compound,XX,0.0
+WI Harper Group,Harper,3,1,6,Harper,PROPN,NNP,compound,Xxxxx,0.0
+WI Harper Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Cyberport Hong Kong,Cyberport,3,1,9,Cyberport,PROPN,NNP,compound,Xxxxx,0.0
+Cyberport Hong Kong,Hong,3,1,4,Hong,PROPN,NNP,compound,Xxxx,0.0
+Cyberport Hong Kong,Kong,3,1,4,Kong,PROPN,NNP,ROOT,Xxxx,0.0
+Techstars Boulder Accelerator,Techstars,3,1,9,techstar,VERB,VBZ,compound,Xxxxx,0.0
+Techstars Boulder Accelerator,Boulder,3,1,7,Boulder,PROPN,NNP,compound,Xxxxx,0.0
+Techstars Boulder Accelerator,Accelerator,3,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+ACME Capital,ACME,2,1,4,ACME,PROPN,NNP,ROOT,XXXX,0.0
+ACME Capital,Capital,2,1,7,Capital,PROPN,NNP,dobj,Xxxxx,0.0
+Tenaya Capital,Tenaya,2,1,6,Tenaya,PROPN,NNP,compound,Xxxxx,0.0
+Tenaya Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Capital Factory,Capital,2,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Capital Factory,Factory,2,1,7,Factory,PROPN,NNP,ROOT,Xxxxx,0.0
+Cormorant Asset Management,Cormorant,3,1,9,Cormorant,PROPN,NNP,compound,Xxxxx,0.0
+Cormorant Asset Management,Asset,3,1,5,Asset,PROPN,NNP,compound,Xxxxx,0.0
+Cormorant Asset Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+The Fund,The,2,1,3,the,DET,DT,det,Xxx,0.0
+The Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Vertex Ventures Israel,Vertex,3,1,6,Vertex,PROPN,NNP,compound,Xxxxx,0.0
+Vertex Ventures Israel,Ventures,3,1,8,venture,VERB,VBZ,compound,Xxxxx,0.0
+Vertex Ventures Israel,Israel,3,1,6,Israel,PROPN,NNP,ROOT,Xxxxx,0.0
+Bayern Kapital,Bayern,2,1,6,Bayern,PROPN,NNP,compound,Xxxxx,0.0
+Bayern Kapital,Kapital,2,1,7,Kapital,PROPN,NNP,ROOT,Xxxxx,0.0
+VA Angels,VA,2,1,2,VA,PROPN,NNP,compound,XX,0.0
+VA Angels,Angels,2,1,6,Angels,PROPN,NNPS,ROOT,Xxxxx,0.0
+Virginia Venture Partners,Virginia,3,1,8,Virginia,PROPN,NNP,compound,Xxxxx,0.0
+Virginia Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Virginia Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Second Century Ventures,Second,3,1,6,Second,PROPN,NNP,compound,Xxxxx,0.0
+Second Century Ventures,Century,3,1,7,Century,PROPN,NNP,compound,Xxxxx,0.0
+Second Century Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Alloy Ventures,Alloy,2,1,5,Alloy,PROPN,NNP,compound,Xxxxx,0.0
+Alloy Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Avalon Ventures,Avalon,2,1,6,Avalon,PROPN,NNP,compound,Xxxxx,0.0
+Avalon Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Two Sigma Ventures,Two,3,1,3,two,NUM,CD,nummod,Xxx,0.0
+Two Sigma Ventures,Sigma,3,1,5,Sigma,PROPN,NNP,compound,Xxxxx,0.0
+Two Sigma Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Houston Angel Network,Houston,3,1,7,Houston,PROPN,NNP,compound,Xxxxx,0.0
+Houston Angel Network,Angel,3,1,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Houston Angel Network,Network,3,1,7,Network,PROPN,NNP,ROOT,Xxxxx,0.0
+Alameda Research,Alameda,2,1,7,Alameda,PROPN,NNP,compound,Xxxxx,0.0
+Alameda Research,Research,2,1,8,Research,PROPN,NNP,ROOT,Xxxxx,0.0
+AngelPad,AngelPad,1,1,8,angelpad,NOUN,NN,ROOT,XxxxxXxx,0.0
+Korea Investment Partners,Korea,3,1,5,Korea,PROPN,NNP,compound,Xxxxx,0.0
+Korea Investment Partners,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Korea Investment Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Oxford Capital Partners,Oxford,3,1,6,Oxford,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+The FSE Group,The,3,1,3,the,DET,DT,det,Xxx,0.0
+The FSE Group,FSE,3,1,3,FSE,PROPN,NNP,compound,XXX,0.0
+The FSE Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+GE Ventures,GE,2,1,2,GE,PROPN,NNP,compound,XX,0.0
+GE Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Microsoft,Microsoft,1,1,9,Microsoft,PROPN,NNP,ROOT,Xxxxx,0.0
+B Capital Group,B,3,1,1,b,NOUN,NN,compound,X,0.0
+B Capital Group,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+B Capital Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Softbank Ventures Asia,Softbank,3,1,8,Softbank,PROPN,NNP,compound,Xxxxx,0.0
+Softbank Ventures Asia,Ventures,3,1,8,Ventures,PROPN,NNP,compound,Xxxxx,0.0
+Softbank Ventures Asia,Asia,3,1,4,Asia,PROPN,NNP,ROOT,Xxxx,0.0
+Lightbank,Lightbank,1,1,9,lightbank,ADJ,JJ,ROOT,Xxxxx,0.0
+Caisse de Depot et Placement du Quebec,Caisse,7,1,6,Caisse,PROPN,NNP,compound,Xxxxx,0.0
+Caisse de Depot et Placement du Quebec,de,7,1,2,de,PROPN,NNP,compound,xx,0.0
+Caisse de Depot et Placement du Quebec,Depot,7,1,5,Depot,PROPN,NNP,compound,Xxxxx,0.0
+Caisse de Depot et Placement du Quebec,et,7,1,2,et,NOUN,NN,compound,xx,0.0
+Caisse de Depot et Placement du Quebec,Placement,7,1,9,Placement,PROPN,NNP,compound,Xxxxx,0.0
+Caisse de Depot et Placement du Quebec,du,7,1,2,du,PROPN,NNP,compound,xx,0.0
+Caisse de Depot et Placement du Quebec,Quebec,7,1,6,Quebec,PROPN,NNP,ROOT,Xxxxx,0.0
+Voyager Capital,Voyager,2,1,7,Voyager,PROPN,NNP,compound,Xxxxx,0.0
+Voyager Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+VTF Capital,VTF,2,1,3,VTF,PROPN,NNP,compound,XXX,0.0
+VTF Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Andera Partners,Andera,2,1,6,Andera,PROPN,NNP,compound,Xxxxx,0.0
+Andera Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Maverick Ventures,Maverick,2,1,8,Maverick,PROPN,NNP,compound,Xxxxx,0.0
+Maverick Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Vivo Capital,Vivo,2,1,4,Vivo,PROPN,NNP,compound,Xxxx,0.0
+Vivo Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Gimv,Gimv,1,1,4,Gimv,PROPN,NNP,ROOT,Xxxx,0.0
+Homebrew,Homebrew,1,1,8,homebrew,X,FW,ROOT,Xxxxx,0.0
+JP Morgan Chase,JP,3,1,2,JP,PROPN,NNP,compound,XX,0.0
+JP Morgan Chase,Morgan,3,1,6,Morgan,PROPN,NNP,compound,Xxxxx,0.0
+JP Morgan Chase,Chase,3,1,5,Chase,PROPN,NNP,ROOT,Xxxxx,0.0
+Relay Ventures,Relay,2,1,5,relay,NOUN,NN,compound,Xxxxx,0.0
+Relay Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Invus,Invus,1,1,5,Invus,PROPN,NNP,ROOT,Xxxxx,0.0
+Charlie Songhurst,Charlie,2,1,7,Charlie,PROPN,NNP,compound,Xxxxx,0.0
+Charlie Songhurst,Songhurst,2,1,9,Songhurst,PROPN,NNP,ROOT,Xxxxx,0.0
+Ridge Ventures,Ridge,2,1,5,Ridge,PROPN,NNP,compound,Xxxxx,0.0
+Ridge Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Keiretsu Forum Northwest,Keiretsu,3,1,8,Keiretsu,PROPN,NNP,compound,Xxxxx,0.0
+Keiretsu Forum Northwest,Forum,3,1,5,Forum,PROPN,NNP,compound,Xxxxx,0.0
+Keiretsu Forum Northwest,Northwest,3,1,9,Northwest,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder Friendly Labs,Founder,3,1,7,Founder,PROPN,NNP,compound,Xxxxx,0.0
+Founder Friendly Labs,Friendly,3,1,8,Friendly,PROPN,NNP,compound,Xxxxx,0.0
+Founder Friendly Labs,Labs,3,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Sound Ventures,Sound,2,1,5,sound,ADJ,JJ,compound,Xxxxx,0.0
+Sound Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+MITSUI SUMITOMO INSURANCE Venture Capital (MSIVC),MITSUI,6,1,6,mitsui,NOUN,NN,compound,XXXX,0.0
+MITSUI SUMITOMO INSURANCE Venture Capital (MSIVC),SUMITOMO,6,1,8,sumitomo,ADJ,JJ,compound,XXXX,0.0
+MITSUI SUMITOMO INSURANCE Venture Capital (MSIVC),INSURANCE,6,1,9,INSURANCE,PROPN,NNP,compound,XXXX,0.0
+MITSUI SUMITOMO INSURANCE Venture Capital (MSIVC),Venture,6,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+MITSUI SUMITOMO INSURANCE Venture Capital (MSIVC),Capital,6,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+MITSUI SUMITOMO INSURANCE Venture Capital (MSIVC),(,6,1,1,(,PUNCT,-LRB-,punct,(,0.0
+MITSUI SUMITOMO INSURANCE Venture Capital (MSIVC),MSIVC,6,1,5,MSIVC,PROPN,NNP,appos,XXXX,0.0
+MITSUI SUMITOMO INSURANCE Venture Capital (MSIVC),),6,1,1,),PUNCT,-RRB-,punct,),0.0
+GoBeyond,GoBeyond,1,1,8,GoBeyond,PROPN,NNP,ROOT,XxXxxxx,0.0
+Scott Belsky,Scott,2,1,5,Scott,PROPN,NNP,compound,Xxxxx,0.0
+Scott Belsky,Belsky,2,1,6,Belsky,PROPN,NNP,ROOT,Xxxxx,0.0
+Haystack,Haystack,1,1,8,haystack,NOUN,NN,ROOT,Xxxxx,0.0
+RTP Global,RTP,2,1,3,RTP,PROPN,NNP,compound,XXX,0.0
+RTP Global,Global,2,1,6,Global,PROPN,NNP,ROOT,Xxxxx,0.0
+SignalFire,SignalFire,1,1,10,signalfire,NOUN,NN,ROOT,XxxxxXxxx,0.0
+New Leaf Venture Partners,New,4,1,3,New,PROPN,NNP,compound,Xxx,0.0
+New Leaf Venture Partners,Leaf,4,1,4,Leaf,PROPN,NNP,compound,Xxxx,0.0
+New Leaf Venture Partners,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+New Leaf Venture Partners,Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+KfW,KfW,1,1,3,KfW,PROPN,NNP,ROOT,XxX,0.0
+Portland Seed Fund,Portland,3,1,8,Portland,PROPN,NNP,compound,Xxxxx,0.0
+Portland Seed Fund,Seed,3,1,4,Seed,PROPN,NNP,compound,Xxxx,0.0
+Portland Seed Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Citi Ventures,Citi,2,1,4,Citi,PROPN,NNP,compound,Xxxx,0.0
+Citi Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Innovation Network Corporation of Japan,Innovation,5,1,10,Innovation,PROPN,NNP,compound,Xxxxx,0.0
+Innovation Network Corporation of Japan,Network,5,1,7,Network,PROPN,NNP,compound,Xxxxx,0.0
+Innovation Network Corporation of Japan,Corporation,5,1,11,Corporation,PROPN,NNP,ROOT,Xxxxx,0.0
+Innovation Network Corporation of Japan,of,5,1,2,of,ADP,IN,prep,xx,0.0
+Innovation Network Corporation of Japan,Japan,5,1,5,Japan,PROPN,NNP,pobj,Xxxxx,0.0
+Blackstone Group,Blackstone,2,1,10,Blackstone,PROPN,NNP,compound,Xxxxx,0.0
+Blackstone Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Franklin Templeton Investments,Franklin,3,1,8,Franklin,PROPN,NNP,compound,Xxxxx,0.0
+Franklin Templeton Investments,Templeton,3,1,9,Templeton,PROPN,NNP,compound,Xxxxx,0.0
+Franklin Templeton Investments,Investments,3,1,11,Investments,PROPN,NNP,ROOT,Xxxxx,0.0
+Boomtown Accelerators,Boomtown,2,1,8,Boomtown,PROPN,NNP,compound,Xxxxx,0.0
+Boomtown Accelerators,Accelerators,2,1,12,Accelerators,PROPN,NNPS,ROOT,Xxxxx,0.0
+360 Capital,360,2,1,3,360,NUM,CD,nummod,ddd,0.0
+360 Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+New York Angels,New,3,1,3,New,PROPN,NNP,compound,Xxx,0.0
+New York Angels,York,3,1,4,York,PROPN,NNP,compound,Xxxx,0.0
+New York Angels,Angels,3,1,6,Angels,PROPN,NNPS,ROOT,Xxxxx,0.0
+Marc Benioff,Marc,2,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+Marc Benioff,Benioff,2,1,7,Benioff,PROPN,NNP,ROOT,Xxxxx,0.0
+Atlantic Labs,Atlantic,2,1,8,Atlantic,PROPN,NNP,compound,Xxxxx,0.0
+Atlantic Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Indian Angel Network,Indian,3,1,6,Indian,PROPN,NNP,amod,Xxxxx,0.0
+Indian Angel Network,Angel,3,1,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Indian Angel Network,Network,3,1,7,Network,PROPN,NNP,ROOT,Xxxxx,0.0
+SR One,SR,2,1,2,SR,PROPN,NNP,ROOT,XX,0.0
+SR One,One,2,1,3,one,NUM,CD,nummod,Xxx,0.0
+Dragoneer Investment Group,Dragoneer,3,1,9,Dragoneer,PROPN,NNP,compound,Xxxxx,0.0
+Dragoneer Investment Group,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Dragoneer Investment Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Project A Ventures,Project,3,1,7,Project,PROPN,NNP,compound,Xxxxx,0.0
+Project A Ventures,A,3,1,1,a,DET,DT,det,X,0.0
+Project A Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+.406 Ventures,.406,2,1,4,.406,NUM,CD,nummod,.ddd,0.0
+.406 Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Cisco Investments,Cisco,2,1,5,Cisco,PROPN,NNP,compound,Xxxxx,0.0
+Cisco Investments,Investments,2,1,11,Investments,PROPN,NNP,ROOT,Xxxxx,0.0
+Government of Canada,Government,3,1,10,Government,PROPN,NNP,ROOT,Xxxxx,0.0
+Government of Canada,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Government of Canada,Canada,3,1,6,Canada,PROPN,NNP,pobj,Xxxxx,0.0
+Allen &amp; Company,Allen,3,1,5,Allen,PROPN,NNP,ROOT,Xxxxx,0.0
+Allen &amp; Company,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Allen &amp; Company,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Allen &amp; Company,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Allen &amp; Company,Company,3,1,7,company,NOUN,NN,appos,Xxxxx,0.0
+5AM Ventures,5AM,2,1,3,5am,NUM,CD,nummod,dXX,0.0
+5AM Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+TA Ventures,TA,2,1,2,TA,PROPN,NNP,compound,XX,0.0
+TA Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Costanoa Ventures,Costanoa,2,1,8,Costanoa,PROPN,NNP,compound,Xxxxx,0.0
+Costanoa Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Amplify Partners,Amplify,2,1,7,amplify,VERB,VB,compound,Xxxxx,0.0
+Amplify Partners,Partners,2,1,8,partner,NOUN,NNS,ROOT,Xxxxx,0.0
+Granite Ventures,Granite,2,1,7,Granite,PROPN,NNP,compound,Xxxxx,0.0
+Granite Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Venrex,Venrex,1,1,6,venrex,NOUN,NN,ROOT,Xxxxx,0.0
+Inveready,Inveready,1,1,9,inveready,ADV,RB,ROOT,Xxxxx,0.0
+Abingworth,Abingworth,1,1,10,abingworth,NOUN,NN,ROOT,Xxxxx,0.0
+Downing Ventures,Downing,2,1,7,Downing,PROPN,NNP,amod,Xxxxx,0.0
+Downing Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Azure Capital Partners,Azure,3,1,5,Azure,PROPN,NNP,compound,Xxxxx,0.0
+Azure Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Azure Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Notion Capital,Notion,2,1,6,Notion,PROPN,NNP,compound,Xxxxx,0.0
+Notion Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Launch NY,Launch,2,1,6,Launch,PROPN,NNP,compound,Xxxxx,0.0
+Launch NY,NY,2,1,2,NY,PROPN,NNP,ROOT,XX,0.0
+Quake Capital Partners,Quake,3,1,5,Quake,PROPN,NNP,compound,Xxxxx,0.0
+Quake Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Quake Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Bullpen Capital,Bullpen,2,1,7,Bullpen,PROPN,NNP,compound,Xxxxx,0.0
+Bullpen Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+JAFCO Asia,JAFCO,2,1,5,JAFCO,PROPN,NNP,compound,XXXX,0.0
+JAFCO Asia,Asia,2,1,4,Asia,PROPN,NNP,ROOT,Xxxx,0.0
+City Light Capital,City,3,1,4,City,PROPN,NNP,compound,Xxxx,0.0
+City Light Capital,Light,3,1,5,Light,PROPN,NNP,compound,Xxxxx,0.0
+City Light Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Resolute Ventures,Resolute,2,1,8,Resolute,PROPN,NNP,compound,Xxxxx,0.0
+Resolute Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Hyde Park Venture Partners,Hyde,4,1,4,Hyde,PROPN,NNP,compound,Xxxx,0.0
+Hyde Park Venture Partners,Park,4,1,4,Park,PROPN,NNP,compound,Xxxx,0.0
+Hyde Park Venture Partners,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Hyde Park Venture Partners,Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Paul Buchheit,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Buchheit,Buchheit,2,1,8,Buchheit,PROPN,NNP,ROOT,Xxxxx,0.0
+Industrifonden,Industrifonden,1,1,14,industrifonden,VERB,VB,ROOT,Xxxxx,0.0
+EPIC Ventures,EPIC,2,1,4,EPIC,PROPN,NNP,compound,XXXX,0.0
+EPIC Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Baird Capital,Baird,2,1,5,Baird,PROPN,NNP,compound,Xxxxx,0.0
+Baird Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Industry Ventures,Industry,2,1,8,industry,NOUN,NN,compound,Xxxxx,0.0
+Industry Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Intersouth Partners,Intersouth,2,1,10,Intersouth,PROPN,NNP,compound,Xxxxx,0.0
+Intersouth Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Motorola Solutions Venture Capital,Motorola,4,1,8,Motorola,PROPN,NNP,compound,Xxxxx,0.0
+Motorola Solutions Venture Capital,Solutions,4,1,9,Solutions,PROPN,NNPS,compound,Xxxxx,0.0
+Motorola Solutions Venture Capital,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Motorola Solutions Venture Capital,Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+K50 Ventures,K50,2,1,3,K50,PROPN,NNP,compound,Xdd,0.0
+K50 Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+CICC,CICC,1,1,4,CICC,PROPN,NNP,ROOT,XXXX,0.0
+Cherry Ventures,Cherry,2,1,6,Cherry,PROPN,NNP,compound,Xxxxx,0.0
+Cherry Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Lilly Asia Ventures,Lilly,3,1,5,Lilly,PROPN,NNP,compound,Xxxxx,0.0
+Lilly Asia Ventures,Asia,3,1,4,Asia,PROPN,NNP,compound,Xxxx,0.0
+Lilly Asia Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Angelsquare,Angelsquare,1,1,11,angelsquare,VERB,VB,ROOT,Xxxxx,0.0
+Delphi Ventures,Delphi,2,1,6,Delphi,PROPN,NNP,compound,Xxxxx,0.0
+Delphi Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+NGP Capital,NGP,2,1,3,NGP,PROPN,NNP,compound,XXX,0.0
+NGP Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Kakao Ventures,Kakao,2,1,5,Kakao,PROPN,NNP,compound,Xxxxx,0.0
+Kakao Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Polychain,Polychain,1,1,9,polychain,NOUN,NN,ROOT,Xxxxx,0.0
+Valor Equity Partners,Valor,3,1,5,Valor,PROPN,NNP,compound,Xxxxx,0.0
+Valor Equity Partners,Equity,3,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+Valor Equity Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Primary Venture Partners,Primary,3,1,7,Primary,PROPN,NNP,compound,Xxxxx,0.0
+Primary Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Primary Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+JMI Equity,JMI,2,1,3,JMI,PROPN,NNP,compound,XXX,0.0
+JMI Equity,Equity,2,1,6,Equity,PROPN,NNP,ROOT,Xxxxx,0.0
+Boldstart Ventures,Boldstart,2,1,9,Boldstart,PROPN,NNP,compound,Xxxxx,0.0
+Boldstart Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Contour Venture Partners,Contour,3,1,7,Contour,PROPN,NNP,compound,Xxxxx,0.0
+Contour Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Contour Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Alexis Ohanian,Alexis,2,1,6,Alexis,PROPN,NNP,compound,Xxxxx,0.0
+Alexis Ohanian,Ohanian,2,1,7,Ohanian,PROPN,NNP,ROOT,Xxxxx,0.0
+Heartcore Capital,Heartcore,2,1,9,Heartcore,PROPN,NNP,compound,Xxxxx,0.0
+Heartcore Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+9Unicorns Accelerator Fund,9Unicorns,3,1,9,9unicorn,NOUN,NNS,ROOT,dXxxxx,0.0
+9Unicorns Accelerator Fund,Accelerator,3,1,11,Accelerator,PROPN,NNP,compound,Xxxxx,0.0
+9Unicorns Accelerator Fund,Fund,3,1,4,Fund,PROPN,NNP,npadvmod,Xxxx,0.0
+Massachusetts Life Sciences Center,Massachusetts,4,1,13,Massachusetts,PROPN,NNP,compound,Xxxxx,0.0
+Massachusetts Life Sciences Center,Life,4,1,4,Life,PROPN,NNP,compound,Xxxx,0.0
+Massachusetts Life Sciences Center,Sciences,4,1,8,Sciences,PROPN,NNPS,compound,Xxxxx,0.0
+Massachusetts Life Sciences Center,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Gradient Ventures,Gradient,2,1,8,gradient,ADJ,JJ,amod,Xxxxx,0.0
+Gradient Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Scottish Equity Partners,Scottish,3,1,8,Scottish,PROPN,NNP,compound,Xxxxx,0.0
+Scottish Equity Partners,Equity,3,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+Scottish Equity Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Newfund,Newfund,1,1,7,Newfund,PROPN,NNP,ROOT,Xxxxx,0.0
+Auriga Partners,Auriga,2,1,6,Auriga,PROPN,NNP,compound,Xxxxx,0.0
+Auriga Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Passion Capital,Passion,2,1,7,passion,NOUN,NN,compound,Xxxxx,0.0
+Passion Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+SixThirty,SixThirty,1,1,9,sixthirty,NOUN,NN,ROOT,XxxXxxxx,0.0
+Hambro Perks Ltd.,Hambro,3,1,6,Hambro,PROPN,NNP,compound,Xxxxx,0.0
+Hambro Perks Ltd.,Perks,3,1,5,Perks,PROPN,NNPS,compound,Xxxxx,0.0
+Hambro Perks Ltd.,Ltd.,3,1,4,Ltd.,PROPN,NNP,ROOT,Xxx.,0.0
+Yunqi Partners,Yunqi,2,1,5,Yunqi,PROPN,NNP,compound,Xxxxx,0.0
+Yunqi Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Cota Capital,Cota,2,1,4,Cota,PROPN,NNP,compound,Xxxx,0.0
+Cota Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Hustle Fund,Hustle,2,1,6,Hustle,PROPN,NNP,compound,Xxxxx,0.0
+Hustle Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Valor Capital Group,Valor,3,1,5,Valor,PROPN,NNP,compound,Xxxxx,0.0
+Valor Capital Group,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Valor Capital Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Johnson &amp; Johnson Development Corporation,Johnson,5,1,7,Johnson,PROPN,NNP,ROOT,Xxxxx,0.0
+Johnson &amp; Johnson Development Corporation,&,5,1,1,&,CCONJ,CC,cc,&,0.0
+Johnson &amp; Johnson Development Corporation,amp,5,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Johnson &amp; Johnson Development Corporation,;,5,1,1,;,PUNCT,:,punct,;,0.0
+Johnson &amp; Johnson Development Corporation,Johnson,5,1,7,Johnson,PROPN,NNP,compound,Xxxxx,0.0
+Johnson &amp; Johnson Development Corporation,Development,5,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Johnson &amp; Johnson Development Corporation,Corporation,5,1,11,Corporation,PROPN,NNP,appos,Xxxxx,0.0
+Cherubic Ventures,Cherubic,2,1,8,Cherubic,PROPN,NNP,compound,Xxxxx,0.0
+Cherubic Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Starta VC,Starta,2,1,6,Starta,PROPN,NNP,compound,Xxxxx,0.0
+Starta VC,VC,2,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+OCA Ventures,OCA,2,1,3,OCA,PROPN,NNP,compound,XXX,0.0
+OCA Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Mangrove Capital Partners,Mangrove,3,1,8,Mangrove,PROPN,NNP,compound,Xxxxx,0.0
+Mangrove Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Mangrove Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Caixa Capital Risc,Caixa,3,1,5,Caixa,PROPN,NNP,compound,Xxxxx,0.0
+Caixa Capital Risc,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Caixa Capital Risc,Risc,3,1,4,Risc,PROPN,NNP,ROOT,Xxxx,0.0
+ICONIQ Capital,ICONIQ,2,1,6,ICONIQ,PROPN,NNP,compound,XXXX,0.0
+ICONIQ Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Freestyle Capital,Freestyle,2,1,9,Freestyle,PROPN,NNP,compound,Xxxxx,0.0
+Freestyle Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Foresight Group,Foresight,2,1,9,Foresight,PROPN,NNP,compound,Xxxxx,0.0
+Foresight Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Hearst Ventures,Hearst,2,1,6,Hearst,PROPN,NNP,compound,Xxxxx,0.0
+Hearst Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Empower Investment,Empower,2,1,7,Empower,PROPN,NNP,compound,Xxxxx,0.0
+Empower Investment,Investment,2,1,10,Investment,PROPN,NNP,ROOT,Xxxxx,0.0
+Future Fifty,Future,2,1,6,Future,PROPN,NNP,compound,Xxxxx,0.0
+Future Fifty,Fifty,2,1,5,Fifty,PROPN,NNP,ROOT,Xxxxx,0.0
+Shima Capital,Shima,2,1,5,Shima,PROPN,NNP,compound,Xxxxx,0.0
+Shima Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+HSBC,HSBC,1,1,4,HSBC,PROPN,NNP,ROOT,XXXX,0.0
+EQT Ventures,EQT,2,1,3,EQT,PROPN,NNP,compound,XXX,0.0
+EQT Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+European Innovation Council,European,3,1,8,European,PROPN,NNP,compound,Xxxxx,0.0
+European Innovation Council,Innovation,3,1,10,Innovation,PROPN,NNP,compound,Xxxxx,0.0
+European Innovation Council,Council,3,1,7,Council,PROPN,NNP,ROOT,Xxxxx,0.0
+Canary,Canary,1,1,6,canary,NOUN,NN,ROOT,Xxxxx,0.0
+SparkLabs Accelerator,SparkLabs,2,1,9,SparkLabs,PROPN,NNP,compound,XxxxxXxxx,0.0
+SparkLabs Accelerator,Accelerator,2,1,11,accelerator,NOUN,NN,ROOT,Xxxxx,0.0
+EDBI,EDBI,1,1,4,edbi,NOUN,NN,ROOT,XXXX,0.0
+Prism Venture Management,Prism,3,1,5,Prism,PROPN,NNP,compound,Xxxxx,0.0
+Prism Venture Management,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Prism Venture Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Globis Capital Partners,Globis,3,1,6,Globis,PROPN,NNP,compound,Xxxxx,0.0
+Globis Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Globis Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Tribe Capital,Tribe,2,1,5,Tribe,PROPN,NNP,compound,Xxxxx,0.0
+Tribe Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Amplify.LA,Amplify,1,1,7,amplify,VERB,VB,ROOT,Xxxxx,0.0
+Amplify.LA,.,1,1,1,.,PUNCT,.,punct,.,0.0
+Amplify.LA,LA,1,1,2,LA,PROPN,NNP,ROOT,XX,0.0
+ITOCHU Corporation,ITOCHU,2,1,6,itochu,VERB,VB,ROOT,XXXX,0.0
+ITOCHU Corporation,Corporation,2,1,11,corporation,NOUN,NN,dobj,Xxxxx,0.0
+Chicago Ventures,Chicago,2,1,7,Chicago,PROPN,NNP,compound,Xxxxx,0.0
+Chicago Ventures,Ventures,2,1,8,Ventures,PROPN,NNP,ROOT,Xxxxx,0.0
+LAUNCHub Ventures,LAUNCHub,2,1,8,LAUNCHub,PROPN,NNP,compound,XXXXxx,0.0
+LAUNCHub Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Advancit Capital,Advancit,2,1,8,Advancit,PROPN,NNP,compound,Xxxxx,0.0
+Advancit Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Invest Nebraska,Invest,2,1,6,Invest,PROPN,NNP,compound,Xxxxx,0.0
+Invest Nebraska,Nebraska,2,1,8,Nebraska,PROPN,NNP,ROOT,Xxxxx,0.0
+Morningside Group,Morningside,2,1,11,Morningside,PROPN,NNP,compound,Xxxxx,0.0
+Morningside Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Gokul Rajaram,Gokul,2,1,5,Gokul,PROPN,NNP,compound,Xxxxx,0.0
+Gokul Rajaram,Rajaram,2,1,7,Rajaram,PROPN,NNP,ROOT,Xxxxx,0.0
+FREES FUND,FREES,2,1,5,FREES,PROPN,NNP,compound,XXXX,0.0
+FREES FUND,FUND,2,1,4,FUND,PROPN,NNP,ROOT,XXXX,0.0
+Georgia Research Alliance,Georgia,3,1,7,Georgia,PROPN,NNP,compound,Xxxxx,0.0
+Georgia Research Alliance,Research,3,1,8,Research,PROPN,NNP,compound,Xxxxx,0.0
+Georgia Research Alliance,Alliance,3,1,8,Alliance,PROPN,NNP,ROOT,Xxxxx,0.0
+Legend Star,Legend,2,1,6,Legend,PROPN,NNP,compound,Xxxxx,0.0
+Legend Star,Star,2,1,4,Star,PROPN,NNP,ROOT,Xxxx,0.0
+Learn Capital,Learn,2,1,5,learn,VERB,VB,ROOT,Xxxxx,0.0
+Learn Capital,Capital,2,1,7,Capital,PROPN,NNP,dobj,Xxxxx,0.0
+JumpStart,JumpStart,1,1,9,JumpStart,PROPN,NNP,ROOT,XxxxXxxxx,0.0
+FasterCapital,FasterCapital,1,1,13,FasterCapital,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Founders' Co-op,Founders,2,1,8,founder,NOUN,NNS,poss,Xxxxx,0.0
+Founders' Co-op,',2,1,1,',PART,POS,case,',0.0
+Founders' Co-op,Co,2,1,2,co,NOUN,NN,ROOT,Xx,0.0
+Founders' Co-op,-,2,1,1,-,NOUN,NN,punct,-,0.0
+Founders' Co-op,op,2,1,2,op,NOUN,NN,appos,xx,0.0
+Maven Capital Partners,Maven,3,1,5,Maven,PROPN,NNP,compound,Xxxxx,0.0
+Maven Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Maven Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Paladin Capital Group,Paladin,3,1,7,Paladin,PROPN,NNP,compound,Xxxxx,0.0
+Paladin Capital Group,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Paladin Capital Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Commerce Ventures,Commerce,2,1,8,Commerce,PROPN,NNP,compound,Xxxxx,0.0
+Commerce Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Beringea,Beringea,1,1,8,beringea,NOUN,NN,ROOT,Xxxxx,0.0
+Evolution VC Partners,Evolution,3,1,9,Evolution,PROPN,NNP,compound,Xxxxx,0.0
+Evolution VC Partners,VC,3,1,2,VC,PROPN,NNP,compound,XX,0.0
+Evolution VC Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Entrepreneur Venture,Entrepreneur,2,1,12,Entrepreneur,PROPN,NNP,compound,Xxxxx,0.0
+Entrepreneur Venture,Venture,2,1,7,Venture,PROPN,NNP,ROOT,Xxxxx,0.0
+Formation 8,Formation,2,1,9,formation,NOUN,NN,ROOT,Xxxxx,0.0
+Formation 8,8,2,1,1,8,NUM,CD,nummod,d,0.0
+CVP Management,CVP,2,1,3,CVP,PROPN,NNP,compound,XXX,0.0
+CVP Management,Management,2,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+Techstars Seattle Accelerator,Techstars,3,1,9,techstar,VERB,VBZ,ROOT,Xxxxx,0.0
+Techstars Seattle Accelerator,Seattle,3,1,7,Seattle,PROPN,NNP,compound,Xxxxx,0.0
+Techstars Seattle Accelerator,Accelerator,3,1,11,Accelerator,PROPN,NNP,dobj,Xxxxx,0.0
+Microsoft Accelerator Beijing,Microsoft,3,1,9,Microsoft,PROPN,NNP,compound,Xxxxx,0.0
+Microsoft Accelerator Beijing,Accelerator,3,1,11,Accelerator,PROPN,NNP,compound,Xxxxx,0.0
+Microsoft Accelerator Beijing,Beijing,3,1,7,Beijing,PROPN,NNP,ROOT,Xxxxx,0.0
+Asset Management Ventures (AMV),Asset,4,1,5,Asset,PROPN,NNP,compound,Xxxxx,0.0
+Asset Management Ventures (AMV),Management,4,1,10,Management,PROPN,NNP,compound,Xxxxx,0.0
+Asset Management Ventures (AMV),Ventures,4,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Asset Management Ventures (AMV),(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Asset Management Ventures (AMV),AMV,4,1,3,AMV,PROPN,NNP,appos,XXX,0.0
+Asset Management Ventures (AMV),),4,1,1,),PUNCT,-RRB-,punct,),0.0
+Shervin Pishevar,Shervin,2,1,7,Shervin,PROPN,NNP,compound,Xxxxx,0.0
+Shervin Pishevar,Pishevar,2,1,8,Pishevar,PROPN,NNP,ROOT,Xxxxx,0.0
+H.I.G. Capital,H.I.G.,2,1,6,H.I.G.,PROPN,NNP,compound,X.X.X.,0.0
+H.I.G. Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+NewSpring,NewSpring,1,1,9,newspre,VERB,VBG,ROOT,XxxXxxxx,0.0
+Elad Gil,Elad,2,1,4,Elad,PROPN,NNP,compound,Xxxx,0.0
+Elad Gil,Gil,2,1,3,Gil,PROPN,NNP,ROOT,Xxx,0.0
+Zillionize,Zillionize,1,1,10,zillionize,VERB,VB,ROOT,Xxxxx,0.0
+Innoangel Fund,Innoangel,2,1,9,Innoangel,PROPN,NNP,compound,Xxxxx,0.0
+Innoangel Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Samurai Incubate,Samurai,2,1,7,Samurai,PROPN,NNP,compound,Xxxxx,0.0
+Samurai Incubate,Incubate,2,1,8,incubate,VERB,VB,ROOT,Xxxxx,0.0
+Elaia,Elaia,1,1,5,Elaia,PROPN,NNP,ROOT,Xxxxx,0.0
+Credit Suisse,Credit,2,1,6,Credit,PROPN,NNP,compound,Xxxxx,0.0
+Credit Suisse,Suisse,2,1,6,Suisse,PROPN,NNP,ROOT,Xxxxx,0.0
+Webb Investment Network,Webb,3,1,4,Webb,PROPN,NNP,compound,Xxxx,0.0
+Webb Investment Network,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Webb Investment Network,Network,3,1,7,Network,PROPN,NNP,ROOT,Xxxxx,0.0
+Baillie Gifford,Baillie,2,1,7,Baillie,PROPN,NNP,compound,Xxxxx,0.0
+Baillie Gifford,Gifford,2,1,7,Gifford,PROPN,NNP,ROOT,Xxxxx,0.0
+TechNexus Venture Collaborative,TechNexus,3,1,9,TechNexus,PROPN,NNP,compound,XxxxXxxxx,0.0
+TechNexus Venture Collaborative,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+TechNexus Venture Collaborative,Collaborative,3,1,13,Collaborative,PROPN,NNP,ROOT,Xxxxx,0.0
+Ludlow Ventures,Ludlow,2,1,6,Ludlow,PROPN,NNP,compound,Xxxxx,0.0
+Ludlow Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mobius Venture Capital,Mobius,3,1,6,Mobius,PROPN,NNP,compound,Xxxxx,0.0
+Mobius Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Mobius Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Oasis500,Oasis500,1,1,8,oasis500,NUM,CD,ROOT,Xxxxxddd,0.0
+Verizon Ventures,Verizon,2,1,7,Verizon,PROPN,NNP,compound,Xxxxx,0.0
+Verizon Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Rocket Internet,Rocket,2,1,6,Rocket,PROPN,NNP,compound,Xxxxx,0.0
+Rocket Internet,Internet,2,1,8,Internet,PROPN,NNP,ROOT,Xxxxx,0.0
+Redmile Group,Redmile,2,1,7,Redmile,PROPN,NNP,compound,Xxxxx,0.0
+Redmile Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+M25,M25,1,1,3,m25,NOUN,NN,ROOT,Xdd,0.0
+IA Ventures,IA,2,1,2,IA,PROPN,NNP,compound,XX,0.0
+IA Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Rough Draft Ventures,Rough,3,1,5,rough,ADJ,JJ,amod,Xxxxx,0.0
+Rough Draft Ventures,Draft,3,1,5,Draft,PROPN,NNP,compound,Xxxxx,0.0
+Rough Draft Ventures,Ventures,3,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Wei Guo,Wei,2,1,3,Wei,PROPN,NNP,compound,Xxx,0.0
+Wei Guo,Guo,2,1,3,Guo,PROPN,NNP,ROOT,Xxx,0.0
+Marc Bell Ventures,Marc,3,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+Marc Bell Ventures,Bell,3,1,4,Bell,PROPN,NNP,compound,Xxxx,0.0
+Marc Bell Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Paradigm Capital,Paradigm,2,1,8,Paradigm,PROPN,NNP,compound,Xxxxx,0.0
+Paradigm Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Pequot Capital,Pequot,2,1,6,Pequot,PROPN,NNP,compound,Xxxxx,0.0
+Pequot Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Brinc,Brinc,1,1,5,Brinc,PROPN,NNP,ROOT,Xxxxx,0.0
+Cybele Holdings,Cybele,2,1,6,Cybele,PROPN,NNP,compound,Xxxxx,0.0
+Cybele Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+American Express Ventures,American,3,1,8,American,PROPN,NNP,compound,Xxxxx,0.0
+American Express Ventures,Express,3,1,7,Express,PROPN,NNP,compound,Xxxxx,0.0
+American Express Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Backstage Capital,Backstage,2,1,9,Backstage,PROPN,NNP,compound,Xxxxx,0.0
+Backstage Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Sequoia Capital Israel,Sequoia,3,1,7,Sequoia,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital Israel,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Sequoia Capital Israel,Israel,3,1,6,Israel,PROPN,NNP,ROOT,Xxxxx,0.0
+Act Venture Capital,Act,3,1,3,Act,PROPN,NNP,compound,Xxx,0.0
+Act Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Act Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Deutsche Bank,Deutsche,2,1,8,Deutsche,PROPN,NNP,compound,Xxxxx,0.0
+Deutsche Bank,Bank,2,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Wing Venture Capital,Wing,3,1,4,Wing,PROPN,NNP,compound,Xxxx,0.0
+Wing Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Wing Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+BAI capital,BAI,2,1,3,BAI,PROPN,NNP,compound,XXX,0.0
+BAI capital,capital,2,1,7,capital,NOUN,NN,ROOT,xxxx,0.0
+Baidu Ventures,Baidu,2,1,5,Baidu,PROPN,NNP,compound,Xxxxx,0.0
+Baidu Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Lakestar,Lakestar,1,1,8,Lakestar,PROPN,NNP,ROOT,Xxxxx,0.0
+VentureSouth,VentureSouth,1,1,12,VentureSouth,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Cabiedes &amp; Partners,Cabiedes,3,1,8,Cabiedes,PROPN,NNP,ROOT,Xxxxx,0.0
+Cabiedes &amp; Partners,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Cabiedes &amp; Partners,amp,3,1,3,amp,NOUN,NN,conj,xxx,0.0
+Cabiedes &amp; Partners,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Cabiedes &amp; Partners,Partners,3,1,8,partner,NOUN,NNS,appos,Xxxxx,0.0
+Employee Stock Option Fund,Employee,4,1,8,employee,NOUN,NN,compound,Xxxxx,0.0
+Employee Stock Option Fund,Stock,4,1,5,Stock,PROPN,NNP,compound,Xxxxx,0.0
+Employee Stock Option Fund,Option,4,1,6,Option,PROPN,NNP,compound,Xxxxx,0.0
+Employee Stock Option Fund,Fund,4,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Life Sciences Partners,Life,3,1,4,Life,PROPN,NNP,compound,Xxxx,0.0
+Life Sciences Partners,Sciences,3,1,8,Sciences,PROPN,NNPS,compound,Xxxxx,0.0
+Life Sciences Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Pioneer Fund,Pioneer,2,1,7,Pioneer,PROPN,NNP,compound,Xxxxx,0.0
+Pioneer Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Cowboy Ventures,Cowboy,2,1,6,Cowboy,PROPN,NNP,compound,Xxxxx,0.0
+Cowboy Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mitsui &amp; Co,Mitsui,3,1,6,Mitsui,PROPN,NNP,ROOT,Xxxxx,0.0
+Mitsui &amp; Co,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Mitsui &amp; Co,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Mitsui &amp; Co,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Mitsui &amp; Co,Co,3,1,2,Co,PROPN,NNP,appos,Xx,0.0
+STRIVE,STRIVE,1,1,6,strive,VERB,VB,ROOT,XXXX,0.0
+Investor Growth Capital Limited,Investor,4,1,8,Investor,PROPN,NNP,compound,Xxxxx,0.0
+Investor Growth Capital Limited,Growth,4,1,6,Growth,PROPN,NNP,compound,Xxxxx,0.0
+Investor Growth Capital Limited,Capital,4,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Investor Growth Capital Limited,Limited,4,1,7,Limited,PROPN,NNP,ROOT,Xxxxx,0.0
+UTEC - The University of Tokyo Edge Capital Partners,UTEC,9,1,4,UTEC,PROPN,NNP,nmod,XXXX,0.0
+UTEC - The University of Tokyo Edge Capital Partners,-,9,1,1,-,PUNCT,HYPH,punct,-,0.0
+UTEC - The University of Tokyo Edge Capital Partners,The,9,1,3,the,DET,DT,det,Xxx,0.0
+UTEC - The University of Tokyo Edge Capital Partners,University,9,1,10,University,PROPN,NNP,nmod,Xxxxx,0.0
+UTEC - The University of Tokyo Edge Capital Partners,of,9,1,2,of,ADP,IN,prep,xx,0.0
+UTEC - The University of Tokyo Edge Capital Partners,Tokyo,9,1,5,Tokyo,PROPN,NNP,pobj,Xxxxx,0.0
+UTEC - The University of Tokyo Edge Capital Partners,Edge,9,1,4,Edge,PROPN,NNP,compound,Xxxx,0.0
+UTEC - The University of Tokyo Edge Capital Partners,Capital,9,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+UTEC - The University of Tokyo Edge Capital Partners,Partners,9,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Flat6Labs,Flat6Labs,1,1,9,Flat6Labs,PROPN,NNPS,ROOT,XxxxdXxxx,0.0
+InnoEnergy,InnoEnergy,1,1,10,InnoEnergy,NOUN,NNS,ROOT,XxxxXxxxx,0.0
+Clocktower Technology Ventures,Clocktower,3,1,10,Clocktower,PROPN,NNP,compound,Xxxxx,0.0
+Clocktower Technology Ventures,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Clocktower Technology Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Crosscut Ventures,Crosscut,2,1,8,Crosscut,PROPN,NNP,compound,Xxxxx,0.0
+Crosscut Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+ATDC,ATDC,1,1,4,ATDC,PROPN,NNP,ROOT,XXXX,0.0
+Hard Yaka,Hard,2,1,4,Hard,PROPN,NNP,compound,Xxxx,0.0
+Hard Yaka,Yaka,2,1,4,Yaka,PROPN,NNP,ROOT,Xxxx,0.0
+Surge,Surge,1,1,5,surge,VERB,VB,ROOT,Xxxxx,0.0
+Golden Ventures,Golden,2,1,6,Golden,PROPN,NNP,amod,Xxxxx,0.0
+Golden Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+NorthStar Capital,NorthStar,2,1,9,NorthStar,PROPN,NNP,compound,XxxxxXxxx,0.0
+NorthStar Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Mitsui Global Investment,Mitsui,3,1,6,Mitsui,PROPN,NNP,compound,Xxxxx,0.0
+Mitsui Global Investment,Global,3,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Mitsui Global Investment,Investment,3,1,10,Investment,PROPN,NNP,ROOT,Xxxxx,0.0
+Scott Banister,Scott,2,1,5,Scott,PROPN,NNP,compound,Xxxxx,0.0
+Scott Banister,Banister,2,1,8,Banister,PROPN,NNP,ROOT,Xxxxx,0.0
+Oxford Finance LLC,Oxford,3,1,6,Oxford,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Finance LLC,Finance,3,1,7,Finance,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Finance LLC,LLC,3,1,3,LLC,PROPN,NNP,ROOT,XXX,0.0
+Innovacom,Innovacom,1,1,9,Innovacom,PROPN,NNP,ROOT,Xxxxx,0.0
+BAM Ventures,BAM,2,1,3,BAM,PROPN,NNP,compound,XXX,0.0
+BAM Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Anges Quebec,Anges,2,1,5,Anges,PROPN,NNP,compound,Xxxxx,0.0
+Anges Quebec,Quebec,2,1,6,Quebec,PROPN,NNP,ROOT,Xxxxx,0.0
+LVenture Group,LVenture,2,1,8,LVenture,PROPN,NNP,compound,XXxxxx,0.0
+LVenture Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Force Over Mass Capital,Force,4,1,5,Force,PROPN,NNP,nmod,Xxxxx,0.0
+Force Over Mass Capital,Over,4,1,4,Over,PROPN,NNP,prep,Xxxx,0.0
+Force Over Mass Capital,Mass,4,1,4,Mass,PROPN,NNP,compound,Xxxx,0.0
+Force Over Mass Capital,Capital,4,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Bank of America,Bank,3,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Bank of America,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Bank of America,America,3,1,7,America,PROPN,NNP,pobj,Xxxxx,0.0
+Launch Tennessee,Launch,2,1,6,Launch,PROPN,NNP,compound,Xxxxx,0.0
+Launch Tennessee,Tennessee,2,1,9,Tennessee,PROPN,NNP,ROOT,Xxxxx,0.0
+Startup Edmonton,Startup,2,1,7,Startup,PROPN,NNP,compound,Xxxxx,0.0
+Startup Edmonton,Edmonton,2,1,8,Edmonton,PROPN,NNP,ROOT,Xxxxx,0.0
+Rembrandt Venture Partners,Rembrandt,3,1,9,Rembrandt,PROPN,NNP,compound,Xxxxx,0.0
+Rembrandt Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Rembrandt Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Starve Ups,Starve,2,1,6,starve,VERB,VB,compound,Xxxxx,0.0
+Starve Ups,Ups,2,1,3,Ups,PROPN,NNP,ROOT,Xxx,0.0
+Propel Capital,Propel,2,1,6,Propel,PROPN,NNP,compound,Xxxxx,0.0
+Propel Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+CincyTech,CincyTech,1,1,9,CincyTech,PROPN,NNP,ROOT,XxxxxXxxx,0.0
+3one4 Capital,3one4,2,1,5,3one4,NUM,CD,nummod,dxxxd,0.0
+3one4 Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+MetaProp,MetaProp,1,1,8,MetaProp,PROPN,NNP,ROOT,XxxxXxxx,0.0
+Lifeline Ventures,Lifeline,2,1,8,Lifeline,PROPN,NNP,compound,Xxxxx,0.0
+Lifeline Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Translink Capital,Translink,2,1,9,Translink,PROPN,NNP,compound,Xxxxx,0.0
+Translink Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Celesta Capital,Celesta,2,1,7,Celesta,PROPN,NNP,compound,Xxxxx,0.0
+Celesta Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Lightspeed China Partners,Lightspeed,3,1,10,Lightspeed,PROPN,NNP,compound,Xxxxx,0.0
+Lightspeed China Partners,China,3,1,5,China,PROPN,NNP,compound,Xxxxx,0.0
+Lightspeed China Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+MIT Media Lab,MIT,3,1,3,MIT,PROPN,NNP,compound,XXX,0.0
+MIT Media Lab,Media,3,1,5,Media,PROPN,NNP,compound,Xxxxx,0.0
+MIT Media Lab,Lab,3,1,3,Lab,PROPN,NNP,ROOT,Xxx,0.0
+NTT DOCOMO Ventures,NTT,3,1,3,NTT,PROPN,NNP,compound,XXX,0.0
+NTT DOCOMO Ventures,DOCOMO,3,1,6,DOCOMO,PROPN,NNP,compound,XXXX,0.0
+NTT DOCOMO Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+SBCVC,SBCVC,1,1,5,SBCVC,PROPN,NNP,ROOT,XXXX,0.0
+JPMorgan Partners,JPMorgan,2,1,8,JPMorgan,PROPN,NNP,compound,XXXxxxx,0.0
+JPMorgan Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+7percent Ventures,7percent,2,1,8,7percent,NUM,CD,nummod,dxxxx,0.0
+7percent Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Obvious Ventures,Obvious,2,1,7,obvious,ADJ,JJ,amod,Xxxxx,0.0
+Obvious Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Version One Ventures,Version,3,1,7,Version,PROPN,NNP,nmod,Xxxxx,0.0
+Version One Ventures,One,3,1,3,One,PROPN,NNP,nummod,Xxx,0.0
+Version One Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Sands Capital Ventures,Sands,3,1,5,Sands,PROPN,NNP,compound,Xxxxx,0.0
+Sands Capital Ventures,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Sands Capital Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Nauta Capital,Nauta,2,1,5,Nauta,PROPN,NNP,compound,Xxxxx,0.0
+Nauta Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Chalmers Ventures AB,Chalmers,3,1,8,Chalmers,PROPN,NNP,compound,Xxxxx,0.0
+Chalmers Ventures AB,Ventures,3,1,8,Ventures,PROPN,NNP,compound,Xxxxx,0.0
+Chalmers Ventures AB,AB,3,1,2,AB,PROPN,NNP,ROOT,XX,0.0
+Deutsche Telekom Strategic Investments,Deutsche,4,1,8,Deutsche,PROPN,NNP,compound,Xxxxx,0.0
+Deutsche Telekom Strategic Investments,Telekom,4,1,7,Telekom,PROPN,NNP,compound,Xxxxx,0.0
+Deutsche Telekom Strategic Investments,Strategic,4,1,9,Strategic,PROPN,NNP,compound,Xxxxx,0.0
+Deutsche Telekom Strategic Investments,Investments,4,1,11,Investments,PROPN,NNPS,ROOT,Xxxxx,0.0
+Vision Plus Capital,Vision,3,1,6,Vision,PROPN,NNP,ROOT,Xxxxx,0.0
+Vision Plus Capital,Plus,3,1,4,Plus,PROPN,NNP,cc,Xxxx,0.0
+Vision Plus Capital,Capital,3,1,7,Capital,PROPN,NNP,conj,Xxxxx,0.0
+Blockchain Capital,Blockchain,2,1,10,Blockchain,PROPN,NNP,compound,Xxxxx,0.0
+Blockchain Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+UpHonest Capital,UpHonest,2,1,8,UpHonest,PROPN,NNP,compound,XxXxxxx,0.0
+UpHonest Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Fidelity,Fidelity,1,1,8,Fidelity,PROPN,NNP,ROOT,Xxxxx,0.0
+Runa Capital,Runa,2,1,4,Runa,PROPN,NNP,compound,Xxxx,0.0
+Runa Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Frontline Ventures,Frontline,2,1,9,Frontline,PROPN,NNP,compound,Xxxxx,0.0
+Frontline Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+AUC Venture Lab,AUC,3,1,3,AUC,PROPN,NNP,compound,XXX,0.0
+AUC Venture Lab,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+AUC Venture Lab,Lab,3,1,3,Lab,PROPN,NNP,ROOT,Xxx,0.0
+Food-X,Food,1,1,4,food,NOUN,NN,compound,Xxxx,0.0
+Food-X,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Food-X,X,1,1,1,x,NOUN,NN,ROOT,X,0.0
+Gemini Israel Ventures,Gemini,3,1,6,Gemini,PROPN,NNP,compound,Xxxxx,0.0
+Gemini Israel Ventures,Israel,3,1,6,Israel,PROPN,NNP,compound,Xxxxx,0.0
+Gemini Israel Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+MAGIC Fund,MAGIC,2,1,5,MAGIC,PROPN,NNP,compound,XXXX,0.0
+MAGIC Fund,Fund,2,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Graph Ventures,Graph,2,1,5,Graph,PROPN,NNP,compound,Xxxxx,0.0
+Graph Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Javelin Venture Partners,Javelin,3,1,7,Javelin,PROPN,NNP,compound,Xxxxx,0.0
+Javelin Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Javelin Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Fenbushi Capital,Fenbushi,2,1,8,Fenbushi,PROPN,NNP,compound,Xxxxx,0.0
+Fenbushi Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Amino Capital,Amino,2,1,5,Amino,PROPN,NNP,compound,Xxxxx,0.0
+Amino Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Nyca Partners,Nyca,2,1,4,Nyca,PROPN,NNP,compound,Xxxx,0.0
+Nyca Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+CRCM Ventures,CRCM,2,1,4,CRCM,PROPN,NNP,compound,XXXX,0.0
+CRCM Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Winklevoss Capital,Winklevoss,2,1,10,winklevoss,NOUN,NN,compound,Xxxxx,0.0
+Winklevoss Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Noro-Moseley Partners,Noro,2,1,4,Noro,PROPN,NNP,compound,Xxxx,0.0
+Noro-Moseley Partners,-,2,1,1,-,PUNCT,HYPH,punct,-,0.0
+Noro-Moseley Partners,Moseley,2,1,7,Moseley,PROPN,NNP,compound,Xxxxx,0.0
+Noro-Moseley Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Helion Venture Partners,Helion,3,1,6,Helion,PROPN,NNP,compound,Xxxxx,0.0
+Helion Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Helion Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+TELUS Ventures,TELUS,2,1,5,TELUS,PROPN,NNP,compound,XXXX,0.0
+TELUS Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Maine Angels,Maine,2,1,5,Maine,PROPN,NNP,compound,Xxxxx,0.0
+Maine Angels,Angels,2,1,6,Angels,PROPN,NNPS,ROOT,Xxxxx,0.0
+Kodiak Venture Partners,Kodiak,3,1,6,Kodiak,PROPN,NNP,compound,Xxxxx,0.0
+Kodiak Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Kodiak Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Citi,Citi,1,1,4,Citi,PROPN,NNP,ROOT,Xxxx,0.0
+OMERS Ventures,OMERS,2,1,5,OMERS,PROPN,NNP,compound,XXXX,0.0
+OMERS Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Hashed,Hashed,1,1,6,hash,VERB,VBN,ROOT,Xxxxx,0.0
+Space3ac,Space3ac,1,1,8,space3ac,NOUN,NN,ROOT,Xxxxxdxx,0.0
+Strong Ventures,Strong,2,1,6,strong,ADJ,JJ,amod,Xxxxx,0.0
+Strong Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+DG Ventures (Digital Garage Group TSE4819),DG,6,1,2,DG,PROPN,NNP,compound,XX,0.0
+DG Ventures (Digital Garage Group TSE4819),Ventures,6,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+DG Ventures (Digital Garage Group TSE4819),(,6,1,1,(,PUNCT,-LRB-,punct,(,0.0
+DG Ventures (Digital Garage Group TSE4819),Digital,6,1,7,Digital,PROPN,NNP,compound,Xxxxx,0.0
+DG Ventures (Digital Garage Group TSE4819),Garage,6,1,6,Garage,PROPN,NNP,compound,Xxxxx,0.0
+DG Ventures (Digital Garage Group TSE4819),Group,6,1,5,Group,PROPN,NNP,compound,Xxxxx,0.0
+DG Ventures (Digital Garage Group TSE4819),TSE4819,6,1,7,tse4819,NOUN,NN,appos,XXXdddd,0.0
+DG Ventures (Digital Garage Group TSE4819),),6,1,1,),PUNCT,-RRB-,punct,),0.0
+Focus Ventures,Focus,2,1,5,Focus,PROPN,NNP,compound,Xxxxx,0.0
+Focus Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Oreilly AlphaTech Ventures,Oreilly,3,1,7,oreilly,ADV,RB,advmod,Xxxxx,0.0
+Oreilly AlphaTech Ventures,AlphaTech,3,1,9,AlphaTech,PROPN,NNP,compound,XxxxxXxxx,0.0
+Oreilly AlphaTech Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Loyal VC,Loyal,2,1,5,loyal,ADJ,JJ,amod,Xxxxx,0.0
+Loyal VC,VC,2,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+Business Finland,Business,2,1,8,Business,PROPN,NNP,compound,Xxxxx,0.0
+Business Finland,Finland,2,1,7,Finland,PROPN,NNP,ROOT,Xxxxx,0.0
+Foresite Capital,Foresite,2,1,8,Foresite,PROPN,NNP,compound,Xxxxx,0.0
+Foresite Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Fil Rouge Capital (FRC),Fil,4,1,3,Fil,PROPN,NNP,compound,Xxx,0.0
+Fil Rouge Capital (FRC),Rouge,4,1,5,Rouge,PROPN,NNP,compound,Xxxxx,0.0
+Fil Rouge Capital (FRC),Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Fil Rouge Capital (FRC),(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Fil Rouge Capital (FRC),FRC,4,1,3,FRC,PROPN,NNP,appos,XXX,0.0
+Fil Rouge Capital (FRC),),4,1,1,),PUNCT,-RRB-,punct,),0.0
+Valar Ventures,Valar,2,1,5,Valar,PROPN,NNP,compound,Xxxxx,0.0
+Valar Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Worldview Technology Partners,Worldview,3,1,9,Worldview,PROPN,NNP,compound,Xxxxx,0.0
+Worldview Technology Partners,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Worldview Technology Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+ITOCHU Technology Ventures,ITOCHU,3,1,6,ITOCHU,PROPN,NNP,compound,XXXX,0.0
+ITOCHU Technology Ventures,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+ITOCHU Technology Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+White Star Capital,White,3,1,5,White,PROPN,NNP,compound,Xxxxx,0.0
+White Star Capital,Star,3,1,4,Star,PROPN,NNP,compound,Xxxx,0.0
+White Star Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+IRIS,IRIS,1,1,4,IRIS,PROPN,NNP,ROOT,XXXX,0.0
+Hyde Park Angels,Hyde,3,1,4,Hyde,PROPN,NNP,compound,Xxxx,0.0
+Hyde Park Angels,Park,3,1,4,Park,PROPN,NNP,compound,Xxxx,0.0
+Hyde Park Angels,Angels,3,1,6,angel,NOUN,NNS,ROOT,Xxxxx,0.0
+Techstars Chicago,Techstars,2,1,9,Techstars,PROPN,NNP,compound,Xxxxx,0.0
+Techstars Chicago,Chicago,2,1,7,Chicago,PROPN,NNP,ROOT,Xxxxx,0.0
+Boston Millennia Partners,Boston,3,1,6,Boston,PROPN,NNP,compound,Xxxxx,0.0
+Boston Millennia Partners,Millennia,3,1,9,Millennia,PROPN,NNP,compound,Xxxxx,0.0
+Boston Millennia Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Star Ventures,Star,2,1,4,Star,PROPN,NNP,compound,Xxxx,0.0
+Star Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+LOI Labs,LOI,2,1,3,LOI,PROPN,NNP,compound,XXX,0.0
+LOI Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Viking Global Investors,Viking,3,1,6,vike,VERB,VBG,ROOT,Xxxxx,0.0
+Viking Global Investors,Global,3,1,6,Global,PROPN,NNP,compound,Xxxxx,0.0
+Viking Global Investors,Investors,3,1,9,investor,NOUN,NNS,dobj,Xxxxx,0.0
+Breyer Capital,Breyer,2,1,6,Breyer,PROPN,NNP,compound,Xxxxx,0.0
+Breyer Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+YF Capital,YF,2,1,2,YF,PROPN,NNP,compound,XX,0.0
+YF Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Eastern Bell Capital,Eastern,3,1,7,Eastern,PROPN,NNP,compound,Xxxxx,0.0
+Eastern Bell Capital,Bell,3,1,4,Bell,PROPN,NNP,compound,Xxxx,0.0
+Eastern Bell Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+ONSET Ventures,ONSET,2,1,5,onset,NOUN,NN,compound,XXXX,0.0
+ONSET Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Point72 Ventures,Point72,2,1,7,Point72,PROPN,NNP,compound,Xxxxxdd,0.0
+Point72 Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Export Development Canada,Export,3,1,6,Export,PROPN,NNP,compound,Xxxxx,0.0
+Export Development Canada,Development,3,1,11,Development,PROPN,NNP,compound,Xxxxx,0.0
+Export Development Canada,Canada,3,1,6,Canada,PROPN,NNP,ROOT,Xxxxx,0.0
+Investissement Quebec,Investissement,2,1,14,Investissement,PROPN,NNP,compound,Xxxxx,0.0
+Investissement Quebec,Quebec,2,1,6,Quebec,PROPN,NNP,ROOT,Xxxxx,0.0
+Pfizer Venture Investments,Pfizer,3,1,6,Pfizer,PROPN,NNP,compound,Xxxxx,0.0
+Pfizer Venture Investments,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Pfizer Venture Investments,Investments,3,1,11,Investments,PROPN,NNPS,ROOT,Xxxxx,0.0
+Chris Adelsbach,Chris,2,1,5,Chris,PROPN,NNP,compound,Xxxxx,0.0
+Chris Adelsbach,Adelsbach,2,1,9,Adelsbach,PROPN,NNP,ROOT,Xxxxx,0.0
+IDEA: Northeastern University's Venture Accelerator,IDEA,5,1,4,IDEA,PROPN,NNP,ROOT,XXXX,0.0
+IDEA: Northeastern University's Venture Accelerator,:,5,1,1,:,PUNCT,:,punct,:,0.0
+IDEA: Northeastern University's Venture Accelerator,Northeastern,5,1,12,Northeastern,PROPN,NNP,compound,Xxxxx,0.0
+IDEA: Northeastern University's Venture Accelerator,University,5,1,10,University,PROPN,NNP,poss,Xxxxx,0.0
+IDEA: Northeastern University's Venture Accelerator,'s,5,1,2,'s,PART,POS,case,'x,0.0
+IDEA: Northeastern University's Venture Accelerator,Venture,5,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+IDEA: Northeastern University's Venture Accelerator,Accelerator,5,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+DBJ Capital,DBJ,2,1,3,DBJ,PROPN,NNP,compound,XXX,0.0
+DBJ Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+ASU Venture Devils,ASU,3,1,3,ASU,PROPN,NNP,compound,XXX,0.0
+ASU Venture Devils,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+ASU Venture Devils,Devils,3,1,6,Devils,PROPN,NNPS,ROOT,Xxxxx,0.0
+TenOneTen Ventures,TenOneTen,2,1,9,TenOneTen,PROPN,NNP,compound,XxxXxxXxx,0.0
+TenOneTen Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Fuel Capital,Fuel,2,1,4,Fuel,PROPN,NNP,compound,Xxxx,0.0
+Fuel Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+DFJ Growth,DFJ,2,1,3,DFJ,PROPN,NNP,compound,XXX,0.0
+DFJ Growth,Growth,2,1,6,Growth,PROPN,NNP,ROOT,Xxxxx,0.0
+Bay City Capital,Bay,3,1,3,Bay,PROPN,NNP,compound,Xxx,0.0
+Bay City Capital,City,3,1,4,City,PROPN,NNP,compound,Xxxx,0.0
+Bay City Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Better Capital,Better,2,1,6,well,ADJ,JJR,amod,Xxxxx,0.0
+Better Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+APX,APX,1,1,3,APX,PROPN,NNP,ROOT,XXX,0.0
+Caffeinated Capital,Caffeinated,2,1,11,Caffeinated,PROPN,NNP,compound,Xxxxx,0.0
+Caffeinated Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+L Catterton,L,2,1,1,L,PROPN,NNP,compound,X,0.0
+L Catterton,Catterton,2,1,9,Catterton,PROPN,NNP,ROOT,Xxxxx,0.0
+India Quotient,India,2,1,5,India,PROPN,NNP,compound,Xxxxx,0.0
+India Quotient,Quotient,2,1,8,Quotient,PROPN,NNP,ROOT,Xxxxx,0.0
+Promus Ventures,Promus,2,1,6,Promus,PROPN,NNP,compound,Xxxxx,0.0
+Promus Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Inflection Point Ventures,Inflection,3,1,10,Inflection,PROPN,NNP,compound,Xxxxx,0.0
+Inflection Point Ventures,Point,3,1,5,Point,PROPN,NNP,compound,Xxxxx,0.0
+Inflection Point Ventures,Ventures,3,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Safeguard Scientifics,Safeguard,2,1,9,Safeguard,PROPN,NNP,compound,Xxxxx,0.0
+Safeguard Scientifics,Scientifics,2,1,11,Scientifics,PROPN,NNP,ROOT,Xxxxx,0.0
+World Innovation Lab (WiL),World,4,1,5,World,PROPN,NNP,compound,Xxxxx,0.0
+World Innovation Lab (WiL),Innovation,4,1,10,Innovation,PROPN,NNP,compound,Xxxxx,0.0
+World Innovation Lab (WiL),Lab,4,1,3,Lab,PROPN,NNP,ROOT,Xxx,0.0
+World Innovation Lab (WiL),(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+World Innovation Lab (WiL),WiL,4,1,3,WiL,PROPN,NNP,appos,XxX,0.0
+World Innovation Lab (WiL),),4,1,1,),PUNCT,-RRB-,punct,),0.0
+Kinnevik,Kinnevik,1,1,8,kinnevik,NOUN,NN,ROOT,Xxxxx,0.0
+Singtel Innov8,Singtel,2,1,7,Singtel,PROPN,NNP,compound,Xxxxx,0.0
+Singtel Innov8,Innov8,2,1,6,Innov8,NOUN,NNS,ROOT,Xxxxxd,0.0
+Newark Venture Partners,Newark,3,1,6,Newark,PROPN,NNP,compound,Xxxxx,0.0
+Newark Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Newark Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Oxford Technology Management,Oxford,3,1,6,Oxford,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Technology Management,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Technology Management,Management,3,1,10,Management,PROPN,NNP,ROOT,Xxxxx,0.0
+RebelBio,RebelBio,1,1,8,rebelbio,NOUN,NN,ROOT,XxxxxXxx,0.0
+MIT delta v,MIT,3,1,3,MIT,PROPN,NNP,compound,XXX,0.0
+MIT delta v,delta,3,1,5,delta,PROPN,NNP,ROOT,xxxx,0.0
+MIT delta v,v,3,1,1,v,PROPN,NNP,appos,x,0.0
+ComVentures,ComVentures,1,1,11,comventure,NOUN,NNS,ROOT,XxxXxxxx,0.0
+Mercia Fund Managers,Mercia,3,1,6,Mercia,PROPN,NNP,compound,Xxxxx,0.0
+Mercia Fund Managers,Fund,3,1,4,Fund,PROPN,NNP,compound,Xxxx,0.0
+Mercia Fund Managers,Managers,3,1,8,manager,NOUN,NNS,ROOT,Xxxxx,0.0
+Third Kind Venture Capital,Third,4,1,5,Third,PROPN,NNP,compound,Xxxxx,0.0
+Third Kind Venture Capital,Kind,4,1,4,Kind,PROPN,NNP,compound,Xxxx,0.0
+Third Kind Venture Capital,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Third Kind Venture Capital,Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Fosun RZ Capital,Fosun,3,1,5,Fosun,PROPN,NNP,compound,Xxxxx,0.0
+Fosun RZ Capital,RZ,3,1,2,RZ,PROPN,NNP,compound,XX,0.0
+Fosun RZ Capital,Capital,3,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+VentureSouq,VentureSouq,1,1,11,venturesouq,NOUN,NN,ROOT,XxxxxXxxx,0.0
+AU21 Capital,AU21,2,1,4,AU21,PROPN,NNP,compound,XXdd,0.0
+AU21 Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+HLM Venture Partners,HLM,3,1,3,HLM,PROPN,NNP,compound,XXX,0.0
+HLM Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+HLM Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Giza Venture Capital,Giza,3,1,4,Giza,PROPN,NNP,compound,Xxxx,0.0
+Giza Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Giza Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+GrowthWorks Capital,GrowthWorks,2,1,11,GrowthWorks,PROPN,NNP,compound,XxxxxXxxxx,0.0
+GrowthWorks Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Thomvest Ventures,Thomvest,2,1,8,Thomvest,PROPN,NNP,compound,Xxxxx,0.0
+Thomvest Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+FTV Capital,FTV,2,1,3,FTV,PROPN,NNP,compound,XXX,0.0
+FTV Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Inventure,Inventure,1,1,9,inventure,NOUN,NN,ROOT,Xxxxx,0.0
+Oak HC/FT,Oak,2,1,3,Oak,PROPN,NNP,nmod,Xxx,0.0
+Oak HC/FT,HC,2,1,2,HC,PROPN,NNP,nmod,XX,0.0
+Oak HC/FT,/,2,1,1,/,SYM,SYM,punct,/,0.0
+Oak HC/FT,FT,2,1,2,FT,PROPN,NNP,ROOT,XX,0.0
+GMO VenturePartners,GMO,2,1,3,GMO,PROPN,NNP,compound,XXX,0.0
+GMO VenturePartners,VenturePartners,2,1,15,VenturePartners,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+QueensBridge Venture Partners,QueensBridge,3,1,12,QueensBridge,PROPN,NNP,compound,XxxxxXxxxx,0.0
+QueensBridge Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+QueensBridge Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Bain Capital,Bain,2,1,4,Bain,PROPN,NNP,compound,Xxxx,0.0
+Bain Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Nadav Ben-Chanoch,Nadav,2,1,5,Nadav,PROPN,NNP,compound,Xxxxx,0.0
+Nadav Ben-Chanoch,Ben,2,1,3,Ben,PROPN,NNP,compound,Xxx,0.0
+Nadav Ben-Chanoch,-,2,1,1,-,PROPN,NNP,punct,-,0.0
+Nadav Ben-Chanoch,Chanoch,2,1,7,Chanoch,PROPN,NNP,ROOT,Xxxxx,0.0
+S2G Ventures,S2,2,1,2,s2,NOUN,NN,nmod,Xd,0.0
+S2G Ventures,G,2,1,1,G,PROPN,NNP,compound,X,0.0
+S2G Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Third Sphere,Third,2,1,5,Third,PROPN,NNP,compound,Xxxxx,0.0
+Third Sphere,Sphere,2,1,6,Sphere,PROPN,NNP,ROOT,Xxxxx,0.0
+Unilever Ventures,Unilever,2,1,8,Unilever,PROPN,NNP,compound,Xxxxx,0.0
+Unilever Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Band of Angels,Band,3,1,4,Band,PROPN,NNP,ROOT,Xxxx,0.0
+Band of Angels,of,3,1,2,of,ADP,IN,prep,xx,0.0
+Band of Angels,Angels,3,1,6,Angels,PROPN,NNPS,pobj,Xxxxx,0.0
+D1 Capital Partners,D1,3,1,2,d1,NOUN,NN,compound,Xd,0.0
+D1 Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+D1 Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Siparex Groupe,Siparex,2,1,7,Siparex,PROPN,NNP,compound,Xxxxx,0.0
+Siparex Groupe,Groupe,2,1,6,Groupe,PROPN,NNP,ROOT,Xxxxx,0.0
+Moonshots Capital,Moonshots,2,1,9,Moonshots,PROPN,NNP,compound,Xxxxx,0.0
+Moonshots Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+GSV Ventures,GSV,2,1,3,GSV,PROPN,NNP,compound,XXX,0.0
+GSV Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Justin Mateen,Justin,2,1,6,Justin,PROPN,NNP,compound,Xxxxx,0.0
+Justin Mateen,Mateen,2,1,6,Mateen,PROPN,NNP,ROOT,Xxxxx,0.0
+NUMA,NUMA,1,1,4,numa,NOUN,NN,ROOT,XXXX,0.0
+Kreos Capital,Kreos,2,1,5,Kreos,PROPN,NNP,compound,Xxxxx,0.0
+Kreos Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Fifth Wall,Fifth,2,1,5,Fifth,PROPN,NNP,compound,Xxxxx,0.0
+Fifth Wall,Wall,2,1,4,Wall,PROPN,NNP,ROOT,Xxxx,0.0
+Tikehau Capital,Tikehau,2,1,7,Tikehau,PROPN,NNP,compound,Xxxxx,0.0
+Tikehau Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Operator Partners,Operator,2,1,8,Operator,PROPN,NNP,compound,Xxxxx,0.0
+Operator Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+AF Ventures,AF,2,1,2,AF,PROPN,NNP,compound,XX,0.0
+AF Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Zürcher Kantonal Bank,Zürcher,3,1,7,Zürcher,PROPN,NNP,compound,Xxxxx,0.0
+Zürcher Kantonal Bank,Kantonal,3,1,8,Kantonal,PROPN,NNP,compound,Xxxxx,0.0
+Zürcher Kantonal Bank,Bank,3,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Capital Innovators,Capital,2,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Capital Innovators,Innovators,2,1,10,Innovators,PROPN,NNP,ROOT,Xxxxx,0.0
+QF Capital,QF,2,1,2,QF,PROPN,NNP,compound,XX,0.0
+QF Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Rho Ventures,Rho,2,1,3,Rho,PROPN,NNP,compound,Xxx,0.0
+Rho Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Techstart Ventures,Techstart,2,1,9,Techstart,PROPN,NNP,compound,Xxxxx,0.0
+Techstart Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Signatures Capital,Signatures,2,1,10,Signatures,PROPN,NNP,compound,Xxxxx,0.0
+Signatures Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Amazon Alexa Fund,Amazon,3,1,6,Amazon,PROPN,NNP,compound,Xxxxx,0.0
+Amazon Alexa Fund,Alexa,3,1,5,Alexa,PROPN,NNP,compound,Xxxxx,0.0
+Amazon Alexa Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Birchmere Ventures,Birchmere,2,1,9,Birchmere,PROPN,NNP,compound,Xxxxx,0.0
+Birchmere Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Spectrum Equity,Spectrum,2,1,8,Spectrum,PROPN,NNP,compound,Xxxxx,0.0
+Spectrum Equity,Equity,2,1,6,Equity,PROPN,NNP,ROOT,Xxxxx,0.0
+Daiwa Corporate Investment,Daiwa,3,1,5,Daiwa,PROPN,NNP,compound,Xxxxx,0.0
+Daiwa Corporate Investment,Corporate,3,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+Daiwa Corporate Investment,Investment,3,1,10,Investment,PROPN,NNP,ROOT,Xxxxx,0.0
+Boston Harbor Angels,Boston,3,1,6,Boston,PROPN,NNP,compound,Xxxxx,0.0
+Boston Harbor Angels,Harbor,3,1,6,Harbor,PROPN,NNP,compound,Xxxxx,0.0
+Boston Harbor Angels,Angels,3,1,6,Angels,PROPN,NNPS,ROOT,Xxxxx,0.0
+JP Morgan,JP,2,1,2,JP,PROPN,NNP,compound,XX,0.0
+JP Morgan,Morgan,2,1,6,Morgan,PROPN,NNP,ROOT,Xxxxx,0.0
+LLR Partners,LLR,2,1,3,LLR,PROPN,NNP,compound,XXX,0.0
+LLR Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Addor Capital,Addor,2,1,5,Addor,PROPN,NNP,compound,Xxxxx,0.0
+Addor Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Rethink Education,Rethink,2,1,7,rethink,VERB,VB,ROOT,Xxxxx,0.0
+Rethink Education,Education,2,1,9,Education,PROPN,NNP,dobj,Xxxxx,0.0
+Third Rock Ventures,Third,3,1,5,Third,PROPN,NNP,compound,Xxxxx,0.0
+Third Rock Ventures,Rock,3,1,4,Rock,PROPN,NNP,compound,Xxxx,0.0
+Third Rock Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+ACE Startups,ACE,2,1,3,ACE,PROPN,NNP,compound,XXX,0.0
+ACE Startups,Startups,2,1,8,Startups,PROPN,NNPS,ROOT,Xxxxx,0.0
+Karista,Karista,1,1,7,karista,NOUN,NN,ROOT,Xxxxx,0.0
+El Dorado Ventures,El,3,1,2,El,PROPN,NNP,compound,Xx,0.0
+El Dorado Ventures,Dorado,3,1,6,Dorado,PROPN,NNP,compound,Xxxxx,0.0
+El Dorado Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Three Arch Partners,Three,3,1,5,three,NUM,CD,nummod,Xxxxx,0.0
+Three Arch Partners,Arch,3,1,4,Arch,PROPN,NNP,compound,Xxxx,0.0
+Three Arch Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+IOSG Ventures,IOSG,2,1,4,IOSG,NOUN,NNS,ROOT,XXXX,0.0
+IOSG Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,npadvmod,Xxxxx,0.0
+Vertex Ventures China,Vertex,3,1,6,Vertex,PROPN,NNP,compound,Xxxxx,0.0
+Vertex Ventures China,Ventures,3,1,8,Ventures,PROPN,NNP,compound,Xxxxx,0.0
+Vertex Ventures China,China,3,1,5,China,PROPN,NNP,ROOT,Xxxxx,0.0
+Rock Springs Capital,Rock,3,1,4,Rock,PROPN,NNP,compound,Xxxx,0.0
+Rock Springs Capital,Springs,3,1,7,Springs,PROPN,NNP,compound,Xxxxx,0.0
+Rock Springs Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Fondaction,Fondaction,1,1,10,fondaction,NOUN,NN,ROOT,Xxxxx,0.0
+R/GA Ventures,R,2,1,1,r,NOUN,NN,nmod,X,0.0
+R/GA Ventures,/,2,1,1,/,SYM,SYM,punct,/,0.0
+R/GA Ventures,GA,2,1,2,GA,PROPN,NNP,compound,XX,0.0
+R/GA Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+YJ Capital,YJ,2,1,2,YJ,PROPN,NNP,compound,XX,0.0
+YJ Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+GE Capital,GE,2,1,2,GE,PROPN,NNP,compound,XX,0.0
+GE Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Oxford Bioscience Partners,Oxford,3,1,6,Oxford,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Bioscience Partners,Bioscience,3,1,10,Bioscience,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Bioscience Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+AngelList Talent,AngelList,2,1,9,AngelList,PROPN,NNP,compound,XxxxxXxxx,0.0
+AngelList Talent,Talent,2,1,6,talent,NOUN,NN,ROOT,Xxxxx,0.0
+Silver Lake,Silver,2,1,6,Silver,PROPN,NNP,compound,Xxxxx,0.0
+Silver Lake,Lake,2,1,4,Lake,PROPN,NNP,ROOT,Xxxx,0.0
+Amazon,Amazon,1,1,6,Amazon,PROPN,NNP,ROOT,Xxxxx,0.0
+Flourish Ventures,Flourish,2,1,8,flourish,ADJ,JJ,amod,Xxxxx,0.0
+Flourish Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+European Commission,European,2,1,8,European,PROPN,NNP,compound,Xxxxx,0.0
+European Commission,Commission,2,1,10,Commission,PROPN,NNP,ROOT,Xxxxx,0.0
+Omega Funds,Omega,2,1,5,omega,NOUN,NN,compound,Xxxxx,0.0
+Omega Funds,Funds,2,1,5,fund,NOUN,NNS,ROOT,Xxxxx,0.0
+IQ Capital,IQ,2,1,2,IQ,PROPN,NNP,compound,XX,0.0
+IQ Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Sony Innovation Fund,Sony,3,1,4,Sony,PROPN,NNP,compound,Xxxx,0.0
+Sony Innovation Fund,Innovation,3,1,10,Innovation,PROPN,NNP,compound,Xxxxx,0.0
+Sony Innovation Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Barclays Corporate Banking,Barclays,3,1,8,Barclays,PROPN,NNP,compound,Xxxxx,0.0
+Barclays Corporate Banking,Corporate,3,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+Barclays Corporate Banking,Banking,3,1,7,Banking,PROPN,NNP,ROOT,Xxxxx,0.0
+Future Venture Capital,Future,3,1,6,Future,PROPN,NNP,compound,Xxxxx,0.0
+Future Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Future Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+AllegisCyber,AllegisCyber,1,1,12,AllegisCyber,PROPN,NNP,ROOT,XxxxxXxxxx,0.0
+Esther Dyson,Esther,2,1,6,Esther,PROPN,NNP,compound,Xxxxx,0.0
+Esther Dyson,Dyson,2,1,5,Dyson,PROPN,NNP,ROOT,Xxxxx,0.0
+Techstars Austin Accelerator,Techstars,3,1,9,techstar,VERB,VBZ,compound,Xxxxx,0.0
+Techstars Austin Accelerator,Austin,3,1,6,Austin,PROPN,NNP,compound,Xxxxx,0.0
+Techstars Austin Accelerator,Accelerator,3,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Techstars London Accelerator,Techstars,3,1,9,techstar,NOUN,NNS,compound,Xxxxx,0.0
+Techstars London Accelerator,London,3,1,6,London,PROPN,NNP,compound,Xxxxx,0.0
+Techstars London Accelerator,Accelerator,3,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+Vintage Investment Partners,Vintage,3,1,7,vintage,NOUN,NN,compound,Xxxxx,0.0
+Vintage Investment Partners,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Vintage Investment Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+InnovX,InnovX,1,1,6,InnovX,PROPN,NNP,ROOT,XxxxxX,0.0
+Sprout Group,Sprout,2,1,6,Sprout,PROPN,NNP,compound,Xxxxx,0.0
+Sprout Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Tengxun Touzi,Tengxun,2,1,7,Tengxun,PROPN,NNP,compound,Xxxxx,0.0
+Tengxun Touzi,Touzi,2,1,5,Touzi,PROPN,NNP,ROOT,Xxxxx,0.0
+TriplePoint Capital,TriplePoint,2,1,11,TriplePoint,PROPN,NNP,compound,XxxxxXxxxx,0.0
+TriplePoint Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Fifty Years,Fifty,2,1,5,fifty,NUM,CD,compound,Xxxxx,0.0
+Fifty Years,Years,2,1,5,year,NOUN,NNS,ROOT,Xxxxx,0.0
+CDC Group,CDC,2,1,3,CDC,PROPN,NNP,compound,XXX,0.0
+CDC Group,Group,2,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Canaccord Genuity Group,Canaccord,3,1,9,Canaccord,PROPN,NNP,compound,Xxxxx,0.0
+Canaccord Genuity Group,Genuity,3,1,7,Genuity,PROPN,NNP,compound,Xxxxx,0.0
+Canaccord Genuity Group,Group,3,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Square Peg Capital,Square,3,1,6,Square,PROPN,NNP,compound,Xxxxx,0.0
+Square Peg Capital,Peg,3,1,3,Peg,PROPN,NNP,compound,Xxx,0.0
+Square Peg Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Tribeca Venture Partners,Tribeca,3,1,7,tribeca,NOUN,NN,compound,Xxxxx,0.0
+Tribeca Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Tribeca Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Firstminute Capital,Firstminute,2,1,11,Firstminute,PROPN,NNP,compound,Xxxxx,0.0
+Firstminute Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Redalpine,Redalpine,1,1,9,redalpine,NOUN,NN,ROOT,Xxxxx,0.0
+Mountain Partners,Mountain,2,1,8,Mountain,PROPN,NNP,compound,Xxxxx,0.0
+Mountain Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Social Leverage,Social,2,1,6,Social,PROPN,NNP,compound,Xxxxx,0.0
+Social Leverage,Leverage,2,1,8,Leverage,PROPN,NNP,ROOT,Xxxxx,0.0
+Naxicap Partners,Naxicap,2,1,7,Naxicap,PROPN,NNP,compound,Xxxxx,0.0
+Naxicap Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Tiantu Capital,Tiantu,2,1,6,Tiantu,PROPN,NNP,compound,Xxxxx,0.0
+Tiantu Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Microsoft Accelerator Bangalore,Microsoft,3,1,9,Microsoft,PROPN,NNP,compound,Xxxxx,0.0
+Microsoft Accelerator Bangalore,Accelerator,3,1,11,Accelerator,PROPN,NNP,compound,Xxxxx,0.0
+Microsoft Accelerator Bangalore,Bangalore,3,1,9,Bangalore,PROPN,NNP,ROOT,Xxxxx,0.0
+Elevation Capital,Elevation,2,1,9,elevation,NOUN,NN,compound,Xxxxx,0.0
+Elevation Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+LDC,LDC,1,1,3,LDC,PROPN,NNP,ROOT,XXX,0.0
+Founders Factory,Founders,2,1,8,founder,NOUN,NNS,compound,Xxxxx,0.0
+Founders Factory,Factory,2,1,7,Factory,PROPN,NNP,ROOT,Xxxxx,0.0
+Oxford Science Enterprises,Oxford,3,1,6,Oxford,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Science Enterprises,Science,3,1,7,Science,PROPN,NNP,compound,Xxxxx,0.0
+Oxford Science Enterprises,Enterprises,3,1,11,Enterprises,PROPN,NNPS,ROOT,Xxxxx,0.0
+Yonghua Capital,Yonghua,2,1,7,Yonghua,PROPN,NNP,compound,Xxxxx,0.0
+Yonghua Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+OpenView,OpenView,1,1,8,openview,NOUN,NN,ROOT,XxxxXxxx,0.0
+Genesia Ventures,Genesia,2,1,7,Genesia,PROPN,NNP,compound,Xxxxx,0.0
+Genesia Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Wellcome Trust,Wellcome,2,1,8,Wellcome,PROPN,NNP,compound,Xxxxx,0.0
+Wellcome Trust,Trust,2,1,5,Trust,PROPN,NNP,ROOT,Xxxxx,0.0
+Acumen,Acumen,1,1,6,acuman,NOUN,NNS,ROOT,Xxxxx,0.0
+Dawn Capital,Dawn,2,1,4,Dawn,PROPN,NNP,compound,Xxxx,0.0
+Dawn Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Swisscom Ventures,Swisscom,2,1,8,Swisscom,PROPN,NNP,compound,Xxxxx,0.0
+Swisscom Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+TPG Growth,TPG,2,1,3,TPG,PROPN,NNP,compound,XXX,0.0
+TPG Growth,Growth,2,1,6,Growth,PROPN,NNP,ROOT,Xxxxx,0.0
+Acton Capital,Acton,2,1,5,Acton,PROPN,NNP,compound,Xxxxx,0.0
+Acton Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Chevron Technology Ventures,Chevron,3,1,7,Chevron,PROPN,NNP,compound,Xxxxx,0.0
+Chevron Technology Ventures,Technology,3,1,10,Technology,PROPN,NNP,compound,Xxxxx,0.0
+Chevron Technology Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Google Launchpad Accelerator,Google,3,1,6,Google,PROPN,NNP,compound,Xxxxx,0.0
+Google Launchpad Accelerator,Launchpad,3,1,9,Launchpad,PROPN,NNP,compound,Xxxxx,0.0
+Google Launchpad Accelerator,Accelerator,3,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+PJC,PJC,1,1,3,pjc,VERB,VB,ROOT,XXX,0.0
+London Co-Investment Fund,London,3,1,6,London,PROPN,NNP,compound,Xxxxx,0.0
+London Co-Investment Fund,Co,3,1,2,Co,PROPN,NNP,compound,Xx,0.0
+London Co-Investment Fund,-,3,1,1,-,PROPN,NNP,compound,-,0.0
+London Co-Investment Fund,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+London Co-Investment Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Aspect Ventures,Aspect,2,1,6,Aspect,PROPN,NNP,compound,Xxxxx,0.0
+Aspect Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+AAF Management Ltd.,AAF,3,1,3,AAF,PROPN,NNP,compound,XXX,0.0
+AAF Management Ltd.,Management,3,1,10,Management,PROPN,NNP,compound,Xxxxx,0.0
+AAF Management Ltd.,Ltd.,3,1,4,Ltd.,PROPN,NNP,ROOT,Xxx.,0.0
+ACF Investors,ACF,2,1,3,ACF,PROPN,NNP,compound,XXX,0.0
+ACF Investors,Investors,2,1,9,investor,NOUN,NNS,ROOT,Xxxxx,0.0
+Hedgewood,Hedgewood,1,1,9,hedgewood,NOUN,NN,ROOT,Xxxxx,0.0
+Novak Biddle Venture Partners,Novak,4,1,5,Novak,PROPN,NNP,compound,Xxxxx,0.0
+Novak Biddle Venture Partners,Biddle,4,1,6,Biddle,PROPN,NNP,compound,Xxxxx,0.0
+Novak Biddle Venture Partners,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Novak Biddle Venture Partners,Partners,4,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+OVP Venture Partners,OVP,3,1,3,OVP,PROPN,NNP,compound,XXX,0.0
+OVP Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+OVP Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Mobile Internet Capital,Mobile,3,1,6,Mobile,PROPN,NNP,compound,Xxxxx,0.0
+Mobile Internet Capital,Internet,3,1,8,Internet,PROPN,NNP,compound,Xxxxx,0.0
+Mobile Internet Capital,Capital,3,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Enterprise Partners,Enterprise,2,1,10,enterprise,NOUN,NN,compound,Xxxxx,0.0
+Enterprise Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Prelude Ventures,Prelude,2,1,7,Prelude,PROPN,NNP,compound,Xxxxx,0.0
+Prelude Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+XRC Labs,XRC,2,1,3,XRC,PROPN,NNP,compound,XXX,0.0
+XRC Labs,Labs,2,1,4,Labs,PROPN,NNPS,ROOT,Xxxx,0.0
+Breakthrough Energy Ventures,Breakthrough,3,1,12,Breakthrough,PROPN,NNP,compound,Xxxxx,0.0
+Breakthrough Energy Ventures,Energy,3,1,6,Energy,PROPN,NNP,compound,Xxxxx,0.0
+Breakthrough Energy Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+MOX,MOX,1,1,3,mox,NOUN,NN,ROOT,XXX,0.0
+Trifecta Capital Advisors,Trifecta,3,1,8,Trifecta,PROPN,NNP,compound,Xxxxx,0.0
+Trifecta Capital Advisors,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Trifecta Capital Advisors,Advisors,3,1,8,Advisors,PROPN,NNPS,ROOT,Xxxxx,0.0
+Blue Startups,Blue,2,1,4,Blue,PROPN,NNP,compound,Xxxx,0.0
+Blue Startups,Startups,2,1,8,Startups,PROPN,NNPS,ROOT,Xxxxx,0.0
+SGH CAPITAL,SGH,2,1,3,SGH,PROPN,NNP,compound,XXX,0.0
+SGH CAPITAL,CAPITAL,2,1,7,CAPITAL,PROPN,NNP,ROOT,XXXX,0.0
+CBC Capital,CBC,2,1,3,CBC,PROPN,NNP,compound,XXX,0.0
+CBC Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Georgian,Georgian,1,1,8,georgian,ADJ,JJ,ROOT,Xxxxx,0.0
+Expansion Venture Capital,Expansion,3,1,9,expansion,NOUN,NN,compound,Xxxxx,0.0
+Expansion Venture Capital,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Expansion Venture Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Robert Bosch Venture Capital,Robert,4,1,6,Robert,PROPN,NNP,compound,Xxxxx,0.0
+Robert Bosch Venture Capital,Bosch,4,1,5,Bosch,PROPN,NNP,compound,Xxxxx,0.0
+Robert Bosch Venture Capital,Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Robert Bosch Venture Capital,Capital,4,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+TL Ventures,TL,2,1,2,TL,PROPN,NNP,compound,XX,0.0
+TL Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+BITKRAFT Ventures,BITKRAFT,2,1,8,BITKRAFT,PROPN,NNP,compound,XXXX,0.0
+BITKRAFT Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Jungle Ventures,Jungle,2,1,6,Jungle,PROPN,NNP,compound,Xxxxx,0.0
+Jungle Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Outlier Ventures,Outlier,2,1,7,Outlier,PROPN,NNP,compound,Xxxxx,0.0
+Outlier Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Toba Capital,Toba,2,1,4,Toba,PROPN,NNP,compound,Xxxx,0.0
+Toba Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Ardian,Ardian,1,1,6,ardian,ADJ,JJ,ROOT,Xxxxx,0.0
+Baidu,Baidu,1,1,5,baidu,VERB,VB,ROOT,Xxxxx,0.0
+Meridian Capital,Meridian,2,1,8,Meridian,PROPN,NNP,compound,Xxxxx,0.0
+Meridian Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Trustbridge Partners,Trustbridge,2,1,11,Trustbridge,PROPN,NNP,compound,Xxxxx,0.0
+Trustbridge Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+NewSchools Venture Fund,NewSchools,3,1,10,NewSchools,PROPN,NNP,compound,XxxXxxxx,0.0
+NewSchools Venture Fund,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+NewSchools Venture Fund,Fund,3,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+Northgate Capital,Northgate,2,1,9,Northgate,PROPN,NNP,compound,Xxxxx,0.0
+Northgate Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+TGFS - Technologiegründerfonds Sachsen,TGFS,4,1,4,TGFS,PROPN,NNP,compound,XXXX,0.0
+TGFS - Technologiegründerfonds Sachsen,-,4,1,1,-,PUNCT,HYPH,punct,-,0.0
+TGFS - Technologiegründerfonds Sachsen,Technologiegründerfonds,4,1,23,Technologiegründerfonds,PROPN,NNP,compound,Xxxxx,0.0
+TGFS - Technologiegründerfonds Sachsen,Sachsen,4,1,7,Sachsen,PROPN,NNP,ROOT,Xxxxx,0.0
+Magma Venture Partners,Magma,3,1,5,Magma,PROPN,NNP,compound,Xxxxx,0.0
+Magma Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Magma Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Crescendo Ventures,Crescendo,2,1,9,Crescendo,PROPN,NNP,compound,Xxxxx,0.0
+Crescendo Ventures,Ventures,2,1,8,Ventures,PROPN,NNP,ROOT,Xxxxx,0.0
+Labrador Ventures,Labrador,2,1,8,Labrador,PROPN,NNP,compound,Xxxxx,0.0
+Labrador Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Tom Williams,Tom,2,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom Williams,Williams,2,1,8,Williams,PROPN,NNP,ROOT,Xxxxx,0.0
+Lenovo Capital and Incubator Group (LCIG),Lenovo,6,1,6,Lenovo,PROPN,NNP,compound,Xxxxx,0.0
+Lenovo Capital and Incubator Group (LCIG),Capital,6,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Lenovo Capital and Incubator Group (LCIG),and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Lenovo Capital and Incubator Group (LCIG),Incubator,6,1,9,Incubator,PROPN,NNP,compound,Xxxxx,0.0
+Lenovo Capital and Incubator Group (LCIG),Group,6,1,5,Group,PROPN,NNP,conj,Xxxxx,0.0
+Lenovo Capital and Incubator Group (LCIG),(,6,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Lenovo Capital and Incubator Group (LCIG),LCIG,6,1,4,LCIG,PROPN,NNP,appos,XXXX,0.0
+Lenovo Capital and Incubator Group (LCIG),),6,1,1,),PUNCT,-RRB-,punct,),0.0
+"Capstone Partners Co., Ltd.",Capstone,4,1,8,Capstone,PROPN,NNP,compound,Xxxxx,0.0
+"Capstone Partners Co., Ltd.",Partners,4,1,8,Partners,PROPN,NNPS,compound,Xxxxx,0.0
+"Capstone Partners Co., Ltd.",Co.,4,1,3,Co.,PROPN,NNP,ROOT,Xx.,0.0
+"Capstone Partners Co., Ltd.",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Capstone Partners Co., Ltd.",Ltd.,4,1,4,Ltd.,PROPN,NNP,appos,Xxx.,0.0
+Aisling Capital,Aisling,2,1,7,aisle,VERB,VBG,ROOT,Xxxxx,0.0
+Aisling Capital,Capital,2,1,7,capital,NOUN,NN,dobj,Xxxxx,0.0
+Isai,Isai,1,1,4,Isai,PROPN,NNP,ROOT,Xxxx,0.0
+DT Capital Partners,DT,3,1,2,DT,PROPN,NNP,compound,XX,0.0
+DT Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+DT Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Florida Institute for the Commercialization of Florida Technology,Florida,8,1,7,Florida,PROPN,NNP,compound,Xxxxx,0.0
+Florida Institute for the Commercialization of Florida Technology,Institute,8,1,9,Institute,PROPN,NNP,ROOT,Xxxxx,0.0
+Florida Institute for the Commercialization of Florida Technology,for,8,1,3,for,ADP,IN,prep,xxx,0.0
+Florida Institute for the Commercialization of Florida Technology,the,8,1,3,the,DET,DT,det,xxx,0.0
+Florida Institute for the Commercialization of Florida Technology,Commercialization,8,1,17,Commercialization,PROPN,NNP,pobj,Xxxxx,0.0
+Florida Institute for the Commercialization of Florida Technology,of,8,1,2,of,ADP,IN,prep,xx,0.0
+Florida Institute for the Commercialization of Florida Technology,Technology,8,1,10,Technology,PROPN,NNP,pobj,Xxxxx,0.0
+JK&amp;B Capital,JK&amp;B,2,1,8,JK&amp;B,PROPN,NNP,compound,XX&xxx;X,0.0
+JK&amp;B Capital,Capital,2,1,7,capital,NOUN,NN,ROOT,Xxxxx,0.0
+Dingman Center for Entrepreneurship,Dingman,4,1,7,Dingman,PROPN,NNP,compound,Xxxxx,0.0
+Dingman Center for Entrepreneurship,Center,4,1,6,Center,PROPN,NNP,ROOT,Xxxxx,0.0
+Dingman Center for Entrepreneurship,for,4,1,3,for,ADP,IN,prep,xxx,0.0
+Dingman Center for Entrepreneurship,Entrepreneurship,4,1,16,entrepreneurship,NOUN,NN,pobj,Xxxxx,0.0
+MMV Capital Partners,MMV,3,1,3,MMV,PROPN,NNP,compound,XXX,0.0
+MMV Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+MMV Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+M13,M13,1,1,3,M13,NOUN,NNS,ROOT,Xdd,0.0
+TEDCO,TEDCO,1,1,5,TEDCO,NOUN,NNS,ROOT,XXXX,0.0
+Matchstick Ventures,Matchstick,2,1,10,Matchstick,PROPN,NNP,compound,Xxxxx,0.0
+Matchstick Ventures,Ventures,2,1,8,Ventures,PROPN,NNP,ROOT,Xxxxx,0.0
+LD Capital,LD,2,1,2,LD,PROPN,NNP,compound,XX,0.0
+LD Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+WndrCo,WndrCo,1,1,6,WndrCo,PUNCT,.,ROOT,XxxxXx,0.0
+PreSeed Ventures,PreSeed,2,1,7,PreSeed,PROPN,NNP,compound,XxxXxxx,0.0
+PreSeed Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Cathay Innovation,Cathay,2,1,6,Cathay,PROPN,NNP,compound,Xxxxx,0.0
+Cathay Innovation,Innovation,2,1,10,Innovation,PROPN,NNP,ROOT,Xxxxx,0.0
+Telstra Ventures,Telstra,2,1,7,Telstra,PROPN,NNP,compound,Xxxxx,0.0
+Telstra Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+LaunchPad Venture,LaunchPad,2,1,9,LaunchPad,PROPN,NNP,compound,XxxxxXxx,0.0
+LaunchPad Venture,Venture,2,1,7,Venture,PROPN,NNP,ROOT,Xxxxx,0.0
+Eclipse Ventures,Eclipse,2,1,7,Eclipse,PROPN,NNP,compound,Xxxxx,0.0
+Eclipse Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Signia Venture Partners,Signia,3,1,6,Signia,PROPN,NNP,compound,Xxxxx,0.0
+Signia Venture Partners,Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Signia Venture Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Wisconsin Investment Partners,Wisconsin,3,1,9,Wisconsin,PROPN,NNP,compound,Xxxxx,0.0
+Wisconsin Investment Partners,Investment,3,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Wisconsin Investment Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Axel Springer Plug and Play Accelerator,Axel,6,1,4,Axel,PROPN,NNP,compound,Xxxx,0.0
+Axel Springer Plug and Play Accelerator,Springer,6,1,8,Springer,PROPN,NNP,compound,Xxxxx,0.0
+Axel Springer Plug and Play Accelerator,Plug,6,1,4,Plug,PROPN,NNP,ROOT,Xxxx,0.0
+Axel Springer Plug and Play Accelerator,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+Axel Springer Plug and Play Accelerator,Play,6,1,4,play,VERB,VB,conj,Xxxx,0.0
+Axel Springer Plug and Play Accelerator,Accelerator,6,1,11,Accelerator,PROPN,NNP,dobj,Xxxxx,0.0
+PreAngel,PreAngel,1,1,8,preangel,NOUN,NN,ROOT,XxxXxxxx,0.0
+Genesis Partners,Genesis,2,1,7,Genesis,PROPN,NNP,compound,Xxxxx,0.0
+Genesis Partners,Partners,2,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Louis Beryl,Louis,2,1,5,Louis,PROPN,NNP,compound,Xxxxx,0.0
+Louis Beryl,Beryl,2,1,5,Beryl,PROPN,NNP,ROOT,Xxxxx,0.0
+FinTech Sandbox,FinTech,2,1,7,FinTech,PROPN,NNP,compound,XxxXxxx,0.0
+FinTech Sandbox,Sandbox,2,1,7,Sandbox,PROPN,NNP,ROOT,Xxxxx,0.0
+Ceyuan Ventures,Ceyuan,2,1,6,Ceyuan,PROPN,NNP,compound,Xxxxx,0.0
+Ceyuan Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+European Bank for Reconstruction and Development,European,6,1,8,European,PROPN,NNP,compound,Xxxxx,0.0
+European Bank for Reconstruction and Development,Bank,6,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+European Bank for Reconstruction and Development,for,6,1,3,for,ADP,IN,prep,xxx,0.0
+European Bank for Reconstruction and Development,Reconstruction,6,1,14,Reconstruction,PROPN,NNP,pobj,Xxxxx,0.0
+European Bank for Reconstruction and Development,and,6,1,3,and,CCONJ,CC,cc,xxx,0.0
+European Bank for Reconstruction and Development,Development,6,1,11,Development,PROPN,NNP,conj,Xxxxx,0.0
+Titan Capital,Titan,2,1,5,Titan,PROPN,NNP,compound,Xxxxx,0.0
+Titan Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Stripes,Stripes,1,1,7,stripe,NOUN,NNS,ROOT,Xxxxx,0.0
+Brooklyn Bridge Ventures,Brooklyn,3,1,8,Brooklyn,PROPN,NNP,compound,Xxxxx,0.0
+Brooklyn Bridge Ventures,Bridge,3,1,6,Bridge,PROPN,NNP,compound,Xxxxx,0.0
+Brooklyn Bridge Ventures,Ventures,3,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Square 1 Bank,Square,3,1,6,Square,PROPN,NNP,nmod,Xxxxx,0.0
+Square 1 Bank,1,3,1,1,1,NUM,CD,nummod,d,0.0
+Square 1 Bank,Bank,3,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+Midven,Midven,1,1,6,Midven,PROPN,NNP,ROOT,Xxxxx,0.0
+Forbion Capital Partners,Forbion,3,1,7,Forbion,PROPN,NNP,compound,Xxxxx,0.0
+Forbion Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Forbion Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Reach Capital,Reach,2,1,5,Reach,PROPN,NNP,compound,Xxxxx,0.0
+Reach Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+AlbionVC,AlbionVC,1,1,8,AlbionVC,PUNCT,``,ROOT,XxxxxXX,0.0
+Accelerator Centre,Accelerator,2,1,11,Accelerator,PROPN,NNP,compound,Xxxxx,0.0
+Accelerator Centre,Centre,2,1,6,Centre,PROPN,NNP,ROOT,Xxxxx,0.0
+China Merchants Capital,China,3,1,5,China,PROPN,NNP,compound,Xxxxx,0.0
+China Merchants Capital,Merchants,3,1,9,Merchants,PROPN,NNP,compound,Xxxxx,0.0
+China Merchants Capital,Capital,3,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Golden Gate,Golden,2,1,6,Golden,PROPN,NNP,compound,Xxxxx,0.0
+Golden Gate,Gate,2,1,4,Gate,PROPN,NNP,ROOT,Xxxx,0.0
+Israel Innovation Authority,Israel,3,1,6,Israel,PROPN,NNP,compound,Xxxxx,0.0
+Israel Innovation Authority,Innovation,3,1,10,Innovation,PROPN,NNP,compound,Xxxxx,0.0
+Israel Innovation Authority,Authority,3,1,9,Authority,PROPN,NNP,ROOT,Xxxxx,0.0
+Susquehanna International Group (SIG),Susquehanna,4,1,11,Susquehanna,PROPN,NNP,compound,Xxxxx,0.0
+Susquehanna International Group (SIG),International,4,1,13,International,PROPN,NNP,compound,Xxxxx,0.0
+Susquehanna International Group (SIG),Group,4,1,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+Susquehanna International Group (SIG),(,4,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Susquehanna International Group (SIG),SIG,4,1,3,SIG,PROPN,NNP,appos,XXX,0.0
+Susquehanna International Group (SIG),),4,1,1,),PUNCT,-RRB-,punct,),0.0
+UpWest,UpWest,1,1,6,UpWest,PROPN,NNP,ROOT,XxXxxx,0.0
+TTV Capital,TTV,2,1,3,TTV,PROPN,NNP,compound,XXX,0.0
+TTV Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+AirTree Ventures,AirTree,2,1,7,AirTree,PROPN,NNP,compound,XxxXxxx,0.0
+AirTree Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Rho Capital Partners,Rho,3,1,3,Rho,PROPN,NNP,compound,Xxx,0.0
+Rho Capital Partners,Capital,3,1,7,Capital,PROPN,NNP,compound,Xxxxx,0.0
+Rho Capital Partners,Partners,3,1,8,Partners,PROPN,NNPS,ROOT,Xxxxx,0.0
+Atlantic Bridge,Atlantic,2,1,8,Atlantic,PROPN,NNP,compound,Xxxxx,0.0
+Atlantic Bridge,Bridge,2,1,6,Bridge,PROPN,NNP,ROOT,Xxxxx,0.0
+Connect Ventures,Connect,2,1,7,Connect,PROPN,NNP,compound,Xxxxx,0.0
+Connect Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Fidelity Ventures,Fidelity,2,1,8,Fidelity,PROPN,NNP,compound,Xxxxx,0.0
+Fidelity Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Serena,Serena,1,1,6,serena,NOUN,NN,ROOT,Xxxxx,0.0
+Axilor Ventures,Axilor,2,1,6,Axilor,PROPN,NNP,compound,Xxxxx,0.0
+Axilor Ventures,Ventures,2,1,8,Ventures,PROPN,NNPS,ROOT,Xxxxx,0.0
+Aleph,Aleph,1,1,5,Aleph,PROPN,NNP,ROOT,Xxxxx,0.0
+HOF Capital,HOF,2,1,3,HOF,PROPN,NNP,compound,XXX,0.0
+HOF Capital,Capital,2,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+Icehouse Ventures,Icehouse,2,1,8,Icehouse,PROPN,NNP,compound,Xxxxx,0.0
+Icehouse Ventures,Ventures,2,1,8,venture,NOUN,NNS,ROOT,Xxxxx,0.0
+Oriza Holdings,Oriza,2,1,5,Oriza,PROPN,NNP,compound,Xxxxx,0.0
+Oriza Holdings,Holdings,2,1,8,Holdings,PROPN,NNPS,ROOT,Xxxxx,0.0
+Expa,Expa,1,1,4,expa,ADV,RB,ROOT,Xxxx,0.0

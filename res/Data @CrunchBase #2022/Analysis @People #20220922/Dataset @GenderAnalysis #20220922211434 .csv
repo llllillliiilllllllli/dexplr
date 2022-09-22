@@ -1,0 +1,9 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Male,Male,1,841,4,male,NOUN,NN,ROOT,Xxxx,0.0
+Female,Female,1,74,6,female,ADJ,JJ,ROOT,Xxxxx,0.0
+Prefer not to identify,Prefer,4,4,6,prefer,VERB,VB,ROOT,Xxxxx,0.0
+Prefer not to identify,not,4,4,3,not,PART,RB,neg,xxx,0.0
+Prefer not to identify,to,4,4,2,to,PART,TO,aux,xx,0.0
+Prefer not to identify,identify,4,4,8,identify,VERB,VB,xcomp,xxxx,0.0
+Agender,Agender,1,2,7,agender,VERB,VB,ROOT,Xxxxx,0.0
+Bigender,Bigender,1,1,8,bigender,VERB,VB,ROOT,Xxxxx,0.0

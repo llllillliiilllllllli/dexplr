@@ -1,0 +1,9 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Country,Country,1,102,7,country,NOUN,NN,ROOT,Xxxxx,0.0
+Regional Area,Regional,2,299,8,regional,ADJ,JJ,amod,Xxxxx,0.0
+Regional Area,Area,2,299,4,Area,PROPN,NNP,ROOT,Xxxx,0.0
+Continent,Continent,1,48,9,continent,NOUN,NN,ROOT,Xxxxx,0.0
+State/Region,State,1,142,5,State,PROPN,NNP,nmod,Xxxxx,0.0
+State/Region,/,1,142,1,/,SYM,SYM,punct,/,0.0
+State/Region,Region,1,142,6,Region,PROPN,NNP,ROOT,Xxxxx,0.0
+City,City,1,36,4,city,NOUN,NN,ROOT,Xxxx,0.0

@@ -1,0 +1,6 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+For Profit,For,2,174,3,for,ADP,IN,ROOT,Xxx,0.0
+For Profit,Profit,2,174,6,profit,NOUN,NN,pobj,Xxxxx,0.0
+Non-profit,Non,1,4,3,non,ADJ,JJ,amod,Xxx,0.0
+Non-profit,-,1,4,1,-,ADJ,JJ,amod,-,0.0
+Non-profit,profit,1,4,6,profit,NOUN,NN,ROOT,xxxx,0.0

@@ -33,6 +33,14 @@
 # paragraph level   : count, length, feature1, feature2, feature3, ...
 #
 # Note: each text field requires different levels and techniques for analysis 
+#
+# Word Description:
+# Text  : string    # full text from data value in column
+# Token : string    # individual word from full text
+# Freq  : int       # number of occurences of token
+# Count : int       # number of tokens or words in text
+# Length: int       # number of characters in token
+# ...
 
 from typing import List, Tuple
 
@@ -98,16 +106,19 @@ def describe_words(series: pd.Series) -> pd.DataFrame:
     
     counts = series.value_counts()
 
-    lang_df = pd.DataFrame(columns=["Text", "Token", "Freq", "Lemma", "PoS", "Tag", "Dep", "Shape", "Sentiment"])
+    lang_df = pd.DataFrame(columns=["Text", "Token", "Count", "Freq", "Length", "Lemma", "PoS", "Tag", "Dep", "Shape", "Sentiment"])
     
     for _, value in series.iteritems():
         if type(value) != str: continue  
 
         tokens = nlp(value)
         for token in tokens:
+            count = len(str(value).split(" "))
+            freq = counts[value]
+            length = len(token.text)
             lang_df.loc[len(lang_df.index)] = \
-                [value, token.text, counts[value], token.lemma_, token.pos_, \
-                token.tag_, token.dep_, token.shape_, token.sentiment]
+                [value, token.text, count, freq, length, token.lemma_, \
+                token.pos_, token.tag_, token.dep_, token.shape_, token.sentiment]
 
     return lang_df.drop_duplicates()
 

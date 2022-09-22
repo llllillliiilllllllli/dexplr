@@ -1,0 +1,1082 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Edward,Edward,1,1,6,Edward,PROPN,NNP,ROOT,Xxxxx,0.0
+Atlas,Atlas,1,1,5,Atlas,PROPN,NNP,ROOT,Xxxxx,0.0
+Nadav,Nadav,1,1,5,nadav,NOUN,NN,ROOT,Xxxxx,0.0
+Balaji,Balaji,1,1,6,Balaji,PROPN,NNP,ROOT,Xxxxx,0.0
+Tom,Tom,1,6,3,Tom,PROPN,NNP,ROOT,Xxx,0.0
+Kayce,Kayce,1,1,5,kayce,NOUN,NN,ROOT,Xxxxx,0.0
+Jon,Jon,1,3,3,Jon,PROPN,NNP,ROOT,Xxx,0.0
+Uday Kumar,Uday,2,1,4,Uday,PROPN,NNP,compound,Xxxx,0.0
+Uday Kumar,Kumar,2,1,5,Kumar,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr. Raphael,Dr.,2,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Raphael,Raphael,2,1,7,Raphael,PROPN,NNP,ROOT,Xxxxx,0.0
+Trevor,Trevor,1,1,6,trevor,VERB,VB,ROOT,Xxxxx,0.0
+Charlie,Charlie,1,1,7,Charlie,PROPN,NNP,ROOT,Xxxxx,0.0
+Ashini,Ashini,1,1,6,Ashini,PROPN,NNP,ROOT,Xxxxx,0.0
+Ratul,Ratul,1,1,5,Ratul,NOUN,NNS,ROOT,Xxxxx,0.0
+Aman,Aman,1,1,4,aman,NOUN,NN,ROOT,Xxxx,0.0
+Lachy,Lachy,1,1,5,lachy,NOUN,NN,ROOT,Xxxxx,0.0
+Adam,Adam,1,8,4,Adam,PROPN,NNP,ROOT,Xxxx,0.0
+Asish,Asish,1,1,5,asish,ADJ,JJ,ROOT,Xxxxx,0.0
+Jawed,Jawed,1,1,5,Jawed,PROPN,NNP,ROOT,Xxxxx,0.0
+Jackson,Jackson,1,1,7,Jackson,PROPN,NNP,ROOT,Xxxxx,0.0
+Sam,Sam,1,6,3,Sam,PROPN,NNP,ROOT,Xxx,0.0
+Ramakant,Ramakant,1,1,8,ramakant,ADJ,JJ,ROOT,Xxxxx,0.0
+Didier,Didier,1,1,6,didier,NOUN,NN,ROOT,Xxxxx,0.0
+Nitin,Nitin,1,2,5,Nitin,PROPN,NNP,ROOT,Xxxxx,0.0
+Alexis,Alexis,1,2,6,alexis,VERB,VB,ROOT,Xxxxx,0.0
+Shantanu,Shantanu,1,1,8,Shantanu,NOUN,NNS,ROOT,Xxxxx,0.0
+Shawn,Shawn,1,1,5,shawn,NOUN,NN,ROOT,Xxxxx,0.0
+Topp Jirayut,Topp,2,1,4,Topp,PROPN,NNP,compound,Xxxx,0.0
+Topp Jirayut,Jirayut,2,1,7,Jirayut,PROPN,NNP,ROOT,Xxxxx,0.0
+Kunal,Kunal,1,2,5,Kunal,PROPN,NNP,ROOT,Xxxxx,0.0
+Ullas,Ullas,1,1,5,Ullas,PROPN,NNP,ROOT,Xxxxx,0.0
+Raj,Raj,1,3,3,raj,ADV,RB,ROOT,Xxx,0.0
+Chris,Chris,1,7,5,Chris,PROPN,NNP,ROOT,Xxxxx,0.0
+Anndy,Anndy,1,1,5,Anndy,PROPN,NNP,ROOT,Xxxxx,0.0
+Piero,Piero,1,1,5,piero,NOUN,NN,ROOT,Xxxxx,0.0
+Sushil,Sushil,1,1,6,sushil,NOUN,NN,ROOT,Xxxxx,0.0
+Kevin,Kevin,1,9,5,Kevin,PROPN,NNP,ROOT,Xxxxx,0.0
+Rajat,Rajat,1,1,5,Rajat,PROPN,NNP,ROOT,Xxxxx,0.0
+Aron,Aron,1,1,4,Aron,NOUN,NNS,ROOT,Xxxx,0.0
+Serena,Serena,1,1,6,serena,NOUN,NN,ROOT,Xxxxx,0.0
+Bill,Bill,1,6,4,bill,NOUN,NN,ROOT,Xxxx,0.0
+Scott,Scott,1,2,5,Scott,PROPN,NNP,ROOT,Xxxxx,0.0
+Justin,Justin,1,1,6,Justin,PROPN,NNP,ROOT,Xxxxx,0.0
+Bo,Bo,1,1,2,Bo,PROPN,NNP,ROOT,Xx,0.0
+Jack,Jack,1,2,4,Jack,PROPN,NNP,ROOT,Xxxx,0.0
+Niraj,Niraj,1,1,5,Niraj,PROPN,NNP,ROOT,Xxxxx,0.0
+Peyush,Peyush,1,1,6,peyush,ADJ,JJ,ROOT,Xxxxx,0.0
+Grant,Grant,1,2,5,grant,VERB,VB,ROOT,Xxxxx,0.0
+Jaynti,Jaynti,1,1,6,jaynti,NOUN,NN,ROOT,Xxxxx,0.0
+Amit,Amit,1,2,4,amit,VERB,VB,ROOT,Xxxx,0.0
+Meltem,Meltem,1,1,6,Meltem,PROPN,NNP,ROOT,Xxxxx,0.0
+Jonathan,Jonathan,1,2,8,Jonathan,PROPN,NNP,ROOT,Xxxxx,0.0
+David,David,1,13,5,David,PROPN,NNP,ROOT,Xxxxx,0.0
+Amir,Amir,1,2,4,Amir,PROPN,NNP,ROOT,Xxxx,0.0
+Shane,Shane,1,1,5,shane,NOUN,NN,ROOT,Xxxxx,0.0
+Varun,Varun,1,2,5,varun,NOUN,NN,ROOT,Xxxxx,0.0
+George,George,1,3,6,George,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran jitu angka HK 6 juni 2022,Bocoran,7,1,7,bocoran,ADJ,JJ,amod,Xxxxx,0.0
+Bocoran jitu angka HK 6 juni 2022,jitu,7,1,4,jitu,NOUN,NN,nsubj,xxxx,0.0
+Bocoran jitu angka HK 6 juni 2022,angka,7,1,5,angka,VERB,VBD,ROOT,xxxx,0.0
+Bocoran jitu angka HK 6 juni 2022,HK,7,1,2,HK,PROPN,NNP,nmod,XX,0.0
+Bocoran jitu angka HK 6 juni 2022,6,7,1,1,6,NUM,CD,nummod,d,0.0
+Bocoran jitu angka HK 6 juni 2022,juni,7,1,4,juni,NOUN,NN,dobj,xxxx,0.0
+Bocoran jitu angka HK 6 juni 2022,2022,7,1,4,2022,NUM,CD,npadvmod,dddd,0.0
+Stani,Stani,1,1,5,Stani,PROPN,NNP,ROOT,Xxxxx,0.0
+Andrew,Andrew,1,6,6,Andrew,PROPN,NNP,ROOT,Xxxxx,0.0
+Binny,Binny,1,1,5,Binny,PROPN,NNP,ROOT,Xxxxx,0.0
+Marco,Marco,1,2,5,Marco,PROPN,NNP,ROOT,Xxxxx,0.0
+Gustavo,Gustavo,1,1,7,Gustavo,PROPN,NNP,ROOT,Xxxxx,0.0
+Ignacio,Ignacio,1,1,7,Ignacio,PROPN,NNP,ROOT,Xxxxx,0.0
+Rene,Rene,1,1,4,rene,NOUN,NN,ROOT,Xxxx,0.0
+Devang,Devang,1,1,6,Devang,PROPN,NNP,ROOT,Xxxxx,0.0
+Jerry,Jerry,1,1,5,Jerry,PROPN,NNP,ROOT,Xxxxx,0.0
+Ihar,Ihar,1,1,4,Ihar,PROPN,NNP,ROOT,Xxxx,0.0
+Trine Marie,Trine,2,1,5,Trine,PROPN,NNP,compound,Xxxxx,0.0
+Trine Marie,Marie,2,1,5,Marie,PROPN,NNP,ROOT,Xxxxx,0.0
+Glenn,Glenn,1,1,5,Glenn,PROPN,NNP,ROOT,Xxxxx,0.0
+prediksi togel hk hari ini 2022,prediksi,6,1,8,prediksi,PROPN,NNP,compound,xxxx,0.0
+prediksi togel hk hari ini 2022,togel,6,1,5,togel,PROPN,NNP,compound,xxxx,0.0
+prediksi togel hk hari ini 2022,hk,6,1,2,hk,PROPN,NNP,compound,xx,0.0
+prediksi togel hk hari ini 2022,hari,6,1,4,hari,PROPN,NNP,compound,xxxx,0.0
+prediksi togel hk hari ini 2022,ini,6,1,3,ini,PROPN,NNP,ROOT,xxx,0.0
+prediksi togel hk hari ini 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Sebastien,Sebastien,1,1,9,sebastien,NOUN,NN,ROOT,Xxxxx,0.0
+Mustafa,Mustafa,1,1,7,Mustafa,PROPN,NNP,ROOT,Xxxxx,0.0
+Natalie,Natalie,1,1,7,Natalie,PROPN,NNP,ROOT,Xxxxx,0.0
+Phillip,Phillip,1,1,7,phillip,NOUN,NN,ROOT,Xxxxx,0.0
+Michelle,Michelle,1,1,8,Michelle,PROPN,NNP,ROOT,Xxxxx,0.0
+Martine,Martine,1,1,7,martine,NOUN,NN,ROOT,Xxxxx,0.0
+Naval,Naval,1,1,5,Naval,PROPN,NNP,ROOT,Xxxxx,0.0
+Andrea,Andrea,1,1,6,Andrea,PROPN,NNP,ROOT,Xxxxx,0.0
+Ruchi,Ruchi,1,1,5,ruchi,ADJ,JJ,ROOT,Xxxxx,0.0
+Anne,Anne,1,1,4,Anne,PROPN,NNP,ROOT,Xxxx,0.0
+Ishan,Ishan,1,1,5,ishan,NOUN,NN,ROOT,Xxxxx,0.0
+Dr Candice,Dr,2,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Candice,Candice,2,1,7,Candice,PROPN,NNP,ROOT,Xxxxx,0.0
+Christian,Christian,1,6,9,christian,ADJ,JJ,ROOT,Xxxxx,0.0
+bocoran hk 4d pasti tembus,bocoran,5,1,7,bocoran,PROPN,NNP,compound,xxxx,0.0
+bocoran hk 4d pasti tembus,hk,5,1,2,hk,PROPN,NNP,compound,xx,0.0
+bocoran hk 4d pasti tembus,4d,5,1,2,4d,PROPN,NNP,compound,dx,0.0
+bocoran hk 4d pasti tembus,pasti,5,1,5,pasti,NOUN,NNS,nsubj,xxxx,0.0
+bocoran hk 4d pasti tembus,tembus,5,1,6,tembus,NOUN,NN,ROOT,xxxx,0.0
+Gil,Gil,1,1,3,Gil,PROPN,NNP,ROOT,Xxx,0.0
+Eduardo,Eduardo,1,1,7,eduardo,NOUN,NN,ROOT,Xxxxx,0.0
+Sergey,Sergey,1,2,6,Sergey,PROPN,NNP,ROOT,Xxxxx,0.0
+Sujeet,Sujeet,1,1,6,sujeet,NOUN,NN,ROOT,Xxxxx,0.0
+Patrick,Patrick,1,4,7,patrick,VERB,VB,ROOT,Xxxxx,0.0
+Jonah,Jonah,1,1,5,Jonah,PROPN,NNP,ROOT,Xxxxx,0.0
+James,James,1,7,5,James,PROPN,NNP,ROOT,Xxxxx,0.0
+Rohit,Rohit,1,3,5,rohit,NOUN,NN,ROOT,Xxxxx,0.0
+Kevin Francis,Kevin,2,1,5,Kevin,PROPN,NNP,compound,Xxxxx,0.0
+Kevin Francis,Francis,2,1,7,Francis,PROPN,NNP,ROOT,Xxxxx,0.0
+Alex,Alex,1,5,4,Alex,PROPN,NNP,ROOT,Xxxx,0.0
+Anatoly,Anatoly,1,1,7,anatoly,ADJ,JJ,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu,Prediksi,4,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu,Togel,4,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu,Sydney,4,1,6,Sydney,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Terjitu,Terjitu,4,1,7,Terjitu,PROPN,NNP,ROOT,Xxxxx,0.0
+Matthew,Matthew,1,3,7,Matthew,PROPN,NNP,ROOT,Xxxxx,0.0
+Private,Private,1,1,7,private,ADJ,JJ,ROOT,Xxxxx,0.0
+Immad,Immad,1,1,5,Immad,PROPN,NNP,ROOT,Xxxxx,0.0
+Gabriel,Gabriel,1,3,7,Gabriel,PROPN,NNP,ROOT,Xxxxx,0.0
+Siddharth,Siddharth,1,1,9,siddharth,NOUN,NN,ROOT,Xxxxx,0.0
+Wesley,Wesley,1,1,6,wesley,ADV,RB,ROOT,Xxxxx,0.0
+Mark,Mark,1,4,4,Mark,PROPN,NNP,ROOT,Xxxx,0.0
+Sahil,Sahil,1,2,5,Sahil,PROPN,NNP,ROOT,Xxxxx,0.0
+Behdad,Behdad,1,1,6,Behdad,PROPN,NNP,ROOT,Xxxxx,0.0
+Brian,Brian,1,5,5,Brian,PROPN,NNP,ROOT,Xxxxx,0.0
+Paul,Paul,1,8,4,Paul,PROPN,NNP,ROOT,Xxxx,0.0
+Sudeep,Sudeep,1,1,6,sudeep,ADJ,JJ,ROOT,Xxxxx,0.0
+Kain,Kain,1,1,4,kain,NOUN,NN,ROOT,Xxxx,0.0
+Reid,Reid,1,1,4,reid,NOUN,NN,ROOT,Xxxx,0.0
+Omar,Omar,1,1,4,Omar,PROPN,NNP,ROOT,Xxxx,0.0
+Amjad,Amjad,1,1,5,Amjad,PROPN,NNP,ROOT,Xxxxx,0.0
+Ashneer,Ashneer,1,1,7,Ashneer,PROPN,NNP,ROOT,Xxxxx,0.0
+Marc,Marc,1,5,4,marc,NOUN,NN,ROOT,Xxxx,0.0
+Utsav,Utsav,1,1,5,Utsav,PROPN,NNP,ROOT,Xxxxx,0.0
+Claire,Claire,1,1,6,Claire,PROPN,NNP,ROOT,Xxxxx,0.0
+Kode Alam Hotel,Kode,3,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Kode Alam Hotel,Alam,3,1,4,Alam,PROPN,NNP,compound,Xxxx,0.0
+Kode Alam Hotel,Hotel,3,1,5,Hotel,PROPN,NNP,ROOT,Xxxxx,0.0
+Jason,Jason,1,5,5,jason,NOUN,NN,ROOT,Xxxxx,0.0
+Rashaun,Rashaun,1,1,7,rashaun,ADJ,JJ,ROOT,Xxxxx,0.0
+Vineet,Vineet,1,2,6,vineet,NOUN,NN,ROOT,Xxxxx,0.0
+Adrian,Adrian,1,1,6,adrian,ADJ,JJ,ROOT,Xxxxx,0.0
+Alok,Alok,1,1,4,Alok,PROPN,NNP,ROOT,Xxxx,0.0
+Daniel,Daniel,1,7,6,Daniel,PROPN,NNP,ROOT,Xxxxx,0.0
+Alan,Alan,1,3,4,Alan,PROPN,NNP,ROOT,Xxxx,0.0
+Angel,Angel,1,2,5,angel,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Togel SGP 4 Juni 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel SGP 4 Juni 2022,Togel,6,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP 4 Juni 2022,SGP,6,1,3,SGP,PROPN,NNP,appos,XXX,0.0
+Prediksi Togel SGP 4 Juni 2022,4,6,1,1,4,NUM,CD,nummod,d,0.0
+Prediksi Togel SGP 4 Juni 2022,Juni,6,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel SGP 4 Juni 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Govind,Govind,1,2,6,Govind,PROPN,NNP,ROOT,Xxxxx,0.0
+Vijender,Vijender,1,1,8,vijender,NOUN,NN,ROOT,Xxxxx,0.0
+Anuj,Anuj,1,2,4,Anuj,NOUN,NNS,ROOT,Xxxx,0.0
+Live Draw SGP,Live,3,1,4,live,VERB,VB,compound,Xxxx,0.0
+Live Draw SGP,Draw,3,1,4,Draw,PROPN,NNP,compound,Xxxx,0.0
+Live Draw SGP,SGP,3,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Tobias,Tobias,1,1,6,tobias,VERB,VB,ROOT,Xxxxx,0.0
+Kris,Kris,1,1,4,Kris,PROPN,NNP,ROOT,Xxxx,0.0
+Sameer,Sameer,1,2,6,sameer,ADJ,JJ,ROOT,Xxxxx,0.0
+John,John,1,7,4,John,PROPN,NNP,ROOT,Xxxx,0.0
+Christopher,Christopher,1,4,11,Christopher,PROPN,NNP,ROOT,Xxxxx,0.0
+Vijay Pravin,Vijay,2,1,5,Vijay,PROPN,NNP,compound,Xxxxx,0.0
+Vijay Pravin,Pravin,2,1,6,Pravin,PROPN,NNP,ROOT,Xxxxx,0.0
+Nitesh,Nitesh,1,1,6,Nitesh,PROPN,NNP,ROOT,Xxxxx,0.0
+Benn,Benn,1,1,4,Benn,PROPN,NNP,ROOT,Xxxx,0.0
+Dominik,Dominik,1,1,7,dominik,NOUN,NN,ROOT,Xxxxx,0.0
+Bocoran Jitu HK,Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu HK,Jitu,3,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu HK,HK,3,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+OG Juan,OG,2,1,2,OG,PROPN,NNP,compound,XX,0.0
+OG Juan,Juan,2,1,4,Juan,PROPN,NNP,ROOT,Xxxx,0.0
+Chester,Chester,1,1,7,chester,NOUN,NN,ROOT,Xxxxx,0.0
+Ted,Ted,1,1,3,Ted,PROPN,NNP,ROOT,Xxx,0.0
+Prediksi Toto Macau,Prediksi,3,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Toto Macau,Toto,3,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Toto Macau,Macau,3,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Prateek,Prateek,1,2,7,prateek,VERB,VB,ROOT,Xxxxx,0.0
+Guillermo,Guillermo,1,1,9,Guillermo,PROPN,NNP,ROOT,Xxxxx,0.0
+Garry,Garry,1,1,5,garry,VERB,VB,ROOT,Xxxxx,0.0
+Somdip,Somdip,1,1,6,Somdip,PROPN,NNP,ROOT,Xxxxx,0.0
+Sunny,Sunny,1,1,5,sunny,ADJ,JJ,ROOT,Xxxxx,0.0
+Thomas,Thomas,1,3,6,Thomas,PROPN,NNP,ROOT,Xxxxx,0.0
+Luke,Luke,1,1,4,Luke,PROPN,NNP,ROOT,Xxxx,0.0
+John T.,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John T.,T.,2,1,2,T.,PROPN,NNP,ROOT,X.,0.0
+SHERVIN,SHERVIN,1,1,7,shervin,NOUN,NN,ROOT,XXXX,0.0
+Joseph,Joseph,1,4,6,Joseph,PROPN,NNP,ROOT,Xxxxx,0.0
+Shlomo Zalman,Shlomo,2,1,6,Shlomo,PROPN,NNP,compound,Xxxxx,0.0
+Shlomo Zalman,Zalman,2,1,6,Zalman,PROPN,NNP,ROOT,Xxxxx,0.0
+Gabby,Gabby,1,1,5,Gabby,PROPN,NNP,ROOT,Xxxxx,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG,PREDIKSI,5,1,8,PREDIKSI,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG,TOGEL,5,1,5,TOGEL,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG,SYDNEY,5,1,6,SYDNEY,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG,SINGAPORE,5,1,9,SINGAPORE,PROPN,NNP,compound,XXXX,0.0
+PREDIKSI TOGEL SYDNEY SINGAPORE HONGKONG,HONGKONG,5,1,8,HONGKONG,PROPN,NNP,ROOT,XXXX,0.0
+Carl,Carl,1,1,4,Carl,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel HK hari Sabtu 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK hari Sabtu 2022,Togel,6,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK hari Sabtu 2022,HK,6,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi Togel HK hari Sabtu 2022,hari,6,1,4,hari,NOUN,NN,compound,xxxx,0.0
+Prediksi Togel HK hari Sabtu 2022,Sabtu,6,1,5,Sabtu,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK hari Sabtu 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Sy,Sy,1,1,2,sy,NOUN,NN,ROOT,Xx,0.0
+Sandeep,Sandeep,1,5,7,sandeep,ADJ,JJ,ROOT,Xxxxx,0.0
+Ankit,Ankit,1,3,5,ankit,VERB,VB,ROOT,Xxxxx,0.0
+Faraz,Faraz,1,1,5,Faraz,NOUN,NNS,ROOT,Xxxxx,0.0
+Jordan,Jordan,1,1,6,Jordan,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi HK 24 Mei 2022,Prediksi,5,2,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 24 Mei 2022,HK,5,2,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi HK 24 Mei 2022,24,5,2,2,24,NUM,CD,nummod,dd,0.0
+Prediksi HK 24 Mei 2022,Mei,5,2,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi HK 24 Mei 2022,2022,5,2,4,2022,NUM,CD,nummod,dddd,0.0
+Travis,Travis,1,1,6,Travis,PROPN,NNP,ROOT,Xxxxx,0.0
+Suhail,Suhail,1,1,6,suhail,NOUN,NN,ROOT,Xxxxx,0.0
+Jinglan,Jinglan,1,1,7,jinglan,NOUN,NN,ROOT,Xxxxx,0.0
+Vicki,Vicki,1,1,5,Vicki,PROPN,NNP,ROOT,Xxxxx,0.0
+Ram,Ram,1,1,3,ram,VERB,VB,ROOT,Xxx,0.0
+Vilma,Vilma,1,1,5,vilma,NOUN,NN,ROOT,Xxxxx,0.0
+Gaurav,Gaurav,1,1,6,Gaurav,PROPN,NNP,ROOT,Xxxxx,0.0
+Vlad,Vlad,1,1,4,Vlad,VERB,VBN,ROOT,Xxxx,0.0
+Samir,Samir,1,1,5,Samir,PROPN,NNP,ROOT,Xxxxx,0.0
+Josh,Josh,1,1,4,Josh,PROPN,NNP,ROOT,Xxxx,0.0
+Suryansh,Suryansh,1,1,8,suryansh,ADJ,JJ,ROOT,Xxxxx,0.0
+John Patrick,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Patrick,Patrick,2,1,7,Patrick,PROPN,NNP,ROOT,Xxxxx,0.0
+Ryan,Ryan,1,5,4,ryan,NOUN,NN,ROOT,Xxxx,0.0
+Prediksi Togel Sydney 2022,Prediksi,4,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 2022,Togel,4,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 2022,Sydney,4,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 2022,2022,4,1,4,2022,NUM,CD,nummod,dddd,0.0
+Maneesh,Maneesh,1,1,7,maneesh,NOUN,NN,ROOT,Xxxxx,0.0
+Learic,Learic,1,1,6,learic,VERB,VB,ROOT,Xxxxx,0.0
+Elad,Elad,1,1,4,Elad,PROPN,NNP,ROOT,Xxxx,0.0
+Jay,Jay,1,3,3,Jay,PROPN,NNP,ROOT,Xxx,0.0
+Simon,Simon,1,2,5,Simon,PROPN,NNP,ROOT,Xxxxx,0.0
+Amrish,Amrish,1,1,6,amrish,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Syair Jitu SGP,Prediksi,4,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Jitu SGP,Syair,4,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Jitu SGP,Jitu,4,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Syair Jitu SGP,SGP,4,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Prediksi Syair HK 8 Mei 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 8 Mei 2022,Syair,6,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 8 Mei 2022,HK,6,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi Syair HK 8 Mei 2022,8,6,1,1,8,NUM,CD,nummod,d,0.0
+Prediksi Syair HK 8 Mei 2022,Mei,6,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi Syair HK 8 Mei 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK 1 Juni 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 1 Juni 2022,Togel,6,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 1 Juni 2022,HK,6,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Togel HK 1 Juni 2022,1,6,1,1,1,NUM,CD,nummod,d,0.0
+Prediksi Togel HK 1 Juni 2022,Juni,6,1,4,Juni,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel HK 1 Juni 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Frederic,Frederic,1,1,8,frederic,ADJ,JJ,ROOT,Xxxxx,0.0
+Nithin,Nithin,1,1,6,Nithin,NOUN,NNS,ROOT,Xxxxx,0.0
+Prediksi Togel SGP,Prediksi,3,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP,Togel,3,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP,SGP,3,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Ashutosh,Ashutosh,1,1,8,Ashutosh,PROPN,NNP,ROOT,Xxxxx,0.0
+Dylan,Dylan,1,2,5,Dylan,PROPN,NNP,ROOT,Xxxxx,0.0
+Emlyn,Emlyn,1,1,5,Emlyn,NOUN,NNS,ROOT,Xxxxx,0.0
+Michael,Michael,1,10,7,Michael,PROPN,NNP,ROOT,Xxxxx,0.0
+Manolo,Manolo,1,1,6,manolo,ADJ,JJ,ROOT,Xxxxx,0.0
+Clarence,Clarence,1,1,8,clarence,NOUN,NN,ROOT,Xxxxx,0.0
+Sundar,Sundar,1,1,6,sundar,VERB,VB,ROOT,Xxxxx,0.0
+Ariel,Ariel,1,1,5,Ariel,PROPN,NNP,ROOT,Xxxxx,0.0
+Donald,Donald,1,1,6,Donald,PROPN,NNP,ROOT,Xxxxx,0.0
+Pierre Antoine,Pierre,2,1,6,Pierre,PROPN,NNP,compound,Xxxxx,0.0
+Pierre Antoine,Antoine,2,1,7,Antoine,PROPN,NNP,ROOT,Xxxxx,0.0
+Wayne,Wayne,1,1,5,Wayne,PROPN,NNP,ROOT,Xxxxx,0.0
+Joe,Joe,1,4,3,Joe,PROPN,NNP,ROOT,Xxx,0.0
+Prediksi HK 26 Mei 2022,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 26 Mei 2022,HK,5,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi HK 26 Mei 2022,26,5,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi HK 26 Mei 2022,Mei,5,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi HK 26 Mei 2022,2022,5,1,4,2022,NUM,CD,nummod,dddd,0.0
+James C,James,2,1,5,James,PROPN,NNP,compound,Xxxxx,0.0
+James C,C,2,1,1,C,PROPN,NNP,ROOT,X,0.0
+Joel,Joel,1,1,4,Joel,PROPN,NNP,ROOT,Xxxx,0.0
+Will,Will,1,1,4,will,AUX,MD,ROOT,Xxxx,0.0
+Georgios D.,Georgios,2,1,8,Georgios,PROPN,NNP,compound,Xxxxx,0.0
+Georgios D.,D.,2,1,2,D.,PROPN,NNP,ROOT,X.,0.0
+Gigi Levy,Gigi,2,1,4,Gigi,PROPN,NNP,compound,Xxxx,0.0
+Gigi Levy,Levy,2,1,4,Levy,PROPN,NNP,ROOT,Xxxx,0.0
+Callum,Callum,1,1,6,Callum,PROPN,NNP,ROOT,Xxxxx,0.0
+Kavan,Kavan,1,1,5,Kavan,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022,Keluaran,7,1,8,Keluaran,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022,Toto,7,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022,Macau,7,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022,7,7,1,1,7,NUM,CD,nummod,d,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Keluaran Toto Macau 7 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+M.,M.,1,1,2,m.,NOUN,NN,ROOT,X.,0.0
+Max,Max,1,3,3,Max,PROPN,NNP,ROOT,Xxx,0.0
+Sue,Sue,1,1,3,sue,VERB,VB,ROOT,Xxx,0.0
+Aakrit,Aakrit,1,1,6,Aakrit,PROPN,NNP,ROOT,Xxxxx,0.0
+Assaf,Assaf,1,1,5,Assaf,PROPN,NNP,ROOT,Xxxxx,0.0
+Gary,Gary,1,2,4,Gary,PROPN,NNP,ROOT,Xxxx,0.0
+Rory,Rory,1,1,4,rory,NOUN,NN,ROOT,Xxxx,0.0
+Jake,Jake,1,1,4,Jake,PROPN,NNP,ROOT,Xxxx,0.0
+Chen,Chen,1,1,4,Chen,PROPN,NNP,ROOT,Xxxx,0.0
+Markus,Markus,1,2,6,markus,NOUN,NN,ROOT,Xxxxx,0.0
+Prashant,Prashant,1,2,8,prashant,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi HK 31 Mei 2022,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 31 Mei 2022,HK,5,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi HK 31 Mei 2022,31,5,1,2,31,NUM,CD,nummod,dd,0.0
+Prediksi HK 31 Mei 2022,Mei,5,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi HK 31 Mei 2022,2022,5,1,4,2022,NUM,CD,nummod,dddd,0.0
+Kyle,Kyle,1,4,4,kyle,NOUN,NN,ROOT,Xxxx,0.0
+Arjun,Arjun,1,3,5,Arjun,PROPN,NNP,ROOT,Xxxxx,0.0
+Illia,Illia,1,1,5,Illia,PROPN,NNP,ROOT,Xxxxx,0.0
+Stephen,Stephen,1,2,7,Stephen,PROPN,NNP,ROOT,Xxxxx,0.0
+Ed,Ed,1,1,2,Ed,PROPN,NNP,ROOT,Xx,0.0
+Jeff,Jeff,1,7,4,Jeff,PROPN,NNP,ROOT,Xxxx,0.0
+Roland,Roland,1,1,6,Roland,PROPN,NNP,ROOT,Xxxxx,0.0
+Rex,Rex,1,1,3,rex,NOUN,NN,ROOT,Xxx,0.0
+Eric,Eric,1,9,4,Eric,PROPN,NNP,ROOT,Xxxx,0.0
+Austin,Austin,1,2,6,austin,NOUN,NN,ROOT,Xxxxx,0.0
+Ron,Ron,1,1,3,ron,NOUN,NN,ROOT,Xxx,0.0
+Lucas,Lucas,1,1,5,luca,NOUN,NNS,ROOT,Xxxxx,0.0
+Fadlo,Fadlo,1,2,5,fadlo,NOUN,NN,ROOT,Xxxxx,0.0
+Oriana,Oriana,1,1,6,Oriana,PROPN,NNP,ROOT,Xxxxx,0.0
+Emad,Emad,1,1,4,emad,NOUN,NN,ROOT,Xxxx,0.0
+Oskar,Oskar,1,1,5,Oskar,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022,Macau,7,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022,Sabtu,7,1,5,Sabtu,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022,11,7,1,2,11,NUM,CD,nummod,dd,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel Macau Sabtu 11 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Chad,Chad,1,1,4,Chad,PROPN,NNP,ROOT,Xxxx,0.0
+Bhavik,Bhavik,1,1,6,bhavik,NOUN,NN,ROOT,Xxxxx,0.0
+Noah,Noah,1,2,4,noah,NOUN,NN,ROOT,Xxxx,0.0
+Dr. Kami,Dr.,2,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Kami,Kami,2,1,4,Kami,PROPN,NNP,ROOT,Xxxx,0.0
+Leonid,Leonid,1,1,6,Leonid,PROPN,NNP,ROOT,Xxxxx,0.0
+Rajesh,Rajesh,1,2,6,rajesh,VERB,VB,ROOT,Xxxxx,0.0
+Tim,Tim,1,3,3,Tim,PROPN,NNP,ROOT,Xxx,0.0
+Pieter,Pieter,1,1,6,pieter,NOUN,NN,ROOT,Xxxxx,0.0
+Ronn,Ronn,1,1,4,ronn,NOUN,NN,ROOT,Xxxx,0.0
+Prediksi Togel HK Sabtu 4 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Sabtu 4 Juni 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Sabtu 4 Juni 2022,HK,7,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi Togel HK Sabtu 4 Juni 2022,Sabtu,7,1,5,Sabtu,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK Sabtu 4 Juni 2022,4,7,1,1,4,NUM,CD,nummod,d,0.0
+Prediksi Togel HK Sabtu 4 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel HK Sabtu 4 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Taavet,Taavet,1,1,6,taavet,NOUN,NN,ROOT,Xxxxx,0.0
+Henry,Henry,1,2,5,Henry,PROPN,NNP,ROOT,Xxxxx,0.0
+Shashvat,Shashvat,1,1,8,shashvat,NOUN,NN,ROOT,Xxxxx,0.0
+Ratan,Ratan,1,1,5,Ratan,PROPN,NNP,ROOT,Xxxxx,0.0
+Jeremy Berman,Jeremy,2,1,6,Jeremy,PROPN,NNP,compound,Xxxxx,0.0
+Jeremy Berman,Berman,2,1,6,Berman,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran Jitu Macau,Bocoran,3,1,7,bocoran,ADJ,JJ,compound,Xxxxx,0.0
+Bocoran Jitu Macau,Jitu,3,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu Macau,Macau,3,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Tristan,Tristan,1,1,7,Tristan,PROPN,NNP,ROOT,Xxxxx,0.0
+Mohit Kamboj,Mohit,2,1,5,mohit,NOUN,NN,compound,Xxxxx,0.0
+Mohit Kamboj,Kamboj,2,1,6,Kamboj,PROPN,NNP,ROOT,Xxxxx,0.0
+Somdutta,Somdutta,1,1,8,somdutta,NOUN,NN,ROOT,Xxxxx,0.0
+Sai Srinivas,Sai,2,1,3,Sai,PROPN,NNP,compound,Xxx,0.0
+Sai Srinivas,Srinivas,2,1,8,Srinivas,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK 29 Mei 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 29 Mei 2022,Togel,6,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 29 Mei 2022,HK,6,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi Togel HK 29 Mei 2022,29,6,1,2,29,NUM,CD,nummod,dd,0.0
+Prediksi Togel HK 29 Mei 2022,Mei,6,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi Togel HK 29 Mei 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+William,William,1,4,7,William,PROPN,NNP,ROOT,Xxxxx,0.0
+Bipin C.,Bipin,2,1,5,Bipin,PROPN,NNP,compound,Xxxxx,0.0
+Bipin C.,C.,2,1,2,C.,PROPN,NNP,ROOT,X.,0.0
+Oren,Oren,1,1,4,Oren,NOUN,NNS,ROOT,Xxxx,0.0
+Lisa,Lisa,1,1,4,Lisa,PROPN,NNP,ROOT,Xxxx,0.0
+Nir,Nir,1,1,3,Nir,PROPN,NNP,ROOT,Xxx,0.0
+Lauren,Lauren,1,1,6,Lauren,PROPN,NNP,ROOT,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,100,7,1,3,100,NUM,CD,nummod,ddd,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,Tafsir,7,1,6,Tafsir,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,Mimpi,7,1,5,Mimpi,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,2D,7,1,2,2D,PROPN,NNP,compound,dX,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,Bergambar,7,1,9,Bergambar,PROPN,NNP,compound,Xxxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,Erek,7,1,4,Erek,PROPN,NNP,compound,Xxxx,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,-,7,1,1,-,PUNCT,HYPH,punct,-,0.0
+100 Tafsir Mimpi Togel 2D Bergambar Erek-Erek,Erek,7,1,4,Erek,PROPN,NNP,ROOT,Xxxx,0.0
+Sherri,Sherri,1,1,6,sherri,NOUN,NN,ROOT,Xxxxx,0.0
+Matt,Matt,1,6,4,Matt,PROPN,NNP,ROOT,Xxxx,0.0
+Forrest,Forrest,1,1,7,Forrest,PROPN,NNP,ROOT,Xxxxx,0.0
+Kalyan,Kalyan,1,1,6,kalyan,ADJ,JJ,ROOT,Xxxxx,0.0
+Romain,Romain,1,1,6,romain,VERB,VB,ROOT,Xxxxx,0.0
+Prediksi Togel HK 9 Juni 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK 9 Juni 2022,Togel,6,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel HK 9 Juni 2022,HK,6,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Togel HK 9 Juni 2022,9,6,1,1,9,NUM,CD,nummod,d,0.0
+Prediksi Togel HK 9 Juni 2022,Juni,6,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel HK 9 Juni 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Felix,Felix,1,1,5,felix,ADJ,JJ,ROOT,Xxxxx,0.0
+Igor,Igor,1,1,4,igor,NOUN,NN,ROOT,Xxxx,0.0
+Prediksi SGP 26 Mei 2022,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi SGP 26 Mei 2022,SGP,5,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Prediksi SGP 26 Mei 2022,26,5,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi SGP 26 Mei 2022,Mei,5,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi SGP 26 Mei 2022,2022,5,1,4,2022,NUM,CD,nummod,dddd,0.0
+Prediksi Togel HK 11 Mei 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK 11 Mei 2022,Togel,6,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 11 Mei 2022,HK,6,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Togel HK 11 Mei 2022,11,6,1,2,11,NUM,CD,appos,dd,0.0
+Prediksi Togel HK 11 Mei 2022,Mei,6,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Togel HK 11 Mei 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Paul Froio,Paul,2,1,4,Paul,PROPN,NNP,compound,Xxxx,0.0
+Paul Froio,Froio,2,1,5,Froio,PROPN,NNP,ROOT,Xxxxx,0.0
+Nicole,Nicole,1,1,6,Nicole,PROPN,NNP,ROOT,Xxxxx,0.0
+Kathleen,Kathleen,1,1,8,kathleen,NOUN,NN,ROOT,Xxxxx,0.0
+Akshay,Akshay,1,1,6,Akshay,PROPN,NNP,ROOT,Xxxxx,0.0
+Solomon,Solomon,1,1,7,Solomon,PROPN,NNP,ROOT,Xxxxx,0.0
+Rafael,Rafael,1,1,6,Rafael,PROPN,NNP,ROOT,Xxxxx,0.0
+Mikhail,Mikhail,1,1,7,Mikhail,PROPN,NNP,ROOT,Xxxxx,0.0
+Masayoshi,Masayoshi,1,1,9,Masayoshi,PROPN,NNP,ROOT,Xxxxx,0.0
+Liz,Liz,1,1,3,Liz,PROPN,NNP,ROOT,Xxx,0.0
+Guy,Guy,1,2,3,guy,NOUN,NN,ROOT,Xxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022,TOTO,7,1,4,TOTO,PROPN,NNP,compound,XXXX,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022,Macau,7,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022,Jumat,7,1,5,Jumat,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022,3,7,1,1,3,NUM,CD,nummod,d,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi TOTO Macau Jumat 3 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Mike,Mike,1,6,4,Mike,PROPN,NNP,ROOT,Xxxx,0.0
+Ali,Ali,1,1,3,Ali,PROPN,NNP,ROOT,Xxx,0.0
+Archana,Archana,1,1,7,Archana,PROPN,NNP,ROOT,Xxxxx,0.0
+Kavan Choksi,Kavan,2,3,5,Kavan,PROPN,NNP,compound,Xxxxx,0.0
+Kavan Choksi,Choksi,2,3,6,Choksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Lizzie,Lizzie,1,1,6,lizzie,NOUN,NN,ROOT,Xxxxx,0.0
+Nikil,Nikil,1,1,5,nikil,NOUN,NN,ROOT,Xxxxx,0.0
+Greg,Greg,1,2,4,Greg,PROPN,NNP,ROOT,Xxxx,0.0
+Parker,Parker,1,1,6,Parker,PROPN,NNP,ROOT,Xxxxx,0.0
+Benjamin,Benjamin,1,1,8,Benjamin,PROPN,NNP,ROOT,Xxxxx,0.0
+Dick,Dick,1,1,4,Dick,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022,HK,7,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi Togel HK Jumat 3 Juni 2022,Jumat,7,1,5,Jumat,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022,3,7,1,1,3,NUM,CD,nummod,d,0.0
+Prediksi Togel HK Jumat 3 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel HK Jumat 3 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Vivekananda,Vivekananda,1,1,11,vivekananda,ADJ,JJ,ROOT,Xxxxx,0.0
+Terrence,Terrence,1,1,8,terrence,NOUN,NN,ROOT,Xxxxx,0.0
+Michael Brian,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Brian,Brian,2,1,5,Brian,PROPN,NNP,ROOT,Xxxxx,0.0
+Sebastian,Sebastian,1,2,9,sebastian,ADJ,JJ,ROOT,Xxxxx,0.0
+Prediksi Togel HK 27 Mei 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 27 Mei 2022,Togel,6,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK 27 Mei 2022,HK,6,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi Togel HK 27 Mei 2022,27,6,1,2,27,NUM,CD,nummod,dd,0.0
+Prediksi Togel HK 27 Mei 2022,Mei,6,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi Togel HK 27 Mei 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Suresh,Suresh,1,2,6,Suresh,PROPN,NNP,ROOT,Xxxxx,0.0
+Ashish,Ashish,1,1,6,ashish,ADJ,JJ,ROOT,Xxxxx,0.0
+Yvonne,Yvonne,1,1,6,yvonne,NOUN,NN,ROOT,Xxxxx,0.0
+Pankaj,Pankaj,1,2,6,Pankaj,PROPN,NNP,ROOT,Xxxxx,0.0
+Data Keluaran Sydney,Data,3,1,4,Data,PROPN,NNP,compound,Xxxx,0.0
+Data Keluaran Sydney,Keluaran,3,1,8,Keluaran,PROPN,NNP,compound,Xxxxx,0.0
+Data Keluaran Sydney,Sydney,3,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Mat,Mat,1,1,3,mat,NOUN,NN,ROOT,Xxx,0.0
+Nikita,Nikita,1,1,6,Nikita,PROPN,NNP,ROOT,Xxxxx,0.0
+Jenny,Jenny,1,1,5,jenny,NOUN,NN,ROOT,Xxxxx,0.0
+Albinder,Albinder,1,1,8,albinder,NUM,CD,ROOT,Xxxxx,0.0
+Syair Sydney,Syair,2,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Syair Sydney,Sydney,2,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Doaa,Doaa,1,1,4,Doaa,PROPN,NNP,ROOT,Xxxx,0.0
+Benny,Benny,1,1,5,benny,NOUN,NN,ROOT,Xxxxx,0.0
+Manuel Paolo,Manuel,2,1,6,Manuel,PROPN,NNP,compound,Xxxxx,0.0
+Manuel Paolo,Paolo,2,1,5,Paolo,PROPN,NNP,ROOT,Xxxxx,0.0
+Darcy,Darcy,1,1,5,Darcy,PROPN,NNP,ROOT,Xxxxx,0.0
+Tanuj,Tanuj,1,1,5,Tanuj,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi SGP 29 Mei 2022,Prediksi,5,1,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi SGP 29 Mei 2022,SGP,5,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Prediksi SGP 29 Mei 2022,29,5,1,2,29,NUM,CD,nummod,dd,0.0
+Prediksi SGP 29 Mei 2022,Mei,5,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi SGP 29 Mei 2022,2022,5,1,4,2022,NUM,CD,nummod,dddd,0.0
+Suneel Sarfraz,Suneel,2,1,6,Suneel,PROPN,NNP,compound,Xxxxx,0.0
+Suneel Sarfraz,Sarfraz,2,1,7,Sarfraz,PROPN,NNP,ROOT,Xxxxx,0.0
+Johan,Johan,1,1,5,Johan,PROPN,NNP,ROOT,Xxxxx,0.0
+Dharmesh,Dharmesh,1,1,8,dharmesh,VERB,VB,ROOT,Xxxxx,0.0
+Evan,Evan,1,1,4,Evan,PROPN,NNP,ROOT,Xxxx,0.0
+Anshuman,Anshuman,1,1,8,anshuman,NOUN,NN,ROOT,Xxxxx,0.0
+Tareq,Tareq,1,1,5,tareq,NOUN,NN,ROOT,Xxxxx,0.0
+Maximilian,Maximilian,1,1,10,maximilian,ADJ,JJ,ROOT,Xxxxx,0.0
+Muhammad,Muhammad,1,1,8,Muhammad,PROPN,NNP,ROOT,Xxxxx,0.0
+Abel Makkonen,Abel,2,1,4,Abel,PROPN,NNP,compound,Xxxx,0.0
+Abel Makkonen,Makkonen,2,1,8,Makkonen,PROPN,NNP,ROOT,Xxxxx,0.0
+Timo,Timo,1,1,4,Timo,PROPN,NNP,ROOT,Xxxx,0.0
+Haroldo,Haroldo,1,1,7,Haroldo,PROPN,NNP,ROOT,Xxxxx,0.0
+Fady,Fady,1,1,4,fady,NOUN,NN,ROOT,Xxxx,0.0
+Ayman,Ayman,1,1,5,ayman,NOUN,NN,ROOT,Xxxxx,0.0
+Edgard,Edgard,1,1,6,edgard,VERB,VB,ROOT,Xxxxx,0.0
+Byju,Byju,1,1,4,Byju,PROPN,NNP,ROOT,Xxxx,0.0
+Caroline,Caroline,1,1,8,caroline,NOUN,NN,ROOT,Xxxxx,0.0
+C.,C.,1,1,2,c.,NOUN,NN,ROOT,X.,0.0
+Sumit,Sumit,1,2,5,sumit,NOUN,NN,ROOT,Xxxxx,0.0
+Hercy,Hercy,1,1,5,hercy,NOUN,NN,ROOT,Xxxxx,0.0
+Neal,Neal,1,1,4,neal,NOUN,NN,ROOT,Xxxx,0.0
+Eddy,Eddy,1,1,4,Eddy,PROPN,NNP,ROOT,Xxxx,0.0
+Aubrey,Aubrey,1,1,6,Aubrey,PROPN,NNP,ROOT,Xxxxx,0.0
+Ankur,Ankur,1,1,5,Ankur,PROPN,NNP,ROOT,Xxxxx,0.0
+Bing,Bing,1,1,4,bing,NOUN,NN,ROOT,Xxxx,0.0
+Laura,Laura,1,1,5,laura,NOUN,NN,ROOT,Xxxxx,0.0
+Cory,Cory,1,1,4,cory,NOUN,NN,ROOT,Xxxx,0.0
+Aiden,Aiden,1,1,5,Aiden,VERB,VBN,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022,Togel,6,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022,Sydney,6,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022,11,6,1,2,11,NUM,CD,punct,dd,0.0
+Prediksi Togel Sydney 11 Juni 2022,Juni,6,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel Sydney 11 Juni 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Cynthia,Cynthia,1,1,7,Cynthia,PROPN,NNP,ROOT,Xxxxx,0.0
+Aaqib,Aaqib,1,1,5,aaqib,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022,Syair,7,1,5,Syair,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022,Sdy,7,1,3,Sdy,PROPN,NNP,compound,Xxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022,Jumat,7,1,5,Jumat,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022,20,7,1,2,20,NUM,CD,nummod,dd,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Syair Sdy Jumat 20 Mei 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Stuart,Stuart,1,2,6,Stuart,PROPN,NNP,ROOT,Xxxxx,0.0
+Peter,Peter,1,4,5,Peter,PROPN,NNP,ROOT,Xxxxx,0.0
+Biz,Biz,1,1,3,Biz,PROPN,NNP,ROOT,Xxx,0.0
+Sherwin,Sherwin,1,1,7,Sherwin,PROPN,NNP,ROOT,Xxxxx,0.0
+Ilkka,Ilkka,1,1,5,ilkka,NOUN,NN,ROOT,Xxxxx,0.0
+Kaisa,Kaisa,1,1,5,kaisa,NOUN,NN,ROOT,Xxxxx,0.0
+J. Bryan,J.,2,1,2,J.,PROPN,NNP,compound,X.,0.0
+J. Bryan,Bryan,2,1,5,Bryan,PROPN,NNP,ROOT,Xxxxx,0.0
+Marek,Marek,1,1,5,Marek,PROPN,NNP,ROOT,Xxxxx,0.0
+AmirHossein,AmirHossein,1,1,11,AmirHossein,NOUN,NNS,ROOT,XxxxXxxxx,0.0
+Dheeraj,Dheeraj,1,1,7,Dheeraj,PROPN,NNP,ROOT,Xxxxx,0.0
+Philipp,Philipp,1,1,7,Philipp,PROPN,NNP,ROOT,Xxxxx,0.0
+Rajan,Rajan,1,2,5,rajan,NOUN,NN,ROOT,Xxxxx,0.0
+Vijay,Vijay,1,2,5,Vijay,PROPN,NNP,ROOT,Xxxxx,0.0
+Susan,Susan,1,1,5,Susan,PROPN,NNP,ROOT,Xxxxx,0.0
+Ben,Ben,1,1,3,Ben,PROPN,NNP,ROOT,Xxx,0.0
+Shou,Shou,1,1,4,shou,NOUN,NN,ROOT,Xxxx,0.0
+Baron,Baron,1,1,5,Baron,PROPN,NNP,ROOT,Xxxxx,0.0
+Bruce,Bruce,1,1,5,Bruce,PROPN,NNP,ROOT,Xxxxx,0.0
+Maria,Maria,1,1,5,Maria,PROPN,NNP,ROOT,Xxxxx,0.0
+Jai,Jai,1,1,3,Jai,PROPN,NNP,ROOT,Xxx,0.0
+Marcus,Marcus,1,1,6,Marcus,PROPN,NNP,ROOT,Xxxxx,0.0
+Gokul,Gokul,1,1,5,Gokul,PROPN,NNP,ROOT,Xxxxx,0.0
+Robert,Robert,1,4,6,Robert,PROPN,NNP,ROOT,Xxxxx,0.0
+Julia,Julia,1,1,5,Julia,NOUN,NNS,ROOT,Xxxxx,0.0
+Mudassir,Mudassir,1,1,8,Mudassir,NOUN,NNS,ROOT,Xxxxx,0.0
+Mohit,Mohit,1,1,5,mohit,NOUN,NN,ROOT,Xxxxx,0.0
+Angie,Angie,1,1,5,Angie,PROPN,NNP,ROOT,Xxxxx,0.0
+Graydon,Graydon,1,1,7,Graydon,PROPN,NNP,ROOT,Xxxxx,0.0
+Shreekant,Shreekant,1,1,9,shreekant,NOUN,NN,ROOT,Xxxxx,0.0
+Kara,Kara,1,1,4,Kara,PROPN,NNP,ROOT,Xxxx,0.0
+Alexander Edward,Alexander,2,1,9,Alexander,PROPN,NNP,compound,Xxxxx,0.0
+Alexander Edward,Edward,2,1,6,Edward,PROPN,NNP,ROOT,Xxxxx,0.0
+Austen,Austen,1,1,6,Austen,PROPN,NNP,ROOT,Xxxxx,0.0
+Mohammed,Mohammed,1,1,8,Mohammed,PROPN,NNP,ROOT,Xxxxx,0.0
+Richard,Richard,1,2,7,Richard,PROPN,NNP,ROOT,Xxxxx,0.0
+Girish,Girish,1,1,6,girish,ADJ,JJ,ROOT,Xxxxx,0.0
+Mahdi,Mahdi,1,2,5,Mahdi,PROPN,NNP,ROOT,Xxxxx,0.0
+Shaan,Shaan,1,1,5,Shaan,PROPN,NNP,ROOT,Xxxxx,0.0
+Yi,Yi,1,1,2,Yi,PROPN,NNP,ROOT,Xx,0.0
+Forum Prediksi Togel,Forum,3,1,5,Forum,PROPN,NNP,compound,Xxxxx,0.0
+Forum Prediksi Togel,Prediksi,3,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Forum Prediksi Togel,Togel,3,1,5,Togel,PROPN,NNP,ROOT,Xxxxx,0.0
+Danilo,Danilo,1,1,6,danilo,NOUN,NN,ROOT,Xxxxx,0.0
+Lim Boon,Lim,2,1,3,Lim,PROPN,NNP,compound,Xxx,0.0
+Lim Boon,Boon,2,1,4,Boon,PROPN,NNP,ROOT,Xxxx,0.0
+Nihal,Nihal,1,1,5,Nihal,PROPN,NNP,ROOT,Xxxxx,0.0
+Kanat,Kanat,1,1,5,Kanat,PROPN,NNP,ROOT,Xxxxx,0.0
+Packy,Packy,1,1,5,packy,ADJ,JJ,ROOT,Xxxxx,0.0
+Abdulhamid,Abdulhamid,1,1,10,Abdulhamid,PROPN,NNP,ROOT,Xxxxx,0.0
+Ashvin,Ashvin,1,1,6,Ashvin,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair HK 11 Mei 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 11 Mei 2022,Syair,6,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 11 Mei 2022,HK,6,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi Syair HK 11 Mei 2022,11,6,1,2,11,NUM,CD,nummod,dd,0.0
+Prediksi Syair HK 11 Mei 2022,Mei,6,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi Syair HK 11 Mei 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Azor,Azor,1,1,4,Azor,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022,Syair,7,1,5,Syair,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022,HK,7,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Syair Togel HK 12 Mei 2022,12,7,1,2,12,NUM,CD,nummod,dd,0.0
+Prediksi Syair Togel HK 12 Mei 2022,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Syair Togel HK 12 Mei 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+soi cầu 247,soi,3,1,3,soi,PROPN,NNP,ROOT,xxx,0.0
+soi cầu 247,cầu,3,1,3,cầu,PROPN,NNP,dobj,xxx,0.0
+soi cầu 247,247,3,1,3,247,NUM,CD,npadvmod,ddd,0.0
+Lukasz,Lukasz,1,1,6,lukasz,VERB,VB,ROOT,Xxxxx,0.0
+Jared,Jared,1,2,5,jar,VERB,VBN,ROOT,Xxxxx,0.0
+カヴァン,カヴァン,1,2,4,カヴァン,PROPN,NNP,ROOT,xxxx,0.0
+Sophia,Sophia,1,1,6,sophia,NOUN,NN,ROOT,Xxxxx,0.0
+Olivier,Olivier,1,2,7,olivier,NOUN,NN,ROOT,Xxxxx,0.0
+Logan,Logan,1,1,5,Logan,VERB,VBN,ROOT,Xxxxx,0.0
+Sasha,Sasha,1,1,5,Sasha,PROPN,NNP,ROOT,Xxxxx,0.0
+Mario,Mario,1,1,5,mario,NOUN,NN,ROOT,Xxxxx,0.0
+Alexandre,Alexandre,1,1,9,alexandre,NOUN,NN,ROOT,Xxxxx,0.0
+Andre,Andre,1,1,5,andre,NOUN,NN,ROOT,Xxxxx,0.0
+Max-Josef,Max,1,1,3,Max,PROPN,NNP,compound,Xxx,0.0
+Max-Josef,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Max-Josef,Josef,1,1,5,Josef,PROPN,NNP,ROOT,Xxxxx,0.0
+Nirav,Nirav,1,1,5,nirav,NOUN,NN,ROOT,Xxxxx,0.0
+Julian,Julian,1,2,6,julian,ADJ,JJ,ROOT,Xxxxx,0.0
+Leonardo,Leonardo,1,1,8,Leonardo,PROPN,NNP,ROOT,Xxxxx,0.0
+Florian,Florian,1,1,7,florian,ADJ,JJ,ROOT,Xxxxx,0.0
+Erik,Erik,1,1,4,Erik,PROPN,NNP,ROOT,Xxxx,0.0
+Glenda,Glenda,1,1,6,Glenda,PROPN,NNP,ROOT,Xxxxx,0.0
+Nicolas,Nicolas,1,2,7,Nicolas,PROPN,NNP,ROOT,Xxxxx,0.0
+Bijan,Bijan,1,1,5,bijan,NOUN,NN,ROOT,Xxxxx,0.0
+Jayesh,Jayesh,1,1,6,jayesh,NOUN,NN,ROOT,Xxxxx,0.0
+LeBron,LeBron,1,1,6,LeBron,PROPN,NNP,ROOT,XxXxxx,0.0
+Dan,Dan,1,3,3,Dan,PROPN,NNP,ROOT,Xxx,0.0
+Dr. Cuyler,Dr.,2,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Cuyler,Cuyler,2,1,6,Cuyler,PROPN,NNP,ROOT,Xxxxx,0.0
+Yousef,Yousef,1,1,6,Yousef,PROPN,NNP,ROOT,Xxxxx,0.0
+Sean,Sean,1,1,4,sean,NOUN,NN,ROOT,Xxxx,0.0
+Hassan,Hassan,1,1,6,Hassan,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022,Syair,7,1,5,Syair,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022,HK,7,1,2,HK,PROPN,NNP,appos,XX,0.0
+Prediksi Syair Togel HK 18 Mei 2022,18,7,1,2,18,NUM,CD,nummod,dd,0.0
+Prediksi Syair Togel HK 18 Mei 2022,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Syair Togel HK 18 Mei 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Alexander,Alexander,1,1,9,Alexander,PROPN,NNP,ROOT,Xxxxx,0.0
+Zach,Zach,1,2,4,zach,NOUN,NN,ROOT,Xxxx,0.0
+Roy,Roy,1,1,3,roy,NOUN,NN,ROOT,Xxx,0.0
+Turner,Turner,1,1,6,Turner,PROPN,NNP,ROOT,Xxxxx,0.0
+Antonio,Antonio,1,1,7,Antonio,PROPN,NNP,ROOT,Xxxxx,0.0
+Kavita,Kavita,1,1,6,Kavita,PROPN,NNP,ROOT,Xxxxx,0.0
+Sudheer,Sudheer,1,1,7,sudheer,VERB,VB,ROOT,Xxxxx,0.0
+Anthony P,Anthony,2,1,7,Anthony,PROPN,NNP,compound,Xxxxx,0.0
+Anthony P,P,2,1,1,P,PROPN,NNP,ROOT,X,0.0
+Mukesh,Mukesh,1,2,6,Mukesh,PROPN,NNP,ROOT,Xxxxx,0.0
+Joshua,Joshua,1,2,6,Joshua,PROPN,NNP,ROOT,Xxxxx,0.0
+Harjeet,Harjeet,1,1,7,harjeet,NOUN,NN,ROOT,Xxxxx,0.0
+Calvin,Calvin,1,1,6,calvin,NOUN,NN,ROOT,Xxxxx,0.0
+Jager,Jager,1,1,5,jager,NOUN,NN,ROOT,Xxxxx,0.0
+Pat,Pat,1,1,3,pat,ADJ,JJ,ROOT,Xxx,0.0
+Do,Do,1,1,2,do,VERB,VB,ROOT,Xx,0.0
+Bashar,Bashar,1,1,6,bashar,ADJ,JJ,ROOT,Xxxxx,0.0
+Aidan,Aidan,1,1,5,aidan,NOUN,NN,ROOT,Xxxxx,0.0
+Todd,Todd,1,1,4,Todd,NOUN,NNS,ROOT,Xxxx,0.0
+Bradley,Bradley,1,1,7,bradley,NOUN,NN,ROOT,Xxxxx,0.0
+Dr David Greene,Dr,3,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr David Greene,David,3,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+Dr David Greene,Greene,3,1,6,Greene,PROPN,NNP,ROOT,Xxxxx,0.0
+Unal,Unal,1,1,4,unal,ADJ,JJ,ROOT,Xxxx,0.0
+Kathryn,Kathryn,1,1,7,Kathryn,PROPN,NNP,ROOT,Xxxxx,0.0
+David O.,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David O.,O.,2,1,2,O.,PROPN,NNP,ROOT,X.,0.0
+Aronjol,Aronjol,1,1,7,aronjol,NOUN,NN,ROOT,Xxxxx,0.0
+Bocoran Jitu,Bocoran,2,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu,Jitu,2,1,4,Jitu,PROPN,NNP,ROOT,Xxxx,0.0
+Kushal,Kushal,1,1,6,Kushal,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022,Sdy,7,1,3,Sdy,PROPN,NNP,nmod,Xxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022,Jumat,7,1,5,Jumat,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022,3,7,1,1,3,NUM,CD,nummod,d,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel Sdy Jumat 3 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Mayank,Mayank,1,1,6,Mayank,PROPN,NNP,ROOT,Xxxxx,0.0
+Alexander James,Alexander,2,1,9,Alexander,PROPN,NNP,compound,Xxxxx,0.0
+Alexander James,James,2,1,5,James,PROPN,NNP,ROOT,Xxxxx,0.0
+Shafiqur Rahman,Shafiqur,2,1,8,Shafiqur,PROPN,NNP,compound,Xxxxx,0.0
+Shafiqur Rahman,Rahman,2,1,6,Rahman,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr Juli,Dr,2,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Juli,Juli,2,1,4,Juli,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022,SGP,7,1,3,SGP,PROPN,NNP,compound,XXX,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022,Kamis,7,1,5,Kamis,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022,26,7,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Togel SGP Kamis 26 Mei 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Wylie,Wylie,1,1,5,Wylie,PROPN,NNP,ROOT,Xxxxx,0.0
+Sachin,Sachin,1,1,6,sachin,ADV,RB,ROOT,Xxxxx,0.0
+Nico,Nico,1,1,4,nico,NOUN,NN,ROOT,Xxxx,0.0
+Blake,Blake,1,2,5,blake,NOUN,NN,ROOT,Xxxxx,0.0
+Philippe,Philippe,1,1,8,Philippe,PROPN,NNP,ROOT,Xxxxx,0.0
+Cade Knudson,Cade,2,1,4,Cade,PROPN,NNP,compound,Xxxx,0.0
+Cade Knudson,Knudson,2,1,7,Knudson,PROPN,NNP,ROOT,Xxxxx,0.0
+Vineeta,Vineeta,1,2,7,vineeta,NOUN,NN,ROOT,Xxxxx,0.0
+Ivan,Ivan,1,1,4,Ivan,PROPN,NNP,ROOT,Xxxx,0.0
+Clayton,Clayton,1,1,7,Clayton,PROPN,NNP,ROOT,Xxxxx,0.0
+Arnav,Arnav,1,1,5,arnav,NOUN,NN,ROOT,Xxxxx,0.0
+Avichal,Avichal,1,1,7,avichal,VERB,VB,ROOT,Xxxxx,0.0
+Mostafa,Mostafa,1,1,7,Mostafa,PROPN,NNP,ROOT,Xxxxx,0.0
+Brian David,Brian,2,1,5,Brian,PROPN,NNP,compound,Xxxxx,0.0
+Brian David,David,2,1,5,David,PROPN,NNP,ROOT,Xxxxx,0.0
+Scott O,Scott,2,1,5,Scott,PROPN,NNP,compound,Xxxxx,0.0
+Scott O,O,2,1,1,o,NOUN,NN,ROOT,X,0.0
+Kasper,Kasper,1,1,6,kasper,NOUN,NN,ROOT,Xxxxx,0.0
+David and Daniil,David,3,1,5,David,PROPN,NNP,ROOT,Xxxxx,0.0
+David and Daniil,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+David and Daniil,Daniil,3,1,6,Daniil,PROPN,NNP,conj,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022,Togel,6,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022,Sydney,6,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022,2,6,1,1,2,NUM,CD,punct,d,0.0
+Prediksi Togel Sydney 2 Juni 2022,Juni,6,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel Sydney 2 Juni 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Geoffrey,Geoffrey,1,1,8,Geoffrey,PROPN,NNP,ROOT,Xxxxx,0.0
+Shan,Shan,1,1,4,Shan,PROPN,NNP,ROOT,Xxxx,0.0
+Yashish,Yashish,1,1,7,yashish,ADJ,JJ,ROOT,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022,Prediksi,5,2,8,Prediksi,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022,Sydney,5,2,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Sydney 26 Mei 2022,26,5,2,2,26,NUM,CD,nummod,dd,0.0
+Prediksi Sydney 26 Mei 2022,Mei,5,2,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Sydney 26 Mei 2022,2022,5,2,4,2022,NUM,CD,nummod,dddd,0.0
+Rahul,Rahul,1,1,5,rahul,NOUN,NN,ROOT,Xxxxx,0.0
+"Johann ""Hansi""",Johann,2,1,6,Johann,PROPN,NNP,nmod,Xxxxx,0.0
+"Johann ""Hansi""","""",2,1,1,"""",PUNCT,``,punct,"""",0.0
+"Johann ""Hansi""",Hansi,2,1,5,Hansi,PROPN,NNP,ROOT,Xxxxx,0.0
+"Johann ""Hansi""","""",2,1,1,"""",PUNCT,'',punct,"""",0.0
+Monica,Monica,1,1,6,Monica,PROPN,NNP,ROOT,Xxxxx,0.0
+Carlos,Carlos,1,1,6,Carlos,PROPN,NNP,ROOT,Xxxxx,0.0
+Redbot,Redbot,1,1,6,redbot,NOUN,NN,ROOT,Xxxxx,0.0
+Roger,Roger,1,2,5,Roger,PROPN,NNP,ROOT,Xxxxx,0.0
+Danita,Danita,1,1,6,danita,NOUN,NN,ROOT,Xxxxx,0.0
+Anton,Anton,1,1,5,Anton,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022,Keluaran,7,1,8,Keluaran,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022,Sydney,7,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022,6,7,1,1,6,NUM,CD,appos,d,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Keluaran Togel Sydney 6 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Roman,Roman,1,2,5,roman,VERB,VB,ROOT,Xxxxx,0.0
+Lip-Bu,Lip,1,1,3,Lip,PROPN,NNP,compound,Xxx,0.0
+Lip-Bu,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Lip-Bu,Bu,1,1,2,Bu,PROPN,NNP,ROOT,Xx,0.0
+Soumay,Soumay,1,1,6,soumay,VERB,VB,ROOT,Xxxxx,0.0
+Edin,Edin,1,1,4,Edin,PROPN,NNP,ROOT,Xxxx,0.0
+Jacob,Jacob,1,1,5,Jacob,PROPN,NNP,ROOT,Xxxxx,0.0
+Serghei,Serghei,1,1,7,Serghei,PROPN,NNP,ROOT,Xxxxx,0.0
+Selin,Selin,1,1,5,selin,NOUN,NN,ROOT,Xxxxx,0.0
+Shana,Shana,1,1,5,Shana,PROPN,NNP,ROOT,Xxxxx,0.0
+Angelica,Angelica,1,1,8,Angelica,PROPN,NNP,ROOT,Xxxxx,0.0
+Ira,Ira,1,1,3,ira,VERB,VB,ROOT,Xxx,0.0
+Ran,Ran,1,1,3,ran,VERB,VB,ROOT,Xxx,0.0
+Imeila,Imeila,1,1,6,Imeila,PROPN,NNP,ROOT,Xxxxx,0.0
+Hayden,Hayden,1,1,6,hayden,NOUN,NN,ROOT,Xxxxx,0.0
+Dr. David,Dr.,2,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. David,David,2,1,5,David,PROPN,NNP,ROOT,Xxxxx,0.0
+Demis,Demis,1,1,5,Demis,PROPN,NNP,ROOT,Xxxxx,0.0
+Lee,Lee,1,1,3,Lee,PROPN,NNP,ROOT,Xxx,0.0
+Milad,Milad,1,1,5,milad,NOUN,NN,ROOT,Xxxxx,0.0
+Ritesh,Ritesh,1,1,6,ritesh,NOUN,NN,ROOT,Xxxxx,0.0
+Howard,Howard,1,1,6,Howard,PROPN,NNP,ROOT,Xxxxx,0.0
+Julius,Julius,1,1,6,Julius,PROPN,NNP,ROOT,Xxxxx,0.0
+Elia,Elia,1,1,4,elia,NOUN,NN,ROOT,Xxxx,0.0
+Liang,Liang,1,1,5,Liang,PROPN,NNP,ROOT,Xxxxx,0.0
+Julio,Julio,1,1,5,Julio,PROPN,NNP,ROOT,Xxxxx,0.0
+Huascar,Huascar,1,1,7,huascar,NOUN,NN,ROOT,Xxxxx,0.0
+John Henry,John,2,1,4,John,PROPN,NNP,compound,Xxxx,0.0
+John Henry,Henry,2,1,5,Henry,PROPN,NNP,ROOT,Xxxxx,0.0
+Pawan,Pawan,1,1,5,Pawan,PROPN,NNP,ROOT,Xxxxx,0.0
+Augusto,Augusto,1,1,7,augusto,VERB,VB,ROOT,Xxxxx,0.0
+Jeffrey,Jeffrey,1,1,7,Jeffrey,PROPN,NNP,ROOT,Xxxxx,0.0
+Scott Victor,Scott,2,1,5,Scott,PROPN,NNP,compound,Xxxxx,0.0
+Scott Victor,Victor,2,1,6,Victor,PROPN,NNP,ROOT,Xxxxx,0.0
+JK,JK,1,1,2,JK,PROPN,NNP,ROOT,XX,0.0
+Chow,Chow,1,1,4,chow,NOUN,NN,ROOT,Xxxx,0.0
+Naomi,Naomi,1,1,5,Naomi,NOUN,NNS,ROOT,Xxxxx,0.0
+Vibhu,Vibhu,1,1,5,vibhu,NOUN,NN,ROOT,Xxxxx,0.0
+Charles,Charles,1,1,7,Charles,PROPN,NNP,ROOT,Xxxxx,0.0
+Kristiyan-Daniel,Kristiyan,1,1,9,Kristiyan,PROPN,NNP,compound,Xxxxx,0.0
+Kristiyan-Daniel,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Kristiyan-Daniel,Daniel,1,1,6,Daniel,PROPN,NNP,ROOT,Xxxxx,0.0
+Danny,Danny,1,2,5,danny,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Macau 29 Mei 2022,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Macau 29 Mei 2022,Macau,5,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Macau 29 Mei 2022,29,5,1,2,29,NUM,CD,nummod,dd,0.0
+Prediksi Macau 29 Mei 2022,Mei,5,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Macau 29 Mei 2022,2022,5,1,4,2022,NUM,CD,nummod,dddd,0.0
+Meng Xiong,Meng,2,1,4,Meng,PROPN,NNP,compound,Xxxx,0.0
+Meng Xiong,Xiong,2,1,5,Xiong,PROPN,NNP,ROOT,Xxxxx,0.0
+Yash,Yash,1,1,4,yash,VERB,VB,ROOT,Xxxx,0.0
+Osman,Osman,1,1,5,osman,NOUN,NN,ROOT,Xxxxx,0.0
+Abhishek,Abhishek,1,1,8,Abhishek,PROPN,NNP,ROOT,Xxxxx,0.0
+Shubham,Shubham,1,1,7,Shubham,PROPN,NNP,ROOT,Xxxxx,0.0
+Matteo,Matteo,1,1,6,matteo,NOUN,NN,ROOT,Xxxxx,0.0
+Rinat,Rinat,1,1,5,rinat,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022,Sydney,7,1,6,Sydney,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022,Sabtu,7,1,5,Sabtu,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022,4,7,1,1,4,NUM,CD,nummod,d,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Togel Sydney Sabtu 4 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Salman Fazlur,Salman,2,1,6,Salman,PROPN,NNP,compound,Xxxxx,0.0
+Salman Fazlur,Fazlur,2,1,6,Fazlur,PROPN,NNP,ROOT,Xxxxx,0.0
+Vince,Vince,1,1,5,vince,NOUN,NN,ROOT,Xxxxx,0.0
+Payal,Payal,1,1,5,payal,NOUN,NN,ROOT,Xxxxx,0.0
+Punk,Punk,1,1,4,punk,NOUN,NN,ROOT,Xxxx,0.0
+Ravi,Ravi,1,2,4,ravi,NOUN,NN,ROOT,Xxxx,0.0
+Jesse,Jesse,1,1,5,Jesse,PROPN,NNP,ROOT,Xxxxx,0.0
+Benoit,Benoit,1,1,6,Benoit,PROPN,NNP,ROOT,Xxxxx,0.0
+Jefferson,Jefferson,1,2,9,Jefferson,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney,Prediksi,3,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney,Togel,3,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney,Sydney,3,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Victor,Victor,1,2,6,victor,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022,Togel,6,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022,Sydney,6,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Togel Sydney 24 Mei 2022,24,6,1,2,24,NUM,CD,nummod,dd,0.0
+Prediksi Togel Sydney 24 Mei 2022,Mei,6,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Togel Sydney 24 Mei 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Eugen,Eugen,1,1,5,eugen,NOUN,NN,ROOT,Xxxxx,0.0
+Bob,Bob,1,1,3,Bob,PROPN,NNP,ROOT,Xxx,0.0
+Philip Bart,Philip,2,1,6,Philip,PROPN,NNP,compound,Xxxxx,0.0
+Philip Bart,Bart,2,1,4,Bart,PROPN,NNP,ROOT,Xxxx,0.0
+Harry,Harry,1,1,5,Harry,PROPN,NNP,ROOT,Xxxxx,0.0
+Jaja,Jaja,1,1,4,Jaja,NOUN,NNS,ROOT,Xxxx,0.0
+Binh,Binh,1,1,4,Binh,PROPN,NNP,ROOT,Xxxx,0.0
+Paolo,Paolo,1,1,5,Paolo,PROPN,NNP,ROOT,Xxxxx,0.0
+Hanif,Hanif,1,1,5,hanif,NOUN,NN,ROOT,Xxxxx,0.0
+Egon,Egon,1,1,4,Egon,PROPN,NNP,ROOT,Xxxx,0.0
+Liu,Liu,1,1,3,Liu,PROPN,NNP,ROOT,Xxx,0.0
+Ahmed Nashaat,Ahmed,2,2,5,Ahmed,PROPN,NNP,compound,Xxxxx,0.0
+Ahmed Nashaat,Nashaat,2,2,7,Nashaat,PROPN,NNP,ROOT,Xxxxx,0.0
+Ankita,Ankita,1,1,6,Ankita,PROPN,NNP,ROOT,Xxxxx,0.0
+Esther,Esther,1,1,6,esther,NOUN,NN,ROOT,Xxxxx,0.0
+Nischal,Nischal,1,1,7,Nischal,PROPN,NNP,ROOT,Xxxxx,0.0
+Kristian,Kristian,1,1,8,kristian,ADJ,JJ,ROOT,Xxxxx,0.0
+Mohammad,Mohammad,1,1,8,mohammad,NOUN,NN,ROOT,Xxxxx,0.0
+Revant,Revant,1,1,6,revant,VERB,VB,ROOT,Xxxxx,0.0
+Shailendra,Shailendra,1,1,10,Shailendra,NOUN,NNS,ROOT,Xxxxx,0.0
+Harshil,Harshil,1,1,7,Harshil,PROPN,NNP,ROOT,Xxxxx,0.0
+Pranav,Pranav,1,1,6,pranav,NOUN,NN,ROOT,Xxxxx,0.0
+Teresa,Teresa,1,1,6,teresa,NOUN,NN,ROOT,Xxxxx,0.0
+Nasser,Nasser,1,1,6,Nasser,PROPN,NNP,ROOT,Xxxxx,0.0
+Jasper,Jasper,1,1,6,jasper,NOUN,NN,ROOT,Xxxxx,0.0
+Ronald,Ronald,1,2,6,Ronald,PROPN,NNP,ROOT,Xxxxx,0.0
+Nkechi,Nkechi,1,1,6,Nkechi,PROPN,NNP,ROOT,Xxxxx,0.0
+Mahin,Mahin,1,1,5,mahin,ADV,RB,ROOT,Xxxxx,0.0
+Sundeep,Sundeep,1,1,7,sundeep,ADJ,JJ,ROOT,Xxxxx,0.0
+Ajit,Ajit,1,1,4,ajit,VERB,VB,ROOT,Xxxx,0.0
+Dennis W.,Dennis,2,1,6,Dennis,PROPN,NNP,compound,Xxxxx,0.0
+Dennis W.,W.,2,1,2,W.,PROPN,NNP,ROOT,X.,0.0
+Saeed,Saeed,1,1,5,saeed,NOUN,NN,ROOT,Xxxxx,0.0
+Dom,Dom,1,1,3,dom,VERB,VB,ROOT,Xxx,0.0
+Frank,Frank,1,1,5,Frank,PROPN,NNP,ROOT,Xxxxx,0.0
+Pavel,Pavel,1,1,5,pavel,ADJ,JJ,ROOT,Xxxxx,0.0
+Akash,Akash,1,2,5,akash,VERB,VB,ROOT,Xxxxx,0.0
+Fumitoshi,Fumitoshi,1,1,9,Fumitoshi,PROPN,NNP,ROOT,Xxxxx,0.0
+Suji,Suji,1,1,4,Suji,PROPN,NNP,ROOT,Xxxx,0.0
+K. V.,K.,2,1,2,K.,PROPN,NNP,compound,X.,0.0
+K. V.,V.,2,1,2,V.,PROPN,NNP,ROOT,X.,0.0
+Anthony,Anthony,1,2,7,Anthony,PROPN,NNP,ROOT,Xxxxx,0.0
+Andy,Andy,1,1,4,Andy,PROPN,NNP,ROOT,Xxxx,0.0
+Ian,Ian,1,1,3,Ian,NOUN,NNS,ROOT,Xxx,0.0
+Vanessa,Vanessa,1,1,7,vanessa,NOUN,NN,ROOT,Xxxxx,0.0
+Michele,Michele,1,1,7,Michele,PROPN,NNP,ROOT,Xxxxx,0.0
+Anupam,Anupam,1,1,6,anupam,NOUN,NN,ROOT,Xxxxx,0.0
+Vasanth,Vasanth,1,1,7,vasanth,NOUN,NN,ROOT,Xxxxx,0.0
+Dr Biswaroop,Dr,2,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Biswaroop,Biswaroop,2,1,9,Biswaroop,PROPN,NNP,ROOT,Xxxxx,0.0
+Tony,Tony,1,1,4,Tony,PROPN,NNP,ROOT,Xxxx,0.0
+Allen,Allen,1,1,5,allen,NOUN,NN,ROOT,Xxxxx,0.0
+Elon,Elon,1,1,4,Elon,PROPN,NNP,ROOT,Xxxx,0.0
+Nat,Nat,1,1,3,nat,NOUN,NN,ROOT,Xxx,0.0
+Oscar,Oscar,1,1,5,oscar,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022,Togel,7,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022,HK,7,1,2,HK,PROPN,NNP,compound,XX,0.0
+Prediksi Togel HK Kamis 26 Mei 2022,Kamis,7,1,5,Kamis,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022,26,7,1,2,26,NUM,CD,nummod,dd,0.0
+Prediksi Togel HK Kamis 26 Mei 2022,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Togel HK Kamis 26 Mei 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Hugh,Hugh,1,1,4,hugh,NOUN,NN,ROOT,Xxxx,0.0
+Krish,Krish,1,1,5,krish,VERB,VB,ROOT,Xxxxx,0.0
+Dave,Dave,1,1,4,Dave,PROPN,NNP,ROOT,Xxxx,0.0
+Desiree,Desiree,1,1,7,desiree,NOUN,NN,ROOT,Xxxxx,0.0
+Lin,Lin,1,1,3,Lin,PROPN,NNP,ROOT,Xxx,0.0
+Abe,Abe,1,1,3,Abe,PROPN,NNP,ROOT,Xxx,0.0
+Fritz,Fritz,1,1,5,fritz,NOUN,NN,ROOT,Xxxxx,0.0
+Sagar,Sagar,1,1,5,Sagar,PROPN,NNP,ROOT,Xxxxx,0.0
+Nik,Nik,1,1,3,nik,NOUN,NN,ROOT,Xxx,0.0
+Willy,Willy,1,1,5,willy,ADV,RB,ROOT,Xxxxx,0.0
+Diogo,Diogo,1,1,5,diogo,NOUN,NN,ROOT,Xxxxx,0.0
+Bruno,Bruno,1,1,5,Bruno,PROPN,NNP,ROOT,Xxxxx,0.0
+Geoff,Geoff,1,1,5,geoff,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Toto Macau Rabu 8 Juni 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Toto Macau Rabu 8 Juni 2022,Toto,7,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Toto Macau Rabu 8 Juni 2022,Macau,7,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Toto Macau Rabu 8 Juni 2022,Rabu,7,1,4,Rabu,PROPN,NNP,ROOT,Xxxx,0.0
+Prediksi Toto Macau Rabu 8 Juni 2022,8,7,1,1,8,NUM,CD,nummod,d,0.0
+Prediksi Toto Macau Rabu 8 Juni 2022,Juni,7,1,4,Juni,PROPN,NNP,appos,Xxxx,0.0
+Prediksi Toto Macau Rabu 8 Juni 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Tarun,Tarun,1,1,5,tarun,NOUN,NN,ROOT,Xxxxx,0.0
+Aadit,Aadit,1,1,5,aadit,NOUN,NN,ROOT,Xxxxx,0.0
+P.N,P.N,1,1,3,P.N,PROPN,NNP,ROOT,X.X,0.0
+Barry,Barry,1,1,5,Barry,PROPN,NNP,ROOT,Xxxxx,0.0
+Mr. M.,Mr.,2,1,3,Mr.,PROPN,NNP,compound,Xx.,0.0
+Mr. M.,M.,2,1,2,M.,PROPN,NNP,ROOT,X.,0.0
+Lynette,Lynette,1,1,7,lynette,NOUN,NN,ROOT,Xxxxx,0.0
+Zachary,Zachary,1,1,7,Zachary,PROPN,NNP,ROOT,Xxxxx,0.0
+Don,Don,1,1,3,Don,PROPN,NNP,ROOT,Xxx,0.0
+Spencer,Spencer,1,1,7,spencer,NOUN,NN,ROOT,Xxxxx,0.0
+Gwynne,Gwynne,1,1,6,Gwynne,PROPN,NNP,ROOT,Xxxxx,0.0
+Dr. Jacono,Dr.,2,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Jacono,Jacono,2,1,6,Jacono,PROPN,NNP,ROOT,Xxxxx,0.0
+Pascal,Pascal,1,1,6,pascal,NOUN,NN,ROOT,Xxxxx,0.0
+Buddy,Buddy,1,1,5,Buddy,PROPN,NNP,ROOT,Xxxxx,0.0
+Oliver,Oliver,1,2,6,Oliver,PROPN,NNP,ROOT,Xxxxx,0.0
+Ram V,Ram,2,1,3,ram,ADJ,JJ,ROOT,Xxx,0.0
+Ram V,V,2,1,1,v,NOUN,NN,dobj,X,0.0
+Jehan,Jehan,1,1,5,Jehan,PROPN,NNP,ROOT,Xxxxx,0.0
+Ari,Ari,1,1,3,ari,NOUN,NN,ROOT,Xxx,0.0
+Jacques,Jacques,1,2,7,jacque,NOUN,NNS,ROOT,Xxxxx,0.0
+Abdulmuminu Yakubu,Abdulmuminu,2,1,11,Abdulmuminu,PROPN,NNP,compound,Xxxxx,0.0
+Abdulmuminu Yakubu,Yakubu,2,1,6,Yakubu,PROPN,NNP,ROOT,Xxxxx,0.0
+Taner,Taner,1,1,5,Taner,PROPN,NNP,ROOT,Xxxxx,0.0
+Dong,Dong,1,1,4,Dong,PROPN,NNP,ROOT,Xxxx,0.0
+Dr Khuong,Dr,2,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Khuong,Khuong,2,1,6,Khuong,PROPN,NNP,ROOT,Xxxxx,0.0
+Umar,Umar,1,1,4,Umar,PROPN,NNP,ROOT,Xxxx,0.0
+Alberto,Alberto,1,1,7,Alberto,PROPN,NNP,ROOT,Xxxxx,0.0
+Mahavir,Mahavir,1,1,7,mahavir,NOUN,NN,ROOT,Xxxxx,0.0
+Dr Leonard,Dr,2,1,2,Dr,PROPN,NNP,compound,Xx,0.0
+Dr Leonard,Leonard,2,1,7,Leonard,PROPN,NNP,ROOT,Xxxxx,0.0
+Vivek,Vivek,1,1,5,Vivek,PROPN,NNP,ROOT,Xxxxx,0.0
+Vitalik,Vitalik,1,1,7,Vitalik,PROPN,NNP,ROOT,Xxxxx,0.0
+Danish,Danish,1,1,6,danish,ADJ,JJ,ROOT,Xxxxx,0.0
+Brad,Brad,1,1,4,Brad,PROPN,NNP,ROOT,Xxxx,0.0
+Aya,Aya,1,1,3,Aya,PROPN,NNP,ROOT,Xxx,0.0
+Griffith,Griffith,1,1,8,Griffith,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi HK 7 Mei 2022,Prediksi,5,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi HK 7 Mei 2022,HK,5,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi HK 7 Mei 2022,7,5,1,1,7,NUM,CD,nummod,d,0.0
+Prediksi HK 7 Mei 2022,Mei,5,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi HK 7 Mei 2022,2022,5,1,4,2022,NUM,CD,nummod,dddd,0.0
+Miten,Miten,1,1,5,miten,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi Syair HK 13 Mei 2022,Prediksi,6,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 13 Mei 2022,Syair,6,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair HK 13 Mei 2022,HK,6,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Prediksi Syair HK 13 Mei 2022,13,6,1,2,13,NUM,CD,nummod,dd,0.0
+Prediksi Syair HK 13 Mei 2022,Mei,6,1,3,Mei,PROPN,NNP,npadvmod,Xxx,0.0
+Prediksi Syair HK 13 Mei 2022,2022,6,1,4,2022,NUM,CD,nummod,dddd,0.0
+Yiting,Yiting,1,1,6,yite,VERB,VBG,ROOT,Xxxxx,0.0
+Declan,Declan,1,1,6,declan,VERB,VB,ROOT,Xxxxx,0.0
+Emily,Emily,1,1,5,emily,ADV,RB,ROOT,Xxxxx,0.0
+Eyal,Eyal,1,1,4,Eyal,PROPN,NNP,ROOT,Xxxx,0.0
+Dattoli Cancer,Dattoli,2,1,7,Dattoli,PROPN,NNP,compound,Xxxxx,0.0
+Dattoli Cancer,Cancer,2,1,6,Cancer,PROPN,NNP,ROOT,Xxxxx,0.0
+Vinod R.,Vinod,2,1,5,Vinod,PROPN,NNP,compound,Xxxxx,0.0
+Vinod R.,R.,2,1,2,R.,PROPN,NNP,ROOT,X.,0.0
+Aria,Aria,1,1,4,Aria,PROPN,NNP,ROOT,Xxxx,0.0
+Ian King,Ian,2,1,3,Ian,PROPN,NNP,compound,Xxx,0.0
+Ian King,King,2,1,4,king,NOUN,NN,ROOT,Xxxx,0.0
+Ankush,Ankush,1,1,6,ankush,ADJ,JJ,ROOT,Xxxxx,0.0
+Neeraj,Neeraj,1,1,6,neeraj,ADJ,JJ,ROOT,Xxxxx,0.0
+Tom X,Tom,2,1,3,Tom,PROPN,NNP,compound,Xxx,0.0
+Tom X,X,2,1,1,X,PROPN,NNP,ROOT,X,0.0
+Karnika,Karnika,1,1,7,Karnika,NOUN,NNS,ROOT,Xxxxx,0.0
+David J.,David,2,1,5,David,PROPN,NNP,compound,Xxxxx,0.0
+David J.,J.,2,1,2,J.,PROPN,NNP,ROOT,X.,0.0
+Hemant,Hemant,1,1,6,hemant,NOUN,NN,ROOT,Xxxxx,0.0
+Anirudh,Anirudh,1,1,7,anirudh,NOUN,NN,ROOT,Xxxxx,0.0
+Jet,Jet,1,1,3,jet,NOUN,NN,ROOT,Xxx,0.0
+Arash,Arash,1,1,5,arash,NOUN,NN,ROOT,Xxxxx,0.0
+Login Daftar Prabu Jitu,Login,4,1,5,Login,PROPN,NNP,compound,Xxxxx,0.0
+Login Daftar Prabu Jitu,Daftar,4,1,6,Daftar,PROPN,NNP,compound,Xxxxx,0.0
+Login Daftar Prabu Jitu,Prabu,4,1,5,Prabu,PROPN,NNP,compound,Xxxxx,0.0
+Login Daftar Prabu Jitu,Jitu,4,1,4,Jitu,PROPN,NNP,ROOT,Xxxx,0.0
+Dale W.,Dale,2,1,4,Dale,PROPN,NNP,compound,Xxxx,0.0
+Dale W.,W.,2,1,2,W.,PROPN,NNP,ROOT,X.,0.0
+XXXXXXXXXXXXX,XXXXXXXXXXXXX,1,1,13,XXXXXXXXXXXXX,PROPN,NNP,ROOT,XXXX,0.0
+Jennifer,Jennifer,1,1,8,jennifer,NOUN,NN,ROOT,Xxxxx,0.0
+Changpeng,Changpeng,1,1,9,changpeng,NOUN,NN,ROOT,Xxxxx,0.0
+Henrich,Henrich,1,1,7,henrich,VERB,VB,ROOT,Xxxxx,0.0
+Samvit,Samvit,1,1,6,Samvit,PROPN,NNP,ROOT,Xxxxx,0.0
+Amitava,Amitava,1,1,7,Amitava,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022,Syair,7,1,5,Syair,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022,Togel,7,1,5,Togel,PROPN,NNP,nmod,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022,Sydney,7,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022,14,7,1,2,14,NUM,CD,nummod,dd,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Syair Togel Sydney 14 Mei 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Bhavish,Bhavish,1,1,7,bhavish,VERB,VB,ROOT,Xxxxx,0.0
+Prediksi Togel HK,Prediksi,3,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK,Togel,3,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Togel HK,HK,3,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Attilio Perna,Attilio,2,1,7,Attilio,PROPN,NNP,compound,Xxxxx,0.0
+Attilio Perna,Perna,2,1,5,Perna,PROPN,NNP,ROOT,Xxxxx,0.0
+Bas,Bas,1,1,3,Bas,PROPN,NNP,ROOT,Xxx,0.0
+Shen,Shen,1,1,4,shen,NOUN,NN,ROOT,Xxxx,0.0
+Pierre,Pierre,1,1,6,Pierre,PROPN,NNP,ROOT,Xxxxx,0.0
+Mohan,Mohan,1,1,5,Mohan,PROPN,NNP,ROOT,Xxxxx,0.0
+Khalid,Khalid,1,1,6,khalid,NOUN,NN,ROOT,Xxxxx,0.0
+Arsen,Arsen,1,1,5,Arsen,PROPN,NNP,ROOT,Xxxxx,0.0
+Ravish,Ravish,1,1,6,ravish,ADJ,JJ,ROOT,Xxxxx,0.0
+Cyrus,Cyrus,1,1,5,Cyrus,PROPN,NNP,ROOT,Xxxxx,0.0
+Ankiti,Ankiti,1,1,6,Ankiti,PROPN,NNP,ROOT,Xxxxx,0.0
+Junaid,Junaid,1,1,6,Junaid,VERB,VBD,ROOT,Xxxxx,0.0
+Nino Jefferson,Nino,2,1,4,Nino,PROPN,NNP,compound,Xxxx,0.0
+Nino Jefferson,Jefferson,2,1,9,Jefferson,PROPN,NNP,ROOT,Xxxxx,0.0
+Dinesh,Dinesh,1,1,6,dinesh,ADJ,JJ,ROOT,Xxxxx,0.0
+Neil,Neil,1,1,4,Neil,PROPN,NNP,ROOT,Xxxx,0.0
+Vinny,Vinny,1,1,5,Vinny,PROPN,NNP,ROOT,Xxxxx,0.0
+Luqman,Luqman,1,1,6,Luqman,PROPN,NNP,ROOT,Xxxxx,0.0
+Anand,Anand,1,1,5,Anand,PROPN,NNP,ROOT,Xxxxx,0.0
+Leanne,Leanne,1,1,6,leanne,NOUN,NN,ROOT,Xxxxx,0.0
+Andreas,Andreas,1,1,7,andrea,NOUN,NNS,ROOT,Xxxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022,Prediksi,7,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022,Angka,7,1,5,Angka,PROPN,NNP,ROOT,Xxxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022,Jitu,7,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022,Sydney,7,1,6,Sydney,PROPN,NNP,appos,Xxxxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022,17,7,1,2,17,NUM,CD,nummod,dd,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022,Mei,7,1,3,Mei,PROPN,NNP,appos,Xxx,0.0
+Prediksi Angka Jitu Sydney 17 Mei 2022,2022,7,1,4,2022,NUM,CD,nummod,dddd,0.0
+Ondrej,Ondrej,1,1,6,Ondrej,PROPN,NNP,ROOT,Xxxxx,0.0
+Kimbal,Kimbal,1,1,6,Kimbal,PROPN,NNP,ROOT,Xxxxx,0.0
+Kristo,Kristo,1,1,6,Kristo,PROPN,NNP,ROOT,Xxxxx,0.0
+Mattia,Mattia,1,1,6,mattia,NOUN,NN,ROOT,Xxxxx,0.0
+Faisal,Faisal,1,1,6,faisal,NOUN,NN,ROOT,Xxxxx,0.0
+Pastor Tommie,Pastor,2,1,6,Pastor,PROPN,NNP,compound,Xxxxx,0.0
+Pastor Tommie,Tommie,2,1,6,Tommie,PROPN,NNP,ROOT,Xxxxx,0.0
+Jose,Jose,1,1,4,Jose,PROPN,NNP,ROOT,Xxxx,0.0
+Steven Rindner,Steven,2,1,6,Steven,PROPN,NNP,compound,Xxxxx,0.0
+Steven Rindner,Rindner,2,1,7,Rindner,PROPN,NNP,ROOT,Xxxxx,0.0
+C.W,C.W,1,1,3,C.W,PROPN,NNP,ROOT,X.X,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya,Situs,6,1,5,Situs,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya,Link,6,1,4,Link,PROPN,NNP,compound,Xxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya,Alternatif,6,1,10,Alternatif,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya,Sbobet,6,1,6,Sbobet,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya,Indonesia,6,1,9,Indonesia,PROPN,NNP,compound,Xxxxx,0.0
+Situs Link Alternatif Sbobet Indonesia Terpercaya,Terpercaya,6,1,10,Terpercaya,PROPN,NNP,ROOT,Xxxxx,0.0
+Nick,Nick,1,1,4,Nick,PROPN,NNP,ROOT,Xxxx,0.0
+Philip,Philip,1,1,6,Philip,PROPN,NNP,ROOT,Xxxxx,0.0
+Puneet,Puneet,1,1,6,puneet,NOUN,NN,ROOT,Xxxxx,0.0
+Damien,Damien,1,1,6,Damien,PROPN,NNP,ROOT,Xxxxx,0.0
+Sulay,Sulay,1,1,5,sulay,VERB,VB,ROOT,Xxxxx,0.0
+Krishnan,Krishnan,1,1,8,krishnan,NOUN,NN,ROOT,Xxxxx,0.0
+Antoine,Antoine,1,1,7,antoine,NOUN,NN,ROOT,Xxxxx,0.0
+Dr. Jennifer,Dr.,2,1,3,Dr.,PROPN,NNP,compound,Xx.,0.0
+Dr. Jennifer,Jennifer,2,1,8,Jennifer,PROPN,NNP,ROOT,Xxxxx,0.0
+Garrett,Garrett,1,1,7,Garrett,PROPN,NNP,ROOT,Xxxxx,0.0
+Jim,Jim,1,1,3,Jim,PROPN,NNP,ROOT,Xxx,0.0
+Ajeet,Ajeet,1,1,5,ajeet,NOUN,NN,ROOT,Xxxxx,0.0
+Carson R,Carson,2,1,6,Carson,PROPN,NNP,compound,Xxxxx,0.0
+Carson R,R,2,1,1,r,NOUN,NN,ROOT,X,0.0
+Toby,Toby,1,1,4,toby,VERB,VB,ROOT,Xxxx,0.0
+Hironari,Hironari,1,1,8,Hironari,PROPN,NNP,ROOT,Xxxxx,0.0
+Live Draw Macau,Live,3,1,4,live,VERB,VB,amod,Xxxx,0.0
+Live Draw Macau,Draw,3,1,4,Draw,PROPN,NNP,compound,Xxxx,0.0
+Live Draw Macau,Macau,3,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Cyan,Cyan,1,1,4,Cyan,PROPN,NNP,ROOT,Xxxx,0.0
+V.,V.,1,1,2,v.,NOUN,NN,ROOT,X.,0.0
+William Bao,William,2,1,7,William,PROPN,NNP,compound,Xxxxx,0.0
+William Bao,Bao,2,1,3,Bao,PROPN,NNP,ROOT,Xxx,0.0
+Dhruv,Dhruv,1,1,5,dhruv,NOUN,NN,ROOT,Xxxxx,0.0
+Damany,Damany,1,1,6,damany,ADJ,JJ,ROOT,Xxxxx,0.0
+Juan,Juan,1,1,4,Juan,PROPN,NNP,ROOT,Xxxx,0.0
+Cooper,Cooper,1,1,6,cooper,NOUN,NN,ROOT,Xxxxx,0.0
+Elizabeth,Elizabeth,1,1,9,Elizabeth,PROPN,NNP,ROOT,Xxxxx,0.0
+Alon,Alon,1,1,4,alon,NOUN,NN,ROOT,Xxxx,0.0
+Shrishti,Shrishti,1,1,8,shrishti,NOUN,NN,ROOT,Xxxxx,0.0
+Ronny,Ronny,1,1,5,ronny,NOUN,NN,ROOT,Xxxxx,0.0
+Renat,Renat,1,1,5,renat,NOUN,NN,ROOT,Xxxxx,0.0
+Wei,Wei,1,1,3,Wei,PROPN,NNP,ROOT,Xxx,0.0
+Sarah,Sarah,1,1,5,Sarah,PROPN,NNP,ROOT,Xxxxx,0.0
+Udi,Udi,1,1,3,udi,NOUN,NN,ROOT,Xxx,0.0
+Jimmy,Jimmy,1,1,5,jimmy,NOUN,NN,ROOT,Xxxxx,0.0
+Raghunath,Raghunath,1,1,9,raghunath,NOUN,NN,ROOT,Xxxxx,0.0
+Gabi,Gabi,1,1,4,gabi,NOUN,NN,ROOT,Xxxx,0.0

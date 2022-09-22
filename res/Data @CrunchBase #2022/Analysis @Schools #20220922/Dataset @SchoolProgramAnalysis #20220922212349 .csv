@@ -1,0 +1,16 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Four Year University,Four,3,66,4,four,NUM,CD,nummod,Xxxx,0.0
+Four Year University,Year,3,66,4,Year,PROPN,NNP,compound,Xxxx,0.0
+Four Year University,University,3,66,10,University,PROPN,NNP,ROOT,Xxxxx,0.0
+Graduate University,Graduate,2,36,8,Graduate,PROPN,NNP,compound,Xxxxx,0.0
+Graduate University,University,2,36,10,University,PROPN,NNP,ROOT,Xxxxx,0.0
+Two Year University,Two,3,4,3,two,NUM,CD,nummod,Xxx,0.0
+Two Year University,Year,3,4,4,Year,PROPN,NNP,compound,Xxxx,0.0
+Two Year University,University,3,4,10,University,PROPN,NNP,ROOT,Xxxxx,0.0
+Trade School,Trade,2,3,5,Trade,PROPN,NNP,compound,Xxxxx,0.0
+Trade School,School,2,3,6,School,PROPN,NNP,ROOT,Xxxxx,0.0
+Bootcamp,Bootcamp,1,10,8,bootcamp,ADJ,JJ,ROOT,Xxxxx,0.0
+Community College,Community,2,1,9,Community,PROPN,NNP,compound,Xxxxx,0.0
+Community College,College,2,1,7,College,PROPN,NNP,ROOT,Xxxxx,0.0
+High School,High,2,1,4,High,PROPN,NNP,compound,Xxxx,0.0
+High School,School,2,1,6,School,PROPN,NNP,ROOT,Xxxxx,0.0

@@ -1,0 +1,43 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+"Management,&nbsp;Operations","Management,&nbsp;Operations",1,174,27,"management,&nbsp;operation",NOUN,NNS,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+Operations,Operations,1,402,10,operation,NOUN,NNS,ROOT,Xxxxx,0.0
+Management,Management,1,36,10,management,NOUN,NN,ROOT,Xxxxx,0.0
+Sales,Sales,1,50,5,sale,NOUN,NNS,ROOT,Xxxxx,0.0
+Marketing,Marketing,1,34,9,marketing,NOUN,NN,ROOT,Xxxxx,0.0
+"Engineering,&nbsp;Operations","Engineering,&nbsp;Operations",1,11,28,"engineering,&nbsp;operation",NOUN,NNS,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+Information Technology,Information,2,4,11,Information,PROPN,NNP,compound,Xxxxx,0.0
+Information Technology,Technology,2,4,10,Technology,PROPN,NNP,ROOT,Xxxxx,0.0
+"Operations,&nbsp;Sales","Operations,&nbsp;Sales",1,11,22,"operations,&nbsp;sale",NOUN,NNS,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Management,&nbsp;Marketing","Management,&nbsp;Marketing",1,16,26,"management,&nbsp;markete",VERB,VBG,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Medical &amp; Science,&nbsp;Operations",Medical,3,2,7,Medical,PROPN,NNP,ROOT,Xxxxx,0.0
+"Medical &amp; Science,&nbsp;Operations",&,3,2,1,&,CCONJ,CC,cc,&,0.0
+"Medical &amp; Science,&nbsp;Operations",amp,3,2,3,amp,PROPN,NNP,conj,xxx,0.0
+"Medical &amp; Science,&nbsp;Operations",;,3,2,1,;,PUNCT,:,punct,;,0.0
+"Medical &amp; Science,&nbsp;Operations","Science,&nbsp;Operations",3,2,24,"science,&nbsp;operation",NOUN,NNS,appos,"Xxxxx,&xxxx;Xxxxx",0.0
+Finance,Finance,1,20,7,finance,NOUN,NN,ROOT,Xxxxx,0.0
+"Management,&nbsp;Sales","Management,&nbsp;Sales",1,10,22,"management,&nbsp;sale",NOUN,NNS,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+Engineering,Engineering,1,82,11,engineering,NOUN,NN,ROOT,Xxxxx,0.0
+Product,Product,1,32,7,product,NOUN,NN,ROOT,Xxxxx,0.0
+Legal,Legal,1,4,5,legal,ADJ,JJ,ROOT,Xxxxx,0.0
+"Management,&nbsp;Product","Management,&nbsp;Product",1,26,24,"management,&nbsp;product",VERB,VB,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+Human Resources,Human,2,7,5,Human,PROPN,NNP,compound,Xxxxx,0.0
+Human Resources,Resources,2,7,9,Resources,PROPN,NNPS,ROOT,Xxxxx,0.0
+"Legal,&nbsp;Management","Legal,&nbsp;Management",1,2,22,"legal,&nbsp;management",VERB,VB,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Finance,&nbsp;Management","Finance,&nbsp;Management",1,7,24,"finance,&nbsp;management",NOUN,NN,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Engineering,&nbsp;Management","Engineering,&nbsp;Management",1,57,28,"Engineering,&nbsp;Management",PUNCT,.,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Engineering,&nbsp;Marketing","Engineering,&nbsp;Marketing",1,1,27,"engineering,&nbsp;markete",VERB,VBG,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Finance,&nbsp;Operations","Finance,&nbsp;Operations",1,2,24,"finance,&nbsp;operation",NOUN,NNS,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Human Resources,&nbsp;Management",Human,2,1,5,human,ADJ,JJ,amod,Xxxxx,0.0
+"Human Resources,&nbsp;Management","Resources,&nbsp;Management",2,1,26,"resources,&nbsp;management",NOUN,NN,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Operations,&nbsp;Product","Operations,&nbsp;Product",1,3,24,"operations,&nbsp;product",VERB,VB,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Marketing,&nbsp;Operations","Marketing,&nbsp;Operations",1,1,26,"marketing,&nbsp;operation",NOUN,NNS,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Engineering,&nbsp;Finance","Engineering,&nbsp;Finance",1,1,25,"engineering,&nbsp;finance",PRON,PRP,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Engineering,&nbsp;Medical &amp; Science","Engineering,&nbsp;Medical",3,1,25,"Engineering,&nbsp;Medical",PROPN,NNP,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Engineering,&nbsp;Medical &amp; Science",&,3,1,1,&,CCONJ,CC,cc,&,0.0
+"Engineering,&nbsp;Medical &amp; Science",amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+"Engineering,&nbsp;Medical &amp; Science",;,3,1,1,;,PUNCT,:,punct,;,0.0
+"Engineering,&nbsp;Medical &amp; Science",Science,3,1,7,Science,PROPN,NNP,appos,Xxxxx,0.0
+"Finance,&nbsp;Marketing","Finance,&nbsp;Marketing",1,1,23,"finance,&nbsp;markete",VERB,VBG,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0
+"Operations,&nbsp;Pro Services","Operations,&nbsp;Pro",2,1,20,"Operations,&nbsp;Pro",PROPN,NNP,dep,"Xxxxx,&xxxx;Xxx",0.0
+"Operations,&nbsp;Pro Services",Services,2,1,8,service,NOUN,NNS,ROOT,Xxxxx,0.0
+"Product,&nbsp;Sales","Product,&nbsp;Sales",1,1,19,"product,&nbsp;sale",NOUN,NNS,ROOT,"Xxxxx,&xxxx;Xxxxx",0.0

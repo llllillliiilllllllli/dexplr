@@ -1,0 +1,45 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Undisclosed,Undisclosed,1,12,11,undisclose,VERB,VBN,ROOT,Xxxxx,0.0
+Venture - Series Unknown,Venture,4,35,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Venture - Series Unknown,-,4,35,1,-,PUNCT,HYPH,punct,-,0.0
+Venture - Series Unknown,Series,4,35,6,Series,PROPN,NNP,compound,Xxxxx,0.0
+Venture - Series Unknown,Unknown,4,35,7,Unknown,PROPN,NNP,ROOT,Xxxxx,0.0
+Grant,Grant,1,23,5,grant,VERB,VB,ROOT,Xxxxx,0.0
+Pre-Seed,Pre,1,6,3,pre,ADJ,JJ,amod,Xxx,0.0
+Pre-Seed,-,1,6,1,-,NOUN,NN,ROOT,-,0.0
+Pre-Seed,Seed,1,6,4,seed,NOUN,NN,punct,Xxxx,0.0
+Seed,Seed,1,15,4,seed,NOUN,NN,ROOT,Xxxx,0.0
+Private Equity,Private,2,9,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+Private Equity,Equity,2,9,6,Equity,PROPN,NNP,ROOT,Xxxxx,0.0
+Debt Financing,Debt,2,7,4,debt,NOUN,NN,compound,Xxxx,0.0
+Debt Financing,Financing,2,7,9,financing,NOUN,NN,ROOT,Xxxxx,0.0
+Post-IPO Debt,Post,2,4,4,Post,PROPN,NNP,compound,Xxxx,0.0
+Post-IPO Debt,-,2,4,1,-,PROPN,NNP,amod,-,0.0
+Post-IPO Debt,IPO,2,4,3,ipo,NOUN,NN,compound,XXX,0.0
+Post-IPO Debt,Debt,2,4,4,debt,NOUN,NN,ROOT,Xxxx,0.0
+Secondary Market,Secondary,2,4,9,secondary,ADJ,JJ,amod,Xxxxx,0.0
+Secondary Market,Market,2,4,6,Market,PROPN,NNP,ROOT,Xxxxx,0.0
+Series A,Series,2,8,6,Series,PROPN,NNP,compound,Xxxxx,0.0
+Series A,A,2,8,1,A,PROPN,NNP,ROOT,X,0.0
+Series B,Series,2,7,6,Series,PROPN,NNP,compound,Xxxxx,0.0
+Series B,B,2,7,1,B,PROPN,NNP,ROOT,X,0.0
+Series C,Series,2,2,6,Series,PROPN,NNP,compound,Xxxxx,0.0
+Series C,C,2,2,1,C,PROPN,NNP,ROOT,X,0.0
+Series D,Series,2,1,6,Series,PROPN,NNP,compound,Xxxxx,0.0
+Series D,D,2,1,1,D,PROPN,NNP,ROOT,X,0.0
+Equity Crowdfunding,Equity,2,4,6,equity,NOUN,NN,compound,Xxxxx,0.0
+Equity Crowdfunding,Crowdfunding,2,4,12,Crowdfunding,PROPN,NNP,ROOT,Xxxxx,0.0
+Post-IPO Equity,Post,2,12,4,Post,PROPN,NNP,compound,Xxxx,0.0
+Post-IPO Equity,-,2,12,1,-,PROPN,NNP,compound,-,0.0
+Post-IPO Equity,IPO,2,12,3,IPO,PROPN,NNP,compound,XXX,0.0
+Post-IPO Equity,Equity,2,12,6,Equity,PROPN,NNP,ROOT,Xxxxx,0.0
+Convertible Note,Convertible,2,1,11,convertible,ADJ,JJ,compound,Xxxxx,0.0
+Convertible Note,Note,2,1,4,note,NOUN,NN,ROOT,Xxxx,0.0
+Initial Coin Offering,Initial,3,1,7,initial,ADJ,JJ,amod,Xxxxx,0.0
+Initial Coin Offering,Coin,3,1,4,Coin,PROPN,NNP,compound,Xxxx,0.0
+Initial Coin Offering,Offering,3,1,8,offering,NOUN,NN,ROOT,Xxxxx,0.0
+Angel,Angel,1,1,5,angel,NOUN,NN,ROOT,Xxxxx,0.0
+Corporate Round,Corporate,2,2,9,Corporate,PROPN,NNP,amod,Xxxxx,0.0
+Corporate Round,Round,2,2,5,Round,PROPN,NNP,ROOT,Xxxxx,0.0
+Series E,Series,2,1,6,Series,PROPN,NNP,compound,Xxxxx,0.0
+Series E,E,2,1,1,E,PROPN,NNP,ROOT,X,0.0

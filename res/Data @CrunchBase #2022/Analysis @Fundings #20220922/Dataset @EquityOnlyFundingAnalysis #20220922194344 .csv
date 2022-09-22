@@ -1,0 +1,3 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+No,No,1,100,2,no,NOUN,NN,ROOT,Xx,0.0
+Yes,Yes,1,900,3,yes,INTJ,UH,ROOT,Xxx,0.0

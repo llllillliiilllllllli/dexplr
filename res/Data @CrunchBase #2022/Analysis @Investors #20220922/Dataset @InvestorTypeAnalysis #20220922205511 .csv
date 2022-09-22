@@ -1,0 +1,421 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Accelerator,Accelerator,1,56,11,accelerator,NOUN,NN,ROOT,Xxxxx,0.0
+Government Office,Government,2,20,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+Government Office,Office,2,20,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Entrepreneurship Program, Government Office",Entrepreneurship,4,2,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, Government Office",Program,4,2,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Entrepreneurship Program, Government Office",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Entrepreneurship Program, Government Office",Government,4,2,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, Government Office",Office,4,2,6,Office,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Venture Capital",Accelerator,3,18,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Venture Capital",",",3,18,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Venture Capital",Venture,3,18,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Venture Capital",Capital,3,18,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Micro VC, Venture Capital",Accelerator,5,9,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Micro VC, Venture Capital",",",5,9,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Micro VC, Venture Capital",Micro,5,9,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Micro VC, Venture Capital",VC,5,9,2,VC,PROPN,NNP,appos,XX,0.0
+"Accelerator, Micro VC, Venture Capital",Venture,5,9,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Micro VC, Venture Capital",Capital,5,9,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+Venture Capital,Venture,2,444,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Venture Capital,Capital,2,444,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+"Micro VC, Venture Capital",Micro,4,62,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Micro VC, Venture Capital",VC,4,62,2,VC,PROPN,NNP,ROOT,XX,0.0
+"Micro VC, Venture Capital",",",4,62,1,",",PUNCT,",",punct,",",0.0
+"Micro VC, Venture Capital",Venture,4,62,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Micro VC, Venture Capital",Capital,4,62,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital",Corporate,5,18,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital",Venture,5,18,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital",Capital,5,18,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital",",",5,18,1,",",PUNCT,",",punct,",",0.0
+"Corporate Venture Capital, Venture Capital",Capital,5,18,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Accelerator,10,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",",",10,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Co,10,1,2,Co,PROPN,NNP,compound,Xx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",-,10,1,1,-,ADJ,JJ,compound,-,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Working,10,1,7,Working,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Space,10,1,5,Space,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Corporate,10,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Venture,10,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Capital,10,1,7,Capital,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",University,10,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Program,10,1,7,Program,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, University Program, Venture Capital",Capital,10,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+Private Equity Firm,Private,3,59,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+Private Equity Firm,Equity,3,59,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+Private Equity Firm,Firm,3,59,4,Firm,PROPN,NNP,ROOT,Xxxx,0.0
+Micro VC,Micro,2,54,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+Micro VC,VC,2,54,2,VC,PROPN,NNP,ROOT,XX,0.0
+Incubator,Incubator,1,6,9,incubator,NOUN,NN,ROOT,Xxxxx,0.0
+"Angel Group, Micro VC",Angel,4,2,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+"Angel Group, Micro VC",Group,4,2,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+"Angel Group, Micro VC",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Angel Group, Micro VC",Micro,4,2,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Angel Group, Micro VC",VC,4,2,2,VC,PROPN,NNP,appos,XX,0.0
+Corporate Venture Capital,Corporate,3,29,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+Corporate Venture Capital,Venture,3,29,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Corporate Venture Capital,Capital,3,29,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+"Private Equity Firm, Venture Capital",Private,5,38,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Private Equity Firm, Venture Capital",Equity,5,38,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Private Equity Firm, Venture Capital",Firm,5,38,4,Firm,PROPN,NNP,ROOT,Xxxx,0.0
+"Private Equity Firm, Venture Capital",",",5,38,1,",",PUNCT,",",punct,",",0.0
+"Private Equity Firm, Venture Capital",Venture,5,38,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Private Equity Firm, Venture Capital",Capital,5,38,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm, Venture Capital",Hedge,7,2,5,Hedge,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm, Venture Capital",Fund,7,2,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+"Hedge Fund, Private Equity Firm, Venture Capital",",",7,2,1,",",PUNCT,",",punct,",",0.0
+"Hedge Fund, Private Equity Firm, Venture Capital",Private,7,2,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm, Venture Capital",Equity,7,2,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm, Venture Capital",Firm,7,2,4,Firm,PROPN,NNP,conj,Xxxx,0.0
+"Hedge Fund, Private Equity Firm, Venture Capital",Venture,7,2,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm, Venture Capital",Capital,7,2,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Investment Bank, Venture Capital",Investment,4,5,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Investment Bank, Venture Capital",Bank,4,5,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+"Investment Bank, Venture Capital",",",4,5,1,",",PUNCT,",",punct,",",0.0
+"Investment Bank, Venture Capital",Venture,4,5,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Investment Bank, Venture Capital",Capital,4,5,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Government Office, Investment Bank",Government,4,3,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Investment Bank",Office,4,3,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Investment Bank",",",4,3,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Investment Bank",Investment,4,3,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Investment Bank",Bank,4,3,4,Bank,PROPN,NNP,appos,Xxxx,0.0
+Investment Bank,Investment,2,15,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Investment Bank,Bank,2,15,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",Corporate,9,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",Venture,9,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",Capital,9,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",Micro,9,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",VC,9,1,2,VC,PROPN,NNP,appos,XX,0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",University,9,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",Program,9,1,7,Program,PROPN,NNP,conj,Xxxxx,0.0
+"Corporate Venture Capital, Micro VC, University Program, Venture Capital",Capital,9,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Entrepreneurship Program, University Program",Entrepreneurship,4,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, University Program",Program,4,1,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Entrepreneurship Program, University Program",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Entrepreneurship Program, University Program",University,4,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, University Program",Program,4,1,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+Angel Group,Angel,2,22,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+Angel Group,Group,2,22,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Incubator",Government,3,2,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Incubator",Office,3,2,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Incubator",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Incubator",Incubator,3,2,9,Incubator,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Government Office, Venture Capital",Government,4,15,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Venture Capital",Office,4,15,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Venture Capital",",",4,15,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Venture Capital",Venture,4,15,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Venture Capital",Capital,4,15,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Fund Of Funds, Venture Capital",Fund,5,3,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+"Fund Of Funds, Venture Capital",Of,5,3,2,of,ADP,IN,prep,Xx,0.0
+"Fund Of Funds, Venture Capital",Funds,5,3,5,Funds,PROPN,NNPS,pobj,Xxxxx,0.0
+"Fund Of Funds, Venture Capital",",",5,3,1,",",PUNCT,",",punct,",",0.0
+"Fund Of Funds, Venture Capital",Venture,5,3,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Fund Of Funds, Venture Capital",Capital,5,3,7,Capital,PROPN,NNP,npadvmod,Xxxxx,0.0
+Entrepreneurship Program,Entrepreneurship,2,2,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+Entrepreneurship Program,Program,2,2,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Entrepreneurship Program, Venture Capital",Entrepreneurship,4,4,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, Venture Capital",Program,4,4,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Entrepreneurship Program, Venture Capital",",",4,4,1,",",PUNCT,",",punct,",",0.0
+"Entrepreneurship Program, Venture Capital",Venture,4,4,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, Venture Capital",Capital,4,4,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Syndicate, Venture Capital",Syndicate,3,1,9,syndicate,NOUN,NN,ROOT,Xxxxx,0.0
+"Syndicate, Venture Capital",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Syndicate, Venture Capital",Venture,3,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Syndicate, Venture Capital",Capital,3,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Micro VC, Syndicate",Micro,3,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Micro VC, Syndicate",VC,3,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+"Micro VC, Syndicate",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Micro VC, Syndicate",Syndicate,3,1,9,Syndicate,PROPN,NNP,appos,Xxxxx,0.0
+"Family Investment Office, Micro VC",Family,5,1,6,Family,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Micro VC",Investment,5,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Micro VC",Office,5,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Family Investment Office, Micro VC",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Family Investment Office, Micro VC",Micro,5,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Micro VC",VC,5,1,2,VC,PROPN,NNP,appos,XX,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Accelerator,11,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",",",11,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Entrepreneurship,11,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Program,11,1,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Fund,11,1,4,Fund,PROPN,NNP,appos,Xxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Of,11,1,2,of,ADP,IN,prep,Xx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Funds,11,1,5,Funds,PROPN,NNPS,pobj,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Incubator,11,1,9,Incubator,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Startup,11,1,7,Startup,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Competition,11,1,11,Competition,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Venture,11,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Fund Of Funds, Incubator, Startup Competition, Venture Capital",Capital,11,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm",Hedge,5,1,5,Hedge,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm",Fund,5,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+"Hedge Fund, Private Equity Firm",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Hedge Fund, Private Equity Firm",Private,5,1,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm",Equity,5,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Private Equity Firm",Firm,5,1,4,Firm,PROPN,NNP,appos,Xxxx,0.0
+"Government Office, Private Equity Firm, Venture Capital",Government,7,1,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Private Equity Firm, Venture Capital",Office,7,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Private Equity Firm, Venture Capital",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Private Equity Firm, Venture Capital",Private,7,1,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Private Equity Firm, Venture Capital",Equity,7,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Private Equity Firm, Venture Capital",Firm,7,1,4,Firm,PROPN,NNP,conj,Xxxx,0.0
+"Government Office, Private Equity Firm, Venture Capital",Venture,7,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Private Equity Firm, Venture Capital",Capital,7,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+Family Investment Office,Family,3,5,6,Family,PROPN,NNP,compound,Xxxxx,0.0
+Family Investment Office,Investment,3,5,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+Family Investment Office,Office,3,5,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+Venture Debt,Venture,2,5,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+Venture Debt,Debt,2,5,4,Debt,PROPN,NNP,ROOT,Xxxx,0.0
+"Angel Group, Venture Capital",Angel,4,4,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+"Angel Group, Venture Capital",Group,4,4,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+"Angel Group, Venture Capital",",",4,4,1,",",PUNCT,",",punct,",",0.0
+"Angel Group, Venture Capital",Venture,4,4,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Angel Group, Venture Capital",Capital,4,4,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Government Office, Micro VC, Venture Capital",Government,6,2,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Micro VC, Venture Capital",Office,6,2,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Micro VC, Venture Capital",",",6,2,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Micro VC, Venture Capital",Micro,6,2,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Micro VC, Venture Capital",VC,6,2,2,VC,PROPN,NNP,appos,XX,0.0
+"Government Office, Micro VC, Venture Capital",Venture,6,2,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Micro VC, Venture Capital",Capital,6,2,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Venture Capital",Accelerator,5,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Venture Capital",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Entrepreneurship Program, Venture Capital",Entrepreneurship,5,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Venture Capital",Program,5,1,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Venture Capital",Venture,5,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Venture Capital",Capital,5,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Investment Partner, Individual/Angel",Investment,3,18,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Investment Partner, Individual/Angel",Partner,3,18,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+"Investment Partner, Individual/Angel",",",3,18,1,",",PUNCT,",",punct,",",0.0
+"Investment Partner, Individual/Angel",Individual,3,18,10,Individual,PROPN,NNP,nmod,Xxxxx,0.0
+"Investment Partner, Individual/Angel",/,3,18,1,/,SYM,SYM,punct,/,0.0
+"Investment Partner, Individual/Angel",Angel,3,18,5,Angel,PROPN,NNP,appos,Xxxxx,0.0
+"Incubator, Private Equity Firm, Venture Capital",Incubator,6,2,9,incubator,NOUN,NN,ROOT,Xxxxx,0.0
+"Incubator, Private Equity Firm, Venture Capital",",",6,2,1,",",PUNCT,",",punct,",",0.0
+"Incubator, Private Equity Firm, Venture Capital",Private,6,2,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Incubator, Private Equity Firm, Venture Capital",Equity,6,2,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Incubator, Private Equity Firm, Venture Capital",Firm,6,2,4,Firm,PROPN,NNP,conj,Xxxx,0.0
+"Incubator, Private Equity Firm, Venture Capital",Venture,6,2,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Incubator, Private Equity Firm, Venture Capital",Capital,6,2,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",Family,8,2,6,Family,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",Investment,8,2,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",Office,8,2,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",",",8,2,1,",",PUNCT,",",punct,",",0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",Private,8,2,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",Equity,8,2,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",Firm,8,2,4,Firm,PROPN,NNP,conj,Xxxx,0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",Venture,8,2,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Private Equity Firm, Venture Capital",Capital,8,2,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Incubator, University Program",Incubator,3,2,9,Incubator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Incubator, University Program",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Incubator, University Program",University,3,2,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Incubator, University Program",Program,3,2,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Incubator",Accelerator,2,2,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Incubator",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Incubator",Incubator,2,2,9,Incubator,PROPN,NNP,appos,Xxxxx,0.0
+Hedge Fund,Hedge,2,3,5,Hedge,PROPN,NNP,compound,Xxxxx,0.0
+Hedge Fund,Fund,2,3,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+"Micro VC, Startup Competition, Venture Capital",Micro,6,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Micro VC, Startup Competition, Venture Capital",VC,6,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+"Micro VC, Startup Competition, Venture Capital",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Micro VC, Startup Competition, Venture Capital",Startup,6,1,7,Startup,PROPN,NNP,compound,Xxxxx,0.0
+"Micro VC, Startup Competition, Venture Capital",Competition,6,1,11,Competition,PROPN,NNP,appos,Xxxxx,0.0
+"Micro VC, Startup Competition, Venture Capital",Venture,6,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Micro VC, Startup Competition, Venture Capital",Capital,6,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Private Equity Firm, Secondary Purchaser",Private,5,1,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Private Equity Firm, Secondary Purchaser",Equity,5,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Private Equity Firm, Secondary Purchaser",Firm,5,1,4,Firm,PROPN,NNP,ROOT,Xxxx,0.0
+"Private Equity Firm, Secondary Purchaser",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Private Equity Firm, Secondary Purchaser",Secondary,5,1,9,Secondary,PROPN,NNP,compound,Xxxxx,0.0
+"Private Equity Firm, Secondary Purchaser",Purchaser,5,1,9,Purchaser,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator",Accelerator,5,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Corporate Venture Capital, Incubator",Corporate,5,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator",Venture,5,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator",Capital,5,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator",Incubator,5,1,9,Incubator,PROPN,NNP,appos,Xxxxx,0.0
+"Government Office, Micro VC",Government,4,1,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Micro VC",Office,4,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Micro VC",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Micro VC",Micro,4,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Micro VC",VC,4,1,2,VC,PROPN,NNP,appos,XX,0.0
+"Venture Capital, Venture Debt",Venture,4,2,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Venture Capital, Venture Debt",Capital,4,2,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+"Venture Capital, Venture Debt",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Venture Capital, Venture Debt",Debt,4,2,4,Debt,PROPN,NNP,appos,Xxxx,0.0
+"Hedge Fund, Micro VC",Hedge,4,1,5,Hedge,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Micro VC",Fund,4,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+"Hedge Fund, Micro VC",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Hedge Fund, Micro VC",Micro,4,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Micro VC",VC,4,1,2,VC,PROPN,NNP,appos,XX,0.0
+"Fund Of Funds, Secondary Purchaser, Venture Capital",Fund,7,2,4,Fund,PROPN,NNP,compound,Xxxx,0.0
+"Fund Of Funds, Secondary Purchaser, Venture Capital",Of,7,2,2,of,ADP,IN,prep,Xx,0.0
+"Fund Of Funds, Secondary Purchaser, Venture Capital",Funds,7,2,5,Funds,PROPN,NNPS,pobj,Xxxxx,0.0
+"Fund Of Funds, Secondary Purchaser, Venture Capital",",",7,2,1,",",PUNCT,",",punct,",",0.0
+"Fund Of Funds, Secondary Purchaser, Venture Capital",Secondary,7,2,9,Secondary,PROPN,NNP,compound,Xxxxx,0.0
+"Fund Of Funds, Secondary Purchaser, Venture Capital",Purchaser,7,2,9,Purchaser,PROPN,NNP,ROOT,Xxxxx,0.0
+"Fund Of Funds, Secondary Purchaser, Venture Capital",Venture,7,2,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Fund Of Funds, Secondary Purchaser, Venture Capital",Capital,7,2,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Angel Group, Government Office",Angel,4,2,5,Angel,PROPN,NNP,compound,Xxxxx,0.0
+"Angel Group, Government Office",Group,4,2,5,Group,PROPN,NNP,ROOT,Xxxxx,0.0
+"Angel Group, Government Office",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Angel Group, Government Office",Government,4,2,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Angel Group, Government Office",Office,4,2,6,Office,PROPN,NNP,appos,Xxxxx,0.0
+"Government Office, Venture Debt",Government,4,1,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Venture Debt",Office,4,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Venture Debt",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Venture Debt",Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Venture Debt",Debt,4,1,4,Debt,PROPN,NNP,appos,Xxxx,0.0
+"University Program, Venture Capital",University,4,2,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"University Program, Venture Capital",Program,4,2,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"University Program, Venture Capital",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"University Program, Venture Capital",Venture,4,2,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"University Program, Venture Capital",Capital,4,2,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Family Investment Office, Venture Capital",Family,5,1,6,Family,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Venture Capital",Investment,5,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Venture Capital",Office,5,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Family Investment Office, Venture Capital",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Family Investment Office, Venture Capital",Venture,5,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Venture Capital",Capital,5,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Micro VC, University Program",Micro,4,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Micro VC, University Program",VC,4,1,2,VC,PROPN,NNP,ROOT,XX,0.0
+"Micro VC, University Program",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Micro VC, University Program",University,4,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Micro VC, University Program",Program,4,1,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+Individual/Angel,Individual,1,4,10,Individual,PROPN,NNP,amod,Xxxxx,0.0
+Individual/Angel,/,1,4,1,/,SYM,SYM,punct,/,0.0
+Individual/Angel,Angel,1,4,5,Angel,PROPN,NNP,ROOT,Xxxxx,0.0
+"Co-Working Space, Incubator",Co,3,1,2,co,ADJ,JJ,compound,Xx,0.0
+"Co-Working Space, Incubator",-,3,1,1,-,ADJ,JJ,amod,-,0.0
+"Co-Working Space, Incubator",Working,3,1,7,Working,PROPN,NNP,compound,Xxxxx,0.0
+"Co-Working Space, Incubator",Space,3,1,5,Space,PROPN,NNP,ROOT,Xxxxx,0.0
+"Co-Working Space, Incubator",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Co-Working Space, Incubator",Incubator,3,1,9,Incubator,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Accelerator, Co-Working Space, Venture Capital",Accelerator,5,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Co-Working Space, Venture Capital",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Co-Working Space, Venture Capital",Co,5,1,2,Co,PROPN,NNP,compound,Xx,0.0
+"Accelerator, Co-Working Space, Venture Capital",-,5,1,1,-,ADJ,JJ,compound,-,0.0
+"Accelerator, Co-Working Space, Venture Capital",Working,5,1,7,Working,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Venture Capital",Space,5,1,5,Space,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Co-Working Space, Venture Capital",Venture,5,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Venture Capital",Capital,5,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital, Venture Debt",Corporate,7,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital, Venture Debt",Venture,7,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital, Venture Debt",Capital,7,1,7,Capital,PROPN,NNP,ROOT,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital, Venture Debt",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Corporate Venture Capital, Venture Capital, Venture Debt",Capital,7,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Corporate Venture Capital, Venture Capital, Venture Debt",Debt,7,1,4,Debt,PROPN,NNP,appos,Xxxx,0.0
+"Accelerator, Incubator, Micro VC",Accelerator,4,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Incubator, Micro VC",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Incubator, Micro VC",Incubator,4,1,9,Incubator,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Incubator, Micro VC",Micro,4,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Incubator, Micro VC",VC,4,1,2,VC,PROPN,NNP,appos,XX,0.0
+"Government Office, Private Equity Firm",Government,5,1,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Private Equity Firm",Office,5,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Private Equity Firm",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Private Equity Firm",Private,5,1,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Private Equity Firm",Equity,5,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Private Equity Firm",Firm,5,1,4,Firm,PROPN,NNP,appos,Xxxx,0.0
+"Government Office, Investment Bank, Venture Capital",Government,6,1,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Investment Bank, Venture Capital",Office,6,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Government Office, Investment Bank, Venture Capital",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Government Office, Investment Bank, Venture Capital",Investment,6,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Investment Bank, Venture Capital",Bank,6,1,4,Bank,PROPN,NNP,conj,Xxxx,0.0
+"Government Office, Investment Bank, Venture Capital",Venture,6,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Government Office, Investment Bank, Venture Capital",Capital,6,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Family Investment Office, Investment Bank, Venture Capital",Family,7,1,6,Family,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Investment Bank, Venture Capital",Investment,7,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Investment Bank, Venture Capital",Office,7,1,6,Office,PROPN,NNP,ROOT,Xxxxx,0.0
+"Family Investment Office, Investment Bank, Venture Capital",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Family Investment Office, Investment Bank, Venture Capital",Bank,7,1,4,Bank,PROPN,NNP,conj,Xxxx,0.0
+"Family Investment Office, Investment Bank, Venture Capital",Venture,7,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Family Investment Office, Investment Bank, Venture Capital",Capital,7,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Hedge Fund, Venture Capital",Hedge,4,1,5,Hedge,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Venture Capital",Fund,4,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+"Hedge Fund, Venture Capital",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Hedge Fund, Venture Capital",Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Hedge Fund, Venture Capital",Capital,4,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+University Program,University,2,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+University Program,Program,2,1,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Government Office, Micro VC",Accelerator,5,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Government Office, Micro VC",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Government Office, Micro VC",Government,5,1,10,Government,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Government Office, Micro VC",Office,5,1,6,Office,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Government Office, Micro VC",Micro,5,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Government Office, Micro VC",VC,5,1,2,VC,PROPN,NNP,appos,XX,0.0
+"Accelerator, Incubator, Venture Capital",Accelerator,4,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Incubator, Venture Capital",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Incubator, Venture Capital",Incubator,4,1,9,Incubator,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Incubator, Venture Capital",Venture,4,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Incubator, Venture Capital",Capital,4,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, Venture Capital",Accelerator,6,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, Venture Capital",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Entrepreneurship Program, Incubator, Venture Capital",Entrepreneurship,6,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, Venture Capital",Program,6,1,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, Venture Capital",Incubator,6,1,9,Incubator,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, Venture Capital",Venture,6,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, Incubator, Venture Capital",Capital,6,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Incubator, Venture Capital",Incubator,3,3,9,incubator,NOUN,NN,ROOT,Xxxxx,0.0
+"Incubator, Venture Capital",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Incubator, Venture Capital",Venture,3,3,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Incubator, Venture Capital",Capital,3,3,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+Secondary Purchaser,Secondary,2,1,9,secondary,ADJ,JJ,compound,Xxxxx,0.0
+Secondary Purchaser,Purchaser,2,1,9,Purchaser,PROPN,NNP,ROOT,Xxxxx,0.0
+"Entrepreneurship Program, Incubator",Entrepreneurship,3,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, Incubator",Program,3,1,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Entrepreneurship Program, Incubator",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Entrepreneurship Program, Incubator",Incubator,3,1,9,Incubator,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator, Venture Capital",Accelerator,7,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator, Venture Capital",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Corporate Venture Capital, Incubator, Venture Capital",Corporate,7,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator, Venture Capital",Venture,7,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator, Venture Capital",Capital,7,1,7,Capital,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator, Venture Capital",Incubator,7,1,9,Incubator,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Corporate Venture Capital, Incubator, Venture Capital",Capital,7,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Accelerator,14,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",",",14,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Co,14,1,2,Co,PROPN,NNP,compound,Xx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",-,14,1,1,-,ADJ,JJ,compound,-,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Working,14,1,7,Working,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Space,14,1,5,Space,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Corporate,14,1,9,Corporate,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Venture,14,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Capital,14,1,7,Capital,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Entrepreneurship,14,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Program,14,1,7,Program,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Fund,14,1,4,Fund,PROPN,NNP,appos,Xxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Of,14,1,2,of,ADP,IN,prep,Xx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Funds,14,1,5,Funds,PROPN,NNPS,pobj,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Incubator,14,1,9,Incubator,PROPN,NNP,conj,Xxxxx,0.0
+"Accelerator, Co-Working Space, Corporate Venture Capital, Entrepreneurship Program, Fund Of Funds, Incubator, Venture Capital",Capital,14,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",Fund,8,1,4,Fund,PROPN,NNP,ROOT,Xxxx,0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",Of,8,1,2,of,ADP,IN,prep,Xx,0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",Funds,8,1,5,Funds,PROPN,NNPS,pobj,Xxxxx,0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",Private,8,1,7,Private,PROPN,NNP,compound,Xxxxx,0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",Equity,8,1,6,Equity,PROPN,NNP,compound,Xxxxx,0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",Firm,8,1,4,Firm,PROPN,NNP,conj,Xxxx,0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",Venture,8,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Fund Of Funds, Private Equity Firm, Venture Capital",Capital,8,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, University Program",Accelerator,5,1,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, University Program",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, Entrepreneurship Program, University Program",Entrepreneurship,5,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, University Program",Program,5,1,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+"Accelerator, Entrepreneurship Program, University Program",University,5,1,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, University Program",Accelerator,3,2,11,Accelerator,PROPN,NNP,ROOT,Xxxxx,0.0
+"Accelerator, University Program",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Accelerator, University Program",University,3,2,10,University,PROPN,NNP,compound,Xxxxx,0.0
+"Accelerator, University Program",Program,3,2,7,Program,PROPN,NNP,appos,Xxxxx,0.0
+"Entrepreneurship Program, Fund Of Funds, Venture Capital",Entrepreneurship,7,1,16,Entrepreneurship,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, Fund Of Funds, Venture Capital",Program,7,1,7,Program,PROPN,NNP,ROOT,Xxxxx,0.0
+"Entrepreneurship Program, Fund Of Funds, Venture Capital",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Entrepreneurship Program, Fund Of Funds, Venture Capital",Fund,7,1,4,Fund,PROPN,NNP,appos,Xxxx,0.0
+"Entrepreneurship Program, Fund Of Funds, Venture Capital",Of,7,1,2,of,ADP,IN,prep,Xx,0.0
+"Entrepreneurship Program, Fund Of Funds, Venture Capital",Funds,7,1,5,Funds,PROPN,NNPS,pobj,Xxxxx,0.0
+"Entrepreneurship Program, Fund Of Funds, Venture Capital",Venture,7,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Entrepreneurship Program, Fund Of Funds, Venture Capital",Capital,7,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0
+"Investment Bank, Micro VC, Venture Capital",Investment,6,1,10,Investment,PROPN,NNP,compound,Xxxxx,0.0
+"Investment Bank, Micro VC, Venture Capital",Bank,6,1,4,Bank,PROPN,NNP,ROOT,Xxxx,0.0
+"Investment Bank, Micro VC, Venture Capital",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Investment Bank, Micro VC, Venture Capital",Micro,6,1,5,Micro,PROPN,NNP,compound,Xxxxx,0.0
+"Investment Bank, Micro VC, Venture Capital",VC,6,1,2,VC,PROPN,NNP,appos,XX,0.0
+"Investment Bank, Micro VC, Venture Capital",Venture,6,1,7,Venture,PROPN,NNP,compound,Xxxxx,0.0
+"Investment Bank, Micro VC, Venture Capital",Capital,6,1,7,Capital,PROPN,NNP,appos,Xxxxx,0.0

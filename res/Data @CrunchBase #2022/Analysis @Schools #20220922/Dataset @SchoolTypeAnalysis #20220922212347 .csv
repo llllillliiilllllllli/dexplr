@@ -1,0 +1,9 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Private (Non-Profit),Private,2,45,7,private,ADJ,JJ,amod,Xxxxx,0.0
+Private (Non-Profit),(,2,45,1,(,PUNCT,-LRB-,punct,(,0.0
+Private (Non-Profit),Non,2,45,3,Non,PROPN,NNP,appos,Xxx,0.0
+Private (Non-Profit),-,2,45,1,-,PROPN,NNP,conj,-,0.0
+Private (Non-Profit),Profit,2,45,6,Profit,PROPN,NNP,ROOT,Xxxxx,0.0
+Private (Non-Profit),),2,45,1,),PUNCT,-RRB-,punct,),0.0
+Public,Public,1,72,6,public,ADJ,JJ,ROOT,Xxxxx,0.0
+Private,Private,1,40,7,private,ADJ,JJ,ROOT,Xxxxx,0.0

@@ -1,0 +1,575 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Other,Other,1,64,5,other,ADJ,JJ,ROOT,Xxxxx,0.0
+"Conference, Expo, Networking, Seminar",Conference,4,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Networking, Seminar",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Networking, Seminar",Expo,4,2,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Networking, Seminar",Networking,4,2,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Networking, Seminar",Seminar,4,2,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+Conference,Conference,1,329,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+Seminar,Seminar,1,10,7,seminar,NOUN,NN,ROOT,Xxxxx,0.0
+Virtual,Virtual,1,29,7,virtual,ADJ,JJ,ROOT,Xxxxx,0.0
+Competition,Competition,1,24,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+Meetup,Meetup,1,17,6,meetup,NOUN,NN,ROOT,Xxxxx,0.0
+"Other, Seminar",Other,2,1,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Other, Seminar",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Other, Seminar",Seminar,2,1,7,Seminar,PROPN,NNP,ROOT,Xxxxx,0.0
+Networking,Networking,1,26,10,network,VERB,VBG,ROOT,Xxxxx,0.0
+"Conference, Networking, Other",Conference,3,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Networking, Other",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Networking, Other",Networking,3,2,10,Networking,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Networking, Other",Other,3,2,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Meetup",Conference,2,5,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Meetup",",",2,5,1,",",PUNCT,",",punct,",",0.0
+"Conference, Meetup",Meetup,2,5,6,meetup,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Meetup, Networking",Conference,3,6,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Meetup, Networking",",",3,6,1,",",PUNCT,",",punct,",",0.0
+"Conference, Meetup, Networking",Meetup,3,6,6,Meetup,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Meetup, Networking",Networking,3,6,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Networking",Conference,2,24,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Networking",",",2,24,1,",",PUNCT,",",punct,",",0.0
+"Conference, Networking",Networking,2,24,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Meetup, Networking",Meetup,2,3,6,Meetup,PROPN,NNP,ROOT,Xxxxx,0.0
+"Meetup, Networking",",",2,3,1,",",PUNCT,",",punct,",",0.0
+"Meetup, Networking",Networking,2,3,10,networking,NOUN,NN,appos,Xxxxx,0.0
+Webinar,Webinar,1,76,7,Webinar,PROPN,NNP,ROOT,Xxxxx,0.0
+"Conference, Virtual",Conference,2,16,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Virtual",",",2,16,1,",",PUNCT,",",punct,",",0.0
+"Conference, Virtual",Virtual,2,16,7,virtual,ADJ,JJ,amod,Xxxxx,0.0
+"Class, Other",Class,2,2,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Other",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Class, Other",Other,2,2,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Hackathon, Meetup",Conference,3,1,10,Conference,PROPN,NNP,ROOT,Xxxxx,0.0
+"Conference, Hackathon, Meetup",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Hackathon, Meetup",Hackathon,3,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Hackathon, Meetup",Meetup,3,1,6,meetup,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Expo, Meetup",Conference,3,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Meetup",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Meetup",Expo,3,1,4,Expo,PROPN,NNP,appos,Xxxx,0.0
+"Conference, Expo, Meetup",Meetup,3,1,6,meetup,NOUN,NN,appos,Xxxxx,0.0
+"Class, Virtual",Class,2,3,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Virtual",",",2,3,1,",",PUNCT,",",punct,",",0.0
+"Class, Virtual",Virtual,2,3,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+Expo,Expo,1,28,4,expo,NOUN,NN,ROOT,Xxxx,0.0
+"Conference, Expo",Conference,2,8,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo",",",2,8,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo",Expo,2,8,4,expo,NOUN,NN,appos,Xxxx,0.0
+"Conference, Expo, Festival, Networking",Conference,4,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Festival, Networking",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Festival, Networking",Expo,4,2,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Festival, Networking",Festival,4,2,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Festival, Networking",Networking,4,2,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Festival, Networking",Conference,3,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Festival, Networking",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Festival, Networking",Festival,3,2,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Festival, Networking",Networking,3,2,10,networking,NOUN,NN,appos,Xxxxx,0.0
+Demo Day,Demo,2,18,4,Demo,NOUN,NNS,compound,Xxxx,0.0
+Demo Day,Day,2,18,3,Day,PROPN,NNP,ROOT,Xxx,0.0
+"Class, Demo Day, Festival, Meetup",Class,5,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Demo Day, Festival, Meetup",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Demo Day, Festival, Meetup",Demo,5,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Demo Day, Festival, Meetup",Day,5,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Class, Demo Day, Festival, Meetup",Festival,5,1,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Demo Day, Festival, Meetup",Meetup,5,1,6,meetup,NOUN,NN,appos,Xxxxx,0.0
+"Festival, Virtual",Festival,2,3,8,Festival,PROPN,NNP,ROOT,Xxxxx,0.0
+"Festival, Virtual",",",2,3,1,",",PUNCT,",",punct,",",0.0
+"Festival, Virtual",Virtual,2,3,7,virtual,ADJ,JJ,amod,Xxxxx,0.0
+"Competition, Conference, Expo, Networking",Competition,4,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Expo, Networking",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Expo, Networking",Conference,4,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Expo, Networking",Expo,4,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Competition, Conference, Expo, Networking",Networking,4,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Competition, Conference",Competition,2,4,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference",",",2,4,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference",Conference,2,4,10,conference,NOUN,NN,appos,Xxxxx,0.0
+"Demo Day, Meetup, Networking",Demo,4,4,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Demo Day, Meetup, Networking",Day,4,4,3,Day,PROPN,NNP,ROOT,Xxx,0.0
+"Demo Day, Meetup, Networking",",",4,4,1,",",PUNCT,",",punct,",",0.0
+"Demo Day, Meetup, Networking",Meetup,4,4,6,Meetup,PROPN,NNP,appos,Xxxxx,0.0
+"Demo Day, Meetup, Networking",Networking,4,4,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Competition, Networking, Virtual",Competition,3,3,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Networking, Virtual",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Competition, Networking, Virtual",Networking,3,3,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Networking, Virtual",Virtual,3,3,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Conference, Networking",Competition,3,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Networking",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Networking",Conference,3,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Networking",Networking,3,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Hackathon, Networking, Other",Conference,4,1,10,Conference,PROPN,NNP,ROOT,Xxxxx,0.0
+"Conference, Hackathon, Networking, Other",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Hackathon, Networking, Other",Hackathon,4,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Hackathon, Networking, Other",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Hackathon, Networking, Other",Other,4,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Virtual, Webinar",Conference,3,38,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Virtual, Webinar",",",3,38,1,",",PUNCT,",",punct,",",0.0
+"Conference, Virtual, Webinar",Virtual,3,38,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Virtual, Webinar",Webinar,3,38,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Demo Day",Class,3,2,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Demo Day",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Class, Demo Day",Demo,3,2,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Demo Day",Day,3,2,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Expo, Festival",Expo,2,1,4,expo,NOUN,NN,ROOT,Xxxx,0.0
+"Expo, Festival",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Expo, Festival",Festival,2,1,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Demo Day, Networking, Virtual",Demo,4,2,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Demo Day, Networking, Virtual",Day,4,2,3,Day,PROPN,NNP,ROOT,Xxx,0.0
+"Demo Day, Networking, Virtual",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Demo Day, Networking, Virtual",Networking,4,2,10,Networking,PROPN,NNP,appos,Xxxxx,0.0
+"Demo Day, Networking, Virtual",Virtual,4,2,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Expo, Networking",Conference,3,8,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Networking",",",3,8,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Networking",Expo,3,8,4,Expo,PROPN,NNP,appos,Xxxx,0.0
+"Conference, Expo, Networking",Networking,3,8,10,networking,NOUN,NN,appos,Xxxxx,0.0
+Hackathon,Hackathon,1,7,9,Hackathon,PROPN,NNP,ROOT,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking, Seminar",Conference,5,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking, Seminar",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Meetup, Networking, Seminar",Expo,5,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Meetup, Networking, Seminar",Meetup,5,1,6,Meetup,PROPN,NNP,nmod,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking, Seminar",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking, Seminar",Seminar,5,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Competition, Conference, Demo Day, Expo, Networking",Class,7,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Competition, Conference, Demo Day, Expo, Networking",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Competition, Conference, Demo Day, Expo, Networking",Competition,7,1,11,Competition,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Competition, Conference, Demo Day, Expo, Networking",Conference,7,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Competition, Conference, Demo Day, Expo, Networking",Demo,7,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Competition, Conference, Demo Day, Expo, Networking",Day,7,1,3,Day,PROPN,NNP,conj,Xxx,0.0
+"Class, Competition, Conference, Demo Day, Expo, Networking",Expo,7,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Class, Competition, Conference, Demo Day, Expo, Networking",Networking,7,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Class, Conference, Meetup, Networking, Other",Class,5,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Conference, Meetup, Networking, Other",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Conference, Meetup, Networking, Other",Conference,5,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Conference, Meetup, Networking, Other",Meetup,5,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Conference, Meetup, Networking, Other",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Conference, Meetup, Networking, Other",Other,5,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Expo, Festival, Networking, Other",Expo,4,1,4,expo,NOUN,NN,ROOT,Xxxx,0.0
+"Expo, Festival, Networking, Other",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Expo, Festival, Networking, Other",Festival,4,1,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Expo, Festival, Networking, Other",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Expo, Festival, Networking, Other",Other,4,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Competition, Virtual",Competition,2,2,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Virtual",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Competition, Virtual",Virtual,2,2,7,virtual,ADJ,JJ,amod,Xxxxx,0.0
+"Class, Conference, Expo, Meetup, Networking, Seminar",Class,6,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Conference, Expo, Meetup, Networking, Seminar",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Conference, Expo, Meetup, Networking, Seminar",Conference,6,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Conference, Expo, Meetup, Networking, Seminar",Expo,6,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Class, Conference, Expo, Meetup, Networking, Seminar",Meetup,6,1,6,Meetup,PROPN,NNP,nmod,Xxxxx,0.0
+"Class, Conference, Expo, Meetup, Networking, Seminar",Networking,6,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Conference, Expo, Meetup, Networking, Seminar",Seminar,6,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Demo Day, Other",Demo,3,2,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Demo Day, Other",Day,3,2,3,Day,PROPN,NNP,ROOT,Xxx,0.0
+"Demo Day, Other",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Demo Day, Other",Other,3,2,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Demo Day, Festival, Networking",Demo,4,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Demo Day, Festival, Networking",Day,4,1,3,Day,PROPN,NNP,ROOT,Xxx,0.0
+"Demo Day, Festival, Networking",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Demo Day, Festival, Networking",Festival,4,1,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Demo Day, Festival, Networking",Networking,4,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Festival",Conference,2,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Festival",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Festival",Festival,2,2,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Conference, Festival, Hackathon, Networking",Competition,5,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Festival, Hackathon, Networking",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Festival, Hackathon, Networking",Conference,5,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Festival, Hackathon, Networking",Festival,5,1,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Festival, Hackathon, Networking",Hackathon,5,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Festival, Hackathon, Networking",Networking,5,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",Class,8,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",Conference,8,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",Demo,8,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",Day,8,1,3,Day,PROPN,NNP,conj,Xxx,0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",Expo,8,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",Seminar,8,1,7,Seminar,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",Virtual,8,1,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Conference, Demo Day, Expo, Seminar, Virtual, Webinar",Webinar,8,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Demo Day, Networking, Other, Virtual",Competition,6,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Demo Day, Networking, Other, Virtual",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Demo Day, Networking, Other, Virtual",Demo,6,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Demo Day, Networking, Other, Virtual",Day,6,1,3,Day,PROPN,NNP,npadvmod,Xxx,0.0
+"Competition, Demo Day, Networking, Other, Virtual",Networking,6,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Demo Day, Networking, Other, Virtual",Other,6,1,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Competition, Demo Day, Networking, Other, Virtual",Virtual,6,1,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Demo Day, Virtual",Demo,3,3,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Demo Day, Virtual",Day,3,3,3,Day,PROPN,NNP,ROOT,Xxx,0.0
+"Demo Day, Virtual",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Demo Day, Virtual",Virtual,3,3,7,virtual,ADJ,JJ,amod,Xxxxx,0.0
+"Networking, Virtual, Webinar",Networking,3,2,10,networking,NOUN,NN,ROOT,Xxxxx,0.0
+"Networking, Virtual, Webinar",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Networking, Virtual, Webinar",Virtual,3,2,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Networking, Virtual, Webinar",Webinar,3,2,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Demo Day, Expo, Networking, Other",Conference,6,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Demo Day, Expo, Networking, Other",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Demo Day, Expo, Networking, Other",Demo,6,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Conference, Demo Day, Expo, Networking, Other",Day,6,1,3,Day,PROPN,NNP,npadvmod,Xxx,0.0
+"Conference, Demo Day, Expo, Networking, Other",Expo,6,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Demo Day, Expo, Networking, Other",Networking,6,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Demo Day, Expo, Networking, Other",Other,6,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup",Competition,7,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup",Conference,7,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup",Demo,7,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup",Day,7,1,3,Day,PROPN,NNP,conj,Xxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup",Expo,7,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup",Hackathon,7,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup",Meetup,7,1,6,meetup,NOUN,NN,appos,Xxxxx,0.0
+"Competition, Conference, Expo, Networking, Virtual",Competition,5,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Expo, Networking, Virtual",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Expo, Networking, Virtual",Conference,5,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Expo, Networking, Virtual",Expo,5,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Competition, Conference, Expo, Networking, Virtual",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Expo, Networking, Virtual",Virtual,5,1,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+Festival,Festival,1,13,8,festival,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Demo Day, Other, Virtual",Class,5,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Demo Day, Other, Virtual",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Demo Day, Other, Virtual",Demo,5,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Demo Day, Other, Virtual",Day,5,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Class, Demo Day, Other, Virtual",Other,5,1,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Class, Demo Day, Other, Virtual",Virtual,5,1,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Festival, Networking, Virtual",Conference,4,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Festival, Networking, Virtual",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Festival, Networking, Virtual",Festival,4,1,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Festival, Networking, Virtual",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Festival, Networking, Virtual",Virtual,4,1,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Seminar, Webinar",Conference,3,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Seminar, Webinar",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Seminar, Webinar",Seminar,3,1,7,Seminar,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Seminar, Webinar",Webinar,3,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Demo Day, Hackathon",Competition,4,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Demo Day, Hackathon",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Demo Day, Hackathon",Demo,4,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Demo Day, Hackathon",Day,4,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Competition, Demo Day, Hackathon",Hackathon,4,1,9,Hackathon,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Demo Day, Meetup, Webinar",Class,5,3,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Demo Day, Meetup, Webinar",",",5,3,1,",",PUNCT,",",punct,",",0.0
+"Class, Demo Day, Meetup, Webinar",Demo,5,3,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Demo Day, Meetup, Webinar",Day,5,3,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Class, Demo Day, Meetup, Webinar",Meetup,5,3,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Demo Day, Meetup, Webinar",Webinar,5,3,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Networking",Competition,7,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Networking",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Networking",Conference,7,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Networking",Demo,7,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Networking",Day,7,1,3,Day,PROPN,NNP,conj,Xxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Networking",Expo,7,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Networking",Hackathon,7,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Networking",Networking,7,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Seminar, Virtual",Conference,3,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Seminar, Virtual",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Seminar, Virtual",Seminar,3,1,7,Seminar,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Seminar, Virtual",Virtual,3,1,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Expo, Hackathon, Meetup, Networking",Conference,5,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Hackathon, Meetup, Networking",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Hackathon, Meetup, Networking",Expo,5,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Hackathon, Meetup, Networking",Hackathon,5,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Hackathon, Meetup, Networking",Meetup,5,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Hackathon, Meetup, Networking",Networking,5,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Expo, Networking, Virtual",Conference,4,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Networking, Virtual",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Networking, Virtual",Expo,4,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Networking, Virtual",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Networking, Virtual",Virtual,4,1,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Networking, Virtual",Conference,3,4,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Networking, Virtual",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Conference, Networking, Virtual",Networking,3,4,10,Networking,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Networking, Virtual",Virtual,3,4,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+"Meetup, Webinar",Meetup,2,2,6,Meetup,PROPN,NNP,ROOT,Xxxxx,0.0
+"Meetup, Webinar",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Meetup, Webinar",Webinar,2,2,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Seminar, Virtual, Webinar",Class,4,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Seminar, Virtual, Webinar",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Seminar, Virtual, Webinar",Seminar,4,1,7,Seminar,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Seminar, Virtual, Webinar",Virtual,4,1,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Seminar, Virtual, Webinar",Webinar,4,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Meetup, Networking, Other, Virtual, Webinar",Meetup,5,1,6,Meetup,PROPN,NNP,ROOT,Xxxxx,0.0
+"Meetup, Networking, Other, Virtual, Webinar",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Meetup, Networking, Other, Virtual, Webinar",Networking,5,1,10,Networking,PROPN,NNP,appos,Xxxxx,0.0
+"Meetup, Networking, Other, Virtual, Webinar",Other,5,1,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Meetup, Networking, Other, Virtual, Webinar",Virtual,5,1,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Meetup, Networking, Other, Virtual, Webinar",Webinar,5,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Demo Day, Networking",Class,4,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Demo Day, Networking",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Demo Day, Networking",Demo,4,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Demo Day, Networking",Day,4,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Class, Demo Day, Networking",Networking,4,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Expo, Festival, Meetup",Conference,4,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Festival, Meetup",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Festival, Meetup",Expo,4,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Festival, Meetup",Festival,4,1,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Festival, Meetup",Meetup,4,1,6,meetup,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Seminar, Virtual, Webinar",Conference,4,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Seminar, Virtual, Webinar",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Seminar, Virtual, Webinar",Seminar,4,1,7,Seminar,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Seminar, Virtual, Webinar",Virtual,4,1,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Seminar, Virtual, Webinar",Webinar,4,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Expo, Networking, Other, Virtual",Conference,5,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Networking, Other, Virtual",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Networking, Other, Virtual",Expo,5,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Networking, Other, Virtual",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Networking, Other, Virtual",Other,5,1,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Conference, Expo, Networking, Other, Virtual",Virtual,5,1,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Competition, Demo Day, Expo",Competition,4,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Demo Day, Expo",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Demo Day, Expo",Demo,4,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Demo Day, Expo",Day,4,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Competition, Demo Day, Expo",Expo,4,1,4,expo,NOUN,NN,appos,Xxxx,0.0
+"Conference, Meetup, Networking, Other",Conference,4,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Meetup, Networking, Other",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Meetup, Networking, Other",Meetup,4,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Meetup, Networking, Other",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Meetup, Networking, Other",Other,4,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Expo, Meetup, Networking, Virtual, Webinar",Expo,5,1,4,expo,NOUN,NN,ROOT,Xxxx,0.0
+"Expo, Meetup, Networking, Virtual, Webinar",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Expo, Meetup, Networking, Virtual, Webinar",Meetup,5,1,6,Meetup,PROPN,NNP,appos,Xxxxx,0.0
+"Expo, Meetup, Networking, Virtual, Webinar",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Expo, Meetup, Networking, Virtual, Webinar",Virtual,5,1,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Expo, Meetup, Networking, Virtual, Webinar",Webinar,5,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Other, Virtual",Competition,3,2,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Other, Virtual",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Competition, Other, Virtual",Other,3,2,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Competition, Other, Virtual",Virtual,3,2,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Demo Day, Festival",Demo,3,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Demo Day, Festival",Day,3,1,3,Day,PROPN,NNP,ROOT,Xxx,0.0
+"Demo Day, Festival",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Demo Day, Festival",Festival,3,1,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Festival, Networking, Other",Competition,4,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Festival, Networking, Other",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Festival, Networking, Other",Festival,4,1,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Festival, Networking, Other",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Festival, Networking, Other",Other,4,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking",Conference,4,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Meetup, Networking",Expo,4,2,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Meetup, Networking",Meetup,4,2,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking",Networking,4,2,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Networking, Seminar",Conference,3,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Networking, Seminar",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Networking, Seminar",Networking,3,1,10,Networking,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Networking, Seminar",Seminar,3,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Other",Competition,2,2,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Other",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Competition, Other",Other,2,2,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Class, Other, Virtual",Class,3,5,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Other, Virtual",",",3,5,1,",",PUNCT,",",punct,",",0.0
+"Class, Other, Virtual",Other,3,5,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Class, Other, Virtual",Virtual,3,5,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Seminar",Conference,2,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Seminar",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Seminar",Seminar,2,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Expo, Virtual",Conference,3,4,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Virtual",",",3,4,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Virtual",Expo,3,4,4,Expo,PROPN,NNP,appos,Xxxx,0.0
+"Conference, Expo, Virtual",Virtual,3,4,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Expo, Other",Conference,3,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Other",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Other",Expo,3,1,4,Expo,PROPN,NNP,appos,Xxxx,0.0
+"Conference, Expo, Other",Other,3,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Class, Networking, Webinar",Class,3,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Networking, Webinar",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Networking, Webinar",Networking,3,1,10,Networking,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Networking, Webinar",Webinar,3,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+Class,Class,1,71,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Seminar",Conference,3,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Seminar",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Seminar",Expo,3,1,4,Expo,PROPN,NNP,appos,Xxxx,0.0
+"Conference, Expo, Seminar",Seminar,3,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Meetup, Networking, Other, Virtual, Webinar",Conference,6,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Meetup, Networking, Other, Virtual, Webinar",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Meetup, Networking, Other, Virtual, Webinar",Meetup,6,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Meetup, Networking, Other, Virtual, Webinar",Networking,6,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Meetup, Networking, Other, Virtual, Webinar",Other,6,1,5,other,ADJ,JJ,conj,Xxxxx,0.0
+"Conference, Meetup, Networking, Other, Virtual, Webinar",Virtual,6,1,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Meetup, Networking, Other, Virtual, Webinar",Webinar,6,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Other",Conference,2,3,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Other",",",2,3,1,",",PUNCT,",",punct,",",0.0
+"Conference, Other",Other,2,3,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Demo Day, Meetup, Networking",Conference,5,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Demo Day, Meetup, Networking",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Demo Day, Meetup, Networking",Demo,5,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Conference, Demo Day, Meetup, Networking",Day,5,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Conference, Demo Day, Meetup, Networking",Meetup,5,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Demo Day, Meetup, Networking",Networking,5,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Networking, Webinar",Conference,3,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Networking, Webinar",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Networking, Webinar",Networking,3,2,10,Networking,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Conference, Networking, Webinar",Webinar,3,2,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Virtual, Webinar",Virtual,2,7,7,virtual,ADJ,JJ,ROOT,Xxxxx,0.0
+"Virtual, Webinar",",",2,7,1,",",PUNCT,",",punct,",",0.0
+"Virtual, Webinar",Webinar,2,7,7,Webinar,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Conference, Networking, Seminar, Virtual, Webinar",Conference,5,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Networking, Seminar, Virtual, Webinar",",",5,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Networking, Seminar, Virtual, Webinar",Networking,5,2,10,Networking,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Conference, Networking, Seminar, Virtual, Webinar",Seminar,5,2,7,Seminar,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Networking, Seminar, Virtual, Webinar",Virtual,5,2,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Networking, Seminar, Virtual, Webinar",Webinar,5,2,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Meetup, Virtual",Meetup,2,2,6,Meetup,PROPN,NNP,ROOT,Xxxxx,0.0
+"Meetup, Virtual",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Meetup, Virtual",Virtual,2,2,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Expo, Hackathon, Networking, Virtual",Conference,5,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Hackathon, Networking, Virtual",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Hackathon, Networking, Virtual",Expo,5,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Hackathon, Networking, Virtual",Hackathon,5,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Hackathon, Networking, Virtual",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Hackathon, Networking, Virtual",Virtual,5,1,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Demo Day",Competition,3,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Demo Day",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Demo Day",Demo,3,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Demo Day",Day,3,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Conference, Webinar",Conference,2,8,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Webinar",",",2,8,1,",",PUNCT,",",punct,",",0.0
+"Conference, Webinar",Webinar,2,8,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Meetup, Virtual, Webinar",Meetup,3,3,6,Meetup,PROPN,NNP,ROOT,Xxxxx,0.0
+"Meetup, Virtual, Webinar",",",3,3,1,",",PUNCT,",",punct,",",0.0
+"Meetup, Virtual, Webinar",Virtual,3,3,7,Virtual,PROPN,NNP,conj,Xxxxx,0.0
+"Meetup, Virtual, Webinar",Webinar,3,3,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Expo, Virtual",Expo,2,4,4,expo,NOUN,NN,ROOT,Xxxx,0.0
+"Expo, Virtual",",",2,4,1,",",PUNCT,",",punct,",",0.0
+"Expo, Virtual",Virtual,2,4,7,virtual,ADJ,JJ,amod,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking, Other",Conference,5,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking, Other",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Meetup, Networking, Other",Expo,5,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Meetup, Networking, Other",Meetup,5,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking, Other",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Meetup, Networking, Other",Other,5,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Competition, Expo",Competition,2,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Expo",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Expo",Expo,2,1,4,expo,NOUN,NN,appos,Xxxx,0.0
+"Conference, Festival, Virtual",Conference,3,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Festival, Virtual",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Festival, Virtual",Festival,3,1,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Festival, Virtual",Virtual,3,1,7,virtual,ADJ,JJ,amod,Xxxxx,0.0
+"Meetup, Networking, Seminar",Meetup,3,1,6,Meetup,PROPN,NNP,ROOT,Xxxxx,0.0
+"Meetup, Networking, Seminar",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Meetup, Networking, Seminar",Networking,3,1,10,Networking,PROPN,NNP,appos,Xxxxx,0.0
+"Meetup, Networking, Seminar",Seminar,3,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Demo Day, Meetup, Networking",Class,5,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Demo Day, Meetup, Networking",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Demo Day, Meetup, Networking",Demo,5,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Demo Day, Meetup, Networking",Day,5,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Class, Demo Day, Meetup, Networking",Meetup,5,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Class, Demo Day, Meetup, Networking",Networking,5,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Expo, Networking, Webinar",Conference,4,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Networking, Webinar",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Networking, Webinar",Expo,4,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Networking, Webinar",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Networking, Webinar",Webinar,4,1,7,Webinar,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Conference, Expo",Competition,3,2,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Expo",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Expo",Conference,3,2,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Expo",Expo,3,2,4,expo,NOUN,NN,appos,Xxxx,0.0
+"Hackathon, Networking, Other",Hackathon,3,1,9,Hackathon,PROPN,NNP,ROOT,Xxxxx,0.0
+"Hackathon, Networking, Other",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Hackathon, Networking, Other",Networking,3,1,10,Networking,PROPN,NNP,appos,Xxxxx,0.0
+"Hackathon, Networking, Other",Other,3,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Expo, Festival, Other",Expo,3,1,4,expo,NOUN,NN,ROOT,Xxxx,0.0
+"Expo, Festival, Other",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Expo, Festival, Other",Festival,3,1,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Expo, Festival, Other",Other,3,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Demo Day, Networking, Virtual",Conference,5,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Demo Day, Networking, Virtual",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Demo Day, Networking, Virtual",Demo,5,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Conference, Demo Day, Networking, Virtual",Day,5,1,3,Day,PROPN,NNP,conj,Xxx,0.0
+"Conference, Demo Day, Networking, Virtual",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Demo Day, Networking, Virtual",Virtual,5,1,7,Virtual,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Expo",Class,2,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Expo",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Expo",Expo,2,1,4,expo,NOUN,NN,appos,Xxxx,0.0
+"Competition, Demo Day, Networking",Competition,4,2,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Demo Day, Networking",",",4,2,1,",",PUNCT,",",punct,",",0.0
+"Competition, Demo Day, Networking",Demo,4,2,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Demo Day, Networking",Day,4,2,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Competition, Demo Day, Networking",Networking,4,2,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Hackathon, Networking",Conference,3,1,10,Conference,PROPN,NNP,ROOT,Xxxxx,0.0
+"Conference, Hackathon, Networking",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Hackathon, Networking",Hackathon,3,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Hackathon, Networking",Networking,3,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Expo, Festival, Meetup, Networking, Other",Conference,6,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Festival, Meetup, Networking, Other",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Festival, Meetup, Networking, Other",Expo,6,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Festival, Meetup, Networking, Other",Festival,6,1,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Festival, Meetup, Networking, Other",Meetup,6,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Festival, Meetup, Networking, Other",Networking,6,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Festival, Meetup, Networking, Other",Other,6,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Expo, Festival, Networking, Seminar",Conference,5,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Festival, Networking, Seminar",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Festival, Networking, Seminar",Expo,5,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Festival, Networking, Seminar",Festival,5,1,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Festival, Networking, Seminar",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Festival, Networking, Seminar",Seminar,5,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Meetup, Other",Meetup,2,1,6,Meetup,PROPN,NNP,ROOT,Xxxxx,0.0
+"Meetup, Other",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Meetup, Other",Other,2,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Conference, Meetup, Virtual",Conference,3,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Meetup, Virtual",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Meetup, Virtual",Meetup,3,1,6,Meetup,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Meetup, Virtual",Virtual,3,1,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Festival, Seminar",Festival,2,1,8,Festival,PROPN,NNP,ROOT,Xxxxx,0.0
+"Festival, Seminar",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Festival, Seminar",Seminar,2,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Demo Day, Networking",Conference,4,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Demo Day, Networking",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Demo Day, Networking",Demo,4,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Conference, Demo Day, Networking",Day,4,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Conference, Demo Day, Networking",Networking,4,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Conference, Expo, Networking, Other",Conference,4,1,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Expo, Networking, Other",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Conference, Expo, Networking, Other",Expo,4,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Conference, Expo, Networking, Other",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Expo, Networking, Other",Other,4,1,5,other,ADJ,JJ,appos,Xxxxx,0.0
+"Competition, Festival",Competition,2,2,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Festival",",",2,2,1,",",PUNCT,",",punct,",",0.0
+"Competition, Festival",Festival,2,2,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Conference, Festival, Meetup",Conference,3,2,10,conference,NOUN,NN,ROOT,Xxxxx,0.0
+"Conference, Festival, Meetup",",",3,2,1,",",PUNCT,",",punct,",",0.0
+"Conference, Festival, Meetup",Festival,3,2,8,Festival,PROPN,NNP,conj,Xxxxx,0.0
+"Conference, Festival, Meetup",Meetup,3,2,6,meetup,NOUN,NN,appos,Xxxxx,0.0
+"Expo, Networking, Other, Virtual",Expo,4,1,4,expo,NOUN,NN,ROOT,Xxxx,0.0
+"Expo, Networking, Other, Virtual",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Expo, Networking, Other, Virtual",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Expo, Networking, Other, Virtual",Other,4,1,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Expo, Networking, Other, Virtual",Virtual,4,1,7,virtual,ADJ,JJ,appos,Xxxxx,0.0
+"Class, Demo Day, Meetup",Class,4,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Demo Day, Meetup",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Demo Day, Meetup",Demo,4,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Class, Demo Day, Meetup",Day,4,1,3,Day,PROPN,NNP,appos,Xxx,0.0
+"Class, Demo Day, Meetup",Meetup,4,1,6,meetup,NOUN,NN,appos,Xxxxx,0.0
+"Competition, Conference, Expo, Meetup, Networking",Competition,5,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Expo, Meetup, Networking",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Expo, Meetup, Networking",Conference,5,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Expo, Meetup, Networking",Expo,5,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Competition, Conference, Expo, Meetup, Networking",Meetup,5,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Expo, Meetup, Networking",Networking,5,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Competition, Conference, Demo Day, Hackathon, Networking, Seminar",Competition,7,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Demo Day, Hackathon, Networking, Seminar",",",7,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Demo Day, Hackathon, Networking, Seminar",Conference,7,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Hackathon, Networking, Seminar",Demo,7,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Conference, Demo Day, Hackathon, Networking, Seminar",Day,7,1,3,Day,PROPN,NNP,conj,Xxx,0.0
+"Competition, Conference, Demo Day, Hackathon, Networking, Seminar",Hackathon,7,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Hackathon, Networking, Seminar",Networking,7,1,10,Networking,PROPN,NNP,nmod,Xxxxx,0.0
+"Competition, Conference, Demo Day, Hackathon, Networking, Seminar",Seminar,7,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",Competition,8,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",Conference,8,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",Demo,8,1,4,Demo,PROPN,NNP,compound,Xxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",Day,8,1,3,Day,PROPN,NNP,conj,Xxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",Expo,8,1,4,Expo,PROPN,NNP,conj,Xxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",Hackathon,8,1,9,Hackathon,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",Meetup,8,1,6,Meetup,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Demo Day, Expo, Hackathon, Meetup, Networking",Networking,8,1,10,networking,NOUN,NN,appos,Xxxxx,0.0
+"Competition, Conference, Networking, Other, Seminar",Competition,5,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Networking, Other, Seminar",",",5,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Networking, Other, Seminar",Conference,5,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Networking, Other, Seminar",Networking,5,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Networking, Other, Seminar",Other,5,1,5,other,ADJ,JJ,amod,Xxxxx,0.0
+"Competition, Conference, Networking, Other, Seminar",Seminar,5,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Expo, Festival, Seminar",Expo,3,1,4,expo,NOUN,NN,ROOT,Xxxx,0.0
+"Expo, Festival, Seminar",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Expo, Festival, Seminar",Festival,3,1,8,Festival,PROPN,NNP,appos,Xxxxx,0.0
+"Expo, Festival, Seminar",Seminar,3,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0
+"Class, Conference",Class,2,1,5,class,NOUN,NN,ROOT,Xxxxx,0.0
+"Class, Conference",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Class, Conference",Conference,2,1,10,conference,NOUN,NN,appos,Xxxxx,0.0
+"Competition, Conference, Networking, Seminar",Competition,4,1,11,competition,NOUN,NN,ROOT,Xxxxx,0.0
+"Competition, Conference, Networking, Seminar",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Competition, Conference, Networking, Seminar",Conference,4,1,10,Conference,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Networking, Seminar",Networking,4,1,10,Networking,PROPN,NNP,conj,Xxxxx,0.0
+"Competition, Conference, Networking, Seminar",Seminar,4,1,7,Seminar,PROPN,NNP,appos,Xxxxx,0.0

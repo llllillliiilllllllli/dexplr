@@ -1,0 +1,16 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Seed,Seed,1,2,4,seed,NOUN,NN,ROOT,Xxxx,0.0
+Grant,Grant,1,2,5,grant,VERB,VB,ROOT,Xxxxx,0.0
+"Early Stage Venture, Seed",Early,4,1,5,early,ADJ,JJ,amod,Xxxxx,0.0
+"Early Stage Venture, Seed",Stage,4,1,5,Stage,PROPN,NNP,compound,Xxxxx,0.0
+"Early Stage Venture, Seed",Venture,4,1,7,Venture,PROPN,NNP,ROOT,Xxxxx,0.0
+"Early Stage Venture, Seed",",",4,1,1,",",PUNCT,",",punct,",",0.0
+"Early Stage Venture, Seed",Seed,4,1,4,seed,NOUN,NN,appos,Xxxx,0.0
+Venture,Venture,1,1,7,venture,NOUN,NN,ROOT,Xxxxx,0.0
+"Convertible Note, Early Stage Venture, Seed",Convertible,6,1,11,Convertible,PROPN,NNP,compound,Xxxxx,0.0
+"Convertible Note, Early Stage Venture, Seed",Note,6,1,4,Note,PROPN,NNP,ROOT,Xxxx,0.0
+"Convertible Note, Early Stage Venture, Seed",",",6,1,1,",",PUNCT,",",punct,",",0.0
+"Convertible Note, Early Stage Venture, Seed",Early,6,1,5,Early,PROPN,NNP,amod,Xxxxx,0.0
+"Convertible Note, Early Stage Venture, Seed",Stage,6,1,5,Stage,PROPN,NNP,compound,Xxxxx,0.0
+"Convertible Note, Early Stage Venture, Seed",Venture,6,1,7,Venture,PROPN,NNP,npadvmod,Xxxxx,0.0
+"Convertible Note, Early Stage Venture, Seed",Seed,6,1,4,seed,NOUN,NN,appos,Xxxx,0.0

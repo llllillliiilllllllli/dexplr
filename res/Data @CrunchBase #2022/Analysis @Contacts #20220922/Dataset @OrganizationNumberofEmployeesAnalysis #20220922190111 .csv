@@ -1,0 +1,3 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+10001+,10001,1,1000,5,10001,NUM,CD,ROOT,dddd,0.0
+10001+,+,1,1000,1,+,PROPN,NNP,punct,+,0.0

@@ -1,0 +1,5 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Google,Google,1,912,6,Google,PROPN,NNP,ROOT,Xxxxx,0.0
+Intel,Intel,1,69,5,Intel,PROPN,NNP,ROOT,Xxxxx,0.0
+Meta,Meta,1,17,4,Meta,PROPN,NNP,ROOT,Xxxx,0.0
+NVIDIA,NVIDIA,1,2,6,NVIDIA,PROPN,NNP,ROOT,XXXX,0.0

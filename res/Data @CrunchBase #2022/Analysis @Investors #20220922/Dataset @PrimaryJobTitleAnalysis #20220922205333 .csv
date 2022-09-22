@@ -1,0 +1,49 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Managing Partner,Managing,2,2,8,manage,VERB,VBG,compound,Xxxxx,0.0
+Managing Partner,Partner,2,2,7,Partner,PROPN,NNP,ROOT,Xxxxx,0.0
+Co-Founder,Co,1,3,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-Founder,-,1,3,1,-,PROPN,NNP,punct,-,0.0
+Co-Founder,Founder,1,3,7,Founder,PROPN,NNP,conj,Xxxxx,0.0
+Founder,Founder,1,3,7,founder,NOUN,NN,ROOT,Xxxxx,0.0
+Founder and CEO,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder and CEO,and,3,1,3,and,CCONJ,CC,cc,xxx,0.0
+Founder and CEO,CEO,3,1,3,ceo,NOUN,NN,conj,XXX,0.0
+Founder &amp; CEO,Founder,3,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; CEO,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; CEO,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; CEO,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; CEO,CEO,3,1,3,ceo,NOUN,NN,appos,XXX,0.0
+Advisor,Advisor,1,1,7,Advisor,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Chief,9,1,5,Chief,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Product,9,1,7,Product,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Officer,9,1,7,Officer,PROPN,NNP,ROOT,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",",",9,1,1,",",PUNCT,",",punct,",",0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Executive,9,1,9,Executive,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Vice,9,1,4,Vice,PROPN,NNP,compound,Xxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",President,9,1,9,President,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",-,9,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Creative,9,1,8,Creative,PROPN,NNP,compound,Xxxxx,0.0
+"Chief Product Officer, Executive Vice President - Creative Cloud",Cloud,9,1,5,Cloud,PROPN,NNP,appos,Xxxxx,0.0
+Chair &amp; Co-CEO,Chair,3,1,5,chair,NOUN,NN,ROOT,Xxxxx,0.0
+Chair &amp; Co-CEO,&,3,1,1,&,CCONJ,CC,cc,&,0.0
+Chair &amp; Co-CEO,amp,3,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Chair &amp; Co-CEO,;,3,1,1,;,PUNCT,:,punct,;,0.0
+Chair &amp; Co-CEO,Co,3,1,2,Co,PROPN,NNP,appos,Xx,0.0
+Chair &amp; Co-CEO,-,3,1,1,-,PROPN,NNP,conj,-,0.0
+Chair &amp; Co-CEO,CEO,3,1,3,ceo,NOUN,NN,appos,XXX,0.0
+Founder &amp; General Partner,Founder,4,1,7,Founder,PROPN,NNP,ROOT,Xxxxx,0.0
+Founder &amp; General Partner,&,4,1,1,&,CCONJ,CC,cc,&,0.0
+Founder &amp; General Partner,amp,4,1,3,amp,PROPN,NNP,conj,xxx,0.0
+Founder &amp; General Partner,;,4,1,1,;,PUNCT,:,punct,;,0.0
+Founder &amp; General Partner,General,4,1,7,General,PROPN,NNP,compound,Xxxxx,0.0
+Founder &amp; General Partner,Partner,4,1,7,Partner,PROPN,NNP,appos,Xxxxx,0.0
+Product and Business Helper,Product,4,1,7,product,NOUN,NN,nmod,Xxxxx,0.0
+Product and Business Helper,and,4,1,3,and,CCONJ,CC,cc,xxx,0.0
+Product and Business Helper,Business,4,1,8,Business,PROPN,NNP,conj,Xxxxx,0.0
+Product and Business Helper,Helper,4,1,6,helper,NOUN,NN,ROOT,Xxxxx,0.0
+Co-founder,Co,1,1,2,co,NOUN,NN,ROOT,Xx,0.0
+Co-founder,-,1,1,1,-,NOUN,NN,prep,-,0.0
+Co-founder,founder,1,1,7,founder,NOUN,NN,npadvmod,xxxx,0.0
+Founding Partner,Founding,2,2,8,found,VERB,VBG,compound,Xxxxx,0.0
+Founding Partner,Partner,2,2,7,partner,NOUN,NN,ROOT,Xxxxx,0.0
+Partner,Partner,1,1,7,partner,NOUN,NN,ROOT,Xxxxx,0.0

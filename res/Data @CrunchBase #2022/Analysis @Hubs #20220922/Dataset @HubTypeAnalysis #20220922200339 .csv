@@ -1,0 +1,1001 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Founded Year, Startup",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Founded Year, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Founded Year, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Founded Year, Funding Stage",[Stage],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Founded Year, Location, Startup",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Founded Year, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Founded Year, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Founded Year, Location, Startup",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Founded Year, Location, Startup",[],0,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Founded Year, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Company, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Employee Range, Location","[Company, Location]",2,[],0,[Active],1
+"Active, Investments in Location, Investor Type","[Investments, Location]",2,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1
+"Active, Industry, Company, Location",[Location],1,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Employee Range",[],0,[],0,[Active],1
+"Active, Industry, Company, Revenue Range",[],0,[],0,[Active],1
+"Active, Company, Location, Revenue Range",[Company],1,[],0,[Active],1

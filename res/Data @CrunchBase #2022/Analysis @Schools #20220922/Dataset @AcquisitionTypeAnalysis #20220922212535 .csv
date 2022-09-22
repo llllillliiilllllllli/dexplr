@@ -1,0 +1,4 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Acquisition,Acquisition,1,13,11,acquisition,NOUN,NN,ROOT,Xxxxx,0.0
+Leveraged Buyout,Leveraged,2,3,9,Leveraged,PROPN,NNP,compound,Xxxxx,0.0
+Leveraged Buyout,Buyout,2,3,6,Buyout,PROPN,NNP,ROOT,Xxxxx,0.0

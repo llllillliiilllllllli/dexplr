@@ -1,0 +1,922 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Grant, Seed",[Seed],1,[],0,[],0
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Initial Coin Offering, Late Stage Venture, Seed, Venture",[],0,[],0,[Initial],1
+Seed,[Seed],1,[],0,[],0
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity, Secondary Market",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Grant, Non Equity Assistance, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed, Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Grant, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Grant",[Debt],1,[],0,[],0
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Non Equity Assistance, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Grant, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Grant,[],0,[Grant],1,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Non Equity Assistance, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Grant, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Post-Ipo, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Grant, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed, Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[],0,[],0,[Early],1
+Late Stage Venture,[],0,[],0,[Late],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+Non Equity Assistance,[],0,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Crowdfunding, Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity, Secondary Market",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Debt, Early Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Secondary Market, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Late Stage Venture, Private Equity",[],0,[],0,[Late],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Grant, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Non Equity Assistance, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Debt, Early Stage Venture, Late Stage Venture, Private Equity, Secondary Market, Seed, Venture",[Debt],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture",[Debt],1,[],0,[Early],1
+"Late Stage Venture, Private Equity",[],0,[],0,[Late],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Private Equity, Seed, Venture",[],0,[],0,[Early],1
+"Convertible Note, Debt, Early Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+Crowdfunding,[],0,[Crowdfunding],1,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Grant,[],0,[Grant],1,[],0
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Initial Coin Offering, Late Stage Venture, Seed",[Seed],1,[],0,"[Early, Initial]",2
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Late Stage Venture, Private Equity",[],0,[],0,[Late],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[Debt],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Private Equity, Venture",[],0,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+Grant,[],0,[Grant],1,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Debt, Seed","[Debt, Seed]",2,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+Grant,[],0,[Grant],1,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Non Equity Assistance,[],0,[],0,[],0
+"Convertible Note, Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Debt, Early Stage Venture",[Debt],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Secondary Market, Seed",[Seed],1,[],0,[Early],1
+Late Stage Venture,[],0,[],0,[Late],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Non Equity Assistance, Seed",[Seed],1,[],0,[],0
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Non Equity Assistance,[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Non Equity Assistance,[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Seed","[Debt, Seed]",2,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Late Stage Venture, Private Equity",[],0,[],0,[Late],1
+"Convertible Note, Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo","[Debt, Ipo]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Debt,[Debt],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Grant, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Crowdfunding,[],0,[Crowdfunding],1,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Grant, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Initial Coin Offering,[Offering],1,[],0,[Initial],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Debt,[Debt],1,[],0,[],0
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Grant",[Debt],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Grant, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Grant,[],0,[Grant],1,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+Seed,[Seed],1,[],0,[],0
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity, Secondary Market",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Late Stage Venture, Private Equity",[],0,[],0,[Late],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Late Stage Venture, Private Equity",[Debt],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity, Seed",[Seed],1,[],0,[Early],1
+Late Stage Venture,[],0,[],0,[Late],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Private Equity, Secondary Market, Seed, Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Convertible Note, Early Stage Venture, Private Equity, Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Grant, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Late Stage Venture,[],0,[],0,[Late],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Late Stage Venture,[],0,[],0,[Late],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Grant",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Secondary Market, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Debt, Private Equity",[Debt],1,[],0,[],0
+"Late Stage Venture, Private Equity",[],0,[],0,[Late],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Late Stage Venture, Non Equity Assistance, Post-Ipo, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Seed",[Seed],1,[],0,[],0
+"Convertible Note, Early Stage Venture, Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+Seed,[Seed],1,[],0,[],0
+"Debt, Early Stage Venture, Non Equity Assistance, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Late Stage Venture,[],0,[],0,[Late],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Secondary Market",[Debt],1,[],0,"[Early, Secondary]",2
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Private Equity",[Debt],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo, Venture",[Debt],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[],0
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Crowdfunding, Early Stage Venture, Late Stage Venture, Secondary Market, Seed","[Crowdfunding, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Late Stage Venture, Post-Ipo, Private Equity",[],0,[],0,[Late],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Initial Coin Offering, Seed",[Seed],1,[],0,"[Early, Initial]",2
+"Grant, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Post-Ipo, Private Equity, Secondary Market, Seed",[Seed],1,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Secondary Market",[Debt],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Debt, Private Equity",[Debt],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+Grant,[],0,[Grant],1,[],0
+"Late Stage Venture, Seed",[Seed],1,[],0,[Late],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Grant",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Private Equity, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Initial Coin Offering, Seed",[Seed],1,[],0,"[Early, Initial]",2
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Late Stage Venture, Private Equity",[],0,[],0,[Late],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Private Equity, Seed, Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Venture,[Venture],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Seed, Venture",[],0,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Private Equity, Seed, Venture",[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Debt, Late Stage Venture, Private Equity",[Debt],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Grant, Seed",[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+Seed,[Seed],1,[],0,[],0
+Seed,[Seed],1,[],0,[],0
+"Late Stage Venture, Secondary Market",[],0,[],0,[Late],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Post-Ipo",[Ipo],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+Private Equity,[],0,[],0,[],0
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Convertible Note, Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity, Secondary Market, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Late Stage Venture,[],0,[],0,[Late],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Seed, Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Post-Ipo",[Ipo],1,[],0,[Early],1
+"Late Stage Venture, Venture",[],0,[],0,[Late],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Late Stage Venture, Private Equity, Secondary Market",[Debt],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Grant, Late Stage Venture, Private Equity, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Private Equity",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Debt, Seed","[Debt, Seed]",2,[],0,[],0
+"Debt, Early Stage Venture, Late Stage Venture",[Debt],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Venture",[],0,[],0,[Early],1
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Seed","[Debt, Seed]",2,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+Non Equity Assistance,[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Debt, Early Stage Venture, Late Stage Venture, Post-Ipo","[Debt, Ipo]",2,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+Early Stage Venture,[],0,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Private Equity",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed, Venture",[],0,[],0,[Early],1
+Seed,[Seed],1,[],0,[],0
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Late Stage Venture",[],0,[],0,[Early],1
+"Seed, Venture",[],0,[],0,[],0
+"Early Stage Venture, Late Stage Venture, Seed",[Seed],1,[],0,[Early],1
+"Early Stage Venture, Seed",[Seed],1,[],0,[Early],1

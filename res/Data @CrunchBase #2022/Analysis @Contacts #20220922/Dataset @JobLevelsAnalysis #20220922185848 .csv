@@ -1,0 +1,5 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Executive,Executive,1,260,9,executive,NOUN,NN,ROOT,Xxxxx,0.0
+VP,VP,1,201,2,VP,PROPN,NNP,ROOT,XX,0.0
+Director,Director,1,346,8,director,NOUN,NN,ROOT,Xxxxx,0.0
+Manager,Manager,1,193,7,manager,NOUN,NN,ROOT,Xxxxx,0.0

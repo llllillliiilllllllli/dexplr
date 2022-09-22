@@ -1,0 +1,722 @@
+﻿Text,Noun,Number of Nouns,Verb,Number of Verbs,Adjective,Number of Adjectives
+"E-Commerce, E-Learning, Language Learning",[-],1,[],0,[],0
+"Business Development, Finance, Financial Services, Venture Capital",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Continuing Education, Corporate Training, Higher Education, SaaS, STEM Education, Universities",[Universities],1,[],0,[],0
+"Business Intelligence, E-Learning, Education, Knowledge Management, Universities",[Universities],1,[],0,[],0
+"Continuing Education, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"EdTech, Education, Training, Universities",[Universities],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"Association, Business Development, Education, Medical, Social Entrepreneurship",[],0,[],0,[],0
+"EdTech, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"EdTech, Education, Training",[Training],1,[],0,[],0
+"Education, Product Design, UX Design, Web Design, Web Development","[Education, Web, Web]",3,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Information Technology",[Education],1,[],0,[],0
+"Art, Education, Human Resources, Industrial Engineering, Law Enforcement, Medical, Performing Arts","[Art, Arts]",2,[Performing],1,[],0
+"Continuing Education, EdTech, Education, Higher Education, STEM Education, Training, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Training","[Education, Training]",2,[],0,[],0
+"EdTech, Education, Universities",[Universities],1,[],0,[],0
+"Association, Biotechnology, Education, Medical, Pharmaceutical",[],0,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Continuing Education, Corporate Training, E-Learning, Education, Financial Services",[],0,[],0,[],0
+"Education, UX Design, Web Development","[Education, Web]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Health Care, Hospital, Universities",[Universities],1,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+"EdTech, Education, Universities",[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Computer, Education, Higher Education, Information Technology, Software Engineering, STEM Education",[],0,[],0,[],0
+"EdTech, Education, Energy Storage, Higher Education, Solar, Universities",[Universities],1,[],0,[],0
+"Education, Market Research, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, Education, Higher Education, Legal","[E, -]",2,[],0,[Legal],1
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Business Development, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education, Journalism, Online Portals","[Education, Portals]",2,[],0,[],0
+"Education, Service Industry, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, EdTech, Education, Higher Education","[E, -]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Aerospace, Education",[],0,[],0,[],0
+"Education, Higher Education, Primary Education, Secondary Education",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Alumni, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education, Information Technology, Web Development","[Education, Web]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Information Technology",[Education],1,[],0,[],0
+"Consumer Research, Government, Health Care, Health Diagnostics, Market Research, Product Research",[],0,[],0,[],0
+"EdTech, Education, Higher Education, Software Engineering",[],0,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Higher Education, Non Profit, Universities","[Education, Universities]",2,[],0,[],0
+"Charter Schools, Education, Higher Education",[],0,[],0,[],0
+"E-Learning, EdTech, Higher Education, Personal Development, STEM Education, Training","[E, -, Training]",3,[],0,[],0
+"Education, Market Research, Non Profit",[Education],1,[],0,[],0
+"E-Learning, Education, Health Care","[E, -]",2,[],0,[],0
+"Business Development, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Biotechnology, Education, Neuroscience",[Neuroscience],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Biotechnology, Education, Health Care, Information Services, Information Technology, Medical",[],0,[],0,[],0
+"Education, Social Entrepreneurship, Universities","[Education, Universities]",2,[],0,[],0
+"Digital Media, Social Media, Training",[Training],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Health Care, Higher Education, Medical",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Medical",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Non Profit, Universities","[Education, Universities]",2,[],0,[],0
+"Continuing Education, EdTech, Education, STEM Education, Training",[Training],1,[],0,[],0
+"E-Learning, Education, Tutoring","[E, -]",2,[],0,[],0
+"Education, Non Profit, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Association, Career Planning, Education, Universities",[Universities],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"Advice, Education",[Advice],1,[],0,[],0
+"Artificial Intelligence, Association, Education, Universities",[Universities],1,[],0,[],0
+"Education, Health Care, Higher Education, Medical",[Education],1,[],0,[],0
+"Continuing Education, Education, Higher Education, STEM Education, Universities",[Universities],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Public Relations, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Agriculture, Education, Higher Education, Life Science, Natural Resources, Universities",[Universities],1,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"E-Learning, Education, Health Care, Higher Education, Medical","[E, -]",2,[],0,[],0
+"Continuing Education, Education, Higher Education, Training, Universities","[Training, Universities]",2,[],0,[],0
+"Education, Innovation Management, Market Research, Mechanical Engineering, Non Profit, Product Research",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Social Entrepreneurship, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Social Entrepreneurship, Universities","[Education, Universities]",2,[],0,[],0
+"Artificial Intelligence, EdTech, Education, Machine Learning",[],0,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"EdTech, Education, Product Research, Travel",[Travel],1,[],0,[],0
+"Education, Medical, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, Education, Higher Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"EdTech, Education, Universities",[Universities],1,[],0,[],0
+"Artificial Intelligence, Consulting, Education, Graphic Design, Information Technology, Management Consulting, Product Management, Software, Venture Capital",[],0,[],0,[],0
+"Education, Personal Development, Universities","[Education, Universities]",2,[],0,[],0
+"Art, Education, Higher Education, Search Engine, Universities","[Art, Universities]",2,[],0,[],0
+"E-Learning, Education, Training","[E, -, Training]",3,[],0,[],0
+"Biotechnology, Education, Genetics, Health Care, Non Profit",[],0,[],0,[],0
+"E-Learning, Education, Higher Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Health Care, Hospitality, Training","[Education, Training]",2,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Public Relations",[Education],1,[],0,[],0
+"Education, Human Resources, Outsourcing, Software, Training","[Education, Training]",2,[],0,[],0
+"Biotechnology, Health Care, Information Services, Medical, Non Profit",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Health Care, Universities","[Education, Universities]",2,[],0,[],0
+"Health Care, Hospital, Medical, Pharmaceutical",[],0,[],0,[],0
+"E-Learning, EBooks, Education, Higher Education","[E, -]",2,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+Higher Education,[Education],1,[],0,[Higher],1
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Continuing Education, EdTech, Education, Higher Education, STEM Education, Universities, Vocational Education",[],0,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"EdTech, Education, Higher Education, STEM Education, Universities",[Universities],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Higher Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"Higher Education, Training, Vocational Education",[],0,[],0,[Higher],1
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Communities, Education, Higher Education, Robotics",[Robotics],1,[],0,[],0
+"Education, Higher Education, Medical, Training, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Hardware, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Art, Education, Universities","[Art, Universities]",2,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Biotechnology, Education",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Medical, Universities",[Universities],1,[],0,[],0
+"Business Development, Education, Sales",[Sales],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Higher Education,[Education],1,[],0,[Higher],1
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Health Care, Hospital, Medical, Medical Device",[],0,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Civil Engineering, Education, Universities",[Universities],1,[],0,[],0
+"Career Planning, EdTech, Education, Higher Education",[Career],1,[],0,[],0
+"Career Planning, Education, Higher Education, Universities","[Career, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Clinical Trials, Education, Health Care, Medical, Training",[Training],1,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Education, Health Care, Medical",[Education],1,[],0,[],0
+"Art, Education, Interior Design",[Art],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Artificial Intelligence, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"E-Learning, Education, Higher Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Health Care, Medical",[Education],1,[],0,[],0
+"E-Learning, Education","[E, -]",2,[],0,[],0
+"Communities, Education, Lifestyle",[],0,[],0,[],0
+"Career Planning, Education, Higher Education",[Career],1,[],0,[],0
+Health Care,[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Training","[Education, Training]",2,[],0,[],0
+"Education, Information Technology, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Graphic Design, Health Care, Higher Education",[],0,[],0,[],0
+Artificial Intelligence,[],0,[],0,[],0
+"Education, Non Profit, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Non Profit, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Corporate Training, Education, Higher Education, Universities",[Universities],1,[],0,[Corporate],1
+"Consumer, Education, Higher Education, Training","[Consumer, Training]",2,[],0,[],0
+"Education, Health Care",[Education],1,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Continuing Education, Education, Higher Education, STEM Education, Training",[Training],1,[],0,[],0
+"Continuing Education, E-Learning, EdTech, Education, Higher Education, Product Research, Training, Universities",[Universities],1,[],0,[],0
+"Art, Education, Universities","[Art, Universities]",2,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"E-Learning, EBooks, Education","[E, -, Education]",3,[],0,[],0
+"Education, Information Technology, Software",[Education],1,[],0,[],0
+"E-Learning, Education, Higher Education, Training","[E, -, Training]",3,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Health Care, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Health Care, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Higher Education, Life Science, Universities",[Universities],1,[],0,[Higher],1
+"Health Care, Hospital, Medical",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Continuing Education, EdTech, Education, Higher Education, Training, Vocational Education",[],0,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Business Intelligence, Charter Schools, Knowledge Management",[],0,[],0,[],0
+"Continuing Education, EdTech, Higher Education, Music Education, STEM Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Sporting Goods, Sports, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Medical, Product Research",[Education],1,[],0,[],0
+"E-Learning, Education, Health Care, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, EdTech, Education, Higher Education, Secondary Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Digital Marketing, EdTech, Education, Higher Education, Human Resources, Sales, UX Design, Web Development",[Web],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Art, Education, Higher Education",[Art],1,[],0,[],0
+"Higher Education, Non Profit, STEM Education, Universities",[Universities],1,[],0,[Higher],1
+"Artificial Intelligence, Continuing Education, Education, Higher Education, Software, Training, Web Development",[Web],1,[],0,[],0
+"Association, EdTech, Education, Health Care, Higher Education, Medical, Non Profit",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, EdTech, Education, Higher Education","[E, -]",2,[],0,[],0
+"Education, Health Care",[Education],1,[],0,[],0
+"Clinical Trials, Market Research, Non Profit",[],0,[],0,[],0
+"Adult, Higher Education, Universities","[Adult, Universities]",2,[],0,[],0
+"Education, Higher Education, Primary Education",[Education],1,[],0,[],0
+"Education, Market Research, Universities","[Education, Universities]",2,[],0,[],0
+"College Recruiting, Education, Performing Arts",[Arts],1,[Performing],1,[],0
+"Association, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Education, Government, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Association, Education, Health Care, Hospital, Medical, Non Profit",[],0,[],0,[],0
+"E-Learning, Education, Higher Education","[E, -]",2,[],0,[],0
+"Education, Information Technology",[Education],1,[],0,[],0
+"Education, Software",[Education],1,[],0,[],0
+"Clinical Trials, Education, Health Care, Medical, Training",[Training],1,[],0,[],0
+"Agriculture, EdTech, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education, Training","[Education, Training]",2,[],0,[],0
+"Education, Health Care, Universities","[Education, Universities]",2,[],0,[],0
+"Biotechnology, Business Development, Education, Universities",[Universities],1,[],0,[],0
+"E-Learning, Education, Higher Education","[E, -]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Software",[Education],1,[],0,[],0
+"EdTech, Education, Knowledge Management, Universities",[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Health Care, Information Technology, Lighting",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"EdTech, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Art, Education, Universities","[Art, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"B2B, Big Data, Blockchain, Cryptocurrency, Marketing Automation, Sales Automation",[],0,[],0,[],0
+Marketplace,[Marketplace],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"EdTech, Education, Market Research, Universities",[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Non Profit",[Education],1,[],0,[],0
+"Association, Biotechnology, Education, Health Care, Non Profit",[],0,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+3D Printing,[Printing],1,[],0,[3D],1
+"Alternative Medicine, Education, Health Care",[],0,[],0,[],0
+"Continuing Education, E-Learning, Education, Higher Education, STEM Education, Universities",[Universities],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Solar",[Education],1,[],0,[],0
+"Career Planning, Education",[Career],1,[],0,[],0
+"Association, Communities, Higher Education",[],0,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Knowledge Management, Skill Assessment",[Education],1,[],0,[],0
+Higher Education,[Education],1,[],0,[Higher],1
+"EdTech, Higher Education, Universities",[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"Education, Health Care, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Children, E-Learning, Education",[Children],1,[],0,[],0
+"Continuing Education, EdTech, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Industrial Design, Information Technology, Training","[Education, Training]",2,[],0,[],0
+"EdTech, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"E-Learning, Education, Higher Education","[E, -]",2,[],0,[],0
+"Consulting, Education, Medical, Universities",[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Aerospace, Education, Universities",[Universities],1,[],0,[],0
+"Association, Communities, Education, Non Profit",[],0,[],0,[],0
+"Education, Health Care, Medical",[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Construction, E-Learning, Education, Mechanical Engineering",[Construction],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Health Care, Medical",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Architecture, Art, Education",[Architecture],1,[],0,[],0
+"Education, Health Care, Higher Education",[Education],1,[],0,[],0
+"EdTech, Education, Health Care, Higher Education",[],0,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+"Communities, Education, Higher Education",[],0,[],0,[],0
+"Education, Information Technology, Non Profit",[Education],1,[],0,[],0
+"Angel Investment, B2B, Venture Capital",[],0,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Continuing Education, Corporate Training, E-Learning, EdTech, Education, Higher Education, Training, Vocational Education",[],0,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Association, Civil Engineering, Education, Mechanical Engineering, Non Profit",[],0,[],0,[],0
+"Education, Social Entrepreneurship, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Secondary Education, STEM Education, Training","[Education, Training]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"EdTech, Education, Universities",[Universities],1,[],0,[],0
+"Career Planning, Education",[Career],1,[],0,[],0
+"Association, Universities",[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+Information Technology,[],0,[],0,[],0
+"College Recruiting, E-Learning, Higher Education",[],0,[],0,[],0
+"Education, Non Profit, Secondary Education",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"College Recruiting, Education, Universities",[Universities],1,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+"Event Management, Event Promotion, Events, Wellness","[Event, Wellness]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Recruiting, Religion",[Education],1,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Higher Education, Training","[Education, Training]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Artificial Intelligence, Computer Vision, Hardware, Human Computer Interaction, Machine Learning, Market Research, Natural Language Processing, Robotics, Software",[],0,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Genetics, Health Care, Medical",[],0,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"College Recruiting, E-Learning, Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"EdTech, Education",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Higher Education, Market Research, Universities",[Universities],1,[],0,[Higher],1
+"Education, Skill Assessment, Web Apps","[Education, Web]",2,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"E-Learning, Education, Higher Education, Non Profit, Universities","[E, -, Universities]",3,[],0,[],0
+"Corporate Training, Education, Higher Education, Universities",[Universities],1,[],0,[Corporate],1
+"Education, Online Portals, Training","[Education, Training]",2,[],0,[],0
+"Art, E-Learning, EdTech, Universities","[Art, Universities]",2,[],0,[],0
+"EdTech, Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+"Education, Music","[Education, Music]",2,[],0,[],0
+"Genetics, Non Profit",[],0,[],0,[],0
+"Health Care, Medical",[],0,[],0,[],0
+Higher Education,[Education],1,[],0,[Higher],1
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+Education,[Education],1,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+"Art, Communities, Education",[Art],1,[],0,[],0
+"Education, Information Technology",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"Agriculture, Education, Mechanical Engineering",[],0,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Education, Higher Education, Non Profit",[Education],1,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"EdTech, Education, Higher Education, STEM Education, Universities",[Universities],1,[],0,[],0
+"Consumer Research, Education, Skill Assessment",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Business Development, Education, Universities",[Universities],1,[],0,[],0
+"Big Data, Business Development, Education, Universities",[Universities],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, STEM Education",[Education],1,[],0,[],0
+"Journalism, Network Security, Training",[Training],1,[],0,[],0
+"Education, Higher Education, Training","[Education, Training]",2,[],0,[],0
+"Art, Education, Universities","[Art, Universities]",2,[],0,[],0
+"Business Development, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Communities, Education, Higher Education",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"E-Learning, EdTech","[E, -]",2,[],0,[],0
+"Communities, Education",[],0,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Communities, Education, Professional Services",[],0,[],0,[],0
+"Children, E-Learning, Education",[Children],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Charter Schools, Education",[],0,[],0,[],0
+"Education, Higher Education, Online Portals","[Education, Portals]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Business Intelligence, Education, Tutoring",[],0,[],0,[],0
+"Biopharma, Higher Education, Life Science, Universities",[Universities],1,[],0,[],0
+"Education, Medical, Universities","[Education, Universities]",2,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Higher Education, Medical, Universities",[Universities],1,[],0,[Higher],1
+"Music, Training, Universities","[Music, Training, Universities]",3,[],0,[],0
+"Education, Higher Education, Medical, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Alumni, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Government","[Education, Government]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"College Recruiting, Education, Higher Education",[],0,[],0,[],0
+"EdTech, Education, Higher Education",[],0,[],0,[],0
+"Education, Higher Education, STEM Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, Education, Higher Education","[E, -]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"E-Learning, Education, Non Profit","[E, -]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Ediscovery, EdTech, Education, Higher Education, Non Profit, STEM Education, Universities",[Universities],1,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Career Planning, Education, Social Entrepreneurship",[Career],1,[],0,[],0
+"Environmental Consulting, Non Profit",[],0,[],0,[],0
+"Education, Health Care, Medical",[Education],1,[],0,[],0
+"EdTech, Education, Universities",[Universities],1,[],0,[],0
+"Education, Primary Education, Secondary Education",[Education],1,[],0,[],0
+"Education, Tutoring, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"EdTech, Education, Universities",[Universities],1,[],0,[],0
+"Education, Information Technology",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Alternative Medicine, Education, Medical",[],0,[],0,[],0
+"Clinical Trials, E-Learning, Education, Universities",[Universities],1,[],0,[],0
+"Genetics, Health Care",[],0,[],0,[],0
+"Biopharma, Medical Device",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Children, Education, Training","[Children, Training]",2,[],0,[],0
+"Biotechnology, Education, Health Care, Medical",[],0,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"E-Learning, Education","[E, -]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Training","[Education, Training]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Higher Education, Residential",[Education],1,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Accounting, Education, Human Resources, Training","[Accounting, Training]",2,[],0,[],0
+"Communication Hardware, Education, Higher Education, Journalism",[],0,[],0,[],0
+"Education, Higher Education, Primary Education",[Education],1,[],0,[],0
+"Education, Nanotechnology, Non Profit",[Education],1,[],0,[],0
+"Education, Higher Education, Life Science, Psychology","[Education, Psychology]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Art, Education, STEM Education",[Art],1,[],0,[],0
+"Education, Medical, Universities","[Education, Universities]",2,[],0,[],0
+Health Care,[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Non Profit, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Personal Development, Service Industry",[Education],1,[],0,[],0
+"Art, College Recruiting, E-Learning, Education, Universities","[Art, Universities]",2,[],0,[],0
+"Art, Universities","[Art, Universities]",2,[],0,[],0
+"Education, Higher Education, Service Industry",[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Higher Education, Non Profit, Universities",[Universities],1,[],0,[Higher],1
+"Communities, Education, Non Profit",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Communities, Higher Education, Universities","[Communities, Universities]",2,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"E-Learning, Education, Training","[E, -, Training]",3,[],0,[],0
+"Communities, Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education, Secondary Education",[Education],1,[],0,[],0
+"Education, Higher Education, Training","[Education, Training]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Higher Education, Non Profit, Universities",[Universities],1,[],0,[Higher],1
+"Higher Education, Primary Education",[],0,[],0,[Higher],1
+"Higher Education, Professional Services",[],0,[],0,[Higher],1
+"Cyber Security, Education, Information Technology, Network Security, Training",[Training],1,[],0,[],0
+"Education, Higher Education, Training","[Education, Training]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Music Education",[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Chemical Engineering, Civil Engineering, Environmental Engineering, Industrial Engineering, Information Technology, Mechanical Engineering, Software Engineering, Universities",[Universities],1,[],0,[],0
+"Developer Tools, Education, Web Design, Web Development","[Web, Web]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"Higher Education, Universities",[Universities],1,[],0,[Higher],1
+"Artificial Intelligence, Finance, Financial Services, Incubators, Venture Capital",[],0,[],0,[],0
+"E-Learning, Education, Tutoring","[E, -]",2,[],0,[],0
+"Education, Virtual Reality","[Education, Reality]",2,[],0,[Virtual],1
+Education,[Education],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Internet, Robotics, Software",[Education],1,[],0,[],0
+"Education, Health Care, Training","[Education, Training]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+Nanotechnology,[Nanotechnology],1,[],0,[],0
+"EdTech, Education, Higher Education, STEM Education, Universities",[Universities],1,[],0,[],0
+"Communities, EdTech, Education",[],0,[],0,[],0
+"Health Care, Higher Education",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Personal Development, Training, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Internet","[Education, Internet]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Business Development, Education, Universities",[Universities],1,[],0,[],0
+"Education, Service Industry, Tutoring",[Education],1,[],0,[],0
+Health Care,[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Non Profit",[Education],1,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"Biometrics, Medical, Universities","[Biometrics, Universities]",2,[],0,[],0
+"Business Development, E-Learning, EdTech, Education, Training",[Training],1,[],0,[],0
+"E-Learning, EBooks, Education, Higher Education","[E, -]",2,[],0,[],0
+"Association, Communities, Education, Non Profit",[],0,[],0,[],0
+"E-Learning, Education, Universities","[E, -, Universities]",3,[],0,[],0
+"E-Learning, Education, Higher Education","[E, -]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Health Care, Higher Education, Universities",[Universities],1,[],0,[],0
+"Art, Education, Women's",[Art],1,[],0,[],0
+"Association, Computer, Education, Information Technology, Search Engine, Universities",[Universities],1,[],0,[],0
+"Education, Financial Services, Training","[Education, Training]",2,[],0,[],0
+"Cyber Security, Infrastructure, Product Research, Training",[Training],1,[],0,[],0
+"Communities, Education",[],0,[],0,[],0
+"EdTech, Education, Primary Education",[],0,[],0,[],0
+"Education, Veterinary",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Higher Education, Nursing and Residential Care, Universities","[Nursing, Universities]",2,[],0,[Higher],1
+"Education, Vocational Education",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"E-Learning, Education","[E, -]",2,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"EdTech, Education, Knowledge Management",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Product Management, Project Management",[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Business Intelligence, Digital Media, Journalism, Public Relations, Satellite Communication, Social Media, Sports",[Sports],1,[],0,[],0
+"Education, Product Research",[Education],1,[],0,[],0
+"Education, Non Profit, Universities","[Education, Universities]",2,[],0,[],0
+"Career Planning, Higher Education, Training, Universities","[Career, Training, Universities]",3,[],0,[],0
+"Education, Non Profit",[Education],1,[],0,[],0
+Higher Education,[Education],1,[],0,[Higher],1
+"Association, E-Learning, Education, Knowledge Management, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Agriculture, Higher Education",[Agriculture],1,[],0,[],0
+"Coffee, Supply Chain Management, Training","[Coffee, Training]",2,[],0,[],0
+"Consulting, Education, Information Technology",[],0,[],0,[],0
+"Education, Training","[Education, Training]",2,[],0,[],0
+Higher Education,[Education],1,[],0,[Higher],1
+"E-Learning, Education, Higher Education, Universities","[E, -, Universities]",3,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Non Profit, Universities","[Education, Universities]",2,[],0,[],0
+"Charity, Education, Non Profit",[Charity],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Language Learning, Training","[Education, Training]",2,[],0,[],0
+"Education, Primary Education, Secondary Education",[Education],1,[],0,[],0
+"Education, Electronics, Software Engineering",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Information Technology, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Energy","[Education, Energy]",2,[],0,[],0
+Universities,[Universities],1,[],0,[],0
+"Education, Family, Social",[Education],1,[],0,[],0
+"Education, Primary Education, Therapeutics","[Education, Therapeutics]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Association, Non Profit",[],0,[],0,[],0
+"Charter Schools, Education, Higher Education",[],0,[],0,[],0
+"Agriculture, Consumer Research, Food Processing","[Agriculture, Processing]",2,[],0,[],0
+"E-Learning, EdTech, Education","[E, -]",2,[],0,[],0
+"Communities, Education",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Non Profit, Professional Services, Training","[Education, Training]",2,[],0,[],0
+"3D Technology, Education, Higher Education, Universities",[Universities],1,[],0,[],0
+"E-Learning, Education","[E, -]",2,[],0,[],0
+"Journalism, Non Profit, Professional Services",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Pet, Training, Veterinary","[Pet, Training]",2,[],0,[],0
+"E-Learning, EBooks, Education","[E, -, Education]",3,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"Higher Education, Universities",[Universities],1,[],0,[Higher],1
+"Government, Non Profit",[Government],1,[],0,[],0
+"Health Care, Higher Education, Medical, Universities",[Universities],1,[],0,[],0
+"Career Planning, Education, Higher Education",[Career],1,[],0,[],0
+"Higher Education, Secondary Education",[],0,[],0,[Higher],1
+"Education, Higher Education",[Education],1,[],0,[],0
+"Communities, Higher Education, Intellectual Property, Training","[Communities, Training]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Music","[Education, Music]",2,[],0,[],0
+"Education, Information Technology, Telecommunications",[Education],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"College Recruiting, Higher Education, Universities",[Universities],1,[],0,[],0
+"Education, Higher Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+"Primary Education, Secondary Education",[],0,[],0,[],0
+"Adventure Travel, Education, Service Industry",[],0,[],0,[],0
+"Education, Knowledge Management, Universities","[Education, Universities]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Primary Education, Secondary Education",[],0,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Training","[Education, Training]",2,[],0,[],0
+"Education, Finance, Social Entrepreneurship",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Information Technology, Software, Universities",[Universities],1,[],0,[],0
+"Charter Schools, Collaboration, Education, Innovation Management",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0
+Publishing,[Publishing],1,[],0,[],0
+"Health Care, Universities",[Universities],1,[],0,[],0
+"Association, Education, Non Profit, Security",[Security],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Innovation Management, Universities","[Education, Universities]",2,[],0,[],0
+"Education, STEM Education",[Education],1,[],0,[],0
+"Accounting, Education, Non Profit",[Accounting],1,[],0,[],0
+"Communities, Education, Universities",[Universities],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Alternative Medicine, Health Care, Medical",[],0,[],0,[],0
+"Environmental Consulting, Environmental Engineering",[],0,[],0,[],0
+"Primary Education, Secondary Education",[],0,[],0,[],0
+"Education, Health Care",[Education],1,[],0,[],0
+"Big Data, Cloud Computing, Cyber Security, Health Diagnostics, Law Enforcement, Legal, Market Research, Medical, National Security, Politics, Public Safety, Search Engine",[],0,[],0,[],0
+"Education, Non Profit",[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"E-Learning, Education, Non Profit","[E, -]",2,[],0,[],0
+Education,[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Incubators, Software, Training","[Education, Training]",2,[],0,[],0
+"Corporate Training, E-Learning, Education, Higher Education, Universities",[Universities],1,[],0,[Corporate],1
+"Charity, Higher Education, Non Profit",[Charity],1,[],0,[],0
+"E-Learning, Education, Medical, Training","[E, -, Training]",3,[],0,[],0
+Education,[Education],1,[],0,[],0
+Education,[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, STEM Education, Training, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Universities","[Education, Universities]",2,[],0,[],0
+"Education, Non Profit",[Education],1,[],0,[],0
+"Art, Education",[Art],1,[],0,[],0
+"Education, Primary Education",[Education],1,[],0,[],0
+"Higher Education, Medical",[],0,[],0,[Higher],1
+"Primary Education, Secondary Education",[],0,[],0,[],0
+"Primary Education, Secondary Education",[],0,[],0,[],0
+"Education, Higher Education",[Education],1,[],0,[],0
+"Education, Higher Education, Universities","[Education, Universities]",2,[],0,[],0
+"Charter Schools, Education",[],0,[],0,[],0
+"E-Learning, Education, Information Technology","[E, -]",2,[],0,[],0
+"Accounting, Business Development, Education, Finance, Financial Services, Non Profit",[Accounting],1,[],0,[],0
+Higher Education,[Education],1,[],0,[Higher],1
+Education,[Education],1,[],0,[],0
+"Education, Training, Universities","[Education, Training, Universities]",3,[],0,[],0
+"Primary Education, Secondary Education",[],0,[],0,[],0
+"Consulting, Education",[],0,[],0,[],0
+Education,[Education],1,[],0,[],0

@@ -1,0 +1,1077 @@
+﻿Text,Token,Count,Freq,Length,Lemma,PoS,Tag,Dep,Shape,Sentiment
+Lando,Lando,1,1,5,lando,NOUN,NN,ROOT,Xxxxx,0.0
+Benjelloun,Benjelloun,1,1,10,Benjelloun,PROPN,NNP,ROOT,Xxxxx,0.0
+Ben-Chanoch,Ben,1,1,3,Ben,PROPN,NNP,compound,Xxx,0.0
+Ben-Chanoch,-,1,1,1,-,PROPN,NNP,punct,-,0.0
+Ben-Chanoch,Chanoch,1,1,7,Chanoch,PROPN,NNP,ROOT,Xxxxx,0.0
+Srinivasan,Srinivasan,1,1,10,srinivasan,NOUN,NN,ROOT,Xxxxx,0.0
+Williams,Williams,1,4,8,Williams,PROPN,NNP,ROOT,Xxxxx,0.0
+Brown,Brown,1,2,5,Brown,PROPN,NNP,ROOT,Xxxxx,0.0
+Oringer,Oringer,1,1,7,Oringer,VERB,VBG,ROOT,Xxxxx,0.0
+Bangalore Shivaraman,Bangalore,2,1,9,Bangalore,PROPN,NNP,compound,Xxxxx,0.0
+Bangalore Shivaraman,Shivaraman,2,1,10,Shivaraman,PROPN,NNP,ROOT,Xxxxx,0.0
+Nagel,Nagel,1,1,5,nagel,NOUN,NN,ROOT,Xxxxx,0.0
+Wright,Wright,1,1,6,wright,NOUN,NN,ROOT,Xxxxx,0.0
+Songhurst,Songhurst,1,1,9,songhurst,ADV,RB,ROOT,Xxxxx,0.0
+Gogoi,Gogoi,1,1,5,Gogoi,PROPN,NNP,ROOT,Xxxxx,0.0
+Puri,Puri,1,3,4,Puri,PROPN,NNP,ROOT,Xxxx,0.0
+Gupta,Gupta,1,9,5,Gupta,NOUN,NNS,ROOT,Xxxxx,0.0
+Groom,Groom,1,1,5,groom,NOUN,NN,ROOT,Xxxxx,0.0
+Neumann,Neumann,1,1,7,Neumann,PROPN,NNP,ROOT,Xxxxx,0.0
+Mohapatra,Mohapatra,1,1,9,Mohapatra,PROPN,NNP,ROOT,Xxxxx,0.0
+Karim,Karim,1,1,5,Karim,PROPN,NNP,ROOT,Xxxxx,0.0
+Moses,Moses,1,1,5,Moses,PROPN,NNP,ROOT,Xxxxx,0.0
+Altman,Altman,1,3,6,altman,NOUN,NN,ROOT,Xxxxx,0.0
+Sharma,Sharma,1,6,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Valet,Valet,1,1,5,valet,NOUN,NN,ROOT,Xxxxx,0.0
+Barreyat,Barreyat,1,1,8,barreyat,X,FW,ROOT,Xxxxx,0.0
+Deshpande,Deshpande,1,1,9,deshpande,VERB,VB,ROOT,Xxxxx,0.0
+Boday,Boday,1,1,5,Boday,PROPN,NNP,ROOT,Xxxxx,0.0
+Srupsrisopa,Srupsrisopa,1,1,11,Srupsrisopa,PROPN,NNP,ROOT,Xxxxx,0.0
+Shah,Shah,1,4,4,shah,NOUN,NN,ROOT,Xxxx,0.0
+Naik,Naik,1,1,4,naik,NOUN,NN,ROOT,Xxxx,0.0
+Chowdhury,Chowdhury,1,1,9,Chowdhury,PROPN,NNP,ROOT,Xxxxx,0.0
+Schagen,Schagen,1,1,7,Schagen,PROPN,NNP,ROOT,Xxxxx,0.0
+Lian,Lian,1,1,4,Lian,PROPN,NNP,ROOT,Xxxx,0.0
+Montelli,Montelli,1,1,8,Montelli,PROPN,NNP,ROOT,Xxxxx,0.0
+Lin,Lin,1,1,3,Lin,PROPN,NNP,ROOT,Xxx,0.0
+Khare,Khare,1,1,5,Khare,PROPN,NNP,ROOT,Xxxxx,0.0
+Govil,Govil,1,1,5,govil,ADJ,JJ,ROOT,Xxxxx,0.0
+Schantz,Schantz,1,2,7,Schantz,PROPN,NNP,ROOT,Xxxxx,0.0
+Belsky,Belsky,1,1,6,Belsky,PROPN,NNP,ROOT,Xxxxx,0.0
+Kan,Kan,1,1,3,Kan,PROPN,NNP,ROOT,Xxx,0.0
+Polny,Polny,1,1,5,polny,NOUN,NN,ROOT,Xxxxx,0.0
+Singh,Singh,1,8,5,Singh,PROPN,NNP,ROOT,Xxxxx,0.0
+Bansal,Bansal,1,5,6,bansal,NOUN,NN,ROOT,Xxxxx,0.0
+Sang,Sang,1,1,4,sang,NOUN,NN,ROOT,Xxxx,0.0
+Cardone,Cardone,1,1,7,cardone,NOUN,NN,ROOT,Xxxxx,0.0
+Ohanian,Ohanian,1,1,7,ohanian,ADJ,JJ,ROOT,Xxxxx,0.0
+Kanani,Kanani,1,1,6,Kanani,PROPN,NNP,ROOT,Xxxxx,0.0
+Lakhotia,Lakhotia,1,1,8,lakhotia,NOUN,NN,ROOT,Xxxxx,0.0
+Demirors,Demirors,1,1,8,demiror,NOUN,NNS,ROOT,Xxxxx,0.0
+Herman,Herman,1,1,6,herman,NOUN,NN,ROOT,Xxxxx,0.0
+Moradi,Moradi,1,1,6,moradi,NOUN,NN,ROOT,Xxxxx,0.0
+Khoshniyati,Khoshniyati,1,1,11,Khoshniyati,PROPN,NNP,ROOT,Xxxxx,0.0
+Neman,Neman,1,1,5,neman,NOUN,NN,ROOT,Xxxxx,0.0
+Alagh,Alagh,1,1,5,alagh,NOUN,NN,ROOT,Xxxxx,0.0
+Burke,Burke,1,1,5,burke,NOUN,NN,ROOT,Xxxxx,0.0
+prediksi top hk,prediksi,3,1,8,prediksi,PROPN,NNP,compound,xxxx,0.0
+prediksi top hk,top,3,1,3,top,PROPN,NNP,compound,xxx,0.0
+prediksi top hk,hk,3,1,2,hk,PROPN,NNP,ROOT,xx,0.0
+Kulechov,Kulechov,1,1,8,Kulechov,PROPN,NNP,ROOT,Xxxxx,0.0
+Izyumov,Izyumov,1,1,7,Izyumov,PROPN,NNP,ROOT,Xxxxx,0.0
+Valta,Valta,1,1,5,Valta,PROPN,NNP,ROOT,Xxxxx,0.0
+Arnal,Arnal,1,1,5,arnal,ADJ,JJ,ROOT,Xxxxx,0.0
+Saenz Valiente,Saenz,2,1,5,Saenz,PROPN,NNP,compound,Xxxxx,0.0
+Saenz Valiente,Valiente,2,1,8,Valiente,PROPN,NNP,ROOT,Xxxxx,0.0
+Reinsberg,Reinsberg,1,1,9,Reinsberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Thakkar,Thakkar,1,1,7,thakkar,NOUN,NN,ROOT,Xxxxx,0.0
+Durant,Durant,1,1,6,durant,ADJ,JJ,ROOT,Xxxxx,0.0
+Yang,Yang,1,1,4,Yang,PROPN,NNP,ROOT,Xxxx,0.0
+Mahaniok,Mahaniok,1,1,8,Mahaniok,NOUN,NNS,ROOT,Xxxxx,0.0
+Hansen,Hansen,1,1,6,Hansen,PROPN,NNP,ROOT,Xxxxx,0.0
+Kelman,Kelman,1,1,6,Kelman,PROPN,NNP,ROOT,Xxxxx,0.0
+bocoranjitu.org,bocoranjitu.org,1,7,15,bocoranjitu.org,ADV,RB,ROOT,xxxx.xxx,0.0
+Borget,Borget,1,1,6,borget,VERB,VB,ROOT,Xxxxx,0.0
+Hartz,Hartz,1,2,5,Hartz,PROPN,NNP,ROOT,Xxxxx,0.0
+Suleyman,Suleyman,1,1,8,suleyman,NOUN,NN,ROOT,Xxxxx,0.0
+Carnegie,Carnegie,1,1,8,carnegie,NOUN,NN,ROOT,Xxxxx,0.0
+Nunn,Nunn,1,1,4,Nunn,PROPN,NNP,ROOT,Xxxx,0.0
+Kennedy,Kennedy,1,1,7,Kennedy,PROPN,NNP,ROOT,Xxxxx,0.0
+Paris,Paris,1,1,5,Paris,PROPN,NNP,ROOT,Xxxxx,0.0
+Ravikant,Ravikant,1,1,8,ravikant,ADJ,JJ,ROOT,Xxxxx,0.0
+Zanon,Zanon,1,1,5,zanon,NOUN,NN,ROOT,Xxxxx,0.0
+Kalra,Kalra,1,1,5,kalra,ADJ,JJ,ROOT,Xxxxx,0.0
+Wojcicki,Wojcicki,1,2,8,Wojcicki,PROPN,NNP,ROOT,Xxxxx,0.0
+Wahi,Wahi,1,1,4,wahi,ADJ,JJ,ROOT,Xxxx,0.0
+Matthews,Matthews,1,1,8,matthew,NOUN,NNS,ROOT,Xxxxx,0.0
+Vizcaino Jordan,Vizcaino,2,1,8,Vizcaino,PROPN,NNP,compound,Xxxxx,0.0
+Vizcaino Jordan,Jordan,2,1,6,Jordan,PROPN,NNP,ROOT,Xxxxx,0.0
+prediksitogelhk.one,prediksitogelhk.one,1,2,19,prediksitogelhk.one,X,ADD,ROOT,xxxx.xxx,0.0
+Regev,Regev,1,1,5,Regev,PROPN,NNP,ROOT,Xxxxx,0.0
+Ibanez,Ibanez,1,1,6,ibanez,NOUN,NN,ROOT,Xxxxx,0.0
+Shalunov,Shalunov,1,1,8,shalunov,NOUN,NN,ROOT,Xxxxx,0.0
+Kumar,Kumar,1,2,5,Kumar,PROPN,NNP,ROOT,Xxxxx,0.0
+Spaulding Ryan Ph.D,Spaulding,3,1,9,spaulde,VERB,VBG,ROOT,Xxxxx,0.0
+Spaulding Ryan Ph.D,Ryan,3,1,4,Ryan,PROPN,NNP,compound,Xxxx,0.0
+Spaulding Ryan Ph.D,Ph,3,1,2,Ph,PROPN,NNP,dobj,Xx,0.0
+Spaulding Ryan Ph.D,.,3,1,1,.,PROPN,NNP,dobj,.,0.0
+Spaulding Ryan Ph.D,D,3,1,1,d,NOUN,NN,dobj,X,0.0
+Adelsbach,Adelsbach,1,1,9,Adelsbach,NOUN,NNS,ROOT,Xxxxx,0.0
+Engler,Engler,1,1,6,engler,NOUN,NN,ROOT,Xxxxx,0.0
+Siminoff,Siminoff,1,1,8,siminoff,NOUN,NN,ROOT,Xxxxx,0.0
+Marcaida,Marcaida,1,1,8,Marcaida,PROPN,NNP,ROOT,Xxxxx,0.0
+Reinhardt,Reinhardt,1,1,9,reinhardt,ADV,RB,ROOT,Xxxxx,0.0
+Yakovenko,Yakovenko,1,1,9,Yakovenko,PROPN,NNP,ROOT,Xxxxx,0.0
+Hari ini,Hari,2,1,4,hari,NOUN,NN,compound,Xxxx,0.0
+Hari ini,ini,2,1,3,ini,NOUN,NN,ROOT,xxx,0.0
+Leibowitz,Leibowitz,1,1,9,Leibowitz,PROPN,NNP,ROOT,Xxxxx,0.0
+Investors,Investors,1,2,9,investor,NOUN,NNS,ROOT,Xxxxx,0.0
+Akhund,Akhund,1,1,6,akhund,ADP,IN,ROOT,Xxxxx,0.0
+Leydon,Leydon,1,1,6,Leydon,PROPN,NNP,ROOT,Xxxxx,0.0
+Menon,Menon,1,2,5,Menon,PROPN,NNP,ROOT,Xxxxx,0.0
+Fei,Fei,1,1,3,fei,NOUN,NN,ROOT,Xxx,0.0
+Galvin,Galvin,1,1,6,galvin,NOUN,NN,ROOT,Xxxxx,0.0
+Terry,Terry,1,1,5,Terry,PROPN,NNP,ROOT,Xxxxx,0.0
+Barua,Barua,1,1,5,barua,NOUN,NN,ROOT,Xxxxx,0.0
+Eghbali,Eghbali,1,1,7,eghbali,NOUN,NN,ROOT,Xxxxx,0.0
+C. Jensen,C.,2,2,2,C.,PROPN,NNP,compound,X.,0.0
+C. Jensen,Jensen,2,2,6,Jensen,PROPN,NNP,ROOT,Xxxxx,0.0
+Buchheit,Buchheit,1,1,8,buchheit,NOUN,NN,ROOT,Xxxxx,0.0
+Ramnani,Ramnani,1,1,7,ramnani,ADJ,JJ,ROOT,Xxxxx,0.0
+Warwick,Warwick,1,1,7,Warwick,PROPN,NNP,ROOT,Xxxxx,0.0
+Pearce,Pearce,1,1,6,pearce,NOUN,NN,ROOT,Xxxxx,0.0
+Hoffman,Hoffman,1,1,7,hoffman,NOUN,NN,ROOT,Xxxxx,0.0
+Jaffrey,Jaffrey,1,1,7,Jaffrey,PROPN,NNP,ROOT,Xxxxx,0.0
+Christoforou,Christoforou,1,1,12,Christoforou,PROPN,NNP,ROOT,Xxxxx,0.0
+Masad,Masad,1,1,5,Masad,PROPN,NNP,ROOT,Xxxxx,0.0
+Grover,Grover,1,1,6,Grover,PROPN,NNP,ROOT,Xxxxx,0.0
+Andreessen,Andreessen,1,1,10,andreessen,NOUN,NN,ROOT,Xxxxx,0.0
+Thapaliya,Thapaliya,1,1,9,thapaliya,NOUN,NN,ROOT,Xxxxx,0.0
+Somani,Somani,1,1,6,Somani,PROPN,NNP,ROOT,Xxxxx,0.0
+Hughes Johnson,Hughes,2,1,6,Hughes,PROPN,NNP,compound,Xxxxx,0.0
+Hughes Johnson,Johnson,2,1,7,Johnson,PROPN,NNP,ROOT,Xxxxx,0.0
+Mahaffey,Mahaffey,1,1,8,mahaffey,NOUN,NN,ROOT,Xxxxx,0.0
+Tafsir Buku Mimpi 2d 3d 4d,Tafsir,6,1,6,Tafsir,PROPN,NNP,compound,Xxxxx,0.0
+Tafsir Buku Mimpi 2d 3d 4d,Buku,6,1,4,Buku,PROPN,NNP,compound,Xxxx,0.0
+Tafsir Buku Mimpi 2d 3d 4d,Mimpi,6,1,5,Mimpi,PROPN,NNP,compound,Xxxxx,0.0
+Tafsir Buku Mimpi 2d 3d 4d,2d,6,1,2,2d,NOUN,NNS,ROOT,dx,0.0
+Tafsir Buku Mimpi 2d 3d 4d,3d,6,1,2,3d,PUNCT,NFP,ROOT,dx,0.0
+Tafsir Buku Mimpi 2d 3d 4d,4d,6,1,2,4d,NUM,CD,npadvmod,dx,0.0
+Hughes,Hughes,1,1,6,hughe,NOUN,NNS,ROOT,Xxxxx,0.0
+Aoun,Aoun,1,1,4,Aoun,PROPN,NNP,ROOT,Xxxx,0.0
+Mittal,Mittal,1,2,6,mittal,ADJ,JJ,ROOT,Xxxxx,0.0
+Gross,Gross,1,1,5,gross,NOUN,NN,ROOT,Xxxxx,0.0
+Rutledge,Rutledge,1,1,8,Rutledge,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran Angka Jitu SGP,Bocoran,4,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Angka Jitu SGP,Angka,4,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Angka Jitu SGP,Jitu,4,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Angka Jitu SGP,SGP,4,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Ramachandran,Ramachandran,1,1,12,ramachandran,NOUN,NN,ROOT,Xxxxx,0.0
+Pincus,Pincus,1,1,6,pincus,NOUN,NN,ROOT,Xxxxx,0.0
+Nandwani,Nandwani,1,1,8,Nandwani,PROPN,NNP,ROOT,Xxxxx,0.0
+Reddy,Reddy,1,1,5,reddy,NOUN,NN,ROOT,Xxxxx,0.0
+Jain,Jain,1,4,4,jain,NOUN,NN,ROOT,Xxxx,0.0
+Haarman,Haarman,1,1,7,haarman,NOUN,NN,ROOT,Xxxxx,0.0
+Tercepat Hari ini,Tercepat,3,1,8,Tercepat,PROPN,NNP,compound,Xxxxx,0.0
+Tercepat Hari ini,Hari,3,1,4,Hari,PROPN,NNP,compound,Xxxx,0.0
+Tercepat Hari ini,ini,3,1,3,ini,NOUN,NN,ROOT,xxx,0.0
+Lütke,Lütke,1,1,5,lütke,PRON,DT,ROOT,Xxxxx,0.0
+Poria,Poria,1,1,5,Poria,PROPN,NNP,ROOT,Xxxxx,0.0
+Mehta,Mehta,1,4,5,Mehta,PROPN,NNP,ROOT,Xxxxx,0.0
+Dockendorf,Dockendorf,1,1,10,Dockendorf,NOUN,NNS,ROOT,Xxxxx,0.0
+North,North,1,1,5,north,ADJ,JJ,ROOT,Xxxxx,0.0
+Tai,Tai,1,1,3,tai,VERB,VB,ROOT,Xxx,0.0
+Bankman-Fried,Bankman,1,1,7,Bankman,PROPN,NNP,compound,Xxxxx,0.0
+Bankman-Fried,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Bankman-Fried,Fried,1,1,5,Fried,PROPN,NNP,ROOT,Xxxxx,0.0
+Maharajan,Maharajan,1,1,9,Maharajan,PROPN,NNP,ROOT,Xxxxx,0.0
+Banta,Banta,1,1,5,Banta,PROPN,NNP,ROOT,Xxxxx,0.0
+GoDenzi,GoDenzi,1,1,7,GoDenzi,PROPN,NNP,ROOT,XxXxxxx,0.0
+Richter,Richter,1,1,7,richter,NOUN,NN,ROOT,Xxxxx,0.0
+keluaran data togel hk,keluaran,4,1,8,keluaran,PROPN,NNP,compound,xxxx,0.0
+keluaran data togel hk,data,4,1,4,data,PROPN,NNP,compound,xxxx,0.0
+keluaran data togel hk,togel,4,1,5,togel,PROPN,NNP,compound,xxxx,0.0
+keluaran data togel hk,hk,4,1,2,hk,PROPN,NNP,ROOT,xx,0.0
+Perez,Perez,1,1,5,Perez,PROPN,NNP,ROOT,Xxxxx,0.0
+Dawes,Dawes,1,1,5,dawe,NOUN,NNS,ROOT,Xxxxx,0.0
+Fang,Fang,1,1,4,Fang,PROPN,NNP,ROOT,Xxxx,0.0
+Bocoran Angka Togel,Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Angka Togel,Angka,3,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Angka Togel,Togel,3,1,5,Togel,PROPN,NNP,ROOT,Xxxxx,0.0
+Gates,Gates,1,1,5,gate,NOUN,NNS,ROOT,Xxxxx,0.0
+Xu,Xu,1,1,2,xu,NOUN,NN,ROOT,Xx,0.0
+Maheshwari,Maheshwari,1,1,10,maheshwari,ADJ,JJ,ROOT,Xxxxx,0.0
+Rauch,Rauch,1,1,5,rauch,NOUN,NN,ROOT,Xxxxx,0.0
+Tan,Tan,1,2,3,tan,VERB,VB,ROOT,Xxx,0.0
+Dey,Dey,1,1,3,dey,NOUN,NN,ROOT,Xxx,0.0
+Balwani,Balwani,1,1,7,Balwani,PROPN,NNP,ROOT,Xxxxx,0.0
+Keane,Keane,1,1,5,keane,NOUN,NN,ROOT,Xxxxx,0.0
+Weil,Weil,1,1,4,weil,NOUN,NN,ROOT,Xxxx,0.0
+Perrone,Perrone,1,1,7,perrone,NOUN,NN,ROOT,Xxxxx,0.0
+MIRHASHEMI,MIRHASHEMI,1,1,10,MIRHASHEMI,PROPN,NNP,ROOT,XXXX,0.0
+Euteneuer,Euteneuer,1,1,9,euteneuer,VERB,VB,ROOT,Xxxxx,0.0
+Bregman,Bregman,1,1,7,bregman,NOUN,NN,ROOT,Xxxxx,0.0
+Dizon,Dizon,1,1,5,dizon,NOUN,NN,ROOT,Xxxxx,0.0
+Prediksi hari ini,Prediksi,3,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+Prediksi hari ini,hari,3,1,4,hari,PROPN,NNP,compound,xxxx,0.0
+Prediksi hari ini,ini,3,1,3,ini,NOUN,NN,ROOT,xxx,0.0
+Hale,Hale,1,1,4,Hale,PROPN,NNP,ROOT,Xxxx,0.0
+Pei,Pei,1,1,3,Pei,PROPN,NNP,ROOT,Xxx,0.0
+Zahedi,Zahedi,1,1,6,zahedi,NOUN,NN,ROOT,Xxxxx,0.0
+Tandon,Tandon,1,1,6,tandon,NOUN,NN,ROOT,Xxxxx,0.0
+Nagori,Nagori,1,1,6,nagori,NOUN,NN,ROOT,Xxxxx,0.0
+Khalid,Khalid,1,1,6,khalid,NOUN,NN,ROOT,Xxxxx,0.0
+Etem,Etem,1,1,4,etem,VERB,VB,ROOT,Xxxx,0.0
+Khuri,Khuri,1,1,5,Khuri,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran Jitu HK,Bocoran,3,2,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu HK,Jitu,3,2,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu HK,HK,3,2,2,HK,PROPN,NNP,ROOT,XX,0.0
+Recanati,Recanati,1,1,8,recanati,NOUN,NN,ROOT,Xxxxx,0.0
+Kalanick,Kalanick,1,1,8,Kalanick,PROPN,NNP,ROOT,Xxxxx,0.0
+Watt,Watt,1,1,4,watt,NOUN,NN,ROOT,Xxxx,0.0
+Sameer,Sameer,1,1,6,sameer,ADJ,JJ,ROOT,Xxxxx,0.0
+Nailwal,Nailwal,1,1,7,nailwal,NOUN,NN,ROOT,Xxxxx,0.0
+Wang,Wang,1,3,4,Wang,PROPN,NNP,ROOT,Xxxx,0.0
+Peng,Peng,1,1,4,Peng,PROPN,NNP,ROOT,Xxxx,0.0
+Shriram,Shriram,1,1,7,shriram,NOUN,NN,ROOT,Xxxxx,0.0
+Mattila,Mattila,1,1,7,mattila,NOUN,NN,ROOT,Xxxxx,0.0
+Munjal,Munjal,1,1,6,munjal,NOUN,NN,ROOT,Xxxxx,0.0
+Doronin,Doronin,1,1,7,Doronin,PROPN,NNP,ROOT,Xxxxx,0.0
+H Bhatt,H,2,1,1,h,NOUN,NN,compound,X,0.0
+H Bhatt,Bhatt,2,1,5,bhatt,NOUN,NN,ROOT,Xxxxx,0.0
+Chapman,Chapman,1,2,7,chapman,NOUN,NN,ROOT,Xxxxx,0.0
+Buckley,Buckley,1,1,7,buckley,NOUN,NN,ROOT,Xxxxx,0.0
+Moglia,Moglia,1,1,6,Moglia,PROPN,NNP,ROOT,Xxxxx,0.0
+Petersen,Petersen,1,1,8,Petersen,PROPN,NNP,ROOT,Xxxxx,0.0
+Curran,Curran,1,1,6,curran,NOUN,NN,ROOT,Xxxxx,0.0
+Jones,Jones,1,1,5,Jones,PROPN,NNP,ROOT,Xxxxx,0.0
+Sethi,Sethi,1,2,5,sethi,NOUN,NN,ROOT,Xxxxx,0.0
+Ashford Ellis,Ashford,2,1,7,Ashford,PROPN,NNP,compound,Xxxxx,0.0
+Ashford Ellis,Ellis,2,1,5,Ellis,PROPN,NNP,ROOT,Xxxxx,0.0
+Spellman,Spellman,1,1,8,spellman,NOUN,NN,ROOT,Xxxxx,0.0
+Gil,Gil,1,1,3,Gil,PROPN,NNP,ROOT,Xxx,0.0
+Borrero,Borrero,1,1,7,Borrero,PROPN,NNP,ROOT,Xxxxx,0.0
+Rau,Rau,1,1,3,rau,VERB,VB,ROOT,Xxx,0.0
+Blomfield,Blomfield,1,1,9,Blomfield,PROPN,NNP,ROOT,Xxxxx,0.0
+bocoran jitu Sinapore,bocoran,3,1,7,bocoran,PROPN,NNP,compound,xxxx,0.0
+bocoran jitu Sinapore,jitu,3,1,4,jitu,PROPN,NNP,compound,xxxx,0.0
+bocoran jitu Sinapore,Sinapore,3,1,8,Sinapore,PROPN,NNP,ROOT,Xxxxx,0.0
+Kode syair hongkong,Kode,3,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Kode syair hongkong,syair,3,1,5,syair,NOUN,NN,nsubj,xxxx,0.0
+Kode syair hongkong,hongkong,3,1,8,hongkong,VERB,VBD,ROOT,xxxx,0.0
+Bocoran Jitu Hongkong,Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu Hongkong,Jitu,3,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu Hongkong,Hongkong,3,1,8,Hongkong,PROPN,NNP,ROOT,Xxxxx,0.0
+Kerrest,Kerrest,1,1,7,Kerrest,PROPN,NNP,ROOT,Xxxxx,0.0
+Kamath,Kamath,1,2,6,Kamath,PROPN,NNP,ROOT,Xxxxx,0.0
+Hari Ini,Hari,2,3,4,hari,NOUN,NN,compound,Xxxx,0.0
+Hari Ini,Ini,2,3,3,ini,NOUN,NN,ROOT,Xxx,0.0
+Dutt,Dutt,1,1,4,dutt,NOUN,NN,ROOT,Xxxx,0.0
+Field,Field,1,1,5,field,NOUN,NN,ROOT,Xxxxx,0.0
+Scott,Scott,1,2,5,Scott,PROPN,NNP,ROOT,Xxxxx,0.0
+Ovitz,Ovitz,1,1,5,ovitz,NOUN,NN,ROOT,Xxxxx,0.0
+Atala,Atala,1,1,5,Atala,PROPN,NNP,ROOT,Xxxxx,0.0
+DeLany,DeLany,1,1,6,DeLany,PROPN,NNP,ROOT,XxXxxx,0.0
+Pichai,Pichai,1,1,6,Pichai,PROPN,NNP,ROOT,Xxxxx,0.0
+Forster,Forster,1,1,7,Forster,PROPN,NNP,ROOT,Xxxxx,0.0
+Maislos,Maislos,1,1,7,maislo,NOUN,NNS,ROOT,Xxxxx,0.0
+Sacca,Sacca,1,1,5,Sacca,PROPN,NNP,ROOT,Xxxxx,0.0
+Lane,Lane,1,1,4,lane,NOUN,NN,ROOT,Xxxx,0.0
+Lucas,Lucas,1,1,5,luca,NOUN,NNS,ROOT,Xxxxx,0.0
+Dusoulier,Dusoulier,1,1,9,dusoulier,ADV,RB,ROOT,Xxxxx,0.0
+Chang,Chang,1,2,5,Chang,PROPN,NNP,ROOT,Xxxxx,0.0
+Fairless,Fairless,1,1,8,fairless,NOUN,NN,ROOT,Xxxxx,0.0
+Safahi,Safahi,1,1,6,safahi,NOUN,NN,ROOT,Xxxxx,0.0
+keluaran angka Hongkong,keluaran,3,1,8,keluaran,PROPN,NNP,nsubj,xxxx,0.0
+keluaran angka Hongkong,angka,3,1,5,angka,VERB,VBD,ROOT,xxxx,0.0
+keluaran angka Hongkong,Hongkong,3,1,8,Hongkong,PROPN,NNP,dobj,Xxxxx,0.0
+Dragon,Dragon,1,1,6,dragon,NOUN,NN,ROOT,Xxxxx,0.0
+Lavine,Lavine,1,1,6,lavine,ADJ,JJ,ROOT,Xxxxx,0.0
+Smith,Smith,1,4,5,smith,NOUN,NN,ROOT,Xxxxx,0.0
+Pantzis,Pantzis,1,1,7,pantzi,NOUN,NNS,ROOT,Xxxxx,0.0
+Weiss,Weiss,1,2,5,weiss,VERB,VB,ROOT,Xxxxx,0.0
+Negus-Fancey,Negus,1,1,5,Negus,PROPN,NNP,compound,Xxxxx,0.0
+Negus-Fancey,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Negus-Fancey,Fancey,1,1,6,Fancey,PROPN,NNP,ROOT,Xxxxx,0.0
+Choksi UAE,Choksi,2,1,6,Choksi,PROPN,NNP,compound,Xxxxx,0.0
+Choksi UAE,UAE,2,1,3,UAE,PROPN,NNP,ROOT,XXX,0.0
+Bocoran Togel Macau – prediksi Toto Macau terjitu,Bocoran,8,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Togel Macau – prediksi Toto Macau terjitu,Togel,8,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Togel Macau – prediksi Toto Macau terjitu,Macau,8,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran Togel Macau – prediksi Toto Macau terjitu,–,8,1,1,–,PUNCT,:,punct,–,0.0
+Bocoran Togel Macau – prediksi Toto Macau terjitu,prediksi,8,1,8,prediksi,NOUN,NN,compound,xxxx,0.0
+Bocoran Togel Macau – prediksi Toto Macau terjitu,Toto,8,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Togel Macau – prediksi Toto Macau terjitu,Macau,8,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Togel Macau – prediksi Toto Macau terjitu,terjitu,8,1,7,terjitu,ADJ,JJ,appos,xxxx,0.0
+Marc Abreu,Marc,2,1,4,Marc,PROPN,NNP,compound,Xxxx,0.0
+Marc Abreu,Abreu,2,1,5,Abreu,PROPN,NNP,ROOT,Xxxxx,0.0
+Mullen,Mullen,1,1,6,Mullen,PROPN,NNP,ROOT,Xxxxx,0.0
+Gove,Gove,1,1,4,gove,VERB,VB,ROOT,Xxxx,0.0
+Vaish,Vaish,1,1,5,vaish,ADJ,JJ,ROOT,Xxxxx,0.0
+Wand,Wand,1,1,4,Wand,PROPN,NNP,ROOT,Xxxx,0.0
+Sanchez,Sanchez,1,1,7,sanchez,NOUN,NN,ROOT,Xxxxx,0.0
+McIlroy,McIlroy,1,1,7,McIlroy,PROPN,NNP,ROOT,XxXxxxx,0.0
+Paul,Paul,1,2,4,Paul,PROPN,NNP,ROOT,Xxxx,0.0
+Goldberg,Goldberg,1,2,8,Goldberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Villig,Villig,1,1,6,villig,NOUN,NN,ROOT,Xxxxx,0.0
+Pitti,Pitti,1,1,5,Pitti,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran Togel Hongkong,Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Togel Hongkong,Togel,3,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Togel Hongkong,Hongkong,3,1,8,Hongkong,PROPN,NNP,ROOT,Xxxxx,0.0
+Vogt,Vogt,1,1,4,vogt,VERB,VB,ROOT,Xxxx,0.0
+Polosukhin,Polosukhin,1,1,10,Polosukhin,NOUN,NNS,ROOT,Xxxxx,0.0
+Ehrlich,Ehrlich,1,1,7,Ehrlich,PROPN,NNP,ROOT,Xxxxx,0.0
+Baker,Baker,1,1,5,Baker,PROPN,NNP,ROOT,Xxxxx,0.0
+McCreesh,McCreesh,1,1,8,McCreesh,PROPN,NNP,ROOT,XxXxxxx,0.0
+Lawson,Lawson,1,1,6,lawson,NOUN,NN,ROOT,Xxxxx,0.0
+Ryan,Ryan,1,1,4,ryan,NOUN,NN,ROOT,Xxxx,0.0
+Navarro de Ros,Navarro,3,1,7,Navarro,PROPN,NNP,nmod,Xxxxx,0.0
+Navarro de Ros,de,3,1,2,de,ADP,IN,nmod,xx,0.0
+Navarro de Ros,Ros,3,1,3,Ros,PROPN,NNP,ROOT,Xxx,0.0
+Dohmke,Dohmke,1,1,6,Dohmke,PROPN,NNP,ROOT,Xxxxx,0.0
+Tibbens,Tibbens,1,1,7,tibbens,ADV,RB,ROOT,Xxxxx,0.0
+Persson,Persson,1,1,7,persson,NOUN,NN,ROOT,Xxxxx,0.0
+Rotter,Rotter,1,1,6,rotter,NOUN,NN,ROOT,Xxxxx,0.0
+Book,Book,1,1,4,book,NOUN,NN,ROOT,Xxxx,0.0
+Cranach,Cranach,1,1,7,cranach,NOUN,NN,ROOT,Xxxxx,0.0
+Touma,Touma,1,2,5,Touma,PROPN,NNP,ROOT,Xxxxx,0.0
+Zerbini,Zerbini,1,1,7,Zerbini,PROPN,NNP,ROOT,Xxxxx,0.0
+Mostaque,Mostaque,1,1,8,mostaque,NOUN,NN,ROOT,Xxxxx,0.0
+Sheth,Sheth,1,1,5,Sheth,PROPN,NNP,ROOT,Xxxxx,0.0
+Hartmann,Hartmann,1,1,8,Hartmann,PROPN,NNP,ROOT,Xxxxx,0.0
+Syair Toto Macau,Syair,3,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Syair Toto Macau,Toto,3,1,4,Toto,PROPN,NNP,compound,Xxxx,0.0
+Syair Toto Macau,Macau,3,1,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Price,Price,1,1,5,price,NOUN,NN,ROOT,Xxxxx,0.0
+Koladiya,Koladiya,1,1,8,Koladiya,PROPN,NNP,ROOT,Xxxxx,0.0
+Katz,Katz,1,1,4,Katz,PROPN,NNP,ROOT,Xxxx,0.0
+Hoss,Hoss,1,1,4,Hoss,PROPN,NNP,ROOT,Xxxx,0.0
+Radvinsky,Radvinsky,1,1,9,radvinsky,NOUN,NN,ROOT,Xxxxx,0.0
+Sawhney,Sawhney,1,1,7,sawhney,NOUN,NN,ROOT,Xxxxx,0.0
+Draper,Draper,1,1,6,draper,NOUN,NN,ROOT,Xxxxx,0.0
+Levels,Levels,1,1,6,level,NOUN,NNS,ROOT,Xxxxx,0.0
+Torossian,Torossian,1,1,9,torossian,ADJ,JJ,ROOT,Xxxxx,0.0
+"Bocoran Angka Jitu,",Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+"Bocoran Angka Jitu,",Angka,3,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+"Bocoran Angka Jitu,",Jitu,3,1,4,Jitu,PROPN,NNP,ROOT,Xxxx,0.0
+"Bocoran Angka Jitu,",",",3,1,1,",",PUNCT,",",punct,",",0.0
+Hinrikus,Hinrikus,1,1,8,hinrikus,VERB,VB,ROOT,Xxxxx,0.0
+Ward,Ward,1,1,4,ward,NOUN,NN,ROOT,Xxxx,0.0
+Nakrani,Nakrani,1,1,7,Nakrani,PROPN,NNP,ROOT,Xxxxx,0.0
+Tata,Tata,1,1,4,Tata,PROPN,NNP,ROOT,Xxxx,0.0
+Put-in-Bay,Put,1,1,3,put,VERB,VB,ROOT,Xxx,0.0
+Put-in-Bay,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Put-in-Bay,in,1,1,2,in,ADP,IN,prep,xx,0.0
+Put-in-Bay,Bay,1,1,3,Bay,PROPN,NNP,pobj,Xxx,0.0
+prediksi toto uvsorb.org,prediksi,3,1,8,prediksi,PROPN,NNP,compound,xxxx,0.0
+prediksi toto uvsorb.org,toto,3,1,4,toto,PROPN,NNP,ROOT,xxxx,0.0
+prediksi toto uvsorb.org,uvsorb.org,3,1,10,uvsorb.org,PROPN,NNP,appos,xxxx.xxx,0.0
+Walker,Walker,1,1,6,walker,NOUN,NN,ROOT,Xxxxx,0.0
+Bharatiya,Bharatiya,1,1,9,bharatiya,NOUN,NN,ROOT,Xxxxx,0.0
+Kiran G,Kiran,2,1,5,Kiran,PROPN,NNP,compound,Xxxxx,0.0
+Kiran G,G,2,1,1,G,PROPN,NNP,ROOT,X,0.0
+Tunstall-Pedoe,Tunstall,1,1,8,Tunstall,PROPN,NNP,compound,Xxxxx,0.0
+Tunstall-Pedoe,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Tunstall-Pedoe,Pedoe,1,1,5,Pedoe,PROPN,NNP,ROOT,Xxxxx,0.0
+Saluja,Saluja,1,1,6,Saluja,PROPN,NNP,ROOT,Xxxxx,0.0
+Zeev,Zeev,1,1,4,Zeev,PROPN,NNP,ROOT,Xxxx,0.0
+Vaynerchuk,Vaynerchuk,1,1,10,vaynerchuk,NOUN,NN,ROOT,Xxxxx,0.0
+Gokongwei,Gokongwei,1,1,9,Gokongwei,PROPN,NNP,ROOT,Xxxxx,0.0
+Zuk,Zuk,1,1,3,Zuk,PROPN,NNP,ROOT,Xxx,0.0
+DeLuca,DeLuca,1,1,6,deluca,NOUN,NN,ROOT,XxXxxx,0.0
+Marks,Marks,1,2,5,mark,NOUN,NNS,ROOT,Xxxxx,0.0
+Sydney HK SGP Ball-Itu-Bola,Sydney,4,1,6,Sydney,PROPN,NNP,compound,Xxxxx,0.0
+Sydney HK SGP Ball-Itu-Bola,HK,4,1,2,HK,PROPN,NNP,compound,XX,0.0
+Sydney HK SGP Ball-Itu-Bola,SGP,4,1,3,SGP,PROPN,NNP,compound,XXX,0.0
+Sydney HK SGP Ball-Itu-Bola,Ball,4,1,4,Ball,PROPN,NNP,compound,Xxxx,0.0
+Sydney HK SGP Ball-Itu-Bola,-,4,1,1,-,PUNCT,HYPH,punct,-,0.0
+Sydney HK SGP Ball-Itu-Bola,Itu,4,1,3,Itu,PROPN,NNP,compound,Xxx,0.0
+Sydney HK SGP Ball-Itu-Bola,Bola,4,1,4,Bola,PROPN,NNP,ROOT,Xxxx,0.0
+Ruan,Ruan,1,1,4,ruan,NOUN,NN,ROOT,Xxxx,0.0
+Douville,Douville,1,1,8,douville,NOUN,NN,ROOT,Xxxxx,0.0
+Bellamy,Bellamy,1,1,7,bellamy,ADJ,JJ,ROOT,Xxxxx,0.0
+Vu,Vu,1,1,2,vu,NOUN,NN,ROOT,Xx,0.0
+Hartnett,Hartnett,1,1,8,Hartnett,PROPN,NNP,ROOT,Xxxxx,0.0
+Li,Li,1,1,2,li,NOUN,NN,ROOT,Xx,0.0
+Krishnamurthy,Krishnamurthy,1,1,13,krishnamurthy,ADJ,JJ,ROOT,Xxxxx,0.0
+Afflelou,Afflelou,1,1,8,Afflelou,PROPN,NNP,ROOT,Xxxxx,0.0
+Kode Syair togel Hongkong Kamis,Kode,5,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Kode Syair togel Hongkong Kamis,Syair,5,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Kode Syair togel Hongkong Kamis,togel,5,1,5,togel,NOUN,NN,compound,xxxx,0.0
+Kode Syair togel Hongkong Kamis,Hongkong,5,1,8,Hongkong,PROPN,NNP,compound,Xxxxx,0.0
+Kode Syair togel Hongkong Kamis,Kamis,5,1,5,Kamis,PROPN,NNP,ROOT,Xxxxx,0.0
+Jahn,Jahn,1,1,4,jahn,NOUN,NN,ROOT,Xxxx,0.0
+Tulchinsky,Tulchinsky,1,1,10,Tulchinsky,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran Togel Singapore,Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Togel Singapore,Togel,3,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Togel Singapore,Singapore,3,1,9,Singapore,PROPN,NNP,ROOT,Xxxxx,0.0
+Massachusetts,Massachusetts,1,1,13,Massachusetts,PROPN,NNP,ROOT,Xxxxx,0.0
+Ries,Ries,1,1,4,rie,NOUN,NNS,ROOT,Xxxx,0.0
+Cadoret,Cadoret,1,1,7,cadoret,NOUN,NN,ROOT,Xxxxx,0.0
+Purkayastha,Purkayastha,1,1,11,purkayastha,NOUN,NN,ROOT,Xxxxx,0.0
+Dixon,Dixon,1,1,5,Dixon,PROPN,NNP,ROOT,Xxxxx,0.0
+Breitman,Breitman,1,1,8,breitman,NOUN,NN,ROOT,Xxxxx,0.0
+Kothari,Kothari,1,1,7,Kothari,PROPN,NNP,ROOT,Xxxxx,0.0
+Geidt,Geidt,1,1,5,Geidt,PROPN,NNP,ROOT,Xxxxx,0.0
+Hykes,Hykes,1,1,5,hyke,NOUN,NNS,ROOT,Xxxxx,0.0
+Melo,Melo,1,1,4,Melo,PROPN,NNP,ROOT,Xxxx,0.0
+Kokorich,Kokorich,1,1,8,kokorich,NOUN,NN,ROOT,Xxxxx,0.0
+Son,Son,1,1,3,Son,PROPN,NNP,ROOT,Xxx,0.0
+Young,Young,1,1,5,young,ADJ,JJ,ROOT,Xxxxx,0.0
+Fieldcamp,Fieldcamp,1,1,9,fieldcamp,NOUN,NN,ROOT,Xxxxx,0.0
+Podjarny,Podjarny,1,1,8,podjarny,VERB,VB,ROOT,Xxxxx,0.0
+Bocoran Jitu Macau,Bocoran,3,2,7,bocoran,ADJ,JJ,compound,Xxxxx,0.0
+Bocoran Jitu Macau,Jitu,3,2,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu Macau,Macau,3,2,5,Macau,PROPN,NNP,ROOT,Xxxxx,0.0
+Bjorkman,Bjorkman,1,1,8,bjorkman,NOUN,NN,ROOT,Xxxxx,0.0
+Ata,Ata,1,1,3,Ata,PROPN,NNP,ROOT,Xxx,0.0
+Priyadarshini,Priyadarshini,1,1,13,priyadarshini,VERB,VB,ROOT,Xxxxx,0.0
+Reynolds,Reynolds,1,1,8,Reynolds,PROPN,NNP,ROOT,Xxxxx,0.0
+Japan,Japan,1,2,5,Japan,PROPN,NNP,ROOT,Xxxxx,0.0
+Baszucki,Baszucki,1,1,8,baszucki,NOUN,NN,ROOT,Xxxxx,0.0
+Syair HK bocoranjitu.org,Syair,3,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Syair HK bocoranjitu.org,HK,3,1,2,HK,PROPN,NNP,compound,XX,0.0
+Syair HK bocoranjitu.org,bocoranjitu.org,3,1,15,bocoranjitu.org,NOUN,NN,ROOT,xxxx.xxx,0.0
+Viswanathan,Viswanathan,1,1,11,Viswanathan,PROPN,NNP,ROOT,Xxxxx,0.0
+Solano,Solano,1,1,6,solano,NOUN,NN,ROOT,Xxxxx,0.0
+Conrad,Conrad,1,1,6,Conrad,PROPN,NNP,ROOT,Xxxxx,0.0
+Ling,Ling,1,1,4,ling,NOUN,NN,ROOT,Xxxx,0.0
+Costolo,Costolo,1,1,7,Costolo,PROPN,NNP,ROOT,Xxxxx,0.0
+BocoranJitu.org HK,BocoranJitu.org,2,1,15,BocoranJitu.org,PROPN,NNP,compound,XxxxxXxxx.xxx,0.0
+BocoranJitu.org HK,HK,2,1,2,HK,PROPN,NNP,ROOT,XX,0.0
+Hallekere,Hallekere,1,1,9,Hallekere,VERB,VBN,ROOT,Xxxxx,0.0
+Rohan,Rohan,1,1,5,Rohan,PROPN,NNP,ROOT,Xxxxx,0.0
+Seibel,Seibel,1,1,6,seibel,NOUN,NN,ROOT,Xxxxx,0.0
+Cotter,Cotter,1,1,6,cotter,NOUN,NN,ROOT,Xxxxx,0.0
+Prince,Prince,1,1,6,prince,NOUN,NN,ROOT,Xxxxx,0.0
+Bonderman,Bonderman,1,1,9,Bonderman,PROPN,NNP,ROOT,Xxxxx,0.0
+Dobrincu,Dobrincu,1,1,8,dobrincu,NOUN,NN,ROOT,Xxxxx,0.0
+Kode Syair Hongkong uvsorb.org,Kode,4,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Kode Syair Hongkong uvsorb.org,Syair,4,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Kode Syair Hongkong uvsorb.org,Hongkong,4,1,8,Hongkong,PROPN,NNP,ROOT,Xxxxx,0.0
+Kode Syair Hongkong uvsorb.org,uvsorb.org,4,1,10,uvsorb.org,NOUN,NN,appos,xxxx.xxx,0.0
+Chukkapalli,Chukkapalli,1,1,11,Chukkapalli,PROPN,NNP,ROOT,Xxxxx,0.0
+Ho,Ho,1,1,2,Ho,PROPN,NNP,ROOT,Xx,0.0
+Agarwal,Agarwal,1,4,7,agarwal,NOUN,NN,ROOT,Xxxxx,0.0
+Megens,Megens,1,1,6,megen,NOUN,NNS,ROOT,Xxxxx,0.0
+Bhati,Bhati,1,1,5,Bhati,PROPN,NNP,ROOT,Xxxxx,0.0
+Klibanoff,Klibanoff,1,1,9,klibanoff,NOUN,NN,ROOT,Xxxxx,0.0
+Bier,Bier,1,1,4,bi,ADJ,JJR,ROOT,Xxxx,0.0
+Lefcourt,Lefcourt,1,1,8,lefcourt,NOUN,NN,ROOT,Xxxxx,0.0
+Dhindsa,Dhindsa,1,1,7,Dhindsa,PROPN,NNP,ROOT,Xxxxx,0.0
+Tercepat,Tercepat,1,2,8,tercepat,NOUN,NN,ROOT,Xxxxx,0.0
+Chaddah,Chaddah,1,1,7,Chaddah,PROPN,NNP,ROOT,Xxxxx,0.0
+Mullenweg,Mullenweg,1,1,9,mullenweg,NOUN,NN,ROOT,Xxxxx,0.0
+DiMenna,DiMenna,1,1,7,DiMenna,PROPN,NNP,ROOT,XxXxxxx,0.0
+Dashoush,Dashoush,1,1,8,Dashoush,PROPN,NNP,ROOT,Xxxxx,0.0
+Cuban,Cuban,1,1,5,cuban,ADJ,JJ,ROOT,Xxxxx,0.0
+Schnaider,Schnaider,1,1,9,schnaider,NOUN,NN,ROOT,Xxxxx,0.0
+Doerr,Doerr,1,1,5,doerr,NOUN,NN,ROOT,Xxxxx,0.0
+Villar,Villar,1,1,6,Villar,PROPN,NNP,ROOT,Xxxxx,0.0
+Stacom,Stacom,1,1,6,Stacom,PROPN,NNP,ROOT,Xxxxx,0.0
+Shori,Shori,1,1,5,shori,NOUN,NN,ROOT,Xxxxx,0.0
+Bocoran Jitu SGP,Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu SGP,Jitu,3,1,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu SGP,SGP,3,1,3,SGP,PROPN,NNP,ROOT,XXX,0.0
+Munj,Munj,1,1,4,munj,NOUN,NN,ROOT,Xxxx,0.0
+HAJJI,HAJJI,1,1,5,HAJJI,PUNCT,.,ROOT,XXXX,0.0
+Favret,Favret,1,1,6,favret,NOUN,NN,ROOT,Xxxxx,0.0
+Curtius,Curtius,1,1,7,Curtius,PROPN,NNP,ROOT,Xxxxx,0.0
+Singer,Singer,1,1,6,singer,NOUN,NN,ROOT,Xxxxx,0.0
+McCann,McCann,1,1,6,McCann,PROPN,NNP,ROOT,XxXxxx,0.0
+Yuan,Yuan,1,1,4,yuan,NOUN,NN,ROOT,Xxxx,0.0
+Luthra,Luthra,1,1,6,luthra,NOUN,NN,ROOT,Xxxxx,0.0
+Amin,Amin,1,1,4,amin,NOUN,NN,ROOT,Xxxx,0.0
+Kagan,Kagan,1,1,5,Kagan,PROPN,NNP,ROOT,Xxxxx,0.0
+Bittner,Bittner,1,1,7,bittner,NOUN,NN,ROOT,Xxxxx,0.0
+Babangida,Babangida,1,1,9,Babangida,PROPN,NNP,ROOT,Xxxxx,0.0
+Tesfaye,Tesfaye,1,1,7,Tesfaye,PROPN,NNP,ROOT,Xxxxx,0.0
+Rein,Rein,1,1,4,rein,NOUN,NN,ROOT,Xxxx,0.0
+Holz,Holz,1,1,4,Holz,PROPN,NNP,ROOT,Xxxx,0.0
+Stoppelman,Stoppelman,1,1,10,Stoppelman,PROPN,NNP,ROOT,Xxxxx,0.0
+Jacobovicz,Jacobovicz,1,1,10,jacobovicz,NOUN,NN,ROOT,Xxxxx,0.0
+"Hannah-Shmouni, MD FRCPC",Hannah,3,1,6,Hannah,PROPN,NNP,compound,Xxxxx,0.0
+"Hannah-Shmouni, MD FRCPC",-,3,1,1,-,PUNCT,HYPH,punct,-,0.0
+"Hannah-Shmouni, MD FRCPC",Shmouni,3,1,7,Shmouni,PROPN,NNP,ROOT,Xxxxx,0.0
+"Hannah-Shmouni, MD FRCPC",",",3,1,1,",",PUNCT,",",punct,",",0.0
+"Hannah-Shmouni, MD FRCPC",MD,3,1,2,MD,PROPN,NNP,compound,XX,0.0
+"Hannah-Shmouni, MD FRCPC",FRCPC,3,1,5,FRCPC,PROPN,NNP,appos,XXXX,0.0
+Sadiq,Sadiq,1,1,5,sadiq,NOUN,NN,ROOT,Xxxxx,0.0
+Alagna,Alagna,1,1,6,Alagna,PROPN,NNP,ROOT,Xxxxx,0.0
+Corona,Corona,1,1,6,corona,NOUN,NN,ROOT,Xxxxx,0.0
+Raveendran,Raveendran,1,1,10,raveendran,NOUN,NN,ROOT,Xxxxx,0.0
+Ellison,Ellison,1,1,7,Ellison,PROPN,NNP,ROOT,Xxxxx,0.0
+C. Wei,C.,2,1,2,C.,PROPN,NNP,compound,X.,0.0
+C. Wei,Wei,2,1,3,Wei,PROPN,NNP,ROOT,Xxx,0.0
+Wu,Wu,1,1,2,Wu,PROPN,NNP,ROOT,Xx,0.0
+Lu,Lu,1,1,2,lu,NOUN,NN,ROOT,Xx,0.0
+Graham (Drake),Graham,2,1,6,Graham,PROPN,NNP,ROOT,Xxxxx,0.0
+Graham (Drake),(,2,1,1,(,PUNCT,-LRB-,punct,(,0.0
+Graham (Drake),Drake,2,1,5,Drake,PROPN,NNP,appos,Xxxxx,0.0
+Graham (Drake),),2,1,1,),PUNCT,-RRB-,punct,),0.0
+Warikoo,Warikoo,1,1,7,warikoo,NOUN,NN,ROOT,Xxxxx,0.0
+Ek,Ek,1,1,2,Ek,PROPN,NNP,ROOT,Xx,0.0
+Chen,Chen,1,3,4,Chen,PROPN,NNP,ROOT,Xxxx,0.0
+Behrens Wu,Behrens,2,1,7,behrens,ADP,IN,ROOT,Xxxxx,0.0
+Behrens Wu,Wu,2,1,2,Wu,PROPN,NNP,pobj,Xx,0.0
+Levy,Levy,1,1,4,levy,NOUN,NN,ROOT,Xxxx,0.0
+Pleterski,Pleterski,1,1,9,Pleterski,PROPN,NNP,ROOT,Xxxxx,0.0
+Kidd,Kidd,1,1,4,Kidd,PROPN,NNP,ROOT,Xxxx,0.0
+Syair Sdy Sabtu,Syair,3,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Syair Sdy Sabtu,Sdy,3,1,3,Sdy,PROPN,NNP,compound,Xxx,0.0
+Syair Sdy Sabtu,Sabtu,3,1,5,Sabtu,PROPN,NNP,ROOT,Xxxxx,0.0
+Petion,Petion,1,1,6,petion,NOUN,NN,ROOT,Xxxxx,0.0
+Mane,Mane,1,1,4,mane,VERB,VB,ROOT,Xxxx,0.0
+Gadit,Gadit,1,1,5,gadit,NOUN,NN,ROOT,Xxxxx,0.0
+Bocoran Angka Main Sydney,Bocoran,4,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Angka Main Sydney,Angka,4,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Angka Main Sydney,Main,4,1,4,Main,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Angka Main Sydney,Sydney,4,1,6,Sydney,PROPN,NNP,ROOT,Xxxxx,0.0
+Zheng,Zheng,1,1,5,Zheng,PROPN,NNP,ROOT,Xxxxx,0.0
+Bitensky,Bitensky,1,1,8,Bitensky,PROPN,NNP,ROOT,Xxxxx,0.0
+Lewis,Lewis,1,2,5,lewis,NOUN,NN,ROOT,Xxxxx,0.0
+Thiel,Thiel,1,1,5,Thiel,PROPN,NNP,ROOT,Xxxxx,0.0
+Singhal,Singhal,1,2,7,singhal,VERB,VB,ROOT,Xxxxx,0.0
+Stone,Stone,1,1,5,stone,NOUN,NN,ROOT,Xxxxx,0.0
+Gandhi,Gandhi,1,1,6,Gandhi,PROPN,NNP,ROOT,Xxxxx,0.0
+Paananen,Paananen,1,1,8,paananen,NOUN,NN,ROOT,Xxxxx,0.0
+Aierken,Aierken,1,1,7,Aierken,PROPN,NNP,ROOT,Xxxxx,0.0
+Sala,Sala,1,1,4,Sala,PROPN,NNP,ROOT,Xxxx,0.0
+Cheraghi,Cheraghi,1,1,8,cheraghi,NOUN,NN,ROOT,Xxxxx,0.0
+UAE,UAE,1,1,3,UAE,PROPN,NNP,ROOT,XXX,0.0
+Kloeckner,Kloeckner,1,1,9,Kloeckner,PROPN,NNP,ROOT,Xxxxx,0.0
+Anandan,Anandan,1,1,7,anandan,ADJ,JJ,ROOT,Xxxxx,0.0
+Shekhar Sharma,Shekhar,2,1,7,Shekhar,PROPN,NNP,compound,Xxxxx,0.0
+Shekhar Sharma,Sharma,2,1,6,Sharma,PROPN,NNP,ROOT,Xxxxx,0.0
+Lamm,Lamm,1,1,4,Lamm,PROPN,NNP,ROOT,Xxxx,0.0
+Curry,Curry,1,1,5,Curry,PROPN,NNP,ROOT,Xxxxx,0.0
+Ready,Ready,1,1,5,ready,ADJ,JJ,ROOT,Xxxxx,0.0
+Cook,Cook,1,2,4,Cook,PROPN,NNP,ROOT,Xxxx,0.0
+Zi Chew,Zi,2,1,2,Zi,PROPN,NNP,compound,Xx,0.0
+Zi Chew,Chew,2,1,4,Chew,PROPN,NNP,ROOT,Xxxx,0.0
+Davis,Davis,1,1,5,Davis,PROPN,NNP,ROOT,Xxxxx,0.0
+Strebinger,Strebinger,1,1,10,strebinger,NOUN,NN,ROOT,Xxxxx,0.0
+Raga,Raga,1,1,4,raga,VERB,VB,ROOT,Xxxx,0.0
+Malik,Malik,1,3,5,Malik,PROPN,NNP,ROOT,Xxxxx,0.0
+Lim,Lim,1,2,3,Lim,PROPN,NNP,ROOT,Xxx,0.0
+Rajaram,Rajaram,1,1,7,Rajaram,PROPN,NNP,ROOT,Xxxxx,0.0
+Testagrossa,Testagrossa,1,1,11,Testagrossa,PROPN,NNP,ROOT,Xxxxx,0.0
+Sheikha,Sheikha,1,1,7,sheikha,NOUN,NN,ROOT,Xxxxx,0.0
+Srivastava,Srivastava,1,1,10,Srivastava,PROPN,NNP,ROOT,Xxxxx,0.0
+Johnston CFO,Johnston,2,1,8,Johnston,PROPN,NNP,compound,Xxxxx,0.0
+Johnston CFO,CFO,2,1,3,CFO,PROPN,NNP,ROOT,XXX,0.0
+Gulati,Gulati,1,1,6,Gulati,PROPN,NNP,ROOT,Xxxxx,0.0
+You,You,1,1,3,you,PRON,PRP,ROOT,Xxx,0.0
+Hoare,Hoare,1,1,5,hoare,NOUN,NN,ROOT,Xxxxx,0.0
+Patil,Patil,1,1,5,Patil,PROPN,NNP,ROOT,Xxxxx,0.0
+Vaidya,Vaidya,1,1,6,vaidya,NOUN,NN,ROOT,Xxxxx,0.0
+Hurst,Hurst,1,1,5,Hurst,PROPN,NNP,ROOT,Xxxxx,0.0
+Seibert,Seibert,1,1,7,seibert,NOUN,NN,ROOT,Xxxxx,0.0
+Chesterman,Chesterman,1,1,10,chesterman,NOUN,NN,ROOT,Xxxxx,0.0
+Allred,Allred,1,1,6,allre,VERB,VBN,ROOT,Xxxxx,0.0
+Jameel KBE,Jameel,2,1,6,Jameel,PROPN,NNP,compound,Xxxxx,0.0
+Jameel KBE,KBE,2,1,3,KBE,PROPN,NNP,ROOT,XXX,0.0
+Branson,Branson,1,1,7,Branson,PROPN,NNP,ROOT,Xxxxx,0.0
+Mathrubootham,Mathrubootham,1,1,13,Mathrubootham,PROPN,NNP,ROOT,Xxxxx,0.0
+Raza,Raza,1,2,4,Raza,PROPN,NNP,ROOT,Xxxx,0.0
+D King,D,2,1,1,d,ADJ,JJ,amod,X,0.0
+D King,King,2,1,4,king,NOUN,NN,ROOT,Xxxx,0.0
+Mitchell,Mitchell,1,1,8,Mitchell,PROPN,NNP,ROOT,Xxxxx,0.0
+He,He,1,1,2,he,PRON,PRP,ROOT,Xx,0.0
+live macau HK SGP SYDNEY prediksitogelhk.one,live,6,1,4,live,VERB,VB,ROOT,xxxx,0.0
+live macau HK SGP SYDNEY prediksitogelhk.one,macau,6,1,5,macau,PROPN,NNP,compound,xxxx,0.0
+live macau HK SGP SYDNEY prediksitogelhk.one,HK,6,1,2,HK,PROPN,NNP,compound,XX,0.0
+live macau HK SGP SYDNEY prediksitogelhk.one,SGP,6,1,3,SGP,PROPN,NNP,compound,XXX,0.0
+live macau HK SGP SYDNEY prediksitogelhk.one,SYDNEY,6,1,6,SYDNEY,PROPN,NNP,nsubj,XXXX,0.0
+live macau HK SGP SYDNEY prediksitogelhk.one,prediksitogelhk.one,6,1,19,prediksitogelhk.one,X,ADD,punct,xxxx.xxx,0.0
+Diaz Granados,Diaz,2,1,4,Diaz,PROPN,NNP,compound,Xxxx,0.0
+Diaz Granados,Granados,2,1,8,Granados,PROPN,NNPS,ROOT,Xxxxx,0.0
+Hong,Hong,1,1,4,hong,NOUN,NN,ROOT,Xxxx,0.0
+Cohen,Cohen,1,2,5,Cohen,PROPN,NNP,ROOT,Xxxxx,0.0
+Pichette,Pichette,1,1,8,pichette,NOUN,NN,ROOT,Xxxxx,0.0
+Sultanbekov,Sultanbekov,1,1,11,sultanbekov,NOUN,NN,ROOT,Xxxxx,0.0
+McCormick,McCormick,1,1,9,McCormick,PROPN,NNP,ROOT,XxXxxxx,0.0
+Al Omar,Al,2,1,2,Al,PROPN,NNP,compound,Xx,0.0
+Al Omar,Omar,2,1,4,Omar,PROPN,NNP,ROOT,Xxxx,0.0
+Chadha,Chadha,1,1,6,Chadha,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoranjitu.org,Bocoranjitu.org,1,1,15,Bocoranjitu.org,PROPN,NNP,ROOT,Xxxxx.xxx,0.0
+Barros,Barros,1,1,6,barro,NOUN,NNS,ROOT,Xxxxx,0.0
+rồng bạch kim,rồng,3,1,4,rồng,PROPN,NNP,compound,xxxx,0.0
+rồng bạch kim,bạch,3,1,4,bạch,PROPN,NNP,compound,xxxx,0.0
+rồng bạch kim,kim,3,1,3,kim,PROPN,NNP,ROOT,xxx,0.0
+Gadowski,Gadowski,1,1,8,Gadowski,PROPN,NNP,ROOT,Xxxxx,0.0
+Leto,Leto,1,1,4,leto,NOUN,NN,ROOT,Xxxx,0.0
+チョクシ,チョクシ,1,2,4,チョクシ,PROPN,NNP,ROOT,xxxx,0.0
+Weinberg,Weinberg,1,2,8,weinberg,NOUN,NN,ROOT,Xxxxx,0.0
+Brezina,Brezina,1,1,7,Brezina,PROPN,NNP,ROOT,Xxxxx,0.0
+Bendz,Bendz,1,1,5,Bendz,PROPN,NNP,ROOT,Xxxxx,0.0
+Pomel,Pomel,1,1,5,pomel,NOUN,NN,ROOT,Xxxxx,0.0
+Calatrava,Calatrava,1,1,9,calatrava,NOUN,NN,ROOT,Xxxxx,0.0
+Ivanov,Ivanov,1,1,6,Ivanov,PROPN,NNP,ROOT,Xxxxx,0.0
+Götze,Götze,1,1,5,Götze,PROPN,NNP,ROOT,Xxxxx,0.0
+Yazdi,Yazdi,1,1,5,yazdi,NOUN,NN,ROOT,Xxxxx,0.0
+Iguodala,Iguodala,1,1,8,Iguodala,PROPN,NNP,ROOT,Xxxxx,0.0
+Meier,Meier,1,1,5,Meier,PROPN,NNP,ROOT,Xxxxx,0.0
+Tolia,Tolia,1,1,5,Tolia,PROPN,NNP,ROOT,Xxxxx,0.0
+Stafford,Stafford,1,1,8,stafford,NOUN,NN,ROOT,Xxxxx,0.0
+Teicke,Teicke,1,1,6,Teicke,NOUN,NNS,ROOT,Xxxxx,0.0
+DiCaprio,DiCaprio,1,1,8,dicaprio,NOUN,NN,ROOT,XxXxxxx,0.0
+Hagenbuch,Hagenbuch,1,1,9,hagenbuch,ADJ,JJ,ROOT,Xxxxx,0.0
+Voorhees,Voorhees,1,1,8,voorhee,NOUN,NNS,ROOT,Xxxxx,0.0
+Victorio,Victorio,1,1,8,Victorio,PROPN,NNP,ROOT,Xxxxx,0.0
+Kokkalis,Kokkalis,1,1,8,Kokkalis,PROPN,NNP,ROOT,Xxxxx,0.0
+Sabet,Sabet,1,1,5,sabet,VERB,VB,ROOT,Xxxxx,0.0
+Parekh,Parekh,1,1,6,Parekh,PROPN,NNP,ROOT,Xxxxx,0.0
+James,James,1,1,5,James,PROPN,NNP,ROOT,Xxxxx,0.0
+Sparks,Sparks,1,1,6,spark,NOUN,NNS,ROOT,Xxxxx,0.0
+Goodwin,Goodwin,1,1,7,Goodwin,PROPN,NNP,ROOT,Xxxxx,0.0
+Al-Obaidly,Al,1,1,2,Al,PROPN,NNP,compound,Xx,0.0
+Al-Obaidly,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Al-Obaidly,Obaidly,1,1,7,obaidly,ADV,RB,ROOT,Xxxxx,0.0
+Ingram,Ingram,1,2,6,Ingram,PROPN,NNP,ROOT,Xxxxx,0.0
+Rad,Rad,1,1,3,Rad,PROPN,NNP,ROOT,Xxx,0.0
+Jameel,Jameel,1,1,6,jameel,NOUN,NN,ROOT,Xxxxx,0.0
+Bocoran Angka Jitu,Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Angka Jitu,Angka,3,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Angka Jitu,Jitu,3,1,4,Jitu,PROPN,NNP,ROOT,Xxxx,0.0
+Park,Park,1,2,4,park,NOUN,NN,ROOT,Xxxx,0.0
+Sambandam,Sambandam,1,1,9,Sambandam,PROPN,NNP,ROOT,Xxxxx,0.0
+Lemkin,Lemkin,1,1,6,lemkin,NOUN,NN,ROOT,Xxxxx,0.0
+Garrett,Garrett,1,1,7,Garrett,PROPN,NNP,ROOT,Xxxxx,0.0
+Eigerman,Eigerman,1,1,8,eigerman,NOUN,NN,ROOT,Xxxxx,0.0
+Bhargava,Bhargava,1,1,8,Bhargava,PROPN,NNP,ROOT,Xxxxx,0.0
+Rugaev,Rugaev,1,1,6,Rugaev,PROPN,NNP,ROOT,Xxxxx,0.0
+Oron,Oron,1,1,4,oron,NOUN,NN,ROOT,Xxxx,0.0
+Weitsman,Weitsman,1,1,8,Weitsman,PROPN,NNP,ROOT,Xxxxx,0.0
+Novak,Novak,1,1,5,novak,NOUN,NN,ROOT,Xxxxx,0.0
+Gracias,Gracias,1,1,7,gracia,NOUN,NNS,ROOT,Xxxxx,0.0
+Robinson,Robinson,1,1,8,Robinson,PROPN,NNP,ROOT,Xxxxx,0.0
+CS,CS,1,1,2,cs,NOUN,NN,ROOT,XX,0.0
+Mack,Mack,1,1,4,Mack,PROPN,NNP,ROOT,Xxxx,0.0
+Browder,Browder,1,1,7,browder,NOUN,NN,ROOT,Xxxxx,0.0
+Taggar,Taggar,1,1,6,Taggar,PROPN,NNP,ROOT,Xxxxx,0.0
+Broadus,Broadus,1,1,7,broadus,NOUN,NN,ROOT,Xxxxx,0.0
+McConnell,McConnell,1,1,9,McConnell,PROPN,NNP,ROOT,XxXxxxx,0.0
+Mazza,Mazza,1,1,5,mazza,NOUN,NN,ROOT,Xxxxx,0.0
+Kwon,Kwon,1,1,4,kwon,NOUN,NN,ROOT,Xxxx,0.0
+Hamood,Hamood,1,1,6,hamood,NOUN,NN,ROOT,Xxxxx,0.0
+Romero,Romero,1,1,6,Romero,PROPN,NNP,ROOT,Xxxxx,0.0
+Sowa,Sowa,1,1,4,sowa,VERB,VB,ROOT,Xxxx,0.0
+Boehly,Boehly,1,1,6,boehly,ADV,RB,ROOT,Xxxxx,0.0
+Horowitz,Horowitz,1,1,8,Horowitz,PROPN,NNP,ROOT,Xxxxx,0.0
+Iovane,Iovane,1,1,6,iovane,NOUN,NN,ROOT,Xxxxx,0.0
+Arizona,Arizona,1,1,7,Arizona,PROPN,NNP,ROOT,Xxxxx,0.0
+Gokal,Gokal,1,1,5,Gokal,PROPN,NNP,ROOT,Xxxxx,0.0
+Patel,Patel,1,2,5,patel,NOUN,NN,ROOT,Xxxxx,0.0
+Haun,Haun,1,1,4,haun,VERB,VB,ROOT,Xxxx,0.0
+Sacks,Sacks,1,1,5,sack,NOUN,NNS,ROOT,Xxxxx,0.0
+Legend,Legend,1,1,6,legend,NOUN,NN,ROOT,Xxxxx,0.0
+Rosenthal,Rosenthal,1,1,9,Rosenthal,PROPN,NNP,ROOT,Xxxxx,0.0
+Kobs,Kobs,1,1,4,kob,NOUN,NNS,ROOT,Xxxx,0.0
+prediksi angka,prediksi,2,1,8,prediksi,PROPN,NNP,nsubj,xxxx,0.0
+prediksi angka,angka,2,1,5,angka,VERB,VBD,ROOT,xxxx,0.0
+Horing,Horing,1,1,6,horing,NOUN,NN,ROOT,Xxxxx,0.0
+Weinstein,Weinstein,1,1,9,Weinstein,PROPN,NNP,ROOT,Xxxxx,0.0
+Karwa,Karwa,1,1,5,Karwa,NOUN,NNS,ROOT,Xxxxx,0.0
+Shin,Shin,1,1,4,Shin,PROPN,NNP,ROOT,Xxxx,0.0
+bocoran jitu org sydney,bocoran,4,1,7,bocoran,PROPN,NNP,compound,xxxx,0.0
+bocoran jitu org sydney,jitu,4,1,4,jitu,PROPN,NNP,compound,xxxx,0.0
+bocoran jitu org sydney,org,4,1,3,org,PROPN,NNP,compound,xxx,0.0
+bocoran jitu org sydney,sydney,4,1,6,sydney,PROPN,NNP,ROOT,xxxx,0.0
+Raymond,Raymond,1,1,7,Raymond,PROPN,NNP,ROOT,Xxxxx,0.0
+Sabbir,Sabbir,1,1,6,sabbir,ADJ,JJ,ROOT,Xxxxx,0.0
+Mazi ND,Mazi,2,1,4,Mazi,PROPN,NNP,compound,Xxxx,0.0
+Mazi ND,ND,2,1,2,ND,PROPN,NNP,ROOT,XX,0.0
+Gonser,Gonser,1,1,6,gonser,NOUN,NN,ROOT,Xxxxx,0.0
+Lore,Lore,1,1,4,lore,VERB,VB,ROOT,Xxxx,0.0
+Kode Syair Singapore uvsorb.org,Kode,4,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Kode Syair Singapore uvsorb.org,Syair,4,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Kode Syair Singapore uvsorb.org,Singapore,4,1,9,Singapore,PROPN,NNP,ROOT,Xxxxx,0.0
+Kode Syair Singapore uvsorb.org,uvsorb.org,4,1,10,uvsorb.org,NOUN,NN,punct,xxxx.xxx,0.0
+Aronow,Aronow,1,1,6,Aronow,PROPN,NNP,ROOT,Xxxxx,0.0
+Dumontet,Dumontet,1,1,8,dumontet,NOUN,NN,ROOT,Xxxxx,0.0
+Mayes Jr.,Mayes,2,1,5,Mayes,PROPN,NNP,compound,Xxxxx,0.0
+Mayes Jr.,Jr.,2,1,3,Jr.,PROPN,NNP,ROOT,Xx.,0.0
+Rosberg,Rosberg,1,1,7,Rosberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Jorgensen,Jorgensen,1,1,9,Jorgensen,PROPN,NNP,ROOT,Xxxxx,0.0
+Reber,Reber,1,1,5,Reber,PROPN,NNP,ROOT,Xxxxx,0.0
+Teixeira da Mota,Teixeira,3,1,8,Teixeira,PROPN,NNP,compound,Xxxxx,0.0
+Teixeira da Mota,da,3,1,2,da,PROPN,NNP,compound,xx,0.0
+Teixeira da Mota,Mota,3,1,4,Mota,PROPN,NNP,ROOT,Xxxx,0.0
+Kurtz,Kurtz,1,1,5,Kurtz,PROPN,NNP,ROOT,Xxxxx,0.0
+Denver,Denver,1,1,6,Denver,PROPN,NNP,ROOT,Xxxxx,0.0
+Agarwala,Agarwala,1,2,8,Agarwala,PROPN,NNP,ROOT,Xxxxx,0.0
+Zhao,Zhao,1,2,4,zhao,NOUN,NN,ROOT,Xxxx,0.0
+Morris,Morris,1,1,6,morris,NOUN,NN,ROOT,Xxxxx,0.0
+Kishore,Kishore,1,1,7,Kishore,PROPN,NNP,ROOT,Xxxxx,0.0
+Garg,Garg,1,3,4,garg,NOUN,NN,ROOT,Xxxx,0.0
+Kandil,Kandil,1,1,6,Kandil,PROPN,NNP,ROOT,Xxxxx,0.0
+Dawkins,Dawkins,1,1,7,dawkin,NOUN,NNS,ROOT,Xxxxx,0.0
+LaFontaine,LaFontaine,1,1,10,lafontaine,NOUN,NN,ROOT,XxXxxxx,0.0
+Njui,Njui,1,1,4,njui,NOUN,NN,ROOT,Xxxx,0.0
+Crane,Crane,1,1,5,crane,NOUN,NN,ROOT,Xxxxx,0.0
+Hirsch,Hirsch,1,1,6,Hirsch,PROPN,NNP,ROOT,Xxxxx,0.0
+Rorsted,Rorsted,1,1,7,rorsted,ADJ,JJ,ROOT,Xxxxx,0.0
+Liberman,Liberman,1,1,8,liberman,NOUN,NN,ROOT,Xxxxx,0.0
+Bocoran Jitu Sdy,Bocoran,3,2,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Jitu Sdy,Jitu,3,2,4,Jitu,PROPN,NNP,compound,Xxxx,0.0
+Bocoran Jitu Sdy,Sdy,3,2,3,Sdy,PROPN,NNP,ROOT,Xxx,0.0
+Woo,Woo,1,1,3,Woo,PROPN,NNP,ROOT,Xxx,0.0
+Krishnasamy,Krishnasamy,1,1,11,krishnasamy,ADJ,JJ,ROOT,Xxxxx,0.0
+Dahiya,Dahiya,1,1,6,dahiya,NOUN,NN,ROOT,Xxxxx,0.0
+Ament,Ament,1,1,5,ament,NOUN,NN,ROOT,Xxxxx,0.0
+Robb,Robb,1,1,4,robb,ADJ,JJ,ROOT,Xxxx,0.0
+Bocoran Syair Togel Sdy uvsorb.org,Bocoran,5,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Syair Togel Sdy uvsorb.org,Syair,5,1,5,Syair,PROPN,NNP,ROOT,Xxxxx,0.0
+Bocoran Syair Togel Sdy uvsorb.org,Togel,5,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Syair Togel Sdy uvsorb.org,Sdy,5,1,3,Sdy,PROPN,NNP,appos,Xxx,0.0
+Bocoran Syair Togel Sdy uvsorb.org,uvsorb.org,5,1,10,uvsorb.org,NOUN,NN,appos,xxxx.xxx,0.0
+Hansmann,Hansmann,1,1,8,Hansmann,PROPN,NNP,ROOT,Xxxxx,0.0
+McMahon,McMahon,1,1,7,McMahon,PROPN,NNP,ROOT,XxXxxxx,0.0
+Hyerim Lee,Hyerim,2,1,6,Hyerim,PROPN,NNP,compound,Xxxxx,0.0
+Hyerim Lee,Lee,2,1,3,Lee,PROPN,NNP,ROOT,Xxx,0.0
+Hank Gonzalez,Hank,2,1,4,Hank,PROPN,NNP,compound,Xxxx,0.0
+Hank Gonzalez,Gonzalez,2,1,8,Gonzalez,PROPN,NNP,ROOT,Xxxxx,0.0
+Moore,Moore,1,1,5,Moore,PROPN,NNP,ROOT,Xxxxx,0.0
+Security,Security,1,1,8,security,NOUN,NN,ROOT,Xxxxx,0.0
+Ehrenberg,Ehrenberg,1,1,9,ehrenberg,NOUN,NN,ROOT,Xxxxx,0.0
+Doleman,Doleman,1,1,7,Doleman,PROPN,NNP,ROOT,Xxxxx,0.0
+Harden,Harden,1,1,6,Harden,PROPN,NNP,ROOT,Xxxxx,0.0
+Investor,Investor,1,1,8,investor,NOUN,NN,ROOT,Xxxxx,0.0
+Carter,Carter,1,1,6,Carter,PROPN,NNP,ROOT,Xxxxx,0.0
+Lavingia,Lavingia,1,1,8,Lavingia,PROPN,NNP,ROOT,Xxxxx,0.0
+Yudintsev,Yudintsev,1,1,9,Yudintsev,NOUN,NNS,ROOT,Xxxxx,0.0
+Taylor,Taylor,1,1,6,taylor,NOUN,NN,ROOT,Xxxxx,0.0
+gblovers.us,gblovers.us,1,1,11,gblovers.us,X,ADD,ROOT,xxxx.xx,0.0
+Mikailov,Mikailov,1,1,8,mikailov,NOUN,NN,ROOT,Xxxxx,0.0
+"Gupta, FRM",Gupta,2,1,5,Gupta,PROPN,NNP,ROOT,Xxxxx,0.0
+"Gupta, FRM",",",2,1,1,",",PUNCT,",",punct,",",0.0
+"Gupta, FRM",FRM,2,1,3,FRM,PROPN,NNP,appos,XXX,0.0
+Adilagic,Adilagic,1,1,8,adilagic,NOUN,NN,ROOT,Xxxxx,0.0
+Rothschild,Rothschild,1,2,10,rothschild,VERB,VB,ROOT,Xxxxx,0.0
+Bulgac,Bulgac,1,1,6,Bulgac,PROPN,NNP,ROOT,Xxxxx,0.0
+Sakarcan,Sakarcan,1,1,8,sakarcan,ADJ,JJ,ROOT,Xxxxx,0.0
+Fisher,Fisher,1,1,6,fisher,ADJ,JJ,ROOT,Xxxxx,0.0
+Nwandu,Nwandu,1,1,6,nwandu,NOUN,NN,ROOT,Xxxxx,0.0
+Bell,Bell,1,1,4,bell,NOUN,NN,ROOT,Xxxx,0.0
+Neuner,Neuner,1,1,6,neuner,NOUN,NN,ROOT,Xxxxx,0.0
+Fonua,Fonua,1,1,5,Fonua,NOUN,NNS,ROOT,Xxxxx,0.0
+Wood,Wood,1,2,4,wood,NOUN,NN,ROOT,Xxxx,0.0
+Greene R3 Stem Cell,Greene,4,1,6,greene,ADJ,JJ,amod,Xxxxx,0.0
+Greene R3 Stem Cell,R3,4,1,2,r3,NOUN,NN,compound,Xd,0.0
+Greene R3 Stem Cell,Stem,4,1,4,Stem,PROPN,NNP,compound,Xxxx,0.0
+Greene R3 Stem Cell,Cell,4,1,4,Cell,PROPN,NNP,ROOT,Xxxx,0.0
+Hassabis,Hassabis,1,1,8,hassabi,NOUN,NNS,ROOT,Xxxxx,0.0
+Linden,Linden,1,1,6,Linden,PROPN,NNP,ROOT,Xxxxx,0.0
+Alucozai,Alucozai,1,1,8,alucozai,ADJ,JJ,ROOT,Xxxxx,0.0
+Lindzon,Lindzon,1,1,7,lindzon,NOUN,NN,ROOT,Xxxxx,0.0
+Göllner,Göllner,1,1,7,Göllner,PROPN,NNP,ROOT,Xxxxx,0.0
+Montanari,Montanari,1,1,9,montanari,NOUN,NN,ROOT,Xxxxx,0.0
+Xinjun,Xinjun,1,1,6,Xinjun,PROPN,NNP,ROOT,Xxxxx,0.0
+Graham,Graham,1,1,6,Graham,PROPN,NNP,ROOT,Xxxxx,0.0
+Coelius,Coelius,1,1,7,Coelius,PROPN,NNP,ROOT,Xxxxx,0.0
+Haleem,Haleem,1,1,6,Haleem,PROPN,NNP,ROOT,Xxxxx,0.0
+Herrera Velutini,Herrera,2,1,7,Herrera,PROPN,NNP,compound,Xxxxx,0.0
+Herrera Velutini,Velutini,2,1,8,Velutini,PROPN,NNP,ROOT,Xxxxx,0.0
+Lopez,Lopez,1,1,5,lopez,NOUN,NN,ROOT,Xxxxx,0.0
+Harris,Harris,1,2,6,Harris,PROPN,NNP,ROOT,Xxxxx,0.0
+Marietti,Marietti,1,1,8,Marietti,PROPN,NNP,ROOT,Xxxxx,0.0
+Huang,Huang,1,2,5,Huang,PROPN,NNP,ROOT,Xxxxx,0.0
+Lee,Lee,1,3,3,Lee,PROPN,NNP,ROOT,Xxx,0.0
+Gutierrez,Gutierrez,1,1,9,Gutierrez,PROPN,NNP,ROOT,Xxxxx,0.0
+Bajaj,Bajaj,1,1,5,Bajaj,PROPN,NNP,ROOT,Xxxxx,0.0
+Pokorny,Pokorny,1,1,7,pokorny,ADJ,JJ,ROOT,Xxxxx,0.0
+Liu,Liu,1,2,3,Liu,PROPN,NNP,ROOT,Xxx,0.0
+Schmidt,Schmidt,1,1,7,schmidt,NOUN,NN,ROOT,Xxxxx,0.0
+Peterson,Peterson,1,1,8,Peterson,PROPN,NNP,ROOT,Xxxxx,0.0
+Shing Yuk,Shing,2,1,5,she,VERB,VBG,ROOT,Xxxxx,0.0
+Shing Yuk,Yuk,2,1,3,Yuk,PROPN,NNP,dobj,Xxx,0.0
+Wolf,Wolf,1,1,4,Wolf,PROPN,NNP,ROOT,Xxxx,0.0
+Michael Yim,Michael,2,1,7,Michael,PROPN,NNP,compound,Xxxxx,0.0
+Michael Yim,Yim,2,1,3,Yim,PROPN,NNP,ROOT,Xxx,0.0
+Iliev,Iliev,1,1,5,Iliev,PROPN,NNP,ROOT,Xxxxx,0.0
+Hadar,Hadar,1,1,5,Hadar,PROPN,NNP,ROOT,Xxxxx,0.0
+Kuok,Kuok,1,1,4,kuok,NOUN,NN,ROOT,Xxxx,0.0
+Kent,Kent,1,1,4,kent,NOUN,NN,ROOT,Xxxx,0.0
+Ambani,Ambani,1,1,6,Ambani,PROPN,NNP,ROOT,Xxxxx,0.0
+Scholl,Scholl,1,1,6,scholl,NOUN,NN,ROOT,Xxxxx,0.0
+Franceschetti,Franceschetti,1,1,13,Franceschetti,PROPN,NNP,ROOT,Xxxxx,0.0
+Zeng,Zeng,1,1,4,Zeng,PROPN,NNP,ROOT,Xxxx,0.0
+Akhmetov,Akhmetov,1,1,8,akhmetov,ADJ,JJ,ROOT,Xxxxx,0.0
+Rahman,Rahman,1,1,6,Rahman,PROPN,NNP,ROOT,Xxxxx,0.0
+Iannello,Iannello,1,1,8,Iannello,PROPN,NNP,ROOT,Xxxxx,0.0
+Sassano,Sassano,1,1,7,Sassano,PROPN,NNP,ROOT,Xxxxx,0.0
+Rubenstein,Rubenstein,1,1,10,rubenstein,NOUN,NN,ROOT,Xxxxx,0.0
+Kadakia,Kadakia,1,1,7,Kadakia,PROPN,NNP,ROOT,Xxxxx,0.0
+6529,6529,1,1,4,6529,NUM,CD,ROOT,dddd,0.0
+Thakran,Thakran,1,1,7,thakran,NOUN,NN,ROOT,Xxxxx,0.0
+Levinson,Levinson,1,2,8,levinson,NOUN,NN,ROOT,Xxxxx,0.0
+Lam,Lam,1,1,3,Lam,PROPN,NNP,ROOT,Xxx,0.0
+Gurley,Gurley,1,1,6,gurley,NOUN,NN,ROOT,Xxxxx,0.0
+Glyman,Glyman,1,1,6,Glyman,PROPN,NNP,ROOT,Xxxxx,0.0
+Dahdaleh,Dahdaleh,1,1,8,dahdaleh,NOUN,NN,ROOT,Xxxxx,0.0
+Syair Sdy Bocoranjitu.org,Syair,3,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Syair Sdy Bocoranjitu.org,Sdy,3,1,3,Sdy,PROPN,NNP,compound,Xxx,0.0
+Syair Sdy Bocoranjitu.org,Bocoranjitu.org,3,1,15,Bocoranjitu.org,PROPN,NNP,ROOT,Xxxxx.xxx,0.0
+von Rubinberg,von,2,1,3,von,PROPN,NNP,compound,xxx,0.0
+von Rubinberg,Rubinberg,2,1,9,Rubinberg,PROPN,NNP,ROOT,Xxxxx,0.0
+Osei,Osei,1,1,4,Osei,PROPN,NNP,ROOT,Xxxx,0.0
+van Dijk,van,2,1,3,van,PROPN,NNP,compound,xxx,0.0
+van Dijk,Dijk,2,1,4,Dijk,PROPN,NNP,ROOT,Xxxx,0.0
+Bruck Textiles,Bruck,2,1,5,Bruck,PROPN,NNP,compound,Xxxxx,0.0
+Bruck Textiles,Textiles,2,1,8,Textiles,PROPN,NNPS,ROOT,Xxxxx,0.0
+Stebbings,Stebbings,1,1,9,stebbing,NOUN,NNS,ROOT,Xxxxx,0.0
+D’Angelo,D’Angelo,1,1,8,d’angelo,X,ADD,ROOT,X’Xxxxx,0.0
+Liao,Liao,1,1,4,Liao,PROPN,NNP,ROOT,Xxxx,0.0
+Masarek,Masarek,1,1,7,Masarek,PROPN,NNP,ROOT,Xxxxx,0.0
+Ayers,Ayers,1,1,5,ayer,NOUN,NNS,ROOT,Xxxxx,0.0
+Tran,Tran,1,1,4,tran,VERB,VB,ROOT,Xxxx,0.0
+Ardoino,Ardoino,1,1,7,ardoino,NOUN,NN,ROOT,Xxxxx,0.0
+Beardslee,Beardslee,1,1,9,Beardslee,PROPN,NNP,ROOT,Xxxxx,0.0
+Bhatti,Bhatti,1,1,6,Bhatti,PROPN,NNP,ROOT,Xxxxx,0.0
+Durban,Durban,1,1,6,Durban,PROPN,NNP,ROOT,Xxxxx,0.0
+Jiang,Jiang,1,1,5,Jiang,PROPN,NNP,ROOT,Xxxxx,0.0
+Los Angeles,Los,2,2,3,Los,PROPN,NNP,compound,Xxx,0.0
+Los Angeles,Angeles,2,2,7,Angeles,PROPN,NNP,ROOT,Xxxxx,0.0
+Urban,Urban,1,1,5,urban,ADJ,JJ,ROOT,Xxxxx,0.0
+Vashistha,Vashistha,1,1,9,vashistha,NOUN,NN,ROOT,Xxxxx,0.0
+Dyson,Dyson,1,1,5,dyson,NOUN,NN,ROOT,Xxxxx,0.0
+Talwar,Talwar,1,1,6,Talwar,PROPN,NNP,ROOT,Xxxxx,0.0
+Nelson,Nelson,1,1,6,Nelson,PROPN,NNP,ROOT,Xxxxx,0.0
+Cooke,Cooke,1,1,5,cooke,NOUN,NN,ROOT,Xxxxx,0.0
+Shetty,Shetty,1,1,6,shetty,ADJ,JJ,ROOT,Xxxxx,0.0
+Andersen,Andersen,1,1,8,Andersen,PROPN,NNP,ROOT,Xxxxx,0.0
+Shaikh,Shaikh,1,1,6,shaikh,NOUN,NN,ROOT,Xxxxx,0.0
+Bhate,Bhate,1,1,5,bhate,VERB,VB,ROOT,Xxxxx,0.0
+Mathur,Mathur,1,1,6,Mathur,PROPN,NNP,ROOT,Xxxxx,0.0
+Samani,Samani,1,1,6,Samani,PROPN,NNP,ROOT,Xxxxx,0.0
+Arora,Arora,1,1,5,arora,NOUN,NN,ROOT,Xxxxx,0.0
+Fernandes,Fernandes,1,1,9,fernande,NOUN,NNS,ROOT,Xxxxx,0.0
+Al-Khelaifi,Al,1,1,2,Al,PROPN,NNP,compound,Xx,0.0
+Al-Khelaifi,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Al-Khelaifi,Khelaifi,1,1,8,Khelaifi,PROPN,NNP,ROOT,Xxxxx,0.0
+Lau,Lau,1,1,3,lau,NOUN,NN,ROOT,Xxx,0.0
+Braverman,Braverman,1,1,9,Braverman,PROPN,NNP,ROOT,Xxxxx,0.0
+Conway,Conway,1,1,6,Conway,PROPN,NNP,ROOT,Xxxxx,0.0
+Iregbulem,Iregbulem,1,1,9,iregbulem,NOUN,NN,ROOT,Xxxxx,0.0
+Berry,Berry,1,1,5,berry,VERB,VB,ROOT,Xxxxx,0.0
+Novogratz,Novogratz,1,1,9,Novogratz,PROPN,NNP,ROOT,Xxxxx,0.0
+Brody,Brody,1,2,5,brody,NOUN,NN,ROOT,Xxxxx,0.0
+Ahuja,Ahuja,1,1,5,Ahuja,PROPN,NNP,ROOT,Xxxxx,0.0
+Porter,Porter,1,1,6,porter,NOUN,NN,ROOT,Xxxxx,0.0
+Mohan,Mohan,1,1,5,Mohan,PROPN,NNP,ROOT,Xxxxx,0.0
+Agallar,Agallar,1,1,7,agallar,NOUN,NN,ROOT,Xxxxx,0.0
+Haggerty Jr.,Haggerty,2,1,8,Haggerty,PROPN,NNP,compound,Xxxxx,0.0
+Haggerty Jr.,Jr.,2,1,3,Jr.,PROPN,NNP,ROOT,Xx.,0.0
+Amidi,Amidi,1,1,5,amidi,ADJ,JJ,ROOT,Xxxxx,0.0
+Lucre,Lucre,1,1,5,Lucre,PROPN,NNP,ROOT,Xxxxx,0.0
+Zweegers,Zweegers,1,1,8,zweeger,NOUN,NNS,ROOT,Xxxxx,0.0
+Cheng,Cheng,1,1,5,Cheng,PROPN,NNP,ROOT,Xxxxx,0.0
+Radaev,Radaev,1,1,6,Radaev,PROPN,NNP,ROOT,Xxxxx,0.0
+Tawara,Tawara,1,1,6,Tawara,PROPN,NNP,ROOT,Xxxxx,0.0
+Kushner,Kushner,1,1,7,Kushner,PROPN,NNP,ROOT,Xxxxx,0.0
+Yan,Yan,1,1,3,yan,NOUN,NN,ROOT,Xxx,0.0
+Satish,Satish,1,1,6,satish,NOUN,NN,ROOT,Xxxxx,0.0
+Chastan,Chastan,1,1,7,Chastan,PROPN,NNP,ROOT,Xxxxx,0.0
+Dinning,Dinning,1,1,7,din,VERB,VBG,ROOT,Xxxxx,0.0
+Casalena,Casalena,1,1,8,casalena,NOUN,NN,ROOT,Xxxxx,0.0
+Palmer,Palmer,1,1,6,palmer,NOUN,NN,ROOT,Xxxxx,0.0
+Hogarth,Hogarth,1,1,7,hogarth,NOUN,NN,ROOT,Xxxxx,0.0
+Stuhr Ellegaard,Stuhr,2,1,5,Stuhr,PROPN,NNP,compound,Xxxxx,0.0
+Stuhr Ellegaard,Ellegaard,2,1,9,Ellegaard,PROPN,NNP,ROOT,Xxxxx,0.0
+Faissola,Faissola,1,1,8,faissola,NOUN,NN,ROOT,Xxxxx,0.0
+Cheney,Cheney,1,1,6,Cheney,PROPN,NNP,ROOT,Xxxxx,0.0
+Calderon,Calderon,1,1,8,calderon,NOUN,NN,ROOT,Xxxxx,0.0
+Roy Chowdhury,Roy,2,1,3,Roy,PROPN,NNP,compound,Xxx,0.0
+Roy Chowdhury,Chowdhury,2,1,9,Chowdhury,PROPN,NNP,ROOT,Xxxxx,0.0
+Staffieri,Staffieri,1,1,9,staffieri,ADV,RB,ROOT,Xxxxx,0.0
+Downey Jr.,Downey,2,1,6,Downey,PROPN,NNP,compound,Xxxxx,0.0
+Downey Jr.,Jr.,2,1,3,Jr.,PROPN,NNP,ROOT,Xx.,0.0
+Lichtie,Lichtie,1,1,7,lichtie,NOUN,NN,ROOT,Xxxxx,0.0
+Carlsson,Carlsson,1,1,8,carlsson,NOUN,NN,ROOT,Xxxxx,0.0
+Musk,Musk,1,2,4,Musk,PROPN,NNP,ROOT,Xxxx,0.0
+Turner,Turner,1,1,6,Turner,PROPN,NNP,ROOT,Xxxxx,0.0
+Salazar,Salazar,1,1,7,salazar,NOUN,NN,ROOT,Xxxxx,0.0
+kode syair hongkong uvsorb.org,kode,4,1,4,kode,PROPN,NNP,compound,xxxx,0.0
+kode syair hongkong uvsorb.org,syair,4,1,5,syair,PROPN,NNP,compound,xxxx,0.0
+kode syair hongkong uvsorb.org,hongkong,4,1,8,hongkong,PROPN,NNP,compound,xxxx,0.0
+kode syair hongkong uvsorb.org,uvsorb.org,4,1,10,uvsorb.org,PROPN,NNP,ROOT,xxxx.xxx,0.0
+Grosvenor,Grosvenor,1,1,9,Grosvenor,PROPN,NNP,ROOT,Xxxxx,0.0
+Beshara,Beshara,1,1,7,Beshara,PROPN,NNP,ROOT,Xxxxx,0.0
+Breslow,Breslow,1,1,7,breslow,VERB,VB,ROOT,Xxxxx,0.0
+Aggarwal,Aggarwal,1,2,8,aggarwal,NOUN,NN,ROOT,Xxxxx,0.0
+Subramanian,Subramanian,1,2,11,subramanian,ADJ,JJ,ROOT,Xxxxx,0.0
+Bocoran Syair Sdy,Bocoran,3,1,7,Bocoran,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Syair Sdy,Syair,3,1,5,Syair,PROPN,NNP,compound,Xxxxx,0.0
+Bocoran Syair Sdy,Sdy,3,1,3,Sdy,PROPN,NNP,ROOT,Xxx,0.0
+Bet-David,Bet,1,1,3,Bet,PROPN,NNP,compound,Xxx,0.0
+Bet-David,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Bet-David,David,1,1,5,David,PROPN,NNP,ROOT,Xxxxx,0.0
+McClure,McClure,1,1,7,mcclure,NOUN,NN,ROOT,XxXxxxx,0.0
+Peterkin Bell,Peterkin,2,1,8,Peterkin,PROPN,NNP,compound,Xxxxx,0.0
+Peterkin Bell,Bell,2,1,4,Bell,PROPN,NNP,ROOT,Xxxx,0.0
+Han,Han,1,1,3,Han,PROPN,NNP,ROOT,Xxx,0.0
+Hsu,Hsu,1,1,3,Hsu,PROPN,NNP,ROOT,Xxx,0.0
+Burns,Burns,1,1,5,burn,NOUN,NNS,ROOT,Xxxxx,0.0
+Lanman,Lanman,1,1,6,lanman,NOUN,NN,ROOT,Xxxxx,0.0
+Robins,Robins,1,1,6,Robins,PROPN,NNP,ROOT,Xxxxx,0.0
+McGowan,McGowan,1,1,7,McGowan,PROPN,NNP,ROOT,XxXxxxx,0.0
+Parikh,Parikh,1,1,6,Parikh,PROPN,NNP,ROOT,Xxxxx,0.0
+Hoover,Hoover,1,1,6,hoover,NOUN,NN,ROOT,Xxxxx,0.0
+Daryani,Daryani,1,1,7,daryani,NOUN,NN,ROOT,Xxxxx,0.0
+Arifin,Arifin,1,1,6,Arifin,PROPN,NNP,ROOT,Xxxxx,0.0
+Ceballos,Ceballos,1,1,8,Ceballos,PROPN,NNP,ROOT,Xxxxx,0.0
+Mónica,Mónica,1,1,6,Mónica,PROPN,NNP,ROOT,Xxxxx,0.0
+Faviero,Faviero,1,1,7,faviero,NOUN,NN,ROOT,Xxxxx,0.0
+Kirsch,Kirsch,1,1,6,Kirsch,PROPN,NNP,ROOT,Xxxxx,0.0
+Montana,Montana,1,1,7,Montana,PROPN,NNP,ROOT,Xxxxx,0.0
+Ralston,Ralston,1,1,7,ralston,NOUN,NN,ROOT,Xxxxx,0.0
+"Prediksi Togel Macau Hari ini, Angka Togel Master",Prediksi,8,1,8,Prediksi,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Togel Macau Hari ini, Angka Togel Master",Togel,8,1,5,Togel,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Togel Macau Hari ini, Angka Togel Master",Macau,8,1,5,Macau,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Togel Macau Hari ini, Angka Togel Master",Hari,8,1,4,Hari,PROPN,NNP,compound,Xxxx,0.0
+"Prediksi Togel Macau Hari ini, Angka Togel Master",ini,8,1,3,ini,NOUN,NN,ROOT,xxx,0.0
+"Prediksi Togel Macau Hari ini, Angka Togel Master",",",8,1,1,",",PUNCT,",",punct,",",0.0
+"Prediksi Togel Macau Hari ini, Angka Togel Master",Angka,8,1,5,Angka,PROPN,NNP,compound,Xxxxx,0.0
+"Prediksi Togel Macau Hari ini, Angka Togel Master",Master,8,1,6,Master,PROPN,NNP,appos,Xxxxx,0.0
+Palicha,Palicha,1,1,7,Palicha,PROPN,NNP,ROOT,Xxxxx,0.0
+Vasudevan,Vasudevan,1,1,9,vasudevan,NOUN,NN,ROOT,Xxxxx,0.0
+McCarthy,McCarthy,1,1,8,McCarthy,PROPN,NNP,ROOT,XxXxxxx,0.0
+Manal,Manal,1,1,5,manal,ADJ,JJ,ROOT,Xxxxx,0.0
+Seah,Seah,1,1,4,seah,INTJ,UH,ROOT,Xxxx,0.0
+Leshner,Leshner,1,1,7,Leshner,PROPN,NNP,ROOT,Xxxxx,0.0
+Ressler,Ressler,1,1,7,ressler,NOUN,NN,ROOT,Xxxxx,0.0
+Steliga,Steliga,1,1,7,Steliga,PROPN,NNP,ROOT,Xxxxx,0.0
+Shotwell,Shotwell,1,1,8,Shotwell,PROPN,NNP,ROOT,Xxxxx,0.0
+Keidan,Keidan,1,1,6,Keidan,PROPN,NNP,ROOT,Xxxxx,0.0
+A Jacono,A,2,1,1,a,DET,DT,det,X,0.0
+A Jacono,Jacono,2,1,6,Jacono,PROPN,NNP,ROOT,Xxxxx,0.0
+Gauthier,Gauthier,1,1,8,Gauthier,PROPN,NNP,ROOT,Xxxxx,0.0
+Shakhashir,Shakhashir,1,1,10,shakhashir,NOUN,NN,ROOT,Xxxxx,0.0
+Jung,Jung,1,1,4,Jung,PROPN,NNP,ROOT,Xxxx,0.0
+Chary,Chary,1,1,5,chary,NOUN,NN,ROOT,Xxxxx,0.0
+Chu,Chu,1,1,3,chu,NOUN,NN,ROOT,Xxx,0.0
+Ojalvo,Ojalvo,1,1,6,ojalvo,NOUN,NN,ROOT,Xxxxx,0.0
+Fu,Fu,1,1,2,Fu,PROPN,NNP,ROOT,Xx,0.0
+Maishanu,Maishanu,1,1,8,Maishanu,PROPN,NNP,ROOT,Xxxxx,0.0
+Aksoy,Aksoy,1,1,5,aksoy,NOUN,NN,ROOT,Xxxxx,0.0
+Nguyen,Nguyen,1,2,6,nguyen,NOUN,NN,ROOT,Xxxxx,0.0
+Ashraf,Ashraf,1,1,6,Ashraf,NOUN,NNS,ROOT,Xxxxx,0.0
+Bazbaz Sacal,Bazbaz,2,1,6,Bazbaz,PROPN,NNP,compound,Xxxxx,0.0
+Bazbaz Sacal,Sacal,2,1,5,Sacal,PROPN,NNP,ROOT,Xxxxx,0.0
+Jacobsson,Jacobsson,1,1,9,jacobsson,NOUN,NN,ROOT,Xxxxx,0.0
+Dubai,Dubai,1,1,5,dubai,NOUN,NN,ROOT,Xxxxx,0.0
+Coldwell,Coldwell,1,1,8,Coldwell,PROPN,NNP,ROOT,Xxxxx,0.0
+Ross,Ross,1,1,4,Ross,PROPN,NNP,ROOT,Xxxx,0.0
+Buterin,Buterin,1,1,7,buterin,VERB,VB,ROOT,Xxxxx,0.0
+Chaudhry,Chaudhry,1,1,8,chaudhry,NOUN,NN,ROOT,Xxxxx,0.0
+Bao,Bao,1,1,3,bao,VERB,VB,ROOT,Xxx,0.0
+Spencer,Spencer,1,1,7,spencer,NOUN,NN,ROOT,Xxxxx,0.0
+Chennamaneni,Chennamaneni,1,1,12,chennamaneni,NOUN,NN,ROOT,Xxxxx,0.0
+Littlehale,Littlehale,1,1,10,littlehale,NOUN,NN,ROOT,Xxxxx,0.0
+Bocoranjitu,Bocoranjitu,1,1,11,bocoranjitu,NOUN,NN,ROOT,Xxxxx,0.0
+Sampat,Sampat,1,1,6,Sampat,NOUN,NNS,ROOT,Xxxxx,0.0
+Keslinke,Keslinke,1,1,8,Keslinke,PROPN,NNP,ROOT,Xxxxx,0.0
+Kelly,Kelly,1,1,5,Kelly,PROPN,NNP,ROOT,Xxxxx,0.0
+Chan,Chan,1,1,4,Chan,PROPN,NNP,ROOT,Xxxx,0.0
+Gura,Gura,1,1,4,gura,NOUN,NN,ROOT,Xxxx,0.0
+K. Dingle,K.,2,1,2,K.,PROPN,NNP,compound,X.,0.0
+K. Dingle,Dingle,2,1,6,Dingle,PROPN,NNP,ROOT,Xxxxx,0.0
+Center,Center,1,1,6,center,NOUN,NN,ROOT,Xxxxx,0.0
+Kaushik,Kaushik,1,1,7,Kaushik,PROPN,NNP,ROOT,Xxxxx,0.0
+Delacourt,Delacourt,1,1,9,Delacourt,PROPN,NNP,ROOT,Xxxxx,0.0
+Campbell-Danesh,Campbell,1,1,8,Campbell,PROPN,NNP,compound,Xxxxx,0.0
+Campbell-Danesh,-,1,1,1,-,PUNCT,HYPH,punct,-,0.0
+Campbell-Danesh,Danesh,1,1,6,Danesh,PROPN,NNP,ROOT,Xxxxx,0.0
+Gera,Gera,1,1,4,gera,NOUN,NN,ROOT,Xxxx,0.0
+Kirchner,Kirchner,1,1,8,Kirchner,PROPN,NNP,ROOT,Xxxxx,0.0
+Saltzstein,Saltzstein,1,1,10,Saltzstein,PROPN,NNP,ROOT,Xxxxx,0.0
+Khandelwal,Khandelwal,1,1,10,Khandelwal,PROPN,NNP,ROOT,Xxxxx,0.0
+Zaveri,Zaveri,1,1,6,Zaveri,PROPN,NNP,ROOT,Xxxxx,0.0
+Yashwant,Yashwant,1,1,8,yashwant,ADJ,JJ,ROOT,Xxxxx,0.0
+Namdar,Namdar,1,1,6,Namdar,PROPN,NNP,ROOT,Xxxxx,0.0
+Taneja,Taneja,1,1,6,taneja,NOUN,NN,ROOT,Xxxxx,0.0
+Cessario,Cessario,1,1,8,cessario,NOUN,NN,ROOT,Xxxxx,0.0
+Damani,Damani,1,1,6,damani,VERB,VB,ROOT,Xxxxx,0.0
+Ferdowsi,Ferdowsi,1,1,8,ferdowsi,VERB,VB,ROOT,Xxxxx,0.0
+Link Alternatif,Link,2,1,4,Link,PROPN,NNP,compound,Xxxx,0.0
+Link Alternatif,Alternatif,2,1,10,Alternatif,PROPN,NNP,ROOT,Xxxxx,0.0
+XXXXXXXXXXXX,XXXXXXXXXXXX,1,1,12,xxxxxxxxxxxx,VERB,VB,ROOT,XXXX,0.0
+Doudna,Doudna,1,1,6,Doudna,PROPN,NNP,ROOT,Xxxxx,0.0
+Hoffmeister,Hoffmeister,1,1,11,hoffmeister,NOUN,NN,ROOT,Xxxxx,0.0
+Stevanovski,Stevanovski,1,1,11,Stevanovski,PROPN,NNP,ROOT,Xxxxx,0.0
+Blase,Blase,1,1,5,blase,NOUN,NN,ROOT,Xxxxx,0.0
+Bae,Bae,1,1,3,Bae,PROPN,NNP,ROOT,Xxx,0.0
+Ramadurgam,Ramadurgam,1,1,10,Ramadurgam,PROPN,NNP,ROOT,Xxxxx,0.0
+Saha,Saha,1,1,4,Saha,PROPN,NNP,ROOT,Xxxx,0.0
+Review,Review,1,1,6,review,VERB,VB,ROOT,Xxxxx,0.0
+Karnjanaprakorn,Karnjanaprakorn,1,1,15,karnjanaprakorn,NOUN,NN,ROOT,Xxxxx,0.0
+Khan,Khan,1,1,4,Khan,PROPN,NNP,ROOT,Xxxx,0.0
+Etienne,Etienne,1,1,7,Etienne,PROPN,NNP,ROOT,Xxxxx,0.0
+Godska,Godska,1,1,6,Godska,PROPN,NNP,ROOT,Xxxxx,0.0
+Wei,Wei,1,1,3,Wei,PROPN,NNP,ROOT,Xxx,0.0
+Zappacosta,Zappacosta,1,1,10,zappacosta,NOUN,NN,ROOT,Xxxxx,0.0
+Karuppiah,Karuppiah,1,1,9,Karuppiah,PROPN,NNP,ROOT,Xxxxx,0.0
+Vice,Vice,1,1,4,vice,NOUN,NN,ROOT,Xxxx,0.0
+Tomsky,Tomsky,1,1,6,tomsky,ADJ,JJ,ROOT,Xxxxx,0.0
+Naresh,Naresh,1,1,6,naresh,ADJ,JJ,ROOT,Xxxxx,0.0
+Mistry,Mistry,1,1,6,mistry,NOUN,NN,ROOT,Xxxxx,0.0
+Bose,Bose,1,1,4,bose,VERB,VB,ROOT,Xxxx,0.0
+Wahedna,Wahedna,1,1,7,Wahedna,PROPN,NNP,ROOT,Xxxxx,0.0
+Rogers,Rogers,1,1,6,roger,NOUN,NNS,ROOT,Xxxxx,0.0
+Tadepalli,Tadepalli,1,1,9,Tadepalli,PROPN,NNP,ROOT,Xxxxx,0.0
+Pourzaferani,Pourzaferani,1,1,12,Pourzaferani,NOUN,NNS,ROOT,Xxxxx,0.0
+Pettingell,Pettingell,1,1,10,Pettingell,PROPN,NNP,ROOT,Xxxxx,0.0
+Wilkinson,Wilkinson,1,1,9,wilkinson,NOUN,NN,ROOT,Xxxxx,0.0
+Lingham,Lingham,1,1,7,Lingham,PROPN,NNP,ROOT,Xxxxx,0.0
+Adris,Adris,1,1,5,adris,NOUN,NN,ROOT,Xxxxx,0.0
+Khosla,Khosla,1,1,6,khosla,ADJ,JJ,ROOT,Xxxxx,0.0
+Chandrasekaran,Chandrasekaran,1,1,14,chandrasekaran,NOUN,NN,ROOT,Xxxxx,0.0
+Cushing,Cushing,1,1,7,cushing,VERB,VB,ROOT,Xxxxx,0.0
+Rao,Rao,1,1,3,rao,NOUN,NN,ROOT,Xxx,0.0
+Klinger,Klinger,1,1,7,klinger,NOUN,NN,ROOT,Xxxxx,0.0
+Kode syair sdy,Kode,3,1,4,Kode,PROPN,NNP,compound,Xxxx,0.0
+Kode syair sdy,syair,3,1,5,syair,NOUN,NN,nsubj,xxxx,0.0
+Kode syair sdy,sdy,3,1,3,sdy,VERB,VBP,ROOT,xxx,0.0
+Tomek,Tomek,1,1,5,tomek,NOUN,NN,ROOT,Xxxxx,0.0
+Hockey,Hockey,1,1,6,hockey,NOUN,NN,ROOT,Xxxxx,0.0
+Parr,Parr,1,1,4,Parr,PROPN,NNP,ROOT,Xxxx,0.0
+Kaarmann,Kaarmann,1,1,8,Kaarmann,PROPN,NNP,ROOT,Xxxxx,0.0
+Astori,Astori,1,1,6,astori,NOUN,NN,ROOT,Xxxxx,0.0
+Sherjan,Sherjan,1,1,7,sherjan,VERB,VB,ROOT,Xxxxx,0.0
+Harsley,Harsley,1,1,7,harsley,NOUN,NN,ROOT,Xxxxx,0.0
+Burbank,Burbank,1,1,7,burbank,VERB,VB,ROOT,Xxxxx,0.0
+Gendelman,Gendelman,1,1,9,Gendelman,PROPN,NNP,ROOT,Xxxxx,0.0
+Malcolm,Malcolm,1,1,7,Malcolm,PROPN,NNP,ROOT,Xxxxx,0.0
+Marin,Marin,1,1,5,marin,NOUN,NN,ROOT,Xxxxx,0.0
+Bio,Bio,1,1,3,bio,ADJ,JJ,ROOT,Xxx,0.0
+Ulrich,Ulrich,1,1,6,Ulrich,PROPN,NNP,ROOT,Xxxxx,0.0
+Daftar sbobet88,Daftar,2,1,6,daftar,NOUN,NN,ROOT,Xxxxx,0.0
+Daftar sbobet88,sbobet88,2,1,8,sbobet88,NOUN,NN,punct,xxxxdd,0.0
+Green,Green,1,1,5,green,NOUN,NN,ROOT,Xxxxx,0.0
+Henkin,Henkin,1,1,6,Henkin,PROPN,NNP,ROOT,Xxxxx,0.0
+Guermonprez,Guermonprez,1,1,11,Guermonprez,PROPN,NNP,ROOT,Xxxxx,0.0
+Helgason,Helgason,1,1,8,Helgason,PROPN,NNP,ROOT,Xxxxx,0.0
+Lavsi,Lavsi,1,1,5,Lavsi,PROPN,NNP,ROOT,Xxxxx,0.0
+Martin,Martin,1,1,6,Martin,PROPN,NNP,ROOT,Xxxxx,0.0
+Bracey,Bracey,1,1,6,bracey,VERB,VB,ROOT,Xxxxx,0.0
+Camp,Camp,1,1,4,camp,NOUN,NN,ROOT,Xxxx,0.0
+Siemiatkowski,Siemiatkowski,1,1,13,siemiatkowski,VERB,VB,ROOT,Xxxxx,0.0
+Lessin,Lessin,1,1,6,lessin,NOUN,NN,ROOT,Xxxxx,0.0
+Banister,Banister,1,2,8,banister,NOUN,NN,ROOT,Xxxxx,0.0
+Moskow,Moskow,1,1,6,Moskow,PROPN,NNP,ROOT,Xxxxx,0.0
+Feldkamp,Feldkamp,1,1,8,feldkamp,VERB,VB,ROOT,Xxxxx,0.0
+Khurana,Khurana,1,1,7,Khurana,PROPN,NNP,ROOT,Xxxxx,0.0
+Shannan,Shannan,1,1,7,shannan,NOUN,NN,ROOT,Xxxxx,0.0
+Ohshiro,Ohshiro,1,1,7,Ohshiro,PROPN,NNP,ROOT,Xxxxx,0.0
+Jagannathan,Jagannathan,1,1,11,Jagannathan,PROPN,NNP,ROOT,Xxxxx,0.0
+Bean,Bean,1,1,4,bean,NOUN,NN,ROOT,Xxxx,0.0
+Veradittakit,Veradittakit,1,1,12,veradittakit,ADV,RB,ROOT,Xxxxx,0.0
+Weir,Weir,1,1,4,Weir,PROPN,NNP,ROOT,Xxxx,0.0
+Benet,Benet,1,1,5,Benet,PROPN,NNP,ROOT,Xxxxx,0.0
+Garikipati,Garikipati,1,1,10,Garikipati,NOUN,NNS,ROOT,Xxxxx,0.0
+Julia,Julia,1,1,5,Julia,NOUN,NNS,ROOT,Xxxxx,0.0
+Brin,Brin,1,1,4,Brin,PROPN,NNP,ROOT,Xxxx,0.0
+Turley,Turley,1,1,6,Turley,PROPN,NNP,ROOT,Xxxxx,0.0
+Stark,Stark,1,1,5,Stark,PROPN,NNP,ROOT,Xxxxx,0.0
+Limp,Limp,1,1,4,limp,VERB,VB,ROOT,Xxxx,0.0
+Oseary,Oseary,1,1,6,oseary,NOUN,NN,ROOT,Xxxxx,0.0
+Schwartz,Schwartz,1,1,8,schwartz,NOUN,NN,ROOT,Xxxxx,0.0
+Squibb,Squibb,1,1,6,squibb,NOUN,NN,ROOT,Xxxxx,0.0
+Sahu,Sahu,1,1,4,sahu,NOUN,NN,ROOT,Xxxx,0.0
+Shibley,Shibley,1,1,7,shibley,NOUN,NN,ROOT,Xxxxx,0.0
+Levchin,Levchin,1,1,7,Levchin,PROPN,NNP,ROOT,Xxxxx,0.0
+Fatkhullin,Fatkhullin,1,1,10,Fatkhullin,PROPN,NNP,ROOT,Xxxxx,0.0
+Guo,Guo,1,1,3,guo,VERB,VB,ROOT,Xxx,0.0
+Sagansky,Sagansky,1,1,8,sagansky,ADJ,JJ,ROOT,Xxxxx,0.0
+Samwer,Samwer,1,1,6,samwer,VERB,VB,ROOT,Xxxxx,0.0
+Nash,Nash,1,1,4,nash,NOUN,NN,ROOT,Xxxx,0.0
+Swartz,Swartz,1,1,6,swartz,NOUN,NN,ROOT,Xxxxx,0.0
+Bernardino,Bernardino,1,1,10,bernardino,NOUN,NN,ROOT,Xxxxx,0.0
+Pallotta,Pallotta,1,1,8,pallotta,NOUN,NN,ROOT,Xxxxx,0.0
+Mokady,Mokady,1,1,6,mokady,NOUN,NN,ROOT,Xxxxx,0.0
+Lustig,Lustig,1,1,6,lustig,NOUN,NN,ROOT,Xxxxx,0.0
+Caballero,Caballero,1,1,9,caballero,NOUN,NN,ROOT,Xxxxx,0.0
+Vollmann,Vollmann,1,1,8,Vollmann,PROPN,NNP,ROOT,Xxxxx,0.0
+Shapiro,Shapiro,1,1,7,Shapiro,PROPN,NNP,ROOT,Xxxxx,0.0
