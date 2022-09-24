@@ -3,7 +3,7 @@ from typing import Any
 from bs4 import BeautifulSoup
 import requests
 
-from Application.Config.Endpoints import EP_XE_RATE
+from Application.Config.Endpoints import URL_XE_RATE
 from Application.Config.Paths import PATH_CURRENCY_CODES
 from Application.Config.Paths import PATH_CURRENCY_RATES
 
@@ -50,7 +50,7 @@ def update_exchange_rates() -> None:
         src = code
         des = "USD"
 
-        endpoint = EP_XE_RATE.replace("{src}", src).replace("{des}", des)
+        endpoint = URL_XE_RATE.replace("{src}", src).replace("{des}", des)
         response = requests.get(endpoint)
         soup = BeautifulSoup(response.text, "lxml")
         element = soup.select_one("#__next > div:nth-child(2) > div.fluid-container__BaseFluidContainer-qoidzu-0.gJBOzk > section > div:nth-child(2) > div > main > form > div:nth-child(2) > div:nth-child(1) > p.result__BigRate-sc-1bsijpp-1.iGrAod")
