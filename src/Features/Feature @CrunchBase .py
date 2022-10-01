@@ -64,6 +64,9 @@ def convert_currency(value: Any, src: str = None, des: str = "USD") -> float:
             if "₩" in value: 
                 src = "KRW"
                 value = value.replace("₩", "")
+            if "₱" in value:
+                src = "PHP"
+                value = value.replace("₱", "")
             if "¥" in value and "CN¥" not in value: 
                 src = "JPY"
                 value = value.replace("¥", "")
@@ -76,6 +79,12 @@ def convert_currency(value: Any, src: str = None, des: str = "USD") -> float:
             if "CHF" in value: 
                 src = "CHF"
                 value = value.replace("CHF", "")
+            if "NAD" in value: 
+                src = "NAD"
+                value = value.replace("NAD", "")
+            if "SDG" in value: 
+                src = "SDG"
+                value = value.replace("SDG", "")
             if "SEK" in value: 
                 src = "SEK"
                 value = value.replace("SEK", "")
@@ -109,6 +118,18 @@ def convert_currency(value: Any, src: str = None, des: str = "USD") -> float:
             if "BDT" in value:
                 src = "BDT"
                 value = value.replace("BDT", "")
+            if "EGP" in value:
+                src = "EGP"
+                value = value.replace("EGP", "")
+            if "NOK" in value:
+                src = "NOK"
+                value = value.replace("NOK", "")
+            if "SAR" in value:
+                src = "SAR"
+                value = value.replace("SAR", "")
+            if "TRY" in value:
+                src = "SAR"
+                value = value.replace("TRY", "")
 
     rate = Converter.convert_currency(value, src, des)
     if src == None: src = "USD"
